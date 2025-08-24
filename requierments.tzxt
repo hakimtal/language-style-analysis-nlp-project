@@ -1,0 +1,17 @@
+# Core ML
+torch
+transformers
+huggingface-hub
+bitsandbytes
+
+# Progress bar
+tqdm
+
+# Google Colab / Gemini
+google-colab
+google-generativeai
+
+# Utilities
+requests
+pandas
+numpy
