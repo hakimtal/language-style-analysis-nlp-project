@@ -1,0 +1,5502 @@
+[
+    {
+        "question": "_Whenever the mood strikes her_, Angela takes a short walk around the block. In the sentence above, the underlined portion can best be described as",
+        "answers": {
+            "A": "an adjective clause",
+            "B": "a relative clause",
+            "C": "a subordinate clause",
+            "D": "an independent clause"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What were the first names of the early American explorers Lewisand Clark?",
+        "answers": {
+            "A": "Morgan and Mason",
+            "B": "Meriwether and William",
+            "C": "Cabot and Joseph",
+            "D": "Meredith and George"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A knish is traditionally stuffed with what filling?",
+        "answers": {
+            "A": "potato",
+            "B": "creamed corn",
+            "C": "lemon custard",
+            "D": "raspberry jelly"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What sport is featured in the 1996 movie 'Kingpin'?",
+        "answers": {
+            "A": "wrestling",
+            "B": "golf",
+            "C": "chess",
+            "D": "bowling"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following requires the use of at least two needles?",
+        "answers": {
+            "A": "macrame",
+            "B": "braiding",
+            "C": "crocheting",
+            "D": "hand knitting"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "The common term for someone who has difficulty seeing objects in the distance is what?",
+        "answers": {
+            "A": "farsighted",
+            "B": "nearsighted",
+            "C": "hindsighted",
+            "D": "hypermetropic"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "The primary purpose of antitrust laws is to",
+        "answers": {
+            "A": "help businesses that are in financial trouble",
+            "B": "encourage business investment",
+            "C": "prevent business behavior that hampers competition",
+            "D": "establish trust between government and businesses"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Who originally proposed the idea of daylight-saving time?",
+        "answers": {
+            "A": "Benjamin Franklin",
+            "B": "Henry David Thoreau",
+            "C": "Galileo",
+            "D": "Albert Einstein"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the most likely impact of an increase in interest rates?",
+        "answers": {
+            "A": "Investment levels diminish",
+            "B": "Employment increases",
+            "C": "The value of the U.S. dollar increases",
+            "D": "Mortgage rates decline"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In a holistic evaluation of student essays, evaluations are made on the basis of the",
+        "answers": {
+            "A": "number and variety of errors made by each student",
+            "B": "average sentence length and the complexity demonstrated in each essay",
+            "C": "ability of each student to communicate in a variety of discourse modes",
+            "D": "overall quality of each student's essay in relation to the topic"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "When cool air flows from a high mountain region to a region of lower elevation, the air will",
+        "answers": {
+            "A": "increase in moisture content",
+            "B": "condense, forming large amounts of dew",
+            "C": "undergo adiabatic warming",
+            "D": "undergo adiabatic cooling"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A triad on a color wheel can be described as",
+        "answers": {
+            "A": "three analogous colors",
+            "B": "three colors equally spaced apart",
+            "C": "three colors of equal value",
+            "D": "a complementary set"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "During President Dwight Eisenhower's administration in the 1950s, the federal government promoted significant changes in transportation in the United States by",
+        "answers": {
+            "A": "establishing generous subsidies for urban mass transit",
+            "B": "sponsoring research to develop less polluting automobiles",
+            "C": "funding the construction of the interstate highway system",
+            "D": "funding the establishment of a national railroad passenger system"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Where is the Louvre museum?",
+        "answers": {
+            "A": "Paris",
+            "B": "Lyon",
+            "C": "Geneva",
+            "D": "Vichy"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A farmer buys a new tractor for $40,000 and expects to use it for 20 years, after which the tractor will have a salvage value of $10,000. What is the straight-line depreciation that can be taken for the first year of ownership?",
+        "answers": {
+            "A": "1500",
+            "B": "1667",
+            "C": "2000",
+            "D": "2250"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the boys on the TV show 'My Three Sons' is adopted?",
+        "answers": {
+            "A": "Mike",
+            "B": "Ernie",
+            "C": "Chip",
+            "D": "Robbie"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A student comes across the unfamiliar words \"intercontinental,\" \"interglacial,\" \"interface,\" and \"intercept\" in his reading. The student can use his knowledge of affixes to understand that all of the words share which meaning?",
+        "answers": {
+            "A": "between; among",
+            "B": "not; opposite of",
+            "C": "earth; environment",
+            "D": "under; too little"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these rivers flows\"through France?",
+        "answers": {
+            "A": "Volga",
+            "B": "Seine",
+            "C": "Mekong",
+            "D": "Allegheny"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "People who believe their political views are important, that government will respect these views, and that their views can influence political affairs are said to have a strong sense of",
+        "answers": {
+            "A": "political partisanship",
+            "B": "political alienation",
+            "C": "political allegiance",
+            "D": "political efficacy"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A passage from Zora Neale Hurston's Their Eyes Were Watching God is as follows. The people all saw her come because it was sundown. The sun was gone, but he had left his footprints in the sky. It was the time for sitting on porches beside the road. It was the time to hear things and talk. These sitters had been tongueless, earless, eyeless conveniences all day long. Mules and other brutes had occupied their skins. But now, the sun and the bossman were gone, so the skins felt powerful and human. They became lords of sounds and lesser things. They passed nations through their mouths. They sat in judgment. Zora Neale Hurston is associated with which of the following literary movements?",
+        "answers": {
+            "A": "New England Puritanism",
+            "B": "Transcendentalism",
+            "C": "Naturalism",
+            "D": "Harlem Renaissance"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following terms refers to Archaic Greek statues whose poses\u201a\u00c4\u00eerigidly frontal with clenched fists\u201a\u00c4\u00eerecall the stance of ancient Egyptian statues?",
+        "answers": {
+            "A": "Caryatids",
+            "B": "Telamones",
+            "C": "Discoboloi",
+            "D": "Kouroi"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What disease causes a buildup of fluid pressure in the eyeball and damages the optic nerve at the back of the eye?",
+        "answers": {
+            "A": "astigmatism",
+            "B": "cataract",
+            "C": "glaucoma",
+            "D": "retinitis"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following is the best description of traditional phonics instruction?",
+        "answers": {
+            "A": "Students study lists of high-frequency words in order to increase reading speed and comprehension.",
+            "B": "Students are taught individual letter sounds first, followed by letter combination sounds and the rules of putting these combinations together to make words.",
+            "C": "Students are immersed in written language, and encouraged to decode entire words using context clues.",
+            "D": "Students analyze patterns of organization and syntax as a way of learning to recognize common structures."
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What kind of item is a ginsu?",
+        "answers": {
+            "A": "radio",
+            "B": "knife",
+            "C": "toothbrush",
+            "D": "martial arts weapon"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In cooking the term 'au gratin' is sometimes used to describe a dish with what topping?",
+        "answers": {
+            "A": "cheese",
+            "B": "fruit",
+            "C": "gravy",
+            "D": "whipped cream"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "The Burgess Shale is a rock formation in Canada that has a large number of fossils from the Cambrian period preserved in exquisite detail. Many primitive members of modern phyla, including arthropods, mollusks, and chordates, can be found among the fossils exposed in this region. Based on these fossils, it can be concluded that most of the modern groups of animal life first appeared roughly",
+        "answers": {
+            "A": "3 billion years ago",
+            "B": "540 million years ago",
+            "C": "65 million years ago",
+            "D": "200,000 years ago"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following was a significant reason for the electoral success of Franklin Roosevelt's New Deal coalition during the 1930s?",
+        "answers": {
+            "A": "A major shift of African American voters from the Republican to the Democratic Party",
+            "B": "A major shift of urban voters in Northern states from the Republican to the Democratic Party",
+            "C": "A focus on a bipartisan approach to major social and economic legislation",
+            "D": "A focus on mobilizing young voters"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "The first sound recording to be made and reproduced was a recitation of what nursery rhyme?",
+        "answers": {
+            "A": "Humpty Dumpty'",
+            "B": "Mary Had a Little Lamb'",
+            "C": "Jack Be Nimble'",
+            "D": "Home Sweet Home'"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Where would you typically find a bailiff?",
+        "answers": {
+            "A": "grocery store",
+            "B": "courtroom",
+            "C": "football stadium",
+            "D": "doctor's office"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In which century was the greatest number of chemical elements discovered?",
+        "answers": {
+            "A": "17th",
+            "B": "18th",
+            "C": "19th",
+            "D": "20th"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In what US city can you find the Basketball Hall of Fame?",
+        "answers": {
+            "A": "Canton Ohio",
+            "B": "Cooperstown New York",
+            "C": "Springfield Massachusetts",
+            "D": "Lawrence Kansas"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What animal represents the year 2000 on the Chinese calendar?",
+        "answers": {
+            "A": "dragon",
+            "B": "rabbit",
+            "C": "tiger",
+            "D": "monkey"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Soil structure refers to which of the following?",
+        "answers": {
+            "A": "Arrangement of soil particles",
+            "B": "Proportion of sand, silt, and clay",
+            "C": "Organic composition",
+            "D": "Profile depth"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Ada Lovelace is credited with being the first person to have made what?",
+        "answers": {
+            "A": "a computer program",
+            "B": "a souffle",
+            "C": "a brassiere",
+            "D": "a mystery novel"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A passage from Zora Neale Hurston's Their Eyes Were Watching God is as follows. The people all saw her come because it was sundown. The sun was gone, but he had left his footprints in the sky. It was the time for sitting on porches beside the road. It was the time to hear things and talk. These sitters had been tongueless, earless, eyeless conveniences all day long. Mules and other brutes had occupied their skins. But now, the sun and the bossman were gone, so the skins felt powerful and human. They became lords of sounds and lesser things. They passed nations through their mouths. They sat in judgment. The description of the sun in the second sentence contains which of the following literary devices?",
+        "answers": {
+            "A": "Foreshadowing",
+            "B": "Irony",
+            "C": "Flashback",
+            "D": "Personification"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A student is standing in front of the class delivering a presentation. Some students in the back of the room note that they are having trouble hearing what the presenter is saying. Which of the following suggestions to the presenter would best address this problem?",
+        "answers": {
+            "A": "Engage your audience by making eye contact with people in the back of the room",
+            "B": "Entertain your audience with exaggerated body language",
+            "C": "Emphasize your main points by reading them directly from a paper",
+            "D": "Project your voice by relaxing the rib cage and maintaining good posture"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following beverages is brewed from the leaves of a plant?",
+        "answers": {
+            "A": "tea",
+            "B": "coffee",
+            "C": "ginger ale",
+            "D": "wine"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the largest moon in the Solar System?",
+        "answers": {
+            "A": "Ganymede",
+            "B": "The Earth's Moon",
+            "C": "Pluto",
+            "D": "Europa"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following groups was converted to Christianity in the tenth century AD by missionaries from the Byzantine Empire?",
+        "answers": {
+            "A": "Franks",
+            "B": "Visigoths",
+            "C": "Russians",
+            "D": "Anglo-Saxons"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is New Mexico's nickname?",
+        "answers": {
+            "A": "The Desert State'",
+            "B": "Gateway to Paradise'",
+            "C": "Land of Enchantment'",
+            "D": "The Garden State'"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "The Apple iMac computer is available in all of the following colors except which?",
+        "answers": {
+            "A": "Tangerine",
+            "B": "Strawberry",
+            "C": "Kiwi",
+            "D": "Grape"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "President Abraham Lincoln's Emancipation Proclamation declared free only those slaves who",
+        "answers": {
+            "A": "were living in the areas still in rebellion",
+            "B": "were serving in the Union armies",
+            "C": "were living in the border states",
+            "D": "had escaped to Northern states"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these television series was not set in the United States?",
+        "answers": {
+            "A": "Picket Fences'",
+            "B": "M*A*S*H'",
+            "C": "Northern Exposure'",
+            "D": "The Paper Chase'"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In what decade did Israel become an independent state?",
+        "answers": {
+            "A": "1920s",
+            "B": "1940s",
+            "C": "1950s",
+            "D": "1960s"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following is a way in which Congress can influence the federal bureaucracy?",
+        "answers": {
+            "A": "Increasing or decreasing departmental salaries",
+            "B": "Appropriating funds",
+            "C": "Appointing agency heads",
+            "D": "Dismissing cabinet secretaries"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the normal playback speed of a 12'' long-playing record?",
+        "answers": {
+            "A": "12 1/2 rpm",
+            "B": "33 1/3 rpm",
+            "C": "45 rpm",
+            "D": "100 rpm"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Carmen spends her entire weekly income on two goods: X and Y. At her current consumption level of the two goods, the marginal utility of the last dollar spent on good X is 5 and the marginal utility of the last dollar she spent on good Y is 10. To maximize her utility, Carmen should",
+        "answers": {
+            "A": "maintain her current consumption level of the two goods",
+            "B": "buy fewer units of X and more units of Y",
+            "C": "buy fewer units of Y and more units of X",
+            "D": "buy fewer units of both X and Y"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these is not a traditional Greek dish?",
+        "answers": {
+            "A": "sukiyaki",
+            "B": "souvlaki",
+            "C": "moussaka",
+            "D": "finikia"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the technical term for someone who studies fish?",
+        "answers": {
+            "A": "entomologist",
+            "B": "ichthyologist",
+            "C": "marinologist",
+            "D": "herpetologist"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which character on the TV show 'Friends' is a chef?",
+        "answers": {
+            "A": "Joey",
+            "B": "Monica",
+            "C": "Ross",
+            "D": "Rachel"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "People are supposed to drive on the left-hand side of the road in which country?",
+        "answers": {
+            "A": "France",
+            "B": "Italy",
+            "C": "England",
+            "D": "Germany"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "How do you express 3/4 as a decimal?",
+        "answers": {
+            "A": "0.25",
+            "B": "0.5",
+            "C": "0.75",
+            "D": "0.9"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these companies is not an online stock brokerage?",
+        "answers": {
+            "A": "E*Trade",
+            "B": "EDigital",
+            "C": "Datek Online",
+            "D": "DLJ Direct"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "On what continent can you find tigers in the wild?",
+        "answers": {
+            "A": "Africa",
+            "B": "Asia",
+            "C": "Europe",
+            "D": "South America"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following most likely indicates the presence of water in the hydraulic system in a piece of farm machinery?",
+        "answers": {
+            "A": "A grayish, milky fluid",
+            "B": "Excessive fluid use",
+            "C": "Excessive thinning of the fluid",
+            "D": "A noisy relief valve"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "At what age can someone first attend an R-rated movie without an accompanying adult?",
+        "answers": {
+            "A": "15",
+            "B": "17",
+            "C": "18",
+            "D": "21"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the loudest animal on earth?",
+        "answers": {
+            "A": "African elephant",
+            "B": "sperm whale",
+            "C": "blue whale",
+            "D": "Indian elephant"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these words means 'yes'-in French?",
+        "answers": {
+            "A": "qui",
+            "B": "oui",
+            "C": "ja",
+            "D": "okey-dokey"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What substance was used for blood in the famous shower scene from the movie 'Psycho'?",
+        "answers": {
+            "A": "tomato juice",
+            "B": "red wine",
+            "C": "chocolate syrup",
+            "D": "ketchup"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is called a 'lorry' in Britain?",
+        "answers": {
+            "A": "a toaster",
+            "B": "a truck",
+            "C": "a babysitter",
+            "D": "an elevator"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following statements accurately describes a JPEG compressed digital photograph?",
+        "answers": {
+            "A": "The JPEG format is used only for color photos.",
+            "B": "A JPEG compression alters the proportions of the original image by rearranging data.",
+            "C": "A JPEG compression sharpens the details in an image.",
+            "D": "The JPEG format compresses file size by selectively discarding data."
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the birthstone for the month of January?",
+        "answers": {
+            "A": "topaz",
+            "B": "garnet",
+            "C": "opal",
+            "D": "diamond"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the chemical process wherein a solid is turned to a liquid via the application of heat?",
+        "answers": {
+            "A": "distillation",
+            "B": "photosynthesis",
+            "C": "freezing",
+            "D": "melting"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "The primary purpose of a Supervised Agricultural Experience ( SAE ) program is to",
+        "answers": {
+            "A": "provide a basis for students to apply for and win proficiency awards",
+            "B": "provide students with an income to be used to learn money management skills",
+            "C": "give students a chance to earn enough money to qualify for local, state, and national FFA degrees",
+            "D": "allow students to apply skills learned in the classroom and learn new skills in a specialized area"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "According to a Yale University study what smell is the most recognizable to American adults?",
+        "answers": {
+            "A": "tuna",
+            "B": "laundry",
+            "C": "popcorn",
+            "D": "coffee"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these is a type of a artwork consisting of pieces of wood inlaid in geometric patterns?",
+        "answers": {
+            "A": "marquetry",
+            "B": "parquetry",
+            "C": "harquetry",
+            "D": "sharquetry"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In what sport do athletes compete for the Walker Cup?",
+        "answers": {
+            "A": "cricket",
+            "B": "tennis",
+            "C": "squash",
+            "D": "golf"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "If you ask for 'gai' at a Thai restaurant what will you get?",
+        "answers": {
+            "A": "shrimp",
+            "B": "chicken",
+            "C": "beef",
+            "D": "pork"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "How much does Peanuts character Lucy charge for her psychiatric advice?",
+        "answers": {
+            "A": "5 cents",
+            "B": "10 cents",
+            "C": "75 cents",
+            "D": "$125"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "How many states were in the Confederate States of America?",
+        "answers": {
+            "A": "11",
+            "B": "13",
+            "C": "16",
+            "D": "22"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In computer terminology what does the acronym 'ISP' stand for?",
+        "answers": {
+            "A": "Individual Site Privacy",
+            "B": "Investment Stability Plan",
+            "C": "Internal Security Position",
+            "D": "Internet Service Provider"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A passage Jane Eyre is as follows. This was all the account I got from Mrs. Fairfax of her employer and mine. There are people who seem to have no notion of sketching a character, or observing and describing salient points, either in persons or things: the good lady evidently belonged to this class; my queries puzzled, but did not draw her out. Mr. Rochester was Mr. Rochester in her eyes, a gentleman, a landed proprietor\u201a\u00c4\u00ecnothing more: she inquired and searched no further, and evidently wondered at my wish to gain a more definite notion of his identity. Mrs. Fairfax differs from the speaker in that Mrs. Fairfax",
+        "answers": {
+            "A": "has more interest in the complexities of people's personalities",
+            "B": "judges people by their social station in life",
+            "C": "is more willing to take people at face value",
+            "D": "has a more positive opinion of Mr. Rochester"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In a game with no wild cards what is the highest possible poker hand?",
+        "answers": {
+            "A": "straight flush",
+            "B": "royal flush",
+            "C": "full house",
+            "D": "four of a kind"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What French city is home to a famous international film festival each spring?",
+        "answers": {
+            "A": "Cannes",
+            "B": "Marseille",
+            "C": "Dijon",
+            "D": "Lyon"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "When Corporation X pays out $300,000 in salaries, which of the following is the impact on assets and liabilities?",
+        "answers": {
+            "A": "Salary expense is increased by $300,000; cash is increased by $300,000",
+            "B": "Salary expense is increased by $300,000; cash is decreased by $300,000",
+            "C": "Salary expense is decreased by $300,000; cash is increased by $300,000",
+            "D": "Salary expense is decreased by $300,000; cash is decreased by $300,000"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "As seen from Earth, the Moon goes through a series of phases due to changes in which of the following?",
+        "answers": {
+            "A": "The amount of the Moon's surface that is in Earth's shadow",
+            "B": "The amount of the illuminated side of the Moon that can be seen from Earth",
+            "C": "The part of the Moon that faces Earth as the Moon rotates on its axis",
+            "D": "The tilt of the Moon on its axis"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Astronaut John Glenn served as a pilot in what branch of the military?",
+        "answers": {
+            "A": "Army",
+            "B": "Air Force",
+            "C": "Marines",
+            "D": "Navy"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "The ability to do which of the following is a characteristic of all living organisms?",
+        "answers": {
+            "A": "Move from place to place",
+            "B": "Detect and respond to changes in the environment",
+            "C": "Produce sugars by photosynthesis",
+            "D": "Produce heat to maintain a constant internal temperature"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In preparation for a writing unit on short stories, a teacher presents students with several examples of short stories and works with them to identify defining characteristics of the genre. Which of the following best describes this instructional strategy?",
+        "answers": {
+            "A": "Conferencing",
+            "B": "Discipline-based inquiry",
+            "C": "Self-Regulated Strategy Development",
+            "D": "Introduction-Body-Conclusion strategy"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Who kills Tony at the end of the film 'West Side Story'?",
+        "answers": {
+            "A": "Riff",
+            "B": "Chino",
+            "C": "Bernardo",
+            "D": "He kills himself"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A first-grade teacher is planning activities to introduce students to nonstandard units of measurement. Which of the following activities will best meet the teacher's goal?",
+        "answers": {
+            "A": "Asking students to stand in a line, from the shortest person to the tallest",
+            "B": "Asking students to use pencils to measure the length of a desk",
+            "C": "Asking students to determine how many one-liter bottles of water can fill a onegallon container",
+            "D": "Asking students to use a measuring tape to measure the length of the classroom door"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these foods could contain small amounts of naturally occurring opium?",
+        "answers": {
+            "A": "chocolate truffles",
+            "B": "poppy seed bagels",
+            "C": "carbonated soda",
+            "D": "sesame chicken"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following stages is the first step in the writing cycle?",
+        "answers": {
+            "A": "Outlining",
+            "B": "Brainstorming",
+            "C": "Publishing",
+            "D": "Editing"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In the film 'Easy Rider' what emblem is on the back of Peter Fonda's leather jacket?",
+        "answers": {
+            "A": "peace symbol",
+            "B": "American flag",
+            "C": "two white doves",
+            "D": "Harley-Davidson logo"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What city is known as 'the rubber capital of the world'?",
+        "answers": {
+            "A": "Omaha Nebraska",
+            "B": "Rockford Illinois",
+            "C": "Grand Rapids Michigan",
+            "D": "Akron Ohio"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What company makes Oreo cookies?",
+        "answers": {
+            "A": "General Mills",
+            "B": "Nabisco",
+            "C": "Keebler",
+            "D": "Kraft"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the art of elegant handwriting called?",
+        "answers": {
+            "A": "calligraphy",
+            "B": "engraving",
+            "C": "decoupage",
+            "D": "lithography"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In Greek mythology what is the name of Zeus' father?",
+        "answers": {
+            "A": "Apollo",
+            "B": "Cronus",
+            "C": "Prometheus",
+            "D": "Hercules"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In the sci-fi movie 'Fantastic Voyage' where do the voyagers travel?",
+        "answers": {
+            "A": "through outer space",
+            "B": "through a human body",
+            "C": "to the ocean floor",
+            "D": "to the center of the earth"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "At what speed will a sedan flip over when it slides sideways into a curb?",
+        "answers": {
+            "A": "10 mph",
+            "B": "20 mph",
+            "C": "40 mph",
+            "D": "80 mpg"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What animal is considered sacred in India?",
+        "answers": {
+            "A": "Sheep",
+            "B": "Cow",
+            "C": "Chicken",
+            "D": "Dog"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following breakfast cereals is shaped like the letter O?",
+        "answers": {
+            "A": "Life Corn",
+            "B": "Chex",
+            "C": "Cheerios",
+            "D": "Raisin Bran"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What was the name of Huey Lewis band?",
+        "answers": {
+            "A": "The News",
+            "B": "The Attractions",
+            "C": "The Silver Bullet Band",
+            "D": "Louie and Dewey"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the last letter of the Greek alphabet?",
+        "answers": {
+            "A": "omicron",
+            "B": "omega",
+            "C": "upsilon",
+            "D": "zeta"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Grammar may be taught in two main ways\u201a\u00c4\u00ee by experience with discourse that entails the varieties of word forms and sentence construction, or by analyzing dummy sentences and diagramming parts. Plentiful discursive experience is what really teaches grammar, for it exercises judgment and provides language intake, whereas formal grammar study has been proved irrelevant. Politics more than pedagogy retards the changing of the curriculum to fit this truth. The author of the passage above argues that",
+        "answers": {
+            "A": "using language in a wide variety of situations improves grammar",
+            "B": "good judgment can be improved by studying the rules of formal grammar",
+            "C": "analyzing and diagramming provide exercise in logical thinking",
+            "D": "formal study of grammar improves writing ability"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following is a type of bacterium that produces a toxin in food under anaerobic conditions?",
+        "answers": {
+            "A": "Clostridium botulinum",
+            "B": "Clostridium tetani",
+            "C": "Mycobacterium bovis",
+            "D": "Staphylococcus aureus"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Who was on the $500 bill?",
+        "answers": {
+            "A": "Calvin Coolidge",
+            "B": "Andrew Jackson",
+            "C": "Aaron Burr",
+            "D": "William McKinley"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "An airplane's black box is usually what color?",
+        "answers": {
+            "A": "black",
+            "B": "white",
+            "C": "orange",
+            "D": "purple"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which value is the most reasonable estimate of the volume of air an adult breathes in one day?",
+        "answers": {
+            "A": "100 liters",
+            "B": "1,000 liters",
+            "C": "10,000 liters",
+            "D": "100,000 liters"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "How much does our highway gas mileage decrease in a heavy rain?",
+        "answers": {
+            "A": "About 0.1%",
+            "B": "About 2%",
+            "C": "About 10%",
+            "D": "About 50%"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the capital of New Zealand?",
+        "answers": {
+            "A": "Sydney",
+            "B": "Wellington",
+            "C": "Auckland",
+            "D": "Melbourne"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following activities will be most effective in introducing kindergartners to the concept of how plants transport water?",
+        "answers": {
+            "A": "Demonstrating that a celery stalk can be peeled lengthwise but not crosswise",
+            "B": "Placing celery stalks in water colored with a dye and observing the results",
+            "C": "Collecting rainwater in a rain gauge and comparing the amount of rainfall to a plant's growth rate",
+            "D": "Planting bean seeds in paper cups, placing them on the windowsill, and watering them daily"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What native empire controlled Large areas of South African Territory during the 19th century?",
+        "answers": {
+            "A": "Hutu",
+            "B": "Zulu",
+            "C": "Aztec",
+            "D": "Masai"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the name of Raggedy Ann's doll brother?",
+        "answers": {
+            "A": "Red",
+            "B": "Freckles",
+            "C": "Randy",
+            "D": "Andy"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A passage from Zora Neale Hurston's Their Eyes Were Watching God is as follows. The people all saw her come because it was sundown. The sun was gone, but he had left his footprints in the sky. It was the time for sitting on porches beside the road. It was the time to hear things and talk. These sitters had been tongueless, earless, eyeless conveniences all day long. Mules and other brutes had occupied their skins. But now, the sun and the bossman were gone, so the skins felt powerful and human. They became lords of sounds and lesser things. They passed nations through their mouths. They sat in judgment. Which of the following is the best way of describing the last three sentences of the passage (\"They became . . . in judgment\") ?",
+        "answers": {
+            "A": "The sentences emphasize the weariness the sitters feel after a long day's work.",
+            "B": "The sentences are used to paint a picture of the way in which the sitters wish they spent their evenings.",
+            "C": "The sentences are a vivid way of describing the ease and authority the sitters feel during the evening.",
+            "D": "The sentences highlight the contrast between the feelings of the sitters and the feelings of the bossman."
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Where is Ghirardelli Square located?",
+        "answers": {
+            "A": "Milan",
+            "B": "Rome",
+            "C": "Washington DC",
+            "D": "San Francisco"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What kind of animal is a peregrine?",
+        "answers": {
+            "A": "moose",
+            "B": "cat",
+            "C": "bird",
+            "D": "fish"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A portrait that comically exaggerates a person's physical traits is called a what?",
+        "answers": {
+            "A": "Landscape",
+            "B": "Caricature",
+            "C": "Still life",
+            "D": "Impressionism"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "The first commercial radio station was located in what city?",
+        "answers": {
+            "A": "Chicago",
+            "B": "Austin",
+            "C": "Pittsburgh",
+            "D": "Cleveland"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "The legal basis for the escalation of United States involvement in the Vietnam War was the",
+        "answers": {
+            "A": "declaration of war by Congress",
+            "B": "passage of the Gulf of Tonkin Resolution by Congress",
+            "C": "United Nations resolution condemning the North Vietnamese invasion of South Vietnam",
+            "D": "mutual defense provisions of the North Atlantic Treaty Organization (NATO)"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is your astrological sign if you were born on Halloween?",
+        "answers": {
+            "A": "Scorpio",
+            "B": "Capricorn",
+            "C": "Libra",
+            "D": "Cancer"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the 7-Eleven company's trademarked name for its super-large sodas?",
+        "answers": {
+            "A": "Big Slurp",
+            "B": "Big Gulp",
+            "C": "Big Drink",
+            "D": "Big Sip"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What children's TV character is known as 'Da Niao' in China?",
+        "answers": {
+            "A": "Barney",
+            "B": "Big Bird",
+            "C": "Mickey Mouse",
+            "D": "Tinky Winky"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "The construction of a transportation network that included roads, canals, and steamboats that took shape in the United States in the early decades of the nineteenth century had which of the following effects in the years before the Civil War?",
+        "answers": {
+            "A": "It decreased the need for immigrant labor.",
+            "B": "It stimulated the development of a market revolution.",
+            "C": "It weakened the plantation system in the southern states.",
+            "D": "It transformed the United States into an international military power."
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following artists is an English landscape painter who created a poetic sense of changing atmospheric effects by using tiny applications of local color?",
+        "answers": {
+            "A": "John Constable",
+            "B": "William Morris",
+            "C": "William Hogarth",
+            "D": "Joshua Reynolds"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the capital of North Dakota?",
+        "answers": {
+            "A": "Bismarck",
+            "B": "Fargo",
+            "C": "Sioux Falls",
+            "D": "Pierre"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What company makes perfumes called 'Beautiful' and 'Pleasures'?",
+        "answers": {
+            "A": "Estee Lauder",
+            "B": "Ralph Lauren",
+            "C": "Elizabeth Arden",
+            "D": "Calvin Klein"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What color is cartoon character Marge Simpson's hair?",
+        "answers": {
+            "A": "yellow",
+            "B": "purple",
+            "C": "blue",
+            "D": "brown"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What does the Latin phrase 'e pluribus unum' mean?",
+        "answers": {
+            "A": "What a crazy life",
+            "B": "In God we trust",
+            "C": "from many one",
+            "D": "for the greater good"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "According to the Bible Moses and Aaron had a sister named what?",
+        "answers": {
+            "A": "Jochebed",
+            "B": "Ruth",
+            "C": "Leah",
+            "D": "Miriam"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Operant conditioning would be most useful for",
+        "answers": {
+            "A": "determining whether a toddler is securely attached",
+            "B": "increasing on-task behavior in the classroom",
+            "C": "measuring a dependent variable",
+            "D": "preventing anterograde amnesia"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What's unique about a skeleton key?",
+        "answers": {
+            "A": "It opens many locks",
+            "B": "It's made of bone",
+            "C": "It's extremely old",
+            "D": "It hangs in a closet"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In British currency how many pence make a pound?",
+        "answers": {
+            "A": "10",
+            "B": "100",
+            "C": "500",
+            "D": "1000"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What type of substance is 'terra-cotta'?",
+        "answers": {
+            "A": "metal",
+            "B": "ceramic",
+            "C": "wood",
+            "D": "glass"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following structures is most susceptible to damage by acid precipitation?",
+        "answers": {
+            "A": "A monument made of granite",
+            "B": "A roof made of slate",
+            "C": "A tombstone made of marble",
+            "D": "A statue made of gabbro"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following responsibilities of a human resources manager would have the most negative impact on a company if performed incorrectly?",
+        "answers": {
+            "A": "Recruiting and hiring new employees",
+            "B": "Providing professional development opportunities for employees",
+            "C": "Ensuring company compliance with laws and regulations",
+            "D": "Filing employee compensation and benefits forms"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following is matched with its correct function?",
+        "answers": {
+            "A": "Ovule ..... production of pollen",
+            "B": "Vascular cambium ..... formation of apical meristem",
+            "C": "Xylem ..... transport of sugars",
+            "D": "Guard cell ..... regulation of transpiration rate"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A second-year college student is usually called a what?",
+        "answers": {
+            "A": "sophomore",
+            "B": "senior",
+            "C": "freshman",
+            "D": "junior"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Cheese is a necessary ingredient in which of these dishes?",
+        "answers": {
+            "A": "sushi",
+            "B": "french fries",
+            "C": "veal parmigiano",
+            "D": "chicken pot pie"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these famous baseball figures was once acquitted at court-martial for insubordination?",
+        "answers": {
+            "A": "Abner Doubleday",
+            "B": "Ty Cobb",
+            "C": "Jackie Robinson",
+            "D": "Billy Martin"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What was the average life expectancy of white males born in the U.S. just before the Civil War?",
+        "answers": {
+            "A": "40 years",
+            "B": "50 years",
+            "C": "60 years",
+            "D": "70 years"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Each year in pro baseball the player voted as the best fielder at his position wins what?",
+        "answers": {
+            "A": "a brand new car",
+            "B": "the Gold Glove",
+            "C": "the Silver Bat",
+            "D": "the Brass Baseball"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the traditional 20th wedding anniversary gift?",
+        "answers": {
+            "A": "paper",
+            "B": "leather",
+            "C": "china",
+            "D": "silver"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following steps should be taken first to effectively present new information to coworkers?",
+        "answers": {
+            "A": "Analyzing the audience",
+            "B": "Determining the objective",
+            "C": "Creating three to five key messages",
+            "D": "Choosing a communication tool"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What's the third letter of the Greek alphabet?",
+        "answers": {
+            "A": "delta",
+            "B": "gamma",
+            "C": "phi",
+            "D": "theta"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Gerry Adams is the president of what organization?",
+        "answers": {
+            "A": "Greenpeace",
+            "B": "NASCAR",
+            "C": "Sinn Fein",
+            "D": "PLO"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What was the acronym for the first computer, made back in 1946?",
+        "answers": {
+            "A": "ENIAC",
+            "B": "CASD",
+            "C": "CNAC",
+            "D": "CSREN"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which company holds an annual self-named 'Bake-Off'?",
+        "answers": {
+            "A": "Betty Crocker",
+            "B": "Duncan Hines",
+            "C": "Pillsbury",
+            "D": "Keebler"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Who were the Know-Nothings?",
+        "answers": {
+            "A": "a '60's comedy troupe",
+            "B": "computer designers",
+            "C": "a political party",
+            "D": "a spy ring"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Simple accompaniments, light texture and smooth melodies are qualities of",
+        "answers": {
+            "A": "galant style",
+            "B": "partitas",
+            "C": "Sturm und Drang",
+            "D": "serenade"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "For a man and woman on a date 'dutch treat' means what?",
+        "answers": {
+            "A": "The man pays",
+            "B": "The woman pays",
+            "C": "The Dutch pay",
+            "D": "Each pays their own way"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In what city would you find people studying art and design at the Fashion Institute of Technology?",
+        "answers": {
+            "A": "Paris",
+            "B": "New York",
+            "C": "Los Angeles",
+            "D": "Melbourne"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What day of the week is sometimes called 'hump day'?",
+        "answers": {
+            "A": "Wednesday",
+            "B": "Thursday",
+            "C": "Friday",
+            "D": "Saturday"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "During what war did Francis Scott Key write the words to 'The Star-Spangled Banner'?",
+        "answers": {
+            "A": "American Revolution",
+            "B": "War of 1812",
+            "C": "Civil War",
+            "D": "World War I"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the medical term for a doctor's identification of a disease?",
+        "answers": {
+            "A": "Hypnosis",
+            "B": "Prognosis",
+            "C": "Trichinosis",
+            "D": "Diagnosis"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "How much does it cost to air condition all American automobiles for a year (as of 2018)?",
+        "answers": {
+            "A": "$10m",
+            "B": "$100m",
+            "C": "$1 billion",
+            "D": "$10 billion"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What people ruled the Andes Mountains until they were conquered by the Spanish in 1532?",
+        "answers": {
+            "A": "Pueblo",
+            "B": "Aztec",
+            "C": "Inca",
+            "D": "Apache"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Students in a fourth-grade science class are learning about processes that change Earth's surface. Which of the following is the best example of an agent that gradually shapes Earth's surface by taking bits of rock, soil, and other substances away from their original locations and depositing them in other locations?",
+        "answers": {
+            "A": "Fire",
+            "B": "Lightning",
+            "C": "Water",
+            "D": "Sunlight"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "From 1971 to 1997 the Democratic Republic of Congo was known as what?",
+        "answers": {
+            "A": "Zaire",
+            "B": "Angola",
+            "C": "Rhodesia",
+            "D": "Belgian Congo"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What principle explains why cold food warms up and hot food cools off when stored at room temperature?",
+        "answers": {
+            "A": "entropy",
+            "B": "chemical equilibrium",
+            "C": "momentum",
+            "D": "relativity"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Who were the Chicago Seven?",
+        "answers": {
+            "A": "war protesters",
+            "B": "bluegrass musicians",
+            "C": "bank robbers",
+            "D": "mobsters"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A prekindergarten teacher uses a basket of red and yellow apples to reinforce concepts during a mathematics lesson. Which of the following tasks is best targeted at teaching students to compare quantities?",
+        "answers": {
+            "A": "Having students count all the apples in the basket",
+            "B": "Having students put one apple in the middle of the place mat on their desks",
+            "C": "Having students make a Venn diagram for the color of the apples",
+            "D": "Having students determine whether the numbers of red and yellow apples are equal"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "The term that best describes an artwork that incorporates theatrical elements such as body movement, audience participation, music, and projected images is",
+        "answers": {
+            "A": "mimesis",
+            "B": "installation art",
+            "C": "performance art",
+            "D": "digital collage"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "During which war did US troops fight the Battle of New Orleans?",
+        "answers": {
+            "A": "American Revolution",
+            "B": "Civil War",
+            "C": "Mexican War",
+            "D": "War of 1812"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which one of these is NOT a mineral?",
+        "answers": {
+            "A": "Quartz",
+            "B": "Lithium",
+            "C": "Diamond",
+            "D": "Calcite"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Phoebe Dione and Helene are moons of what planet?",
+        "answers": {
+            "A": "Jupiter",
+            "B": "Saturn",
+            "C": "Neptune",
+            "D": "Pluto"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What was the original name of the Apple Macintosh XL computer?",
+        "answers": {
+            "A": "Lisa 2",
+            "B": "Mac Daddy",
+            "C": "Granny Smith",
+            "D": "Orange XL"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In what forest did Robin Hood live?",
+        "answers": {
+            "A": "Black Forest",
+            "B": "Petrified Forest",
+            "C": "Nottingham Forest",
+            "D": "Sherwood Forest"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these sentences is written in the subjunctive?",
+        "answers": {
+            "A": "I am not your man",
+            "B": "I wish I were your man",
+            "C": "Wherefore art your man?",
+            "D": "Your man is where?"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In mobster lingo if you 'sing like a canary' what are you doing?",
+        "answers": {
+            "A": "impersonating Sinatra",
+            "B": "talking to the cops",
+            "C": "killing an enemy",
+            "D": "betting on horses"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What causes the disease toxoplasmosis?",
+        "answers": {
+            "A": "a bacterium",
+            "B": "a protozoan",
+            "C": "a virus",
+            "D": "a prion"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "When it first appeared on the Internet amazoncom sold only what?",
+        "answers": {
+            "A": "Books",
+            "B": "Compact discs",
+            "C": "Cars",
+            "D": "Clothes"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Among these elements which one has the highest atomic mass?",
+        "answers": {
+            "A": "Helium",
+            "B": "Sodium",
+            "C": "Uranium",
+            "D": "Copper"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Who was the first US president to resign from that office?",
+        "answers": {
+            "A": "Martin Van Buren",
+            "B": "Andrew Jackson",
+            "C": "Andrew Johnson",
+            "D": "Richard Nixon"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these is not a style of shoe?",
+        "answers": {
+            "A": "gingham",
+            "B": "brogan",
+            "C": "espadrille",
+            "D": "docksider"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these fashion designers was born in the United States?",
+        "answers": {
+            "A": "Laura Ashley",
+            "B": "Helmut Lang",
+            "C": "Donna Karan",
+            "D": "Christian Dior"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In the 1976 remake of the classic film 'KingKong' what New York landmark does the giant ape climb?",
+        "answers": {
+            "A": "Statue of Liberty",
+            "B": "Empire State Building",
+            "C": "World Trade Center",
+            "D": "Chrysler Building"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "How much angular momentum did Hurricane Florence have when it hit land?",
+        "answers": {
+            "A": "L = 10^16 kg * m^2 / s",
+            "B": "L = 10^19 kg * m^2 / s",
+            "C": "L = 10^22 kg * m^2 / s",
+            "D": "L = 10^25 kg * m^2 / s"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the approximate speed of light?",
+        "answers": {
+            "A": "165 miles per hour",
+            "B": "122000 miles per hour",
+            "C": "186000 miles per second",
+            "D": "293000 miles per second"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What pro wrestler grapples with Sylvester Stallone in the movie-'Rocky III'?",
+        "answers": {
+            "A": "Dolph Lundgren",
+            "B": "Hulk Hogan",
+            "C": "Andre the Giant",
+            "D": "The Iron Sheik"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these household pets should be vaccinated for parvovirus?",
+        "answers": {
+            "A": "hamster",
+            "B": "cat",
+            "C": "dog",
+            "D": "bird"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "The gasoline tank in a car holds 15 gallons when full. If there are 7 gallons of gasoline in the tank, how many gallons of gasoline are needed to fill the tank? Which of the following is most appropriate to use to correctly answer the question shown?",
+        "answers": {
+            "A": "Multiplication",
+            "B": "Subtraction",
+            "C": "Estimation",
+            "D": "Division"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these is not a city in the state of New York?",
+        "answers": {
+            "A": "Perskippity",
+            "B": "Kerhonkson",
+            "C": "Schenectady",
+            "D": "Lackawanna"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these magazines does not focus on natural science?",
+        "answers": {
+            "A": "Tiger Beat",
+            "B": "Outside",
+            "C": "National Geographic",
+            "D": "Smithsonian"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Modern computer microchips are primarily composed of what element?",
+        "answers": {
+            "A": "Sodium",
+            "B": "Silicon",
+            "C": "Aluminum",
+            "D": "Silver"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following questions can a student ask to best determine whether an author is using the persuasive technique of pathos in a passage?",
+        "answers": {
+            "A": "Does the author use tone and style to convey authority on the subject to the audience?",
+            "B": "Does the author use credible and reliable sources to convince the audience of the argument?",
+            "C": "Does the author use facts and sound reasoning to substantiate claims made to the audience?",
+            "D": "Does the author use personal connections and stories to appeal to the audience's emotions?"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these foods is poisonous to dogs?",
+        "answers": {
+            "A": "peanut butter",
+            "B": "bananas",
+            "C": "chocolate",
+            "D": "olives"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the world\u201a\u00c4\u00f4s most venomous fish?",
+        "answers": {
+            "A": "Scorpion fish",
+            "B": "Lion fish",
+            "C": "Stonefish",
+            "D": "Toadfish"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In the 1992 animated film 'Aladdin' what device does the hero use to travel from place to place?",
+        "answers": {
+            "A": "talking car",
+            "B": "winged horse",
+            "C": "magic carpet",
+            "D": "hot air balloon"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "If the tax rate for a single person with $25,000 in taxable income is 24 percent, and the tax rate for a single person with $20,000 in taxable income is 20 percent, the tax rate over this income range is",
+        "answers": {
+            "A": "regressive",
+            "B": "progressive",
+            "C": "proportional",
+            "D": "revenue-neutral"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following is a true statement about the flow of energy in an ecosystem?",
+        "answers": {
+            "A": "Smaller organisms need less energy per gram of body weight than do larger organisms.",
+            "B": "Energy transfer between organisms normally involves conservation of heat energy.",
+            "C": "Energy flow between trophic levels is inefficient.",
+            "D": "Chemical energy is converted into radiant energy, which is then converted into chemical energy at the next trophic level."
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Backgammon is a how many player game?",
+        "answers": {
+            "A": "Two",
+            "B": "Three",
+            "C": "Four",
+            "D": "Six"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these sounds is commonly associated with owls?",
+        "answers": {
+            "A": "chirp",
+            "B": "bark",
+            "C": "growl",
+            "D": "hoot"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In the card game blackjack how much are a queen and a king worth-together?",
+        "answers": {
+            "A": "11",
+            "B": "15",
+            "C": "20",
+            "D": "21"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What rank entitles a general in the US Army to wear three stars?",
+        "answers": {
+            "A": "brigadier general",
+            "B": "corporal general",
+            "C": "lieutenant general",
+            "D": "major general"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In what country did Magic Johnson play professional basketball during the 1999 season?",
+        "answers": {
+            "A": "United States",
+            "B": "Sweden",
+            "C": "Israel",
+            "D": "Turkey"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A student in the process of solving a fabrication problem in the manufacturing laboratory asks the teacher what assembly procedures should be used. The teacher's best response would be to",
+        "answers": {
+            "A": "give an opinion as to the best assembly procedure for the particular problem",
+            "B": "suggest two or three possible assembly procedures and have the student select one",
+            "C": "place the responsibility completely on the student for making the judgment",
+            "D": "use leading questions to help the student review and analyze the relative merits of several assembly procedures"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "The atmospheric concentration of which of the following gases is most likely to be directly affected by widespread deforestation?",
+        "answers": {
+            "A": "Carbon dioxide",
+            "B": "Ozone",
+            "C": "Nitrous oxide",
+            "D": "Argon"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Who is the star of the TV show 'Everybody Loves Raymond'?",
+        "answers": {
+            "A": "Ray Liotta",
+            "B": "Ray Romano",
+            "C": "Ray Parker Jr",
+            "D": "Sugar Ray Leonard"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following actions is most important before removing the blade from a gas-powered lawn mower?",
+        "answers": {
+            "A": "Adjusting the wheels to their highest level",
+            "B": "Removing the spark plug",
+            "C": "Emptying the gas tank",
+            "D": "Removing the air filter"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these dishes is made from pig intestines?",
+        "answers": {
+            "A": "haggis",
+            "B": "chitlins",
+            "C": "grits",
+            "D": "chop suey"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following digital camera settings can be used to keep colors accurate under a variety of light conditions?",
+        "answers": {
+            "A": "White balance",
+            "B": "Aperture",
+            "C": "ISO speed",
+            "D": "Shutter speed"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What car company once manufactured and sold the 'Datsun' line of automobiles?",
+        "answers": {
+            "A": "Nissan",
+            "B": "Mazda",
+            "C": "Toyota",
+            "D": "Daihatsu"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following charts is used in advanced manufacturing to record results data for a preproduction process?",
+        "answers": {
+            "A": "R chart",
+            "B": "Run chart",
+            "C": "X-bar chart",
+            "D": "Pareto chart"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Who was the longest reigning monarch in French history?",
+        "answers": {
+            "A": "Louis XIII",
+            "B": "Louis XIV",
+            "C": "Louis XV",
+            "D": "Louis XVI"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In an adult human how long is the large intestine?",
+        "answers": {
+            "A": "one foot",
+            "B": "five feet",
+            "C": "twelve feet",
+            "D": "twenty feet"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following is the highest level taxonomic rank?",
+        "answers": {
+            "A": "Domain",
+            "B": "Class",
+            "C": "Phylum",
+            "D": "Kingdom"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In weaving, the vertical and horizontal threads in a loom are called the",
+        "answers": {
+            "A": "bobbin and quill",
+            "B": "shuttle and paddle",
+            "C": "ply and twist",
+            "D": "warp and weft"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "If a piece of music is in 'common time' how many quarter notes are there per measure?",
+        "answers": {
+            "A": "one",
+            "B": "four",
+            "C": "five",
+            "D": "ten"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What disease does a carcinogen cause?",
+        "answers": {
+            "A": "cancer",
+            "B": "influenza",
+            "C": "emphysema",
+            "D": "heart disease"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the proper nautical use of an anchor?",
+        "answers": {
+            "A": "to catch large fish",
+            "B": "to calculate water depth",
+            "C": "to hold a ship in place",
+            "D": "to damage other boats"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Assume that the marginal propensity to consume increased from 0.75 in year 1 to 0.80 in year 2. Based on this information, which of the following is a correct conclusion?",
+        "answers": {
+            "A": "In year 1, a $100 billion increase in government spending would have increased real output by a maximum of $75 billion.",
+            "B": "From year 1 to year 2, the spending multiplier increased from 4 to 5.",
+            "C": "A given change in government spending would have had a more powerful effect in year 1 than in year 2.",
+            "D": "The marginal propensity to save increased from year 1 to year 2."
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following is most likely to result from a collision between a continental lithospheric plate and an oceanic lithospheric plate?",
+        "answers": {
+            "A": "A chain of coastal volcanic mountains",
+            "B": "A magnetic reversal",
+            "C": "A mid-oceanic ridge",
+            "D": "A transform fault"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the name of Howard Stern's female on-air sidekick?",
+        "answers": {
+            "A": "Allison Norris",
+            "B": "Jackie Reeses",
+            "C": "Jackie Martling",
+            "D": "Robin Quivers"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following prescribes standards for wages and overtime pay that affect most private and public employment?",
+        "answers": {
+            "A": "The Employee Retirement Income Security Act",
+            "B": "The American Recovery and Reinvestment Act",
+            "C": "The Fair Labor Standards Act",
+            "D": "The Federal Employees' Compensation Act"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these is not one of the 3 methods of heat transfer?",
+        "answers": {
+            "A": "Conduction",
+            "B": "Radiation",
+            "C": "Convection",
+            "D": "Induction"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is considered the proper way to address a duke?",
+        "answers": {
+            "A": "Your Majesty'",
+            "B": "Your Eminence'",
+            "C": "Your Excellency'",
+            "D": "Your Grace'"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "The purpose of an amicus curiae brief is to",
+        "answers": {
+            "A": "influence the outcome of a Supreme Court case",
+            "B": "explain the reasoning of a Supreme Court decision",
+            "C": "request a writ of habeas corpus from the Supreme Court",
+            "D": "order a party to comply with a Supreme Court decision"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "According to the Mother Goose nursery rhyme which child is full of woe?",
+        "answers": {
+            "A": "Monday's child",
+            "B": "Wednesday's child",
+            "C": "Thursday's child",
+            "D": "Saturday's child"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A business teacher has students analyze a scenario in which a few firms in the gas industry produce a homogeneous product and dominate the market. This situation would primarily produce a market structure representative of",
+        "answers": {
+            "A": "an oligopoly",
+            "B": "a pure monopoly",
+            "C": "monopolistic competition",
+            "D": "pure competition"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the name of the South African political party that was headed by Nelson Mandela?",
+        "answers": {
+            "A": "African National Congress",
+            "B": "South African Democrats",
+            "C": "Inkatha Freedom Party",
+            "D": "Aryan National Assembly"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which brand of cat food claims it's so tasty that 'cats ask for it by name'?",
+        "answers": {
+            "A": "Fancy Feast",
+            "B": "Cat Chow",
+            "C": "Meow Mix",
+            "D": "9-Lives"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these is a government agency established to protect investors?",
+        "answers": {
+            "A": "AAA",
+            "B": "NBA",
+            "C": "SEC",
+            "D": "MADD"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the proletariat?",
+        "answers": {
+            "A": "the homeless",
+            "B": "the royalty",
+            "C": "the upper class",
+            "D": "the working class"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the name of Mario's brother in the 'Super Mario' video games?",
+        "answers": {
+            "A": "Louis",
+            "B": "Luigi",
+            "C": "Luciano",
+            "D": "Zelda"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is Andromeda?",
+        "answers": {
+            "A": "The nearest major galaxy to the Milky Way",
+            "B": "A bacteria that can cause death",
+            "C": "An array of radio telescopes",
+            "D": "An element of the Periodic Table"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these is not one of the official languages of the United Nations?",
+        "answers": {
+            "A": "Japanese",
+            "B": "English",
+            "C": "Russian",
+            "D": "Spanish"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In 1989 scientists from Norway discovered that there are far more viruses in oceans lakes, and streams than previously believed. How many viruses did they find that a milliliter of natural water might contain?",
+        "answers": {
+            "A": "up to 250",
+            "B": "up to 25000",
+            "C": "up to 2500000",
+            "D": "up to 250000000"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Where was the chicken First domesticated?",
+        "answers": {
+            "A": "France",
+            "B": "India",
+            "C": "Peru",
+            "D": "Zaire"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A committee of middle school teachers is meeting to begin the process of finding a software program to improve students' drafting skills. Which of the following steps should the committee take first in the process?",
+        "answers": {
+            "A": "Downloading a trial version of the most popular software for evaluation",
+            "B": "Conducting a survey to determine the importance of drafting skills in the classroom",
+            "C": "Defining the learning objectives they would like the software to meet",
+            "D": "Deciding what type of user interface would be most appropriate"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following fiscal policy actions is most expansionary?",
+        "answers": {
+            "A": "Increasing both government spending and taxes",
+            "B": "Increasing government spending and decreasing taxes",
+            "C": "Decreasing government spending and increasing taxes",
+            "D": "Decreasing both government spending and taxes"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "How many moles of HCl must be added to sufficient water to form 3 liters of a 2 M HCI solution?",
+        "answers": {
+            "A": "1 mol",
+            "B": "2 mol",
+            "C": "3 mol",
+            "D": "6 mol"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "The intention of making traditional, saleable art objects was abandoned by",
+        "answers": {
+            "A": "Impressionists",
+            "B": "Pop artists",
+            "C": "Abstract Expressionists",
+            "D": "Conceptual artists"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is your hallux?",
+        "answers": {
+            "A": "earlobe",
+            "B": "tongue",
+            "C": "eyelid",
+            "D": "big toe"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these foods could you catch at sea?",
+        "answers": {
+            "A": "shallot",
+            "B": "stollen",
+            "C": "scallop",
+            "D": "scone"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A geographer beginning a study of the cultural landscape within a specific region would most likely benefit from which of the following activities?",
+        "answers": {
+            "A": "Describing and mapping the building types on a plat map",
+            "B": "Determining how many cars travel along the highway system",
+            "C": "Establishing the percentage of adults with a college education",
+            "D": "Graphing and analyzing economic data for the past century"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What automobile company makes the Sonata?",
+        "answers": {
+            "A": "Toyota",
+            "B": "Honda",
+            "C": "Subaru",
+            "D": "Hyundai"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What term describes someone who does not believe in the existence of God?",
+        "answers": {
+            "A": "hedonist",
+            "B": "deist",
+            "C": "agnostic",
+            "D": "atheist"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In the definition of a public good, the term \"nonrival\" means that",
+        "answers": {
+            "A": "one person's use of the public good does not reduce the amount available to others",
+            "B": "the public good is produced by the government without any competition",
+            "C": "the public good is produced at zero marginal cost",
+            "D": "the public good is mostly consumed by free riders"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What popular toy is featured in the film 'The Hudsucker Proxy'?",
+        "answers": {
+            "A": "Beanie Babies",
+            "B": "Hula Hoop",
+            "C": "Lincoln Logs",
+            "D": "Lite Brite"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "On average what length of time passes between high tides?",
+        "answers": {
+            "A": "3 hours 25 minutes",
+            "B": "6 hours 25 minutes",
+            "C": "12 hours 25 minutes",
+            "D": "24 hours 25 minutes"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What does the 'ROM' in CD-ROM stand for?",
+        "answers": {
+            "A": "Really Obscure Memory",
+            "B": "Run-Other Memory",
+            "C": "Random Object Memory",
+            "D": "Read-Only Memory"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What element do organic compounds contain?",
+        "answers": {
+            "A": "Carbon",
+            "B": "Oxygen",
+            "C": "Hydrogen",
+            "D": "Nitrogen"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the name of the Swedish company that specializes in affordable furniture?",
+        "answers": {
+            "A": "Gambro",
+            "B": "Electrolux",
+            "C": "Saab",
+            "D": "IKEA"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What character did Woody replace on the TV show 'Cheers'?",
+        "answers": {
+            "A": "Coach",
+            "B": "Diane",
+            "C": "Norm",
+            "D": "Frasier"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which one of these world leaders was assassinated?",
+        "answers": {
+            "A": "Indira Gandhi",
+            "B": "Ferdinand Marcos",
+            "C": "Golda Meir",
+            "D": "Neville Chamberlain"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Approximately how many movies are watched in homes in the United States in one year?",
+        "answers": {
+            "A": "200,000,000",
+            "B": "2,000,000,000",
+            "C": "20,000,000,000",
+            "D": "200,000,000,000"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What former 'Today' show personality played a neighbor on the TV sitcom 'The Hogan Family'?",
+        "answers": {
+            "A": "Jane Pauley",
+            "B": "Willard Scott",
+            "C": "Deborah Norville",
+            "D": "Joe Garagiola"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these performers made her film debut in Spike Lee's 'Dothe Right Thing'?",
+        "answers": {
+            "A": "Jennifer Lopez",
+            "B": "Rosie Perez",
+            "C": "Paula Abdul",
+            "D": "Tisha Campbell"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following best describes the situation after the price is raised on a product that has an inelastic demand?",
+        "answers": {
+            "A": "The quantity demanded will not change.",
+            "B": "The quantity demanded will increase.",
+            "C": "Total revenue will decrease.",
+            "D": "Total revenue will not change."
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What city's residents are known as 'Knickerbockers'?",
+        "answers": {
+            "A": "Boston",
+            "B": "Philadelphia",
+            "C": "New York City",
+            "D": "London"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "How many $100 bills does it take to equal one million dollars?",
+        "answers": {
+            "A": "one thousand",
+            "B": "five thousand",
+            "C": "ten thousand",
+            "D": "one hundred thousand"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What disease is characterized by a body's inability to properly metabolize glucose?",
+        "answers": {
+            "A": "Influenza",
+            "B": "Septicemia",
+            "C": "Diabetes",
+            "D": "Arthritis"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What famous folksinger founded the Institute for the Study of Non-Violence in 1965?",
+        "answers": {
+            "A": "Bob Dylan",
+            "B": "Woody Guthrie",
+            "C": "Joan Baez",
+            "D": "Peter Yarrow"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following is a sports award?",
+        "answers": {
+            "A": "Oscar",
+            "B": "Emmy",
+            "C": "Nobel",
+            "D": "Espy"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Who was president of the United States when Bill Clinton was born?",
+        "answers": {
+            "A": "Herbert Hoover",
+            "B": "Harry S Truman",
+            "C": "Franklin Roosevelt",
+            "D": "Dwight Eisenhower"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In what country are police officers referred to as 'bobbies'?",
+        "answers": {
+            "A": "Israel",
+            "B": "Greece",
+            "C": "England",
+            "D": "France"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following is the most reasonable action to take for an artist whose work requires the use of a specific hazardous product?",
+        "answers": {
+            "A": "Finding a nontoxic product to use and adapting the art-making process as necessary",
+            "B": "Reading the product's label and proceeding according to the label directions",
+            "C": "Making sure no children are present when using the product",
+            "D": "Checking with a qualified toxicologist before using the material"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What do herpetologists study?",
+        "answers": {
+            "A": "Herpes",
+            "B": "Blood",
+            "C": "Insects",
+            "D": "Reptiles and amphibians"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Who or what was Big Bertha?",
+        "answers": {
+            "A": "a comet",
+            "B": "a World War I gun",
+            "C": "a pro wrestling champion",
+            "D": "a giant Muppet"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What city's airport uses the code ORD?",
+        "answers": {
+            "A": "Chicago",
+            "B": "Orlando",
+            "C": "New York City",
+            "D": "Portland"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "How much energy do Americans waste each year by throwing out the unused ice in their drinks?",
+        "answers": {
+            "A": "6*10^8 J",
+            "B": "6*10^11 J",
+            "C": "6*10^14 J",
+            "D": "6*10^17 J"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "If the permeability of subsoil is rapid, the subsoil texture is most likely classified as",
+        "answers": {
+            "A": "coarse",
+            "B": "medium",
+            "C": "fine",
+            "D": "silty"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these people was buried in the Valley of the Kings?",
+        "answers": {
+            "A": "Louis XIV",
+            "B": "Elvis Presley",
+            "C": "Julius Caesar",
+            "D": "King Tut"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following elements is a metal?",
+        "answers": {
+            "A": "S",
+            "B": "Se",
+            "C": "I",
+            "D": "Ga"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What part of the human body does a gastroenterologist examine?",
+        "answers": {
+            "A": "Brain",
+            "B": "Skeleton",
+            "C": "Stomach",
+            "D": "Nose"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Who is the creator of the comic strip 'The Far Side'?",
+        "answers": {
+            "A": "Jim Davis",
+            "B": "Gary Larson",
+            "C": "Garry Trudeau",
+            "D": "Charles Schulz"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Who was the first American in space?",
+        "answers": {
+            "A": "John Glenn",
+            "B": "Buzz Aldrin",
+            "C": "Alan Shepard",
+            "D": "Neil Armstrong"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What nationality was Karl Marx?",
+        "answers": {
+            "A": "Russian",
+            "B": "German",
+            "C": "Danish",
+            "D": "English"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A car-manufacturing factory is considering a new site for its next plant. Which of the following would community planners be most concerned with before allowing the plant to be built?",
+        "answers": {
+            "A": "The amount of materials stored in the plant",
+            "B": "The hours of operations of the new plant",
+            "C": "The effect the plant will have on the environment",
+            "D": "The work environment for the employees at the plant"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A piece of paper that appears blue in sunlight is illuminated solely by a red light that is passed through a green filter. What color does the paper appear under this illumination?",
+        "answers": {
+            "A": "Blue",
+            "B": "Green",
+            "C": "Red",
+            "D": "Black"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Some observers argue that a limitation of the official unemployment rate is that it understates the true unemployment level because it fails to include which of the following?",
+        "answers": {
+            "A": "New entrants to the labor market",
+            "B": "People who are laid off and are looking for new jobs",
+            "C": "Discouraged people who have given up looking for jobs",
+            "D": "Full-time students looking for part-time jobs"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Where did Lewis and Clark begin their famous expedition in 1804?",
+        "answers": {
+            "A": "Seattle",
+            "B": "St Louis",
+            "C": "New Orleans",
+            "D": "Washington DC"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What was the first American college to become coeducational?",
+        "answers": {
+            "A": "Oberlin College",
+            "B": "Dartmouth College",
+            "C": "Grinnell College",
+            "D": "Antioch College"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "According to the American Kennel Club what is the most popular breed Of dog in the US as of 1999?",
+        "answers": {
+            "A": "Poodle",
+            "B": "Beagle",
+            "C": "German shepherd",
+            "D": "Labrador retriever"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these movies does not star Jim Carrey?",
+        "answers": {
+            "A": "Patch Adams'",
+            "B": "The Truman Show'",
+            "C": "Dumb and Dumber'",
+            "D": "The Mask'"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following would be provided in the marketing segment of a business plan?",
+        "answers": {
+            "A": "How the products and services will be priced",
+            "B": "The organizational structure of the business",
+            "C": "Any factors that could affect employee retention",
+            "D": "The details of the budget plan"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which Pope immediately preceded John Paul II?",
+        "answers": {
+            "A": "John XXIII",
+            "B": "Paul VI",
+            "C": "John Paul I",
+            "D": "Hank II"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Who was the mother of the Greek god Zeus?",
+        "answers": {
+            "A": "Gaia",
+            "B": "Phoebe",
+            "C": "Rhea",
+            "D": "Hera"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What force causes an ice cream cone to fly off of a spinning merry-go-round?",
+        "answers": {
+            "A": "centrifugal",
+            "B": "Vehicular",
+            "C": "Gravitational",
+            "D": "Torsal"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In the Arthurian legend who is married to Guinevere?",
+        "answers": {
+            "A": "Merlin",
+            "B": "King Arthur",
+            "C": "Lancelot",
+            "D": "Camelot"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Moderate and frequent irrigation is normally most appropriate for a corn crop growing in a",
+        "answers": {
+            "A": "dispersed alluvial fan soil",
+            "B": "heavy-textured soil, such as silty clay",
+            "C": "light-textured soil, such as loamy sand",
+            "D": "region of low humidity"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "The term \"Cold War\" refers to the",
+        "answers": {
+            "A": "race between the United States and the Soviet Union to claim ownership of Antarctica",
+            "B": "contest between the United States and the European Union for economic domination in the West",
+            "C": "struggle between the United States and the Soviet Union to gain political hegemony in world affairs",
+            "D": "competition between the Soviet Union and China for the resources of the Pacific Rim"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the name of the female character played by comedian Flip Wilson on his 1970s TV show?",
+        "answers": {
+            "A": "Miss Jackie",
+            "B": "Elizabeth Sanford",
+            "C": "Geraldine Jones",
+            "D": "Gladys Knight"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A second-grade teacher has each student select a card at random that is marked with a three-digit number. Students then model their numbers with base ten blocks on a place value mat. Which of the following whole number concepts does the lesson best reinforce?",
+        "answers": {
+            "A": "Comparing quantities",
+            "B": "Describing quantities",
+            "C": "Ordering quantities",
+            "D": "Decomposing quantities"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these is not found in a Snickers candy bar?",
+        "answers": {
+            "A": "almonds",
+            "B": "chocolate",
+            "C": "nougat",
+            "D": "caramel"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What animal is used to make lard?",
+        "answers": {
+            "A": "pig",
+            "B": "cow",
+            "C": "snake",
+            "D": "chicken"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "The demand for labor is called derived demand because it is",
+        "answers": {
+            "A": "dependent on the demand for the final product that the labor is used to produce",
+            "B": "inversely related to the wage rate",
+            "C": "dependent on the availability of capital goods",
+            "D": "directly related to the marginal utility of working"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In 1978 who became the youngest jockey ever to win horse racing's triple crown?",
+        "answers": {
+            "A": "Jerry Bailey",
+            "B": "Steve Cauthen",
+            "C": "Willie Shoemaker",
+            "D": "Pasquale Devito"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "The most important consideration in designing successful messages to be transmitted through graphic communications is knowledge and understanding of",
+        "answers": {
+            "A": "current technologies",
+            "B": "the capabilities of the designer",
+            "C": "the limitations of the printer",
+            "D": "the nature of the audience"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which color is not considered to be one of the primary colors of light?",
+        "answers": {
+            "A": "red",
+            "B": "yellow",
+            "C": "green",
+            "D": "blue"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What newspaper do Lois Lane and Clark Kent work for?",
+        "answers": {
+            "A": "The Bugle",
+            "B": "The Daily Planet",
+            "C": "The Metropolis Tribune",
+            "D": "The New York Times"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these is typically not \"used as a spice?",
+        "answers": {
+            "A": "Dill",
+            "B": "Thyme",
+            "C": "Hemlock",
+            "D": "Marjoram"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the name of the character Played by Woody Allen in the 1967 James Bond film 'Casino Royale'?",
+        "answers": {
+            "A": "Dr Evil",
+            "B": "Q",
+            "C": "Little Jimmy Bond",
+            "D": "M"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Scientists believe that a worldwide catastrophic event occurred during the late Cretaceous period and that this event likely caused which of the following?",
+        "answers": {
+            "A": "The movement of aquatic animals onto land",
+            "B": "The sudden demise of the dinosaurs",
+            "C": "The emergence of Homo sapiens on the grasslands of Africa",
+            "D": "The first appearance of mammals"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Science fiction: readers claim to either love it or loathe it; either they avoid it like poison or they devour favorite works and authors like chocolate addicts gulping down fudge truffles. The author of the passage compares certain readers with \"chocolate addicts\" primarily in order to",
+        "answers": {
+            "A": "suggest that science fiction is not a serious literary genre",
+            "B": "indicate the depth of certain readers' feelings about science fiction",
+            "C": "explain why some readers consider science fiction to be dangerous",
+            "D": "contrast the characteristics of science fiction with those of other literary genres"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In what year did the United States last win an Olympic gold medal in men's ice hockey?",
+        "answers": {
+            "A": "1976",
+            "B": "1980",
+            "C": "1984",
+            "D": "1988"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Force equals mass times what?",
+        "answers": {
+            "A": "Velocity",
+            "B": "Distance",
+            "C": "Acceleration",
+            "D": "Weight"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following statements best illustrates active listening on the part of a second-grade teacher who is helping a student solve a personal problem?",
+        "answers": {
+            "A": "I have gathered the facts, and I know what really happened.",
+            "B": "I understand you, and I know what is best for you.",
+            "C": "I believe you understood the class rules.",
+            "D": "I respect you as a person with your own ideas and feelings."
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "I became what I am today at the age of twelve, on a frigid overcast day in the winter of 1975. I remember the precise moment, crouching behind a crumbling mud wall, peeking into the alley near the frozen creek. That was a long time ago, but it's wrong what they say about the past, I've learned, about how you can bury it. Because the past claws its way out. Looking back now, I realize I have been peeking into that deserted alley for the last twenty-six years. The excerpt is an example of which of the following types of writing?",
+        "answers": {
+            "A": "Informative",
+            "B": "Persuasive",
+            "C": "Descriptive",
+            "D": "Narrative"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following is true of a profitmaximizing firm in the short run?",
+        "answers": {
+            "A": "The firm will shut down to minimize losses if product price falls below average total cost.",
+            "B": "The firm will shut down if marginal revenue equals marginal cost but exceeds average variable cost.",
+            "C": "The firm will continue to produce as long as total revenue exceeds total variable cost, even if it incurs loss.",
+            "D": "The firm will continue to produce as long as average variable cost is less than average fixed cost."
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "When it's noon in New York during daylight-saving time what time is it in Honolulu?",
+        "answers": {
+            "A": "6:00 AM",
+            "B": "6:30 AM",
+            "C": "7:00 AM",
+            "D": "8:00 AM"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In construction, the plates are horizontal structures at the top and bottom of a wall. Which of the following are the vertical structures?",
+        "answers": {
+            "A": "Rafters",
+            "B": "Studs",
+            "C": "Headers",
+            "D": "Joists"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following tools is LEAST likely to be used in the process of creating a wood sculpture?",
+        "answers": {
+            "A": "A rasp",
+            "B": "A gouge",
+            "C": "A lathe",
+            "D": "An extruder"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "How many cups of coffee were consumed in the United States in the past week (as of 2013)?",
+        "answers": {
+            "A": "300 million cups per week",
+            "B": "1 billion cups per week",
+            "C": "3 billion cups per week",
+            "D": "9 billion cups per week"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What high school does the gang from the 'Archie' comic strip attend?",
+        "answers": {
+            "A": "Ridgemont High",
+            "B": "Riverdale High",
+            "C": "Rumson High",
+            "D": "Riker's Island High"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the official language of The Netherlands?",
+        "answers": {
+            "A": "Danish",
+            "B": "Swedish",
+            "C": "German",
+            "D": "Dutch"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Before he went into coaching Phil Jackson played for which of the following NBA teams?",
+        "answers": {
+            "A": "Boston Celtics",
+            "B": "Los Angeles Lakers",
+            "C": "New York Knicks",
+            "D": "Philadelphia 76ers"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these candy bars was named for a baseball player?",
+        "answers": {
+            "A": "Baby Ruth",
+            "B": "Clark Bar",
+            "C": "Reggie Bar",
+            "D": "Butterfinger"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these animals shares its name with a luxury car?",
+        "answers": {
+            "A": "yak",
+            "B": "gazelle",
+            "C": "sloth",
+            "D": "jaguar"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What country is the rock group U2 from?",
+        "answers": {
+            "A": "England",
+            "B": "Ireland",
+            "C": "Belgium",
+            "D": "Germany"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "According to Erik Erikson, the primary dilemma faced in adolescence is",
+        "answers": {
+            "A": "industry vs. inferiority",
+            "B": "identity vs. identity confusion",
+            "C": "generativity vs. stagnation",
+            "D": "integrity vs. despair"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these is not one of the three branches of the US government?",
+        "answers": {
+            "A": "Judicial",
+            "B": "Executive",
+            "C": "Parliamentary",
+            "D": "Legislative"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these rock guitarists designed a colorful line of men's neckties?",
+        "answers": {
+            "A": "Eric Clapton",
+            "B": "Jerry Garcia",
+            "C": "Jeff Beck",
+            "D": "Keith Richards"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following has provided evidence that the Sun's atmosphere contains sodium atoms?",
+        "answers": {
+            "A": "Absorption lines in the solar spectrum are consistent with the presence of sodium.",
+            "B": "Stars with the same spectral class as the Sun are made mostly of sodium.",
+            "C": "Solar samples returned to Earth by the Voyager spacecraft contained sodium.",
+            "D": "The Sun gives off energy produced by the nuclear fusion of sodium in its core"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What country does Bordeaux wine come from?",
+        "answers": {
+            "A": "France",
+            "B": "Spain",
+            "C": "Australia",
+            "D": "United States"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these rocks will float In water?",
+        "answers": {
+            "A": "granite",
+            "B": "limestone",
+            "C": "shale",
+            "D": "pumice"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the technical term for the offspring of a female donkey and a male horse?",
+        "answers": {
+            "A": "burro",
+            "B": "dorse",
+            "C": "hinny",
+            "D": "honker"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following types of stress dominates at divergent boundaries?",
+        "answers": {
+            "A": "Compressional",
+            "B": "Left-lateral shear",
+            "C": "Right-lateral shear",
+            "D": "Tensional"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these words is an adverb?",
+        "answers": {
+            "A": "hurried",
+            "B": "fast",
+            "C": "speedy",
+            "D": "quickly"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "The disco band ABBA comes from what country?",
+        "answers": {
+            "A": "Norway",
+            "B": "Sweden",
+            "C": "Switzerland",
+            "D": "The Netherlands"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What do you call three consecutive strikes in bowling?",
+        "answers": {
+            "A": "yahtzee",
+            "B": "mulligan",
+            "C": "turkey",
+            "D": "ace"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Islam first spread to Indonesia through",
+        "answers": {
+            "A": "military conquest by the Mughal empire",
+            "B": "mass migrations of African Muslims across the Indian Ocean",
+            "C": "Dutch colonization in the 18th century",
+            "D": "increased commercial contacts with Indian and Arab merchants"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "The British dish 'bangers and mash' is made up of sausage and what?",
+        "answers": {
+            "A": "eggs",
+            "B": "bacon",
+            "C": "liver",
+            "D": "potatoes"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the name of the disease that has been referred to as the \"disease of kings\"?",
+        "answers": {
+            "A": "hemophilia",
+            "B": "jaundice",
+            "C": "rubella",
+            "D": "syphilis"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the oldest permanent European settlement in the United States?",
+        "answers": {
+            "A": "St Augustine Florida",
+            "B": "Plymouth Massachusetts",
+            "C": "Newport News Virginia",
+            "D": "Charlotte North Carolina"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In the phrase 'Y2K' what does 'K' stand for?",
+        "answers": {
+            "A": "millennium",
+            "B": "computer code",
+            "C": "catastrophe",
+            "D": "thousand"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these is not a type of chili pepper?",
+        "answers": {
+            "A": "habanero",
+            "B": "cheyenne",
+            "C": "jalapero",
+            "D": "guajillo"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In which of the following bands did Jimmy Page not play guitar?",
+        "answers": {
+            "A": "Bad Company",
+            "B": "The Firm",
+            "C": "Led Zeppelin",
+            "D": "The Yardbirds"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the nickname of Florida's controversial death row electric chair?",
+        "answers": {
+            "A": "Old Yeller",
+            "B": "Old Geezer",
+            "C": "Old Smoky",
+            "D": "Old Sparky"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following words does not appear in the Lewis Carroll poem 'Jabberwocky'?",
+        "answers": {
+            "A": "brillig",
+            "B": "bandersnatch",
+            "C": "wabe",
+            "D": "grelp"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these words is a synonym for 'perambulate'?",
+        "answers": {
+            "A": "kiss",
+            "B": "shout",
+            "C": "stroll",
+            "D": "heal"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Earth's seasons are caused by which of the following?",
+        "answers": {
+            "A": "The tilt of Earth's axis of rotation relative to the ecliptic as Earth revolves around the Sun",
+            "B": "The varying amount of sunspot activity",
+            "C": "Earth's orbit about the Sun as an ellipse rather than a circle",
+            "D": "The rotation of Earth during a 24-hour day"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the final word of the Pledge of Allegiance?",
+        "answers": {
+            "A": "America",
+            "B": "stands",
+            "C": "indivisible",
+            "D": "all"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Astronomers have proposed that the solar system formed from a vast rotating cloud of gas and dust. This explanation is known as which of the following?",
+        "answers": {
+            "A": "Kepler's laws",
+            "B": "Big bang theory",
+            "C": "Cosmic string theory",
+            "D": "Nebular hypothesis"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What liqueur is used to make a Pink Lady cocktail pink?",
+        "answers": {
+            "A": "grenadine",
+            "B": "schnapps",
+            "C": "triple sec",
+            "D": "pernod"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "On Valentine's Day 2000 NASA's NEAR spacecraft began a yearlong orbit of what asteroid?",
+        "answers": {
+            "A": "Eros",
+            "B": "Cupid",
+            "C": "Aphrodite",
+            "D": "Venus"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following terms refers to the process of using thick applications of paint?",
+        "answers": {
+            "A": "Scumbling",
+            "B": "Alla prima",
+            "C": "Impasto",
+            "D": "Frottage"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What kind of angle is formed where two perpendicular lines meet?",
+        "answers": {
+            "A": "obtuse",
+            "B": "acute",
+            "C": "right",
+            "D": "invisible"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "When a gas turns into a liquid, the process is called",
+        "answers": {
+            "A": "condensation",
+            "B": "evaporation",
+            "C": "deposition",
+            "D": "sublimation"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Fragile works of sculpture can be displayed most securely by placing the works",
+        "answers": {
+            "A": "in glass-paneled cases",
+            "B": "on a series of pedestals",
+            "C": "on wall-mounted shelves with sturdier works around them",
+            "D": "in shadow boxes with signs that read \"Do Not Touch\""
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following guidance systems is principally a materials-handling device?",
+        "answers": {
+            "A": "Escalator",
+            "B": "Conveyor",
+            "C": "Highway",
+            "D": "Railroad"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In the movie 'Star Wars' what kind of creature is Chewbacca?",
+        "answers": {
+            "A": "Woolie",
+            "B": "Woobie",
+            "C": "Wookiee",
+            "D": "Klingon"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Paper will burn at approximately what temperature in Fahrenheit?",
+        "answers": {
+            "A": "986 degrees",
+            "B": "2125 degrees",
+            "C": "3985 degrees",
+            "D": "451 degrees"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Where did jazz great Sun Ra claim he was born?",
+        "answers": {
+            "A": "Atlantis",
+            "B": "Mount Olympus",
+            "C": "Saturn",
+            "D": "in a saxophone"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following activities is likely to have the greatest impact on biodiversity?",
+        "answers": {
+            "A": "Copper mining in Chile",
+            "B": "Soil erosion on the slopes of the Rocky Mountains",
+            "C": "Large-scale deforestation of the Amazon or Congo basin tropical forests",
+            "D": "Increased use of ethanol fuels in the United States"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What kind of car did Burt Reynolds drive in the movie 'Smokey and the Bandit'?",
+        "answers": {
+            "A": "Lamborghini",
+            "B": "Camaro",
+            "C": "Corvette",
+            "D": "Transam"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Whom did Billie Jean King defeat in the famous 'Battle of the Sexes' tennis match?",
+        "answers": {
+            "A": "Jimmy Connors",
+            "B": "Pete Sampras",
+            "C": "John McEnroe",
+            "D": "Bobby Riggs"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "An enterprise analysis shows an average return of $151 for each $100 of feed fed to hogs last year and a return of $130 for each $100 of feed fed to hogs this year. Assuming that feed costs are stable and there are no major death losses, which of the following is the most likely explanation for the difference in returns?",
+        "answers": {
+            "A": "Lower feed efficiency",
+            "B": "Poor record keeping",
+            "C": "Lower market prices",
+            "D": "Lower purchase prices"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What tea is known for its distinctive bergamot flavor?",
+        "answers": {
+            "A": "Earl",
+            "B": "Grey Darjeeling",
+            "C": "English Breakfast",
+            "D": "Prince of Wales"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following people would benefit most if the value of the United States dollar increased relative to the Japanese yen?",
+        "answers": {
+            "A": "A United States car dealer importing Japanese cars",
+            "B": "A Japanese tourist vacationing in the United States",
+            "C": "A worker in the United States beer industry",
+            "D": "A Japanese baker buying United States wheat"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these is not a Hindudeity?",
+        "answers": {
+            "A": "Shiva",
+            "B": "Vishnu",
+            "C": "Sanskrit",
+            "D": "Brahma"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "If someone has cataracts what part of their body might need an operation?",
+        "answers": {
+            "A": "ear",
+            "B": "hand",
+            "C": "eye",
+            "D": "knee"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "How many water molecules are in a human head?",
+        "answers": {
+            "A": "8*10^21",
+            "B": "8*10^23",
+            "C": "8*10^25",
+            "D": "8*10^27"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In American football how many points is a touchdown worth?",
+        "answers": {
+            "A": "two",
+            "B": "three",
+            "C": "six",
+            "D": "seven"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "How long is the time on an NBA shot clock?",
+        "answers": {
+            "A": "18 seconds",
+            "B": "24 seconds",
+            "C": "30 seconds",
+            "D": "35 seconds"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following degrees can be awarded by the local chapter of the FFA? I. Greenhand FFA Degree II. Chapter FFA Degree III. State FFA Degree IV. American FFA Degree",
+        "answers": {
+            "A": "I only",
+            "B": "II only",
+            "C": "I and II only",
+            "D": "I , II , III , and IV"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In what decade was the Hula-Hoop invented?",
+        "answers": {
+            "A": "1890s",
+            "B": "1920s",
+            "C": "1950s",
+            "D": "1970s"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A passage Jane Eyre is as follows. This was all the account I got from Mrs. Fairfax of her employer and mine. There are people who seem to have no notion of sketching a character, or observing and describing salient points, either in persons or things: the good lady evidently belonged to this class; my queries puzzled, but did not draw her out. Mr. Rochester was Mr. Rochester in her eyes, a gentleman, a landed proprietor\u201a\u00c4\u00ecnothing more: she inquired and searched no further, and evidently wondered at my wish to gain a more definite notion of his identity. The passage suggests that the speaker would describe the \"account\" mentioned in the first sentence as",
+        "answers": {
+            "A": "enlightening",
+            "B": "mystifying",
+            "C": "deficient",
+            "D": "erroneous"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Who is the career hit leader among players never elected to Baseball's Hall of Fame?",
+        "answers": {
+            "A": "Steve Garvey",
+            "B": "Jim Rice",
+            "C": "Pete Rose",
+            "D": "Ken Griffey Jr"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Real gross domestic product (GDP) is defined as the ratio of nominal GDP to the",
+        "answers": {
+            "A": "money supply",
+            "B": "unemployment rate",
+            "C": "government's budget deficit",
+            "D": "GDP deflator"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What biological process replicates DNA?",
+        "answers": {
+            "A": "molting",
+            "B": "mitosis",
+            "C": "diffusion",
+            "D": "peristalsis"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A fiscal policy to combat a recession would call for",
+        "answers": {
+            "A": "an increase in taxes",
+            "B": "an increase in government spending",
+            "C": "a decrease in the reserve requirement",
+            "D": "a decrease in the discount rate"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Where are fireworks first known to have been developed?",
+        "answers": {
+            "A": "Italy",
+            "B": "China",
+            "C": "Great Britain",
+            "D": "Greece"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What actress starred on 'Charlie's Angels' for the show's entire run?",
+        "answers": {
+            "A": "Cheryl Ladd",
+            "B": "Farrah Fawcett",
+            "C": "Jaclyn Smith",
+            "D": "Kate Jackson"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Who was the English king at the time of the American Revolution?",
+        "answers": {
+            "A": "Charles I",
+            "B": "James I",
+            "C": "Edward III",
+            "D": "George III"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What are the names of the two primary M&M's spokes-candies?",
+        "answers": {
+            "A": "Peanut and Plain",
+            "B": "Red and Yellow",
+            "C": "Mort and Marty",
+            "D": "They don't have names"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Girls of what religious community traditionally wear bonnets?",
+        "answers": {
+            "A": "Amish",
+            "B": "Sikh",
+            "C": "Roman Catholic",
+            "D": "Christian"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Who is an archenemy of the cartoon superhero Underdog?",
+        "answers": {
+            "A": "OverCat",
+            "B": "Muttley",
+            "C": "Mr Whoopie",
+            "D": "Dick Dastardly"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What term describes the passing of genetic traits from one generation to the next?",
+        "answers": {
+            "A": "heredity",
+            "B": "heresy",
+            "C": "homogeneity",
+            "D": "hemoglobin"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "When scanning a drive for viruses, it is typically important to check files having which of the following extensions?",
+        "answers": {
+            "A": ".jpg",
+            "B": ".pdf",
+            "C": ".wav",
+            "D": ".exe"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "The tobacco industry has a lot of money, and it is expected to continue to do so. Last year, the total amount of tobacco sold by American tobacco farmers increased significantly, but the number of smokers in the country continued to decline. If the following are true, they can be the reason for the above phenomenon, except:",
+        "answers": {
+            "A": "More women start smoking this year than men who have quit.",
+            "B": "People who continue to smoke consume more tobacco than in previous years.",
+            "C": "The number of people who started smoking grass or taking snuff this year is more than the number who have given up smoking.",
+            "D": "More cigarettes produced in the U.S. are exported to other countries this year than last year."
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "To make an international telephone call from within the US what are the first numbers you should dial?",
+        "answers": {
+            "A": "11",
+            "B": "101",
+            "C": "888",
+            "D": "911"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these is not a spice?",
+        "answers": {
+            "A": "dill",
+            "B": "aniseed",
+            "C": "cucumber",
+            "D": "cayenne"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following is generally the first step taken in a large-scale commercial construction venture?",
+        "answers": {
+            "A": "Filing applications for building permits and variances",
+            "B": "Ordering the materials needed for the building foundation",
+            "C": "Drafting a contract that spells out the details of the building plan",
+            "D": "Holding a discussion between the developer and the designer/contractor about the scope of the construction"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "If you dial '411' on a telephone who are you calling?",
+        "answers": {
+            "A": "the police",
+            "B": "the White House",
+            "C": "directory assistance",
+            "D": "Moviefone"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the baseball term for a batter who substitutes for another batter?",
+        "answers": {
+            "A": "Switchhitter",
+            "B": "Shadow hitter",
+            "C": "Clip hitter",
+            "D": "Pinch hitter"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these is not one of Aesop's fables?",
+        "answers": {
+            "A": "The Dog and the Squirrel'",
+            "B": "The Hare and the Tortoise'",
+            "C": "The Eagle and the Beetle'",
+            "D": "The Ox and the Frogs'"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Determining how a product can be useful, identifying the target price, finding a place to sell the product, and deciding how to promote it best exemplifies using",
+        "answers": {
+            "A": "market research",
+            "B": "positioning",
+            "C": "marketing mix",
+            "D": "segmenting"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What was the name of the first nuclear-powered submarine?",
+        "answers": {
+            "A": "Nautilus",
+            "B": "Neptune",
+            "C": "Nordenfelt III",
+            "D": "Nicholas"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Many scientists think that some of the dinosaurs did not go extinct but rather evolved into what kind of creature?",
+        "answers": {
+            "A": "amphibians",
+            "B": "reptiles",
+            "C": "birds",
+            "D": "mammals"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What kind of flying contraption is featured in the movie 'Chitty Chitty Bang Bang'?",
+        "answers": {
+            "A": "boat",
+            "B": "car",
+            "C": "truck",
+            "D": "bike"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Normally, S-P arrival intervals from a minimum of how many seismic stations are required to uniquely locate the epicenter of an earthquake?",
+        "answers": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In 1960 Nazi official Adolph Eichmann was finally captured in what country?",
+        "answers": {
+            "A": "Brazil",
+            "B": "East Germany",
+            "C": "Argentina",
+            "D": "Paraguay"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these countries is not in Europe?",
+        "answers": {
+            "A": "Italy",
+            "B": "Spain",
+            "C": "Greece",
+            "D": "Israel"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "On TV's 'Seinfeld' what type of doctor did Mr Costanza go to when he sat on 'fusilli Jerry'?",
+        "answers": {
+            "A": "ophthalmologist",
+            "B": "cardiologist",
+            "C": "neurologist",
+            "D": "proctologist"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these bones is located in the wrist?",
+        "answers": {
+            "A": "Patella",
+            "B": "Humerus",
+            "C": "Carpals",
+            "D": "Coccyx"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following is the most effective way to evaluate the development of a student's drafting skills throughout the school year?",
+        "answers": {
+            "A": "Baseline assessment",
+            "B": "Portfolio assessment",
+            "C": "Short-answer unit assessment",
+            "D": "Teacher-created assessment"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "The American patriot Paul Revere was named for his father whose original name was what?",
+        "answers": {
+            "A": "John Paul Revere",
+            "B": "Paul Silver",
+            "C": "Apollos Rivoire",
+            "D": "Paolo Reverini"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the name for the thin board used to mix colors while painting?",
+        "answers": {
+            "A": "pestle",
+            "B": "easel",
+            "C": "shoe",
+            "D": "palette"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In which layer of Earth is the geomagnetic field generated?",
+        "answers": {
+            "A": "Outer core",
+            "B": "Crust",
+            "C": "Mantle",
+            "D": "Inner core"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "The dissolved salts in Earth's oceans are principally derived from",
+        "answers": {
+            "A": "marine biological activity",
+            "B": "atmospheric deposition",
+            "C": "the weathering of continental rocks",
+            "D": "the eruptions of undersea hot-spot volcanoes"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Old-fashioned steam engines were powered by coal transferred from the tender to the engine by human stokers using a shovel. What is the maximum power such an engine could attain?",
+        "answers": {
+            "A": "6*10^3 W",
+            "B": "6*10^5 W",
+            "C": "6*10^7 W",
+            "D": "6*10^11 W"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following is an example of a concurrent power?",
+        "answers": {
+            "A": "The printing and coining of money",
+            "B": "The power to declare war",
+            "C": "The process of naturalization",
+            "D": "The levying of taxes"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the heaviest confirmed noble gas?",
+        "answers": {
+            "A": "Xenon",
+            "B": "Argon",
+            "C": "Radon",
+            "D": "Krypton"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the most popular month for weddings in America?",
+        "answers": {
+            "A": "January",
+            "B": "May",
+            "C": "August",
+            "D": "November"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the more common name for the disease 'pertussis'?",
+        "answers": {
+            "A": "whooping cough",
+            "B": "tennis elbow",
+            "C": "black lung",
+            "D": "German measles"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What literary work is the source of the quote 'Abandon every hope all you who enter here'?",
+        "answers": {
+            "A": "Paradise Lost'",
+            "B": "The Wizard of Oz'",
+            "C": "The Divine Comedy'",
+            "D": "Beowulf'"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "How old is the Earth approximately?",
+        "answers": {
+            "A": "50,000 years",
+            "B": "300 million years",
+            "C": "4.5 billion years",
+            "D": "no one knows"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these is not a position on an American football team?",
+        "answers": {
+            "A": "quarterback",
+            "B": "tight end",
+            "C": "striker",
+            "D": "free safety"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What new token was recently added to the Monopoly board game?",
+        "answers": {
+            "A": "piggybank",
+            "B": "sack of money",
+            "C": "globe",
+            "D": "telephone"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following lists includes minerals only?",
+        "answers": {
+            "A": "Granite, gabbro, diorite, quartz, feldspar",
+            "B": "Gold, quartz, topaz, diamond, corundum",
+            "C": "Gneiss, schist, phyllite, chlorite, mica",
+            "D": "Coal, chert, limestone, dolomite, halite"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What term describes a word created by rearranging the letters of another word?",
+        "answers": {
+            "A": "onomatopoeia",
+            "B": "malapropism",
+            "C": "anagram",
+            "D": "antonym"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In the 1960s 'Batman' TV series who was not a guest villain?",
+        "answers": {
+            "A": "The Minstrel",
+            "B": "The Archer",
+            "C": "The Bookworm",
+            "D": "The Squeegee Guy"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A hard-edge painting is most likely to be characterized by",
+        "answers": {
+            "A": "an even, solid paint application",
+            "B": "blurry color mixed on the painting's surface",
+            "C": "scratchy brush marks clearly separated",
+            "D": "translucent multiple layers of paint"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In soccer which player is allowed to use his or her hands in the field of play?",
+        "answers": {
+            "A": "midfielder",
+            "B": "center",
+            "C": "sweeper",
+            "D": "goalkeeper"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A preschool teacher is teaching students to forward roll. Which of the following is a problem most characteristic of preschoolers' forward rolling?",
+        "answers": {
+            "A": "Keeping the chin tucked",
+            "B": "Keeping the knees and hips flexed",
+            "C": "Losing the curl",
+            "D": "Using the hands to cushion the head contact"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What was Ludwig Van Beethoven's final symphony?",
+        "answers": {
+            "A": "Ninth",
+            "B": "Tenth",
+            "C": "Eleventh",
+            "D": "Twelfth"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following is an example of persuasive speech?",
+        "answers": {
+            "A": "A campaign manager's introduction of a mayoral candidate",
+            "B": "A professor's lecture on the structure of the heart",
+            "C": "A company president's yearly sales report",
+            "D": "A tour guide's discussion of an art museum installation"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What do you call a young cow?",
+        "answers": {
+            "A": "mare",
+            "B": "lamb",
+            "C": "kid",
+            "D": "calf"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What letters are on the '3' button of a touch-tone telephone?",
+        "answers": {
+            "A": "ABC",
+            "B": "DEF",
+            "C": "GHI",
+            "D": "WXY"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Of the following objectives, which is most appropriate for a technology education program that has a goal of enabling students to develop creative technical solutions to present and future societal problems?",
+        "answers": {
+            "A": "Design and construct a threedimensional model of a low-income, multifamily dwelling unit",
+            "B": "Describe several construction careers that are related to home building",
+            "C": "Categorize the components of a technical system",
+            "D": "Identify the major tools and equipment used in highway construction"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these college football programs has produced the most Heisman Trophy winners?",
+        "answers": {
+            "A": "Notre Dame",
+            "B": "USC",
+            "C": "Oklahoma",
+            "D": "Michigan"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is a balalaika?",
+        "answers": {
+            "A": "musical instrument",
+            "B": "Russian peasant",
+            "C": "type of hat",
+            "D": "breed of shark"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What was the title of Beethoven's only completed opera?",
+        "answers": {
+            "A": "Faust'",
+            "B": "The Silence'",
+            "C": "Immortal Beloved'",
+            "D": "Fidelio'"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following parts of the Sun is easily visible only during a total solar eclipse?",
+        "answers": {
+            "A": "Core",
+            "B": "Photosphere",
+            "C": "Sunspots",
+            "D": "Corona"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What was Richard Nixon's middle name?",
+        "answers": {
+            "A": "Michael",
+            "B": "Milhous",
+            "C": "Mortimer",
+            "D": "Matthew"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following is about the Watergate scandal?",
+        "answers": {
+            "A": "All the King's Men'",
+            "B": "All the Pretty Horses'",
+            "C": "All the President's Men'",
+            "D": "All the Right Moves'"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "The TV show 'House of Style' airs on what network?",
+        "answers": {
+            "A": "E",
+            "B": "WB",
+            "C": "MTV",
+            "D": "Home Shopping Network"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these horror films spawned the most sequels?",
+        "answers": {
+            "A": "Scream'",
+            "B": "Jaws'",
+            "C": "Halloween'",
+            "D": "Friday the 13th'"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following is true about a monopoly?",
+        "answers": {
+            "A": "It competes with many firms selling the same product in the market.",
+            "B": "It has to lower its price on all units to sell more output.",
+            "C": "Its marginal revenue increases as output sold increases.",
+            "D": "It sets a price below average variable cost to drive its competitors out of the market."
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A clothes dryer that is set to run for 30 minutes is an example of which of the following control systems?",
+        "answers": {
+            "A": "Open loop",
+            "B": "Closed loop",
+            "C": "Negative feedback",
+            "D": "Positive feedback"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A person uses a remote control to change the volume level on a television. The signal that travels from the remote to the television is most likely encoded in a",
+        "answers": {
+            "A": "visible light pulse",
+            "B": "radio wave signal",
+            "C": "series of infrared pulses",
+            "D": "series of intense infrared beams"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following best helps explain why some localities have normally large tidal ranges (up to 60 feet) and others have one- to two-foot tidal ranges?",
+        "answers": {
+            "A": "The position of the Sun is different at different localities.",
+            "B": "The Coriolis effect and rotation of Earth tend to enhance tidal flow in the higher latitudes.",
+            "C": "Ocean floor topography and the shape of the coastline serve to amplify tidal flow at specific localities.",
+            "D": "Trade winds push the water into large tidal bulges near rocky shorelines."
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following candies is traditionally fruit flavored?",
+        "answers": {
+            "A": "M&M's",
+            "B": "Skittles",
+            "C": "Reese's Pieces",
+            "D": "Junior Mints"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What disease is sometimes referred to as the 'royaldisease'?",
+        "answers": {
+            "A": "rickets",
+            "B": "measles",
+            "C": "hemophilia",
+            "D": "tuberculosis"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What article of clothing best describes a 'pashmina'?",
+        "answers": {
+            "A": "shoes",
+            "B": "pants",
+            "C": "scarf",
+            "D": "underwear"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Animals in which of the following groups may have a backbone and a spinal cord?",
+        "answers": {
+            "A": "Mollusks",
+            "B": "Chordates",
+            "C": "Invertebrates",
+            "D": "Echinoderms"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following is a disorder in ruminants that is characterized by an excessive accumulation of gas in the rumen?",
+        "answers": {
+            "A": "Agalactia",
+            "B": "Bloat",
+            "C": "Bovine pleuropneumonia",
+            "D": "Grass tetany"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Anna feels that she is confusing \"who\" and \"whom\" in her narrative. She wants to correct her error. Which of the following reference materials will best help Anna accomplish such a task?",
+        "answers": {
+            "A": "A dictionary",
+            "B": "A thesaurus",
+            "C": "A glossary",
+            "D": "A grammar guide"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Who co-founded Microsoft with Bill Gates?",
+        "answers": {
+            "A": "Steve Jobs",
+            "B": "Steve Wozniak",
+            "C": "Paul Williams",
+            "D": "Paul Allen"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is another way of writing-'six feet'?",
+        "answers": {
+            "A": "6'",
+            "B": "6",
+            "C": "6''",
+            "D": "6#"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "The maximum depth that plant roots can readily penetrate without encountering a restrictive soil layer is referred to as the",
+        "answers": {
+            "A": "effective depth",
+            "B": "depth to the subsoil",
+            "C": "depth to a parent material",
+            "D": "O horizon"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "How is 4:00 pm expressed in military time?",
+        "answers": {
+            "A": "1600",
+            "B": "4",
+            "C": "400",
+            "D": "4:00"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these is a member of the cucumber family?",
+        "answers": {
+            "A": "green pepper",
+            "B": "watermelon",
+            "C": "potato",
+            "D": "green bean"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A kindergarten teacher has students determine the following. \u201a\u00c4\u00a2 How many students are absent that day \u201a\u00c4\u00a2 If there are enough snack cups for each student to have one during snack time \u201a\u00c4\u00a2 How many balls are taken outside during recess and how many are brought back inside after recess. Which of the following concepts is most closely aligned with the determinations the teacher is having the students make?",
+        "answers": {
+            "A": "Classifying",
+            "B": "Counting",
+            "C": "Patterning",
+            "D": "Ordering"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "The dance known as the 'fandango' is of what origin?",
+        "answers": {
+            "A": "Australian",
+            "B": "African",
+            "C": "Native American",
+            "D": "Spanish"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Reindeer herding as an economic activity of the Sami in Norway is an example of which of the following types of diffusion?",
+        "answers": {
+            "A": "Stimulus",
+            "B": "Hierarchical",
+            "C": "Relocation",
+            "D": "Contagious"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these planets has no known moon?",
+        "answers": {
+            "A": "Neptune",
+            "B": "Mercury",
+            "C": "Mars",
+            "D": "Saturn"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In which kind of geometry is the sum of the angles inside a triangle exactly equal to 180 degrees?",
+        "answers": {
+            "A": "elliptical",
+            "B": "euclidean",
+            "C": "hyperbolic",
+            "D": "linear"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is a Dutch oven?",
+        "answers": {
+            "A": "a toaster oven",
+            "B": "a microwave",
+            "C": "a kettle pot",
+            "D": "a sauna"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "How many spikes are on the Statue of Liberty's crown?",
+        "answers": {
+            "A": "five",
+            "B": "seven",
+            "C": "nine",
+            "D": "thirteen"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "How many periods are there in an ice hockey game?",
+        "answers": {
+            "A": "One",
+            "B": "Two",
+            "C": "Three",
+            "D": "Four"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these evangelists is a cousin of rocker Jerry Lee Lewis?",
+        "answers": {
+            "A": "Billy Graham",
+            "B": "Oral Roberts",
+            "C": "Jerry Falwell",
+            "D": "Jimmy Swaggart"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Who sang lead vocals for the band Big Brother and the Holding Company?",
+        "answers": {
+            "A": "Grace Slick",
+            "B": "Janis Joplin",
+            "C": "Mama Cass",
+            "D": "Karen Carpenter"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these is not an ingredient in Yorkshire pudding?",
+        "answers": {
+            "A": "eggs",
+            "B": "milk",
+            "C": "chocolate",
+            "D": "meat drippings"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What percent of the observable universe has received radio transmissions from Earth?",
+        "answers": {
+            "A": "10^-24 %",
+            "B": "10^-29 %",
+            "C": "10^-34 %",
+            "D": "10^-39 %"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following statements is correct about a trophic structure in which a leaf-eating grasshopper is eaten by a frog, which in turn is eaten by a snake?",
+        "answers": {
+            "A": "The frog is a herbivore.",
+            "B": "The snake is a secondary consumer.",
+            "C": "The grasshopper is a primary consumer.",
+            "D": "The snakes outnumber the grasshoppers in the community."
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following materials has a resistance that is LEAST affected by temperature changes?",
+        "answers": {
+            "A": "Copper",
+            "B": "Carbon",
+            "C": "Germanium",
+            "D": "Silicon"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In 1909 Frederick Cook claimed to be the first explorer to reach what location?",
+        "answers": {
+            "A": "Mount Everest",
+            "B": "Bermuda Triangle",
+            "C": "Atlantis",
+            "D": "North Pole"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the slowest wind speed a hurricane can have according to the Saffir-Simpson scale?",
+        "answers": {
+            "A": "50 m.p.h.",
+            "B": "74 m.p.h.",
+            "C": "96 m.p.h.",
+            "D": "110 m.p.h."
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A preschool teacher is teaching students about a color wheel, which is an organization of hues around a circle. Red, yellow, and blue are examples of which of the following kinds of colors on the color wheel?",
+        "answers": {
+            "A": "Complementary",
+            "B": "Primary",
+            "C": "Secondary",
+            "D": "Tertiary"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these is a slang term for 'police'?",
+        "answers": {
+            "A": "fuzz",
+            "B": "shrinks",
+            "C": "bean counters",
+            "D": "aardvarks"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A prekindergarten teacher is planning a lesson with a teaching objective of categorizing geometric objects by type of shape. Which of the following actions must children be able to perform successfully before the teacher teaches the lesson?",
+        "answers": {
+            "A": "Identifying attributes of objects",
+            "B": "Recognizing the position of whole numbers",
+            "C": "Creating sets of objects using counters",
+            "D": "Matching values with their numerical representatives"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "If Christmas Day is on a Saturday then the following New Year's Day falls on what day of the week?",
+        "answers": {
+            "A": "Sunday",
+            "B": "Monday",
+            "C": "Friday",
+            "D": "Saturday"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What Mexican holiday takes place on May 5th?",
+        "answers": {
+            "A": "Mexican Independence Day",
+            "B": "Santa Anna's Birthday",
+            "C": "Cinco de Mayo",
+            "D": "Christmas"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these foods is not traditionally considered kosher?",
+        "answers": {
+            "A": "citrus fruits",
+            "B": "barley",
+            "C": "chicken",
+            "D": "shellfish"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Who wrote 'A Tale of Two Cities'?",
+        "answers": {
+            "A": "Charles Dickens",
+            "B": "Nathaniel Hawthorne",
+            "C": "Washington Irving",
+            "D": "Mark Twain"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following lists the gases that were most likely the largest components of Earth's early atmosphere?",
+        "answers": {
+            "A": "N_2 and O_3",
+            "B": "C_2H_4 and O_2",
+            "C": "Ne, Ar, Kr, and Rn",
+            "D": "N_2, H_2O, CO_2, CH_4, and NH_3"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A _ is a plant cell that helps control the passage of materials into and out of the stomates.",
+        "answers": {
+            "A": "Cell membrane",
+            "B": "Cytoplasm",
+            "C": "Guard cell",
+            "D": "Cellulose"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "How many keys are on a Standard piano?",
+        "answers": {
+            "A": "20",
+            "B": "54",
+            "C": "88",
+            "D": "100"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What famous radio personality was also the voice of Shaggy on the cartoon 'Scooby-Doo'?",
+        "answers": {
+            "A": "Rush Limbaugh",
+            "B": "Casey Kasem",
+            "C": "Larry King",
+            "D": "Howard Stern"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What country gave us the fashionable headgear called the beret?",
+        "answers": {
+            "A": "Switzerland",
+            "B": "China",
+            "C": "Mexico",
+            "D": "France"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following groups was converted to Christianity in the tenth century C.E. by missionaries from the Byzantine Empire?",
+        "answers": {
+            "A": "Franks",
+            "B": "Visigoths",
+            "C": "Russians",
+            "D": "Anglo-Saxons"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these holidays is not attached to a specific date?",
+        "answers": {
+            "A": "Independence Day",
+            "B": "New Year's Day",
+            "C": "Thanksgiving",
+            "D": "Christmas"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Who was not one of the Cartwright sons on the TV series 'Bonanza'?",
+        "answers": {
+            "A": "Adam",
+            "B": "Little Joe",
+            "C": "Hoss",
+            "D": "Ben"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "In what sport do you find 'steel cage' matches?",
+        "answers": {
+            "A": "boxing",
+            "B": "fencing",
+            "C": "pro wrestling",
+            "D": "college basketball"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Amps are a unit of measurement of what?",
+        "answers": {
+            "A": "electric charge",
+            "B": "electric current",
+            "C": "electric field strength",
+            "D": "electric potential"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What Greek poet wrote 'The Iliad' and 'The Odyssey'?",
+        "answers": {
+            "A": "Sophocles",
+            "B": "Plato",
+            "C": "Homer",
+            "D": "Socrates"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these is a fish?",
+        "answers": {
+            "A": "sea horse",
+            "B": "sea cow",
+            "C": "sea snake",
+            "D": "sea lion"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What are the Smothers Brothers'(first names?",
+        "answers": {
+            "A": "Frank and Bill",
+            "B": "Tom and Dick",
+            "C": "Dave and George",
+            "D": "Ed and Pete"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which actress played a pointy-eared Vulcan in the movie 'Star Trek II: The Wrath of Khan'?",
+        "answers": {
+            "A": "Whoopi Goldberg",
+            "B": "Jennifer Grey",
+            "C": "Kirstie Alley",
+            "D": "Helen Hunt"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "The total retail market value of all the goods and services produced in a nation, usually stated in annual terms, is the",
+        "answers": {
+            "A": "ratio of profit to sales",
+            "B": "current ratio",
+            "C": "gross domestic product",
+            "D": "trade surplus"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following is a renewable energy source?",
+        "answers": {
+            "A": "Wood",
+            "B": "Oil",
+            "C": "Natural gas",
+            "D": "Coal"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these painting tools has bristles on it?",
+        "answers": {
+            "A": "Easel",
+            "B": "Knife",
+            "C": "Brush",
+            "D": "Palette"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these animals lays eggs?",
+        "answers": {
+            "A": "cow",
+            "B": "gerbil",
+            "C": "frog",
+            "D": "elephant"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What animated character has a crush on the Little Red Haired Girl?",
+        "answers": {
+            "A": "Richie Rich",
+            "B": "Charlie Brown",
+            "C": "Bugs Bunny",
+            "D": "Jonny Quest"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What are the names of Donald Duck's three nephews?",
+        "answers": {
+            "A": "Quick Quack Quock",
+            "B": "Alvin Simon Theodore",
+            "C": "Robbie Chip Ernie",
+            "D": "Huey Dewey Louie"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these organs comes in A pair?",
+        "answers": {
+            "A": "liver",
+            "B": "kidney",
+            "C": "stomach",
+            "D": "gallbladder"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following protocols is usually associated with hyperinflation?",
+        "answers": {
+            "A": "A rapid decrease in total spending",
+            "B": "A rapid increase in money supply",
+            "C": "A slow increase in exports",
+            "D": "A slow increase in labor productivity"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Ballad opera, opera buffa and op\u00e9ra comique shared which feature?",
+        "answers": {
+            "A": "They contained da capo arias",
+            "B": "They began with a French overture.",
+            "C": "They focused on everyday problems.",
+            "D": "They contained obbligato recitative."
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "If a ring has the number 925 stamped into it it is most likely made of what material?",
+        "answers": {
+            "A": "platinum",
+            "B": "gold",
+            "C": "steel",
+            "D": "silver"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which movie popularized the phrase \"You talkin' to me?\"",
+        "answers": {
+            "A": "Ghost Busters",
+            "B": "Taxi Driver",
+            "C": "Joker",
+            "D": "Groundhog Day"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Mohair is made from the fleece of what animal?",
+        "answers": {
+            "A": "camel",
+            "B": "llama",
+            "C": "goat",
+            "D": "mole"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "An increase in the real interest rate in the United States relative to its trading partners will most likely result in which of the following?",
+        "answers": {
+            "A": "An increase in United States imports",
+            "B": "An increase in United States exports",
+            "C": "A decrease in the demand for the United States dollar",
+            "D": "A decrease in the United States trade deficit"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following is not a TV cartoon duo?",
+        "answers": {
+            "A": "Chip and Dale",
+            "B": "Beavis and Butt-head",
+            "C": "Simon and Garfunkel",
+            "D": "Tom and Jerry"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Who is the mythological Roman goddess of flowers?",
+        "answers": {
+            "A": "Diana",
+            "B": "Echo",
+            "C": "Flora",
+            "D": "Niobe"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "How many sides does a rhombus have?",
+        "answers": {
+            "A": "4",
+            "B": "6",
+            "C": "8",
+            "D": "10"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "How many digits are in a standard Visa credit card number?",
+        "answers": {
+            "A": "12",
+            "B": "15",
+            "C": "16",
+            "D": "20"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "A teacher reads aloud Where the Wild Things Are, a picture storybook in which a boy named Max encounters wild monsters that are vividly portrayed. The teacher then shows the students picture cards depicting scenes from the beginning, middle, and end of the story. Which of the following concepts of literary structure is the teacher helping students understand?",
+        "answers": {
+            "A": "Plot sequence",
+            "B": "Point of view",
+            "C": "Character development",
+            "D": "Setting"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "When FDR carried states in the presidential election of 1932 how many states did he not carry?",
+        "answers": {
+            "A": "six",
+            "B": "seven",
+            "C": "eight",
+            "D": "ten"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "If a business files under Chapter 11 what is it doing?",
+        "answers": {
+            "A": "declaring bankruptcy",
+            "B": "selling stock",
+            "C": "buying a smaller",
+            "D": "company suing the government"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "By what name is Bob Keeshan better known?",
+        "answers": {
+            "A": "Bozo the Clown",
+            "B": "Pee Wee Herman",
+            "C": "Captain Kangaroo",
+            "D": "Buffalo Bob"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following best defines federalism?",
+        "answers": {
+            "A": "A government in which the political leader is also the religious leader",
+            "B": "The concentration of government power in the hands of a small group of people",
+            "C": "The division of national power into different branches of government",
+            "D": "The division of a country's power into national and subnational units"
+        },
+        "correct_answer": "D",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following best helps explain why volcanoes tend to form along subduction zones?",
+        "answers": {
+            "A": "Rock material carried deep below Earth's surface results in material melting and rising to the surface.",
+            "B": "Two plates pull away from each other, and magma oozes out.",
+            "C": "The friction resulting from the collision of two continents causes rock to melt.",
+            "D": "There is a row of hot spots at these boundaries."
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these words is spelled correctly?",
+        "answers": {
+            "A": "decieve",
+            "B": "foriegn",
+            "C": "hygiene",
+            "D": "wierd"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following is an example of a chemical change?",
+        "answers": {
+            "A": "Tearing up a piece of paper",
+            "B": "Melting ice",
+            "C": "Mixing vinegar with baking soda",
+            "D": "Filling a balloon with air"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "How many stars are on the American flag?",
+        "answers": {
+            "A": "13",
+            "B": "48",
+            "C": "50",
+            "D": "51"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of the following is a likely outcome of the development and use of genetically modified plants?",
+        "answers": {
+            "A": "Reduced cost of plant seeds",
+            "B": "New plant varieties being patented",
+            "C": "Increased genetic diversity within a planted field",
+            "D": "Less oversight and fewer regulations than for unmodified crops"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Meat should be kept frozen at what temperature in degrees Fahrenheit?",
+        "answers": {
+            "A": "0 degrees or below",
+            "B": "between 10 and 20 degrees",
+            "C": "between 20 and 30 degrees",
+            "D": "just below 32 degrees"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What organelle is primarily responsible for photosynthesis?",
+        "answers": {
+            "A": "Nucleus",
+            "B": "Chloroplast",
+            "C": "Mitochondria",
+            "D": "Golgi Apparatus"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "How many airplanes are in the air worldwide right now (as of 2014)?",
+        "answers": {
+            "A": "5,000",
+            "B": "20,000",
+            "C": "80,000",
+            "D": "320,000"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What is the name of the Newtonian law that states 'An object in Motion tends to stay in motion'?",
+        "answers": {
+            "A": "Law of Inertia",
+            "B": "Law of Thermodynamics",
+            "C": "Law of Relativity",
+            "D": "Law of Gravitation"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "The nineteenth-century photographic process used to create a daguerreotype was notable for its",
+        "answers": {
+            "A": "quick exposure time",
+            "B": "ability to capture sharp detail",
+            "C": "capacity to be reproduced multiple times",
+            "D": "use of paper negatives"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these is an Italian Design firm?",
+        "answers": {
+            "A": "Escada",
+            "B": "Fendi",
+            "C": "Ghost",
+            "D": "Mainbocher"
+        },
+        "correct_answer": "B",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "When daylight-saving time arrives in the spring how do most Americans turn their clocks?",
+        "answers": {
+            "A": "one hour forward",
+            "B": "one hour backward",
+            "C": "two hours forward",
+            "D": "two hours backward"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "Which of these animals is a rodent?",
+        "answers": {
+            "A": "Bat",
+            "B": "Wolverine",
+            "C": "Beaver",
+            "D": "Koala"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "If you are watching a Shavian play who is the author?",
+        "answers": {
+            "A": "Shakespeare",
+            "B": "Aeschylus",
+            "C": "George Bernard Shaw",
+            "D": "Anton Chekhov"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What city did the Beatles originally call home?",
+        "answers": {
+            "A": "London",
+            "B": "Leeds",
+            "C": "Liverpool",
+            "D": "Manchester"
+        },
+        "correct_answer": "C",
+        "subject": "miscellaneous_test"
+    },
+    {
+        "question": "What part of the world was once known as Cathay?",
+        "answers": {
+            "A": "China",
+            "B": "India",
+            "C": "Iran",
+            "D": "Indonesia"
+        },
+        "correct_answer": "A",
+        "subject": "miscellaneous_test"
+    }
+]

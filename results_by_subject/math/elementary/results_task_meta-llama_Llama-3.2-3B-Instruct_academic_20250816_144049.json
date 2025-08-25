@@ -1,0 +1,1449 @@
+{
+  "total_questions": 100,
+  "correct": 23,
+  "wrong": 77,
+  "per_choice_stats": {
+    "D": {
+      "correct": 7,
+      "total": 25
+    },
+    "C": {
+      "correct": 2,
+      "total": 33
+    },
+    "B": {
+      "correct": 4,
+      "total": 18
+    },
+    "A": {
+      "correct": 10,
+      "total": 24
+    }
+  },
+  "confidence_when_correct": [
+    0.000644683837890625,
+    0.000247955322265625,
+    3.600120544433594e-05,
+    3.8623809814453125e-05,
+    0.0001239776611328125,
+    6.020069122314453e-06,
+    5.5789947509765625e-05,
+    7.390975952148438e-05,
+    4.792213439941406e-05,
+    4.792213439941406e-05,
+    6.467103958129883e-06,
+    0.00060272216796875,
+    0.00011873245239257812,
+    4.023313522338867e-06,
+    0.000637054443359375,
+    0.00010347366333007812,
+    4.6253204345703125e-05,
+    3.504753112792969e-05,
+    7.2479248046875e-05,
+    2.7298927307128906e-05,
+    0.00014781951904296875,
+    3.528594970703125e-05,
+    0.000518798828125
+  ],
+  "confidence_when_wrong": [
+    1.704692840576172e-05,
+    0.0001659393310546875,
+    6.580352783203125e-05,
+    3.7670135498046875e-05,
+    1.6570091247558594e-05,
+    1.4901161193847656e-05,
+    0.0019683837890625,
+    0.0045166015625,
+    6.67572021484375e-06,
+    0.000652313232421875,
+    3.409385681152344e-05,
+    1.0609626770019531e-05,
+    0.00014400482177734375,
+    0.00011873245239257812,
+    0.00017547607421875,
+    0.0002079010009765625,
+    1.239776611328125e-05,
+    0.00014019012451171875,
+    2.6971101760864258e-06,
+    5.364418029785156e-05,
+    0.00010776519775390625,
+    2.086162567138672e-05,
+    2.5153160095214844e-05,
+    6.771087646484375e-05,
+    4.673004150390625e-05,
+    3.0279159545898438e-05,
+    5.245208740234375e-05,
+    4.649162292480469e-05,
+    1.2099742889404297e-05,
+    0.0002727508544921875,
+    0.00020694732666015625,
+    3.0040740966796875e-05,
+    0.00038909912109375,
+    1.4603137969970703e-05,
+    9.5367431640625e-05,
+    3.6716461181640625e-05,
+    0.00115966796875,
+    3.0159950256347656e-05,
+    6.580352783203125e-05,
+    6.29425048828125e-05,
+    0.0002498626708984375,
+    1.4424324035644531e-05,
+    0.00010538101196289062,
+    1.4901161193847656e-06,
+    3.361701965332031e-05,
+    1.5497207641601562e-05,
+    5.030632019042969e-05,
+    0.0001316070556640625,
+    6.4373016357421875e-06,
+    4.0531158447265625e-05,
+    2.8014183044433594e-05,
+    3.0994415283203125e-05,
+    1.8715858459472656e-05,
+    0.00046539306640625,
+    0.00022125244140625,
+    0.000560760498046875,
+    0.000667572021484375,
+    2.0742416381835938e-05,
+    1.4483928680419922e-05,
+    5.340576171875e-05,
+    0.0003681182861328125,
+    4.601478576660156e-05,
+    8.52346420288086e-06,
+    2.8252601623535156e-05,
+    0.00023174285888671875,
+    2.956390380859375e-05,
+    9.179115295410156e-06,
+    4.553794860839844e-05,
+    5.245208740234375e-06,
+    5.7220458984375e-05,
+    9.441375732421875e-05,
+    4.0531158447265625e-05,
+    0.0003871917724609375,
+    4.172325134277344e-05,
+    0.00019073486328125,
+    0.00012302398681640625,
+    1.9550323486328125e-05
+  ],
+  "all_results": [
+    {
+      "question": "The American flag is usually made with its width and length in the ratio of 10 to 19. Which dimensions are in the correct ratio for the flag?",
+      "choices": {
+        "A": "30 ft by 53 ft",
+        "B": "27 ft by 53 ft",
+        "C": "27 in. by 57 in.",
+        "D": "30 in. by 57 in."
+      },
+      "answer": "D",
+      "confidence": 0.000644683837890625,
+      "correct_answer": "D",
+      "prompt_used": "Determine the correct choice based on logical and factual alignment.\nHere follows the problem statement.: The American flag is usually made with its width and length in the ratio of 10 to 19. Which dimensions are in the correct ratio for the flag?\nA finite set of responses is provided.: (A) 30 ft by 53 ft\n(B) 27 ft by 53 ft\n(C) 27 in. by 57 in.\n(D) 30 in. by 57 in.\n \nSubmit your considered response.:"
+    },
+    {
+      "question": "Sheila has been given 5 minutes to solve 20 arithmetic problems. What is the minimum rate Sheila can work in order to finish in time?",
+      "choices": {
+        "A": "1 problem per minute",
+        "B": "2 problems per minute",
+        "C": "4 problems per minute",
+        "D": "5 problems per minute"
+      },
+      "answer": "B",
+      "confidence": 1.704692840576172e-05,
+      "correct_answer": "C",
+      "prompt_used": "Analyze the question and evaluate four possible answers (A, B, C, D). Select the one with the highest empirical validity.\nThis is the scholarly query under examination.: Sheila has been given 5 minutes to solve 20 arithmetic problems. What is the minimum rate Sheila can work in order to finish in time?\nMultiple potential answers are included.: (A) 1 problem per minute\n(B) 2 problems per minute\n(C) 4 problems per minute\n(D) 5 problems per minute\n \nOffer the correct alternative.:"
+    },
+    {
+      "question": "Solve 3 over 4 * x = 24.",
+      "choices": {
+        "A": "18",
+        "B": "32",
+        "C": "72",
+        "D": "96"
+      },
+      "answer": "D",
+      "confidence": 0.0001659393310546875,
+      "correct_answer": "B",
+      "prompt_used": "Review the prompt and four options (A, B, C, D). Select the one supported by the strongest evidence.\nThe central question is as follows.: Solve 3 over 4 * x = 24.\nThe following four options are considered:: (A) 18\n(B) 32\n(C) 72\n(D) 96\n \nRecord your definitive conclusion.:"
+    },
+    {
+      "question": "Solve the equation x + 71 = \u221222.",
+      "choices": {
+        "A": "\u221293",
+        "B": "\u221249",
+        "C": "49",
+        "D": "93"
+      },
+      "answer": "D",
+      "confidence": 6.580352783203125e-05,
+      "correct_answer": "A",
+      "prompt_used": "Examine all provided responses and select the one most consistent with empirical data.\nThe following constitutes the posed inquiry.: Solve the equation x + 71 = \u221222.\nReference the provided answer set.: (A) \u221293\n(B) \u221249\n(C) 49\n(D) 93\n \nRecord your definitive conclusion.:"
+    },
+    {
+      "question": "What is 836 rounded to the nearest 10?",
+      "choices": {
+        "A": "800",
+        "B": "830",
+        "C": "840",
+        "D": "870"
+      },
+      "answer": "D",
+      "confidence": 3.7670135498046875e-05,
+      "correct_answer": "C",
+      "prompt_used": "Determine the correct choice based on logical and factual alignment.\nHere follows the problem statement.: What is 836 rounded to the nearest 10?\nRefer to the enumerated alternatives.: (A) 800\n(B) 830\n(C) 840\n(D) 870\n \nArticulate the most accurate conclusion.:"
+    },
+    {
+      "question": "Write 11 \u2022 11 \u2022 11 \u2022 11 \u2022 11 \u2022 11 \u2022 11 \u2022 11 using exponents.",
+      "choices": {
+        "A": "11 \u2022 8",
+        "B": "88^3",
+        "C": "8^11",
+        "D": "11^8"
+      },
+      "answer": "A",
+      "confidence": 1.6570091247558594e-05,
+      "correct_answer": "D",
+      "prompt_used": "From the provided query and four candidate answers (A, B, C, D), determine the one most consistent with established theory.\nHere follows the problem statement.: Write 11 \u2022 11 \u2022 11 \u2022 11 \u2022 11 \u2022 11 \u2022 11 \u2022 11 using exponents.\nA finite set of responses is provided.: (A) 11 \u2022 8\n(B) 88^3\n(C) 8^11\n(D) 11^8\n \nArticulate the most accurate conclusion.:"
+    },
+    {
+      "question": "A bulletin board can be covered completely by 30 square pieces of paper without any gaps or overlaps. If each piece of paper has side lengths of 1 foot, what is the total area of the bulletin board?",
+      "choices": {
+        "A": "1 foot",
+        "B": "30 feet",
+        "C": "1 square foot",
+        "D": "30 square feet"
+      },
+      "answer": "D",
+      "confidence": 0.000247955322265625,
+      "correct_answer": "D",
+      "prompt_used": "Determine the correct choice based on logical and factual alignment.\nThe problem to solve is presented thus.: A bulletin board can be covered completely by 30 square pieces of paper without any gaps or overlaps. If each piece of paper has side lengths of 1 foot, what is the total area of the bulletin board?\nMultiple potential answers are included.: (A) 1 foot\n(B) 30 feet\n(C) 1 square foot\n(D) 30 square feet\n \nRecord your definitive conclusion.:"
+    },
+    {
+      "question": "There were 6 rows of chairs set up for a meeting. Each row had 8 chairs. What was the total number of chairs set up for the meeting?",
+      "choices": {
+        "A": "14",
+        "B": "36",
+        "C": "48",
+        "D": "64"
+      },
+      "answer": "A",
+      "confidence": 1.4901161193847656e-05,
+      "correct_answer": "C",
+      "prompt_used": "Choose the response with the greatest theoretical support.\nThe following constitutes the posed inquiry.: There were 6 rows of chairs set up for a meeting. Each row had 8 chairs. What was the total number of chairs set up for the meeting?\nA finite set of responses is provided.: (A) 14\n(B) 36\n(C) 48\n(D) 64\n \nDocument your chosen response.:"
+    },
+    {
+      "question": "Peter is in a group of 25 people. All 25 people went fishing in boats. There were 5 people in each boat. How can Peter find the number of boats the group used?",
+      "choices": {
+        "A": "Add 5 to 25",
+        "B": "Divide 25 by 5",
+        "C": "Multiply 25 by 5",
+        "D": "Subtract 5 from 25"
+      },
+      "answer": "C",
+      "confidence": 0.0019683837890625,
+      "correct_answer": "B",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThe inquiry is as presented below.: Peter is in a group of 25 people. All 25 people went fishing in boats. There were 5 people in each boat. How can Peter find the number of boats the group used?\nThe possible solutions are detailed herein.: (A) Add 5 to 25\n(B) Divide 25 by 5\n(C) Multiply 25 by 5\n(D) Subtract 5 from 25\n \nOffer the correct alternative.:"
+    },
+    {
+      "question": "Estimate 711 + 497. The sum is between which numbers?",
+      "choices": {
+        "A": "50 and 400",
+        "B": "450 and 700",
+        "C": "750 and 1,000",
+        "D": "1,050 and 1,300"
+      },
+      "answer": "A",
+      "confidence": 0.0045166015625,
+      "correct_answer": "D",
+      "prompt_used": "Determine the correct choice based on logical and factual alignment.\nThe problem to solve is presented thus.: Estimate 711 + 497. The sum is between which numbers?\nThe following four options are considered:: (A) 50 and 400\n(B) 450 and 700\n(C) 750 and 1,000\n(D) 1,050 and 1,300\n \nIndicate the correct resolution.:"
+    },
+    {
+      "question": "Write 8 and 2 over 4 as an improper fraction in simplest form.",
+      "choices": {
+        "A": "17 over 2",
+        "B": "34 over 4",
+        "C": "17 over 4",
+        "D": "19 over 2"
+      },
+      "answer": "A",
+      "confidence": 3.600120544433594e-05,
+      "correct_answer": "A",
+      "prompt_used": "Identify the answer that most accurately reflects established knowledge.\nPresented here is the investigative prompt.: Write 8 and 2 over 4 as an improper fraction in simplest form.\nA finite set of responses is provided.: (A) 17 over 2\n(B) 34 over 4\n(C) 17 over 4\n(D) 19 over 2\n \nSubmit your formal answer.:"
+    },
+    {
+      "question": "Identify a solution for the equation 5x \u2212 5 = \u221210 from the given numbers.",
+      "choices": {
+        "A": "\u22121",
+        "B": "\u22126",
+        "C": "\u22124",
+        "D": "\u22123"
+      },
+      "answer": "D",
+      "confidence": 6.67572021484375e-06,
+      "correct_answer": "A",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nHere follows the problem statement.: Identify a solution for the equation 5x \u2212 5 = \u221210 from the given numbers.\nRefer to the enumerated alternatives.: (A) \u22121\n(B) \u22126\n(C) \u22124\n(D) \u22123\n \nOffer the correct alternative.:"
+    },
+    {
+      "question": "Marcus spent $3.25 to wash his car. If one quarter operates the car wash for 60 seconds, how long did it take him to wash his car?",
+      "choices": {
+        "A": "10 minutes",
+        "B": "13 minutes",
+        "C": "16 minutes",
+        "D": "32.5 minutes"
+      },
+      "answer": "D",
+      "confidence": 0.000652313232421875,
+      "correct_answer": "B",
+      "prompt_used": "From the provided query and four candidate answers (A, B, C, D), determine the one most consistent with established theory.\nThe matter for academic consideration is:: Marcus spent $3.25 to wash his car. If one quarter operates the car wash for 60 seconds, how long did it take him to wash his car?\nThe possible solutions are detailed herein.: (A) 10 minutes\n(B) 13 minutes\n(C) 16 minutes\n(D) 32.5 minutes\n \nRecord your definitive conclusion.:"
+    },
+    {
+      "question": "John\u2019s friend told him that he could earn $49 for handing out flyers at a local concert. John wants to calculate the hourly rate, If he works a total of 3.5 hours, the equation 3.5x = 49 can be used to determine his hourly rate. What would John\u2019s hourly rate be, in dollars?",
+      "choices": {
+        "A": "$1.40",
+        "B": "$14.00",
+        "C": "$45.50",
+        "D": "$171.50"
+      },
+      "answer": "D",
+      "confidence": 3.409385681152344e-05,
+      "correct_answer": "B",
+      "prompt_used": "Analyze the question and evaluate four possible answers (A, B, C, D). Select the one with the highest empirical validity.\nThe inquiry is as presented below.: John\u2019s friend told him that he could earn $49 for handing out flyers at a local concert. John wants to calculate the hourly rate, If he works a total of 3.5 hours, the equation 3.5x = 49 can be used to determine his hourly rate. What would John\u2019s hourly rate be, in dollars?\nRefer to the enumerated alternatives.: (A) $1.40\n(B) $14.00\n(C) $45.50\n(D) $171.50\n \nIndicate the correct resolution.:"
+    },
+    {
+      "question": "Ms. Ling has been living in her home for exactly 4 years. She knows that there are 12 months in each year. She found the total number of months, m, she has been living in her home by using the number sentence below. 4 \u00d7 12 = m Which number sentence shows another way to find the total number of months, m, Ms. Ling has been living in her home?",
+      "choices": {
+        "A": "12 \u00f7 m = 4",
+        "B": "m \u00d7 4 = 12",
+        "C": "12 \u2013 m = 4",
+        "D": "m \u00f7 4 = 12"
+      },
+      "answer": "A",
+      "confidence": 1.0609626770019531e-05,
+      "correct_answer": "D",
+      "prompt_used": "Review the prompt and four options (A, B, C, D). Select the one supported by the strongest evidence.\nThis is the scholarly query under examination.: Ms. Ling has been living in her home for exactly 4 years. She knows that there are 12 months in each year. She found the total number of months, m, she has been living in her home by using the number sentence below. 4 \u00d7 12 = m Which number sentence shows another way to find the total number of months, m, Ms. Ling has been living in her home?\nYour possible selections are outlined herein.: (A) 12 \u00f7 m = 4\n(B) m \u00d7 4 = 12\n(C) 12 \u2013 m = 4\n(D) m \u00f7 4 = 12\n \nArticulate the most accurate conclusion.:"
+    },
+    {
+      "question": "A store has 3 boxes of shirts. Each box has 4 packages with 7 shirts in each package. The expression 3 \u00d7 (4 \u00d7 7) can be used to find the total number of shirts. Which expression can also be used to find the total number of shirts?",
+      "choices": {
+        "A": "12 \u00d7 3",
+        "B": "12 \u00d7 7",
+        "C": "28 \u00d7 4",
+        "D": "28 \u00d7 7"
+      },
+      "answer": "A",
+      "confidence": 0.00014400482177734375,
+      "correct_answer": "B",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThe problem to solve is presented thus.: A store has 3 boxes of shirts. Each box has 4 packages with 7 shirts in each package. The expression 3 \u00d7 (4 \u00d7 7) can be used to find the total number of shirts. Which expression can also be used to find the total number of shirts?\nYour possible selections are outlined herein.: (A) 12 \u00d7 3\n(B) 12 \u00d7 7\n(C) 28 \u00d7 4\n(D) 28 \u00d7 7\n \nSubmit your considered response.:"
+    },
+    {
+      "question": "What is the value of the expression 2,816 x 7?",
+      "choices": {
+        "A": "14,572",
+        "B": "14,672",
+        "C": "19,612",
+        "D": "19,712"
+      },
+      "answer": "A",
+      "confidence": 0.00011873245239257812,
+      "correct_answer": "D",
+      "prompt_used": "Determine the correct choice based on logical and factual alignment.\nThe central question is as follows.: What is the value of the expression 2,816 x 7?\nEnumerated options are provided.: (A) 14,572\n(B) 14,672\n(C) 19,612\n(D) 19,712\n \nArticulate the most accurate conclusion.:"
+    },
+    {
+      "question": "Find the opposite of the number \u22127.",
+      "choices": {
+        "A": "7",
+        "B": "\u22127",
+        "C": "0.7",
+        "D": "\u22127.7"
+      },
+      "answer": "A",
+      "confidence": 3.8623809814453125e-05,
+      "correct_answer": "A",
+      "prompt_used": "Determine the correct choice based on logical and factual alignment.\nThis constitutes the inquiry.: Find the opposite of the number \u22127.\nThe listed alternatives are given below.: (A) 7\n(B) \u22127\n(C) 0.7\n(D) \u22127.7\n \nState the academically sound choice.:"
+    },
+    {
+      "question": "Use the expression below to answer the question. 3 \u00d7 [(2 \u00d7 6 \u2013 5) + (8 \u00f7 4)] \u2013 1 What is the value of the expression?",
+      "choices": {
+        "A": "9",
+        "B": "11",
+        "C": "26",
+        "D": "32"
+      },
+      "answer": "A",
+      "confidence": 0.00017547607421875,
+      "correct_answer": "C",
+      "prompt_used": "Review the prompt and four options (A, B, C, D). Select the one supported by the strongest evidence.\nThe inquiry is as presented below.: Use the expression below to answer the question. 3 \u00d7 [(2 \u00d7 6 \u2013 5) + (8 \u00f7 4)] \u2013 1 What is the value of the expression?\nThe possible solutions are detailed herein.: (A) 9\n(B) 11\n(C) 26\n(D) 32\n \nIndicate the correct resolution.:"
+    },
+    {
+      "question": "A store manager orders shirts from their warehouse. The shirts are packed into boxes and sentto the store, as described below. 81 shirts are ordered. Each shipping box holds 9 shirts. How many shipping boxes are needed for all of the shirts ordered?",
+      "choices": {
+        "A": "8",
+        "B": "9",
+        "C": "72",
+        "D": "90"
+      },
+      "answer": "B",
+      "confidence": 0.0001239776611328125,
+      "correct_answer": "B",
+      "prompt_used": "From the provided query and four candidate answers (A, B, C, D), determine the one most consistent with established theory.\nThis is the primary research question.: A store manager orders shirts from their warehouse. The shirts are packed into boxes and sentto the store, as described below. 81 shirts are ordered. Each shipping box holds 9 shirts. How many shipping boxes are needed for all of the shirts ordered?\nEnumerated options are provided.: (A) 8\n(B) 9\n(C) 72\n(D) 90\n \nState the academically sound choice.:"
+    },
+    {
+      "question": "Write 4 and 4 over 5 as an improper fraction.",
+      "choices": {
+        "A": "28 over 5",
+        "B": "4 over 5",
+        "C": "24 over 5",
+        "D": "20 over 5"
+      },
+      "answer": "A",
+      "confidence": 0.0002079010009765625,
+      "correct_answer": "C",
+      "prompt_used": "Analyze the question and evaluate four possible answers (A, B, C, D). Select the one with the highest empirical validity.\nHere follows the problem statement.: Write 4 and 4 over 5 as an improper fraction.\nThe following four options are considered:: (A) 28 over 5\n(B) 4 over 5\n(C) 24 over 5\n(D) 20 over 5\n \nOffer the correct alternative.:"
+    },
+    {
+      "question": "Molly got a haircut for $25 and she left a 15% tip. What was Molly\u2019s final cost?",
+      "choices": {
+        "A": "$25.15",
+        "B": "$26.50",
+        "C": "$27.50",
+        "D": "$28.75"
+      },
+      "answer": "A",
+      "confidence": 1.239776611328125e-05,
+      "correct_answer": "D",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThe inquiry is as presented below.: Molly got a haircut for $25 and she left a 15% tip. What was Molly\u2019s final cost?\nYour possible selections are outlined herein.: (A) $25.15\n(B) $26.50\n(C) $27.50\n(D) $28.75\n \nDocument your chosen response.:"
+    },
+    {
+      "question": "There are 7 desks arranged in a row in Mr. Thompson\u2019s classroom. Hector sits 2 seats to the right of Kim. Tonya sits 3 seats to the right of Hector. How many seats to the left of Tonya does Kim sit?",
+      "choices": {
+        "A": "2",
+        "B": "3",
+        "C": "5",
+        "D": "12"
+      },
+      "answer": "C",
+      "confidence": 6.020069122314453e-06,
+      "correct_answer": "C",
+      "prompt_used": "Analyze the question and evaluate four possible answers (A, B, C, D). Select the one with the highest empirical validity.\nPresented here is the investigative prompt.: There are 7 desks arranged in a row in Mr. Thompson\u2019s classroom. Hector sits 2 seats to the right of Kim. Tonya sits 3 seats to the right of Hector. How many seats to the left of Tonya does Kim sit?\nThe listed alternatives are given below.: (A) 2\n(B) 3\n(C) 5\n(D) 12\n \nOffer the correct alternative.:"
+    },
+    {
+      "question": "A scientist studied the migration patterns of two types of whales. The humpback whales traveled 2,240 miles in 28 days. The gray whales traveled 2,368 miles in 32 days. If the humpback whales had traveled at the same rate for 32 days, how many more miles would they have traveled than the gray whales?",
+      "choices": {
+        "A": "128",
+        "B": "192",
+        "C": "280",
+        "D": "408"
+      },
+      "answer": "D",
+      "confidence": 0.00014019012451171875,
+      "correct_answer": "B",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThe matter for academic consideration is:: A scientist studied the migration patterns of two types of whales. The humpback whales traveled 2,240 miles in 28 days. The gray whales traveled 2,368 miles in 32 days. If the humpback whales had traveled at the same rate for 32 days, how many more miles would they have traveled than the gray whales?\nA finite set of responses is provided.: (A) 128\n(B) 192\n(C) 280\n(D) 408\n \nSubmit your formal answer.:"
+    },
+    {
+      "question": "Use the Associative Property of Multiplication to simplify 8 \u2022 (\u22127) \u2022 (\u22121).",
+      "choices": {
+        "A": "\u221263",
+        "B": "56",
+        "C": "48",
+        "D": "\u221256"
+      },
+      "answer": "D",
+      "confidence": 2.6971101760864258e-06,
+      "correct_answer": "A",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nThe matter for academic consideration is:: Use the Associative Property of Multiplication to simplify 8 \u2022 (\u22127) \u2022 (\u22121).\nReference the provided answer set.: (A) \u221263\n(B) 56\n(C) 48\n(D) \u221256\n \nPresent your evidence-based selection.:"
+    },
+    {
+      "question": "A student has 3 puzzles. Each puzzle has 1,250 pieces. What is the total number of pieces in the puzzles?",
+      "choices": {
+        "A": "3,650",
+        "B": "3,750",
+        "C": "4,650",
+        "D": "4,750"
+      },
+      "answer": "A",
+      "confidence": 5.364418029785156e-05,
+      "correct_answer": "B",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThe problem to solve is presented thus.: A student has 3 puzzles. Each puzzle has 1,250 pieces. What is the total number of pieces in the puzzles?\nA finite set of responses is provided.: (A) 3,650\n(B) 3,750\n(C) 4,650\n(D) 4,750\n \nArticulate the most accurate conclusion.:"
+    },
+    {
+      "question": "What is the value of the expression 28 x 42?",
+      "choices": {
+        "A": "420",
+        "B": "816",
+        "C": "1,166",
+        "D": "1,176"
+      },
+      "answer": "A",
+      "confidence": 0.00010776519775390625,
+      "correct_answer": "D",
+      "prompt_used": "Examine all provided responses and select the one most consistent with empirical data.\nThis is the primary research question.: What is the value of the expression 28 x 42?\nRefer to the enumerated alternatives.: (A) 420\n(B) 816\n(C) 1,166\n(D) 1,176\n \nSubmit your formal answer.:"
+    },
+    {
+      "question": "Find the LCM of 24 and 36.",
+      "choices": {
+        "A": "96",
+        "B": "144",
+        "C": "72",
+        "D": "120"
+      },
+      "answer": "A",
+      "confidence": 2.086162567138672e-05,
+      "correct_answer": "C",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThe following constitutes the posed inquiry.: Find the LCM of 24 and 36.\nEnumerated options are provided.: (A) 96\n(B) 144\n(C) 72\n(D) 120\n \nDocument your chosen response.:"
+    },
+    {
+      "question": "Rich measures the width of one cardboard strip as 5 over 6 ft. A second cardboard strip is 2 over 3 ft wide. Estimate the combined width of the cardboard strips.",
+      "choices": {
+        "A": "2 ft",
+        "B": "1 and 1 over 2 ft",
+        "C": "1 ft",
+        "D": "3 ft"
+      },
+      "answer": "A",
+      "confidence": 2.5153160095214844e-05,
+      "correct_answer": "B",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nThe inquiry is as presented below.: Rich measures the width of one cardboard strip as 5 over 6 ft. A second cardboard strip is 2 over 3 ft wide. Estimate the combined width of the cardboard strips.\nThe possible solutions are detailed herein.: (A) 2 ft\n(B) 1 and 1 over 2 ft\n(C) 1 ft\n(D) 3 ft\n \nDocument your chosen response.:"
+    },
+    {
+      "question": "Pat bounces a basketball 25 times in 30 seconds. At that rate, approximately how many times will Pat bounce the ball in 150 seconds?",
+      "choices": {
+        "A": "120",
+        "B": "125",
+        "C": "144",
+        "D": "145"
+      },
+      "answer": "C",
+      "confidence": 6.771087646484375e-05,
+      "correct_answer": "B",
+      "prompt_used": "Examine all provided responses and select the one most consistent with empirical data.\nThe inquiry is as presented below.: Pat bounces a basketball 25 times in 30 seconds. At that rate, approximately how many times will Pat bounce the ball in 150 seconds?\nYour possible selections are outlined herein.: (A) 120\n(B) 125\n(C) 144\n(D) 145\n \nIndicate the correct resolution.:"
+    },
+    {
+      "question": "Which measurement would best be rounded to the nearest thousand?",
+      "choices": {
+        "A": "The length of a football field in yards",
+        "B": "The height of a professional football player in inches",
+        "C": "The number of people at a professional football game",
+        "D": "The weight of a professional football player in pounds"
+      },
+      "answer": "D",
+      "confidence": 4.673004150390625e-05,
+      "correct_answer": "C",
+      "prompt_used": "From the provided query and four candidate answers (A, B, C, D), determine the one most consistent with established theory.\nThe central question is as follows.: Which measurement would best be rounded to the nearest thousand?\nConsider the enumerated alternatives.: (A) The length of a football field in yards\n(B) The height of a professional football player in inches\n(C) The number of people at a professional football game\n(D) The weight of a professional football player in pounds\n \nOffer the correct alternative.:"
+    },
+    {
+      "question": "Find the value of the expression \u221225 \u2212 (\u221211).",
+      "choices": {
+        "A": "\u221236",
+        "B": "\u221214",
+        "C": "14",
+        "D": "36"
+      },
+      "answer": "B",
+      "confidence": 3.0279159545898438e-05,
+      "correct_answer": "C",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nThe inquiry is as presented below.: Find the value of the expression \u221225 \u2212 (\u221211).\nA finite set of responses is provided.: (A) \u221236\n(B) \u221214\n(C) 14\n(D) 36\n \nRecord your definitive conclusion.:"
+    },
+    {
+      "question": "Which algebraic expression represents four times the quantity 22 less than x?",
+      "choices": {
+        "A": "4(x \u2013 22)",
+        "B": "(4 \u2022 22) \u2013 x",
+        "C": "4(22 \u2013 x)",
+        "D": "(x \u2022 4) \u2013 22"
+      },
+      "answer": "D",
+      "confidence": 5.245208740234375e-05,
+      "correct_answer": "A",
+      "prompt_used": "Examine all provided responses and select the one most consistent with empirical data.\nThe inquiry is as presented below.: Which algebraic expression represents four times the quantity 22 less than x?\nThe following four options are considered:: (A) 4(x \u2013 22)\n(B) (4 \u2022 22) \u2013 x\n(C) 4(22 \u2013 x)\n(D) (x \u2022 4) \u2013 22\n \nOffer the correct alternative.:"
+    },
+    {
+      "question": "Find the number that makes the statement 12 over 18 = ? over 9 true.",
+      "choices": {
+        "A": "4",
+        "B": "6",
+        "C": "8",
+        "D": "12"
+      },
+      "answer": "D",
+      "confidence": 4.649162292480469e-05,
+      "correct_answer": "A",
+      "prompt_used": "Choose the response with the greatest theoretical support.\nThe problem to solve is presented thus.: Find the number that makes the statement 12 over 18 = ? over 9 true.\nA finite set of responses is provided.: (A) 4\n(B) 6\n(C) 8\n(D) 12\n \nSubmit your formal answer.:"
+    },
+    {
+      "question": "Which list of numbers is ordered from least to greatest?",
+      "choices": {
+        "A": "167,213, 161,455, 17,400, 11,633",
+        "B": "10,354, 10,600, 104,321, 106,213",
+        "C": "160,233, 171,141, 11,645, 16,703",
+        "D": "12,209, 12,902, 125,466, 125,464"
+      },
+      "answer": "B",
+      "confidence": 5.5789947509765625e-05,
+      "correct_answer": "B",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nThis constitutes the inquiry.: Which list of numbers is ordered from least to greatest?\nThe possible solutions are detailed herein.: (A) 167,213, 161,455, 17,400, 11,633\n(B) 10,354, 10,600, 104,321, 106,213\n(C) 160,233, 171,141, 11,645, 16,703\n(D) 12,209, 12,902, 125,466, 125,464\n \nState the academically sound choice.:"
+    },
+    {
+      "question": "What is 0.3 \u00d7 427?",
+      "choices": {
+        "A": "0.1281",
+        "B": "1.281",
+        "C": "12.81",
+        "D": "128.1"
+      },
+      "answer": "C",
+      "confidence": 1.2099742889404297e-05,
+      "correct_answer": "D",
+      "prompt_used": "Determine the correct choice based on logical and factual alignment.\nHere follows the problem statement.: What is 0.3 \u00d7 427?\nThe listed alternatives are given below.: (A) 0.1281\n(B) 1.281\n(C) 12.81\n(D) 128.1\n \nOffer the correct alternative.:"
+    },
+    {
+      "question": "What does the p equal in 3 + p = 15?",
+      "choices": {
+        "A": "3",
+        "B": "5",
+        "C": "12",
+        "D": "18"
+      },
+      "answer": "A",
+      "confidence": 0.0002727508544921875,
+      "correct_answer": "C",
+      "prompt_used": "Analyze the question and evaluate four possible answers (A, B, C, D). Select the one with the highest empirical validity.\nHere follows the problem statement.: What does the p equal in 3 + p = 15?\nThe possible solutions are detailed herein.: (A) 3\n(B) 5\n(C) 12\n(D) 18\n \nProvide the substantiated response.:"
+    },
+    {
+      "question": "Find the product of \u22128 \u2022 (\u22124).",
+      "choices": {
+        "A": "\u22124",
+        "B": "4",
+        "C": "32",
+        "D": "\u221232"
+      },
+      "answer": "D",
+      "confidence": 0.00020694732666015625,
+      "correct_answer": "C",
+      "prompt_used": "From the provided query and four candidate answers (A, B, C, D), determine the one most consistent with established theory.\nThe inquiry is as presented below.: Find the product of \u22128 \u2022 (\u22124).\nYour possible selections are outlined herein.: (A) \u22124\n(B) 4\n(C) 32\n(D) \u221232\n \nProvide the substantiated response.:"
+    },
+    {
+      "question": "Identify a solution for the equation x + 2.7 = 8.4 from the given numbers.",
+      "choices": {
+        "A": "11.1",
+        "B": "5.7",
+        "C": "3.7",
+        "D": "22.68"
+      },
+      "answer": "A",
+      "confidence": 3.0040740966796875e-05,
+      "correct_answer": "B",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThe central question is as follows.: Identify a solution for the equation x + 2.7 = 8.4 from the given numbers.\nConsider the enumerated alternatives.: (A) 11.1\n(B) 5.7\n(C) 3.7\n(D) 22.68\n \nOffer the correct alternative.:"
+    },
+    {
+      "question": "Find the value of 6 \u2022 24 \u00f7 (8 \u2212 5).",
+      "choices": {
+        "A": "48",
+        "B": "13",
+        "C": "\u221213",
+        "D": "54"
+      },
+      "answer": "A",
+      "confidence": 7.390975952148438e-05,
+      "correct_answer": "A",
+      "prompt_used": "Apply critical reasoning to select the correct choice.\nThe problem to solve is presented thus.: Find the value of 6 \u2022 24 \u00f7 (8 \u2212 5).\nConsider the enumerated alternatives.: (A) 48\n(B) 13\n(C) \u221213\n(D) 54\n \nIndicate the correct resolution.:"
+    },
+    {
+      "question": "Write 27 over 36 in simplest form.",
+      "choices": {
+        "A": "3 over 4",
+        "B": "2 over 3",
+        "C": "3 over 5",
+        "D": "1 over 5"
+      },
+      "answer": "D",
+      "confidence": 0.00038909912109375,
+      "correct_answer": "A",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nThis constitutes the inquiry.: Write 27 over 36 in simplest form.\nThe following four options are considered:: (A) 3 over 4\n(B) 2 over 3\n(C) 3 over 5\n(D) 1 over 5\n \nRecord your definitive conclusion.:"
+    },
+    {
+      "question": "In which set do all of the values make the inequality 2x \u2014 1 < 10 true?",
+      "choices": {
+        "A": "{10, 15, 20}",
+        "B": "{5, 7, 9}",
+        "C": "{4, 6, 8}",
+        "D": "{2, 3, 4}"
+      },
+      "answer": "A",
+      "confidence": 1.4603137969970703e-05,
+      "correct_answer": "D",
+      "prompt_used": "Review the prompt and four options (A, B, C, D). Select the one supported by the strongest evidence.\nPresented here is the investigative prompt.: In which set do all of the values make the inequality 2x \u2014 1 < 10 true?\nEnumerated options are provided.: (A) {10, 15, 20}\n(B) {5, 7, 9}\n(C) {4, 6, 8}\n(D) {2, 3, 4}\n \nPresent your evidence-based selection.:"
+    },
+    {
+      "question": "Lucy is making gift baskets. She puts 3 apples in each gift basket. Which number sentence shows how to find the total number of gift baskets, b, Lucy can make with 24 apples?",
+      "choices": {
+        "A": "24 + 3 = b",
+        "B": "3 + b = 24",
+        "C": "24 \u00f7 b = 3",
+        "D": "3 \u00d7 24 = b"
+      },
+      "answer": "D",
+      "confidence": 9.5367431640625e-05,
+      "correct_answer": "C",
+      "prompt_used": "Choose the response with the greatest theoretical support.\nThe central question is as follows.: Lucy is making gift baskets. She puts 3 apples in each gift basket. Which number sentence shows how to find the total number of gift baskets, b, Lucy can make with 24 apples?\nYour possible selections are outlined herein.: (A) 24 + 3 = b\n(B) 3 + b = 24\n(C) 24 \u00f7 b = 3\n(D) 3 \u00d7 24 = b\n \nProvide the substantiated response.:"
+    },
+    {
+      "question": "Compute 22 / 2 + 9.",
+      "choices": {
+        "A": "10",
+        "B": "11",
+        "C": "20",
+        "D": "2"
+      },
+      "answer": "D",
+      "confidence": 3.6716461181640625e-05,
+      "correct_answer": "C",
+      "prompt_used": "Choose the response with the greatest theoretical support.\nThis is the scholarly query under examination.: Compute 22 / 2 + 9.\nThe listed alternatives are given below.: (A) 10\n(B) 11\n(C) 20\n(D) 2\n \nRecord your definitive conclusion.:"
+    },
+    {
+      "question": "John has 4 cookies. Sara has 2 more cookies than John. Darius has 3 times as many cookies as Sara. How many cookies does Darius have?",
+      "choices": {
+        "A": "9",
+        "B": "14",
+        "C": "18",
+        "D": "24"
+      },
+      "answer": "D",
+      "confidence": 0.00115966796875,
+      "correct_answer": "C",
+      "prompt_used": "Apply critical reasoning to select the correct choice.\nPresented here is the investigative prompt.: John has 4 cookies. Sara has 2 more cookies than John. Darius has 3 times as many cookies as Sara. How many cookies does Darius have?\nYour possible selections are outlined herein.: (A) 9\n(B) 14\n(C) 18\n(D) 24\n \nSubmit your considered response.:"
+    },
+    {
+      "question": "Which two numbers both round to 1,500 when rounded to the nearest hundred?",
+      "choices": {
+        "A": "1,399 and 1,599",
+        "B": "1,449 and 1,549",
+        "C": "1,457 and 1,547",
+        "D": "1,489 and 1,589"
+      },
+      "answer": "B",
+      "confidence": 3.0159950256347656e-05,
+      "correct_answer": "C",
+      "prompt_used": "From the provided query and four candidate answers (A, B, C, D), determine the one most consistent with established theory.\nHere follows the problem statement.: Which two numbers both round to 1,500 when rounded to the nearest hundred?\nThe possible solutions are detailed herein.: (A) 1,399 and 1,599\n(B) 1,449 and 1,549\n(C) 1,457 and 1,547\n(D) 1,489 and 1,589\n \nState the academically sound choice.:"
+    },
+    {
+      "question": "Marshall wants to finish typing his English paper before class starts. If he still has 550 words left to type and class starts in 25 minutes, at least how fast must Marshall type to finish his paper on time?",
+      "choices": {
+        "A": "20 words per minute",
+        "B": "21 words per minute",
+        "C": "22 words per minute",
+        "D": "25 words per minute"
+      },
+      "answer": "D",
+      "confidence": 6.580352783203125e-05,
+      "correct_answer": "C",
+      "prompt_used": "Apply critical reasoning to select the correct choice.\nThis is the primary research question.: Marshall wants to finish typing his English paper before class starts. If he still has 550 words left to type and class starts in 25 minutes, at least how fast must Marshall type to finish his paper on time?\nA finite set of responses is provided.: (A) 20 words per minute\n(B) 21 words per minute\n(C) 22 words per minute\n(D) 25 words per minute\n \nSubmit your formal answer.:"
+    },
+    {
+      "question": "When n = 11, what is the value of 10 \u2013 (n + 6)?",
+      "choices": {
+        "A": "\u20137",
+        "B": "5",
+        "C": "7",
+        "D": "27"
+      },
+      "answer": "A",
+      "confidence": 4.792213439941406e-05,
+      "correct_answer": "A",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nThe following constitutes the posed inquiry.: When n = 11, what is the value of 10 \u2013 (n + 6)?\nConsider the enumerated alternatives.: (A) \u20137\n(B) 5\n(C) 7\n(D) 27\n \nIndicate the correct resolution.:"
+    },
+    {
+      "question": "The population of a certain city is 836,527. What is the population of this city rounded to the nearest ten thousand?",
+      "choices": {
+        "A": "800,000",
+        "B": "830,000",
+        "C": "836,000",
+        "D": "840,000"
+      },
+      "answer": "A",
+      "confidence": 6.29425048828125e-05,
+      "correct_answer": "D",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nHere follows the problem statement.: The population of a certain city is 836,527. What is the population of this city rounded to the nearest ten thousand?\nThe possible solutions are detailed herein.: (A) 800,000\n(B) 830,000\n(C) 836,000\n(D) 840,000\n \nSubmit your formal answer.:"
+    },
+    {
+      "question": "The Mills Library has 1,007,199 books. The Springvale Library has 907,082 books. Which of the following is the best estimate of how many more books the Mills Library has than the Springvale Library?",
+      "choices": {
+        "A": "100,000 books",
+        "B": "80,000 books",
+        "C": "10,000 books",
+        "D": "8,000 books"
+      },
+      "answer": "D",
+      "confidence": 0.0002498626708984375,
+      "correct_answer": "A",
+      "prompt_used": "Apply critical reasoning to select the correct choice.\nThe central question is as follows.: The Mills Library has 1,007,199 books. The Springvale Library has 907,082 books. Which of the following is the best estimate of how many more books the Mills Library has than the Springvale Library?\nEnumerated options are provided.: (A) 100,000 books\n(B) 80,000 books\n(C) 10,000 books\n(D) 8,000 books\n \nRecord your definitive conclusion.:"
+    },
+    {
+      "question": "Which pair of ratios can form a proportion?",
+      "choices": {
+        "A": "2 over 5 and 8 over 10",
+        "B": "2 over 5 and 10 over 15",
+        "C": "2 over 5 and 4 over 25",
+        "D": "2 over 5 and 6 over 15"
+      },
+      "answer": "D",
+      "confidence": 4.792213439941406e-05,
+      "correct_answer": "D",
+      "prompt_used": "Determine the correct choice based on logical and factual alignment.\nThe matter for academic consideration is:: Which pair of ratios can form a proportion?\nYour possible selections are outlined herein.: (A) 2 over 5 and 8 over 10\n(B) 2 over 5 and 10 over 15\n(C) 2 over 5 and 4 over 25\n(D) 2 over 5 and 6 over 15\n \nOffer the correct alternative.:"
+    },
+    {
+      "question": "Find 3 over 4 \u2212 1 over 8.",
+      "choices": {
+        "A": "21 over 32",
+        "B": "1",
+        "C": "5 over 8",
+        "D": "11 over 16"
+      },
+      "answer": "A",
+      "confidence": 1.4424324035644531e-05,
+      "correct_answer": "C",
+      "prompt_used": "Choose the response with the greatest theoretical support.\nThe inquiry is as presented below.: Find 3 over 4 \u2212 1 over 8.\nA finite set of responses is provided.: (A) 21 over 32\n(B) 1\n(C) 5 over 8\n(D) 11 over 16\n \nArticulate the most accurate conclusion.:"
+    },
+    {
+      "question": "Manuel bought a used car for six thousand forty-nine dollars. What is the cost of the used car Manuel bought written as a numeral?",
+      "choices": {
+        "A": "$649",
+        "B": "$6,049",
+        "C": "$6,409",
+        "D": "$6,490"
+      },
+      "answer": "B",
+      "confidence": 6.467103958129883e-06,
+      "correct_answer": "B",
+      "prompt_used": "Analyze the question and evaluate four possible answers (A, B, C, D). Select the one with the highest empirical validity.\nThe inquiry is as presented below.: Manuel bought a used car for six thousand forty-nine dollars. What is the cost of the used car Manuel bought written as a numeral?\nThe possible solutions are detailed herein.: (A) $649\n(B) $6,049\n(C) $6,409\n(D) $6,490\n \nState the academically sound choice.:"
+    },
+    {
+      "question": "Chris sells roses for $16.99 a bunch. At the end of the day he has collected $339.80. How many bunches of roses did he sell?",
+      "choices": {
+        "A": "22",
+        "B": "18",
+        "C": "20",
+        "D": "16"
+      },
+      "answer": "D",
+      "confidence": 0.00010538101196289062,
+      "correct_answer": "C",
+      "prompt_used": "Examine all provided responses and select the one most consistent with empirical data.\nThis is the scholarly query under examination.: Chris sells roses for $16.99 a bunch. At the end of the day he has collected $339.80. How many bunches of roses did he sell?\nConsider the enumerated alternatives.: (A) 22\n(B) 18\n(C) 20\n(D) 16\n \nRecord your definitive conclusion.:"
+    },
+    {
+      "question": "Keiko spent the day bird watching and counted 34 more birds in the morning than in the afternoon. If she counted a total of 76 birds, how many birds did she count in the afternoon?",
+      "choices": {
+        "A": "21 birds",
+        "B": "40 birds",
+        "C": "42 birds",
+        "D": "84 birds"
+      },
+      "answer": "C",
+      "confidence": 1.4901161193847656e-06,
+      "correct_answer": "A",
+      "prompt_used": "Identify the answer that most accurately reflects established knowledge.\nHere follows the problem statement.: Keiko spent the day bird watching and counted 34 more birds in the morning than in the afternoon. If she counted a total of 76 birds, how many birds did she count in the afternoon?\nYour possible selections are outlined herein.: (A) 21 birds\n(B) 40 birds\n(C) 42 birds\n(D) 84 birds\n \nOffer the correct alternative.:"
+    },
+    {
+      "question": "Mark has a stamp collection. He has 22 stamps from Japan, 34 from Canada, and 17 from Mexico. How many stamps does he have in all?",
+      "choices": {
+        "A": "53",
+        "B": "63",
+        "C": "73",
+        "D": "83"
+      },
+      "answer": "B",
+      "confidence": 3.361701965332031e-05,
+      "correct_answer": "C",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nThe problem to solve is presented thus.: Mark has a stamp collection. He has 22 stamps from Japan, 34 from Canada, and 17 from Mexico. How many stamps does he have in all?\nEnumerated options are provided.: (A) 53\n(B) 63\n(C) 73\n(D) 83\n \nState the academically sound choice.:"
+    },
+    {
+      "question": "Estimate 153 + 44. The sum is between which numbers?",
+      "choices": {
+        "A": "100 and 299",
+        "B": "300 and 499",
+        "C": "500 and 699",
+        "D": "700 and 899"
+      },
+      "answer": "A",
+      "confidence": 0.00060272216796875,
+      "correct_answer": "A",
+      "prompt_used": "Examine all provided responses and select the one most consistent with empirical data.\nThis is the scholarly query under examination.: Estimate 153 + 44. The sum is between which numbers?\nThe following four options are considered:: (A) 100 and 299\n(B) 300 and 499\n(C) 500 and 699\n(D) 700 and 899\n \nSubmit your considered response.:"
+    },
+    {
+      "question": "Solve the equation 18 + p = 29.",
+      "choices": {
+        "A": "\u221247",
+        "B": "\u221211",
+        "C": "11",
+        "D": "47"
+      },
+      "answer": "D",
+      "confidence": 1.5497207641601562e-05,
+      "correct_answer": "C",
+      "prompt_used": "Choose the response with the greatest theoretical support.\nPresented here is the investigative prompt.: Solve the equation 18 + p = 29.\nA finite set of responses is provided.: (A) \u221247\n(B) \u221211\n(C) 11\n(D) 47\n \nProvide the substantiated response.:"
+    },
+    {
+      "question": "Which ratio can form a proportion with 3 over 8?",
+      "choices": {
+        "A": "18 over 40",
+        "B": "18 over 56",
+        "C": "24 over 64",
+        "D": "15 over 48"
+      },
+      "answer": "A",
+      "confidence": 5.030632019042969e-05,
+      "correct_answer": "C",
+      "prompt_used": "Identify the answer that most accurately reflects established knowledge.\nThis constitutes the inquiry.: Which ratio can form a proportion with 3 over 8?\nReference the provided answer set.: (A) 18 over 40\n(B) 18 over 56\n(C) 24 over 64\n(D) 15 over 48\n \nProvide the substantiated response.:"
+    },
+    {
+      "question": "The state of Georgia has 159 counties and covers 58056 square miles. What is the average number of square miles per county? Round your answer to the nearest whole number.",
+      "choices": {
+        "A": "274 square miles per county",
+        "B": "159 square miles per county",
+        "C": "318 square miles per county",
+        "D": "365 square miles per county"
+      },
+      "answer": "A",
+      "confidence": 0.0001316070556640625,
+      "correct_answer": "D",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nThis constitutes the inquiry.: The state of Georgia has 159 counties and covers 58056 square miles. What is the average number of square miles per county? Round your answer to the nearest whole number.\nMultiple potential answers are included.: (A) 274 square miles per county\n(B) 159 square miles per county\n(C) 318 square miles per county\n(D) 365 square miles per county\n \nSubmit your considered response.:"
+    },
+    {
+      "question": "Which expression is equivalent to 5(4x + 3) \u2014 2x?",
+      "choices": {
+        "A": "18x+15",
+        "B": "18x+3",
+        "C": "7x+8",
+        "D": "2x+8"
+      },
+      "answer": "D",
+      "confidence": 6.4373016357421875e-06,
+      "correct_answer": "A",
+      "prompt_used": "Apply critical reasoning to select the correct choice.\nThis is the scholarly query under examination.: Which expression is equivalent to 5(4x + 3) \u2014 2x?\nThe possible solutions are detailed herein.: (A) 18x+15\n(B) 18x+3\n(C) 7x+8\n(D) 2x+8\n \nOffer the correct alternative.:"
+    },
+    {
+      "question": "Which statement is false?",
+      "choices": {
+        "A": "3 < 5",
+        "B": "5 > 3",
+        "C": "\u22125 > \u22123",
+        "D": "\u22123 > \u22125"
+      },
+      "answer": "A",
+      "confidence": 4.0531158447265625e-05,
+      "correct_answer": "C",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThe following constitutes the posed inquiry.: Which statement is false?\nMultiple potential answers are included.: (A) 3 < 5\n(B) 5 > 3\n(C) \u22125 > \u22123\n(D) \u22123 > \u22125\n \nDocument your chosen response.:"
+    },
+    {
+      "question": "Which fraction shows the ratio of 3 dogs to 5 dogs?",
+      "choices": {
+        "A": "5 over 3",
+        "B": "3 over 8",
+        "C": "2 over 5",
+        "D": "3 over 5"
+      },
+      "answer": "D",
+      "confidence": 0.00011873245239257812,
+      "correct_answer": "D",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThis is the primary research question.: Which fraction shows the ratio of 3 dogs to 5 dogs?\nYour possible selections are outlined herein.: (A) 5 over 3\n(B) 3 over 8\n(C) 2 over 5\n(D) 3 over 5\n \nSubmit your considered response.:"
+    },
+    {
+      "question": "Kate has a coin collection. She keeps 7 of the coins in a box, which is only 5% of her entire collection. What is the total number of coins in Kate\u2019s coin collection?",
+      "choices": {
+        "A": "12",
+        "B": "14",
+        "C": "120",
+        "D": "140"
+      },
+      "answer": "D",
+      "confidence": 4.023313522338867e-06,
+      "correct_answer": "D",
+      "prompt_used": "Examine all provided responses and select the one most consistent with empirical data.\nThe inquiry is as presented below.: Kate has a coin collection. She keeps 7 of the coins in a box, which is only 5% of her entire collection. What is the total number of coins in Kate\u2019s coin collection?\nYour possible selections are outlined herein.: (A) 12\n(B) 14\n(C) 120\n(D) 140\n \nOffer the correct alternative.:"
+    },
+    {
+      "question": "Use rounding to estimate the sum of 27.94 + 15.35 to the nearest tenth.",
+      "choices": {
+        "A": "43.2",
+        "B": "43.3",
+        "C": "43.4",
+        "D": "43.29"
+      },
+      "answer": "A",
+      "confidence": 2.8014183044433594e-05,
+      "correct_answer": "B",
+      "prompt_used": "Choose the response with the greatest theoretical support.\nThe inquiry is as presented below.: Use rounding to estimate the sum of 27.94 + 15.35 to the nearest tenth.\nConsider the enumerated alternatives.: (A) 43.2\n(B) 43.3\n(C) 43.4\n(D) 43.29\n \nRecord your definitive conclusion.:"
+    },
+    {
+      "question": "Solve 13 over 4 = x over 7.",
+      "choices": {
+        "A": "22.75",
+        "B": "23.25",
+        "C": "24.25",
+        "D": "none of these"
+      },
+      "answer": "A",
+      "confidence": 0.000637054443359375,
+      "correct_answer": "A",
+      "prompt_used": "Identify the answer that most accurately reflects established knowledge.\nHere follows the problem statement.: Solve 13 over 4 = x over 7.\nYour possible selections are outlined herein.: (A) 22.75\n(B) 23.25\n(C) 24.25\n(D) none of these\n \nSubmit your considered response.:"
+    },
+    {
+      "question": "The volume, V, of any cube with a side length, s, can be determined using the formula V = s^3. What is the volume, in cubic centimeters, of a cube with a side length of 2.3 centimeters?",
+      "choices": {
+        "A": "5.29",
+        "B": "6.9",
+        "C": "8.027",
+        "D": "12.167"
+      },
+      "answer": "A",
+      "confidence": 3.0994415283203125e-05,
+      "correct_answer": "D",
+      "prompt_used": "Examine all provided responses and select the one most consistent with empirical data.\nThis constitutes the inquiry.: The volume, V, of any cube with a side length, s, can be determined using the formula V = s^3. What is the volume, in cubic centimeters, of a cube with a side length of 2.3 centimeters?\nThe listed alternatives are given below.: (A) 5.29\n(B) 6.9\n(C) 8.027\n(D) 12.167\n \nArticulate the most accurate conclusion.:"
+    },
+    {
+      "question": "A teacher has three packages of stickers. One package contains 56 stickers, another package contains 48 stickers, and the third package contains 58 stickers. If the teacher divides all the stickers equally among 27 students, how many stickers will each student receive?",
+      "choices": {
+        "A": "6 stickers",
+        "B": "9 stickers",
+        "C": "54 stickers",
+        "D": "81 stickers"
+      },
+      "answer": "B",
+      "confidence": 1.8715858459472656e-05,
+      "correct_answer": "A",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThis is the primary research question.: A teacher has three packages of stickers. One package contains 56 stickers, another package contains 48 stickers, and the third package contains 58 stickers. If the teacher divides all the stickers equally among 27 students, how many stickers will each student receive?\nA finite set of responses is provided.: (A) 6 stickers\n(B) 9 stickers\n(C) 54 stickers\n(D) 81 stickers\n \nPresent your evidence-based selection.:"
+    },
+    {
+      "question": "A salad dressing is made by combining 2 parts vinegar with 5 parts oil. How many ounces of oil should be mixed with 9 ounces of vinegar?",
+      "choices": {
+        "A": "2",
+        "B": "3.6",
+        "C": "22.5",
+        "D": "63"
+      },
+      "answer": "A",
+      "confidence": 0.00046539306640625,
+      "correct_answer": "C",
+      "prompt_used": "Choose the response with the greatest theoretical support.\nThis constitutes the inquiry.: A salad dressing is made by combining 2 parts vinegar with 5 parts oil. How many ounces of oil should be mixed with 9 ounces of vinegar?\nThe following four options are considered:: (A) 2\n(B) 3.6\n(C) 22.5\n(D) 63\n \nOffer the correct alternative.:"
+    },
+    {
+      "question": "Jerry read a 200-page book in 10 hours. At that rate, how long will it take him to read a 320-page book?",
+      "choices": {
+        "A": "16 hours",
+        "B": "18 hours",
+        "C": "24 hours",
+        "D": "32 hours"
+      },
+      "answer": "D",
+      "confidence": 0.00022125244140625,
+      "correct_answer": "A",
+      "prompt_used": "Apply critical reasoning to select the correct choice.\nThe problem to solve is presented thus.: Jerry read a 200-page book in 10 hours. At that rate, how long will it take him to read a 320-page book?\nRefer to the enumerated alternatives.: (A) 16 hours\n(B) 18 hours\n(C) 24 hours\n(D) 32 hours\n \nSubmit your considered response.:"
+    },
+    {
+      "question": "A dime has a radius of about 0.85 cm. Which measurement is closest to the circumference of a dime?",
+      "choices": {
+        "A": "1.33 cm",
+        "B": "1.70 cm",
+        "C": "2.67 cm",
+        "D": "5.34 cm"
+      },
+      "answer": "A",
+      "confidence": 0.000560760498046875,
+      "correct_answer": "D",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThis is the scholarly query under examination.: A dime has a radius of about 0.85 cm. Which measurement is closest to the circumference of a dime?\nThe possible solutions are detailed herein.: (A) 1.33 cm\n(B) 1.70 cm\n(C) 2.67 cm\n(D) 5.34 cm\n \nSubmit your considered response.:"
+    },
+    {
+      "question": "Coach Wu has a total of 30 soccerballs. 9 soccer balls are white. The remaining soccer balls are one of three different colors (blue, pink, or green). There is an equal numberof blue, pink, and green balls How many green soccer balls does Coach Wu have?",
+      "choices": {
+        "A": "7",
+        "B": "10",
+        "C": "21",
+        "D": "39"
+      },
+      "answer": "A",
+      "confidence": 0.00010347366333007812,
+      "correct_answer": "A",
+      "prompt_used": "Identify the answer that most accurately reflects established knowledge.\nPresented here is the investigative prompt.: Coach Wu has a total of 30 soccerballs. 9 soccer balls are white. The remaining soccer balls are one of three different colors (blue, pink, or green). There is an equal numberof blue, pink, and green balls How many green soccer balls does Coach Wu have?\nThe following four options are considered:: (A) 7\n(B) 10\n(C) 21\n(D) 39\n \nPresent your evidence-based selection.:"
+    },
+    {
+      "question": "Members of the Hiking Club hiked for 2.4 hours covering 2.5 miles each hour. How far did the members hike",
+      "choices": {
+        "A": "4.9 miles",
+        "B": "5.8 miles",
+        "C": "6.0 miles",
+        "D": "6.3 miles"
+      },
+      "answer": "A",
+      "confidence": 0.000667572021484375,
+      "correct_answer": "C",
+      "prompt_used": "Choose the response with the greatest theoretical support.\nThe inquiry is as presented below.: Members of the Hiking Club hiked for 2.4 hours covering 2.5 miles each hour. How far did the members hike\nEnumerated options are provided.: (A) 4.9 miles\n(B) 5.8 miles\n(C) 6.0 miles\n(D) 6.3 miles\n \nSubmit your considered response.:"
+    },
+    {
+      "question": "Simplify (2 + 5)^2 \u2212 42.",
+      "choices": {
+        "A": "7",
+        "B": "16",
+        "C": "30",
+        "D": "33"
+      },
+      "answer": "D",
+      "confidence": 2.0742416381835938e-05,
+      "correct_answer": "A",
+      "prompt_used": "From the provided query and four candidate answers (A, B, C, D), determine the one most consistent with established theory.\nThe problem to solve is presented thus.: Simplify (2 + 5)^2 \u2212 42.\nA finite set of responses is provided.: (A) 7\n(B) 16\n(C) 30\n(D) 33\n \nProvide the substantiated response.:"
+    },
+    {
+      "question": "Write the unit rate for driving 308 km in 4 h. Round to the nearest hundredth if necessary.",
+      "choices": {
+        "A": "82 km/h",
+        "B": "74 km/h",
+        "C": "72 km/h",
+        "D": "77 km/h"
+      },
+      "answer": "A",
+      "confidence": 1.4483928680419922e-05,
+      "correct_answer": "D",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nThe matter for academic consideration is:: Write the unit rate for driving 308 km in 4 h. Round to the nearest hundredth if necessary.\nThe listed alternatives are given below.: (A) 82 km/h\n(B) 74 km/h\n(C) 72 km/h\n(D) 77 km/h\n \nProvide the substantiated response.:"
+    },
+    {
+      "question": "There are 190 guests at a wedding. What is the least number of circular tables needed to seat all the guests if each table seats exactly 8 people?",
+      "choices": {
+        "A": "22",
+        "B": "23",
+        "C": "24",
+        "D": "25"
+      },
+      "answer": "D",
+      "confidence": 5.340576171875e-05,
+      "correct_answer": "C",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nThis is the primary research question.: There are 190 guests at a wedding. What is the least number of circular tables needed to seat all the guests if each table seats exactly 8 people?\nYour possible selections are outlined herein.: (A) 22\n(B) 23\n(C) 24\n(D) 25\n \nProvide the substantiated response.:"
+    },
+    {
+      "question": "Yesterday, Micah ate an even number of strawberries. He also ate an odd number of apples. Which group could represent the strawberries, S, and apples, A, Micah ate yesterday?",
+      "choices": {
+        "A": "SSSSS; AAA",
+        "B": "SSSSS; AAAA",
+        "C": "SSSSSSSS; AAAA",
+        "D": "SSSSSSSS; A"
+      },
+      "answer": "A",
+      "confidence": 0.0003681182861328125,
+      "correct_answer": "D",
+      "prompt_used": "Examine all provided responses and select the one most consistent with empirical data.\nThis is the primary research question.: Yesterday, Micah ate an even number of strawberries. He also ate an odd number of apples. Which group could represent the strawberries, S, and apples, A, Micah ate yesterday?\nThe possible solutions are detailed herein.: (A) SSSSS; AAA\n(B) SSSSS; AAAA\n(C) SSSSSSSS; AAAA\n(D) SSSSSSSS; A\n \nSubmit your formal answer.:"
+    },
+    {
+      "question": "Ron\u2019s garden has 42 plants. Each row has 7 plants. Which expression can be used to find the number of rows in Ron\u2019s garden?",
+      "choices": {
+        "A": "42 \u00f7 7",
+        "B": "42 \u2013 7",
+        "C": "42 + 7",
+        "D": "42 \u00d7 7"
+      },
+      "answer": "A",
+      "confidence": 4.6253204345703125e-05,
+      "correct_answer": "A",
+      "prompt_used": "Review the prompt and four options (A, B, C, D). Select the one supported by the strongest evidence.\nThe matter for academic consideration is:: Ron\u2019s garden has 42 plants. Each row has 7 plants. Which expression can be used to find the number of rows in Ron\u2019s garden?\nEnumerated options are provided.: (A) 42 \u00f7 7\n(B) 42 \u2013 7\n(C) 42 + 7\n(D) 42 \u00d7 7\n \nState the academically sound choice.:"
+    },
+    {
+      "question": "A shelf has four books on it. The weight, in pounds, of each of the four books on the shelf is 2.5, 3.2, 2.7, 2.3 Which inequality represents the weight, w, of any book chosen from the shelf?",
+      "choices": {
+        "A": "w > 2.3",
+        "B": "w < 2.4",
+        "C": "w > 3.2",
+        "D": "w < 3.3"
+      },
+      "answer": "D",
+      "confidence": 3.504753112792969e-05,
+      "correct_answer": "D",
+      "prompt_used": "Determine the correct choice based on logical and factual alignment.\nPresented here is the investigative prompt.: A shelf has four books on it. The weight, in pounds, of each of the four books on the shelf is 2.5, 3.2, 2.7, 2.3 Which inequality represents the weight, w, of any book chosen from the shelf?\nReference the provided answer set.: (A) w > 2.3\n(B) w < 2.4\n(C) w > 3.2\n(D) w < 3.3\n \nState the academically sound choice.:"
+    },
+    {
+      "question": "Mrs. Kinney bought batteries in packs of 4 for the students\u2019 science experiments. Which of these could be the total number of batteries that she bought?",
+      "choices": {
+        "A": "22",
+        "B": "26",
+        "C": "28",
+        "D": "30"
+      },
+      "answer": "D",
+      "confidence": 4.601478576660156e-05,
+      "correct_answer": "C",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nThis constitutes the inquiry.: Mrs. Kinney bought batteries in packs of 4 for the students\u2019 science experiments. Which of these could be the total number of batteries that she bought?\nThe listed alternatives are given below.: (A) 22\n(B) 26\n(C) 28\n(D) 30\n \nSubmit your formal answer.:"
+    },
+    {
+      "question": "At the beginning of a class period, half of the students in a class go to the library. Later in the period, half of the remaining students go to the computer lab. If there are 8 students remaining in the class, how many students were originally in the class?",
+      "choices": {
+        "A": "12 students",
+        "B": "16 students",
+        "C": "24 students",
+        "D": "32 students"
+      },
+      "answer": "A",
+      "confidence": 8.52346420288086e-06,
+      "correct_answer": "D",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThe problem to solve is presented thus.: At the beginning of a class period, half of the students in a class go to the library. Later in the period, half of the remaining students go to the computer lab. If there are 8 students remaining in the class, how many students were originally in the class?\nYour possible selections are outlined herein.: (A) 12 students\n(B) 16 students\n(C) 24 students\n(D) 32 students\n \nDocument your chosen response.:"
+    },
+    {
+      "question": "\u22124 +  ( \u22123 )=",
+      "choices": {
+        "A": "\u22127",
+        "B": "\u22121",
+        "C": "1",
+        "D": "7"
+      },
+      "answer": "A",
+      "confidence": 7.2479248046875e-05,
+      "correct_answer": "A",
+      "prompt_used": "Review the prompt and four options (A, B, C, D). Select the one supported by the strongest evidence.\nThe matter for academic consideration is:: \u22124 +  ( \u22123 )=\nA finite set of responses is provided.: (A) \u22127\n(B) \u22121\n(C) 1\n(D) 7\n \nProvide the substantiated response.:"
+    },
+    {
+      "question": "There are 2,817 homes in the town of West Valley. Each home uses an average of 380 gallons of water each day. Use the expression below to find the total number of gallons of water the homes in West Valley use on average each day. 2,817 \u00d7 380 What is the total number of gallons of water the homes in West Valley use on average each day?",
+      "choices": {
+        "A": "860,460 gallons",
+        "B": "870,460 gallons",
+        "C": "1,060,460 gallons",
+        "D": "1,070,460 gallons"
+      },
+      "answer": "A",
+      "confidence": 2.8252601623535156e-05,
+      "correct_answer": "D",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThe inquiry is as presented below.: There are 2,817 homes in the town of West Valley. Each home uses an average of 380 gallons of water each day. Use the expression below to find the total number of gallons of water the homes in West Valley use on average each day. 2,817 \u00d7 380 What is the total number of gallons of water the homes in West Valley use on average each day?\nReference the provided answer set.: (A) 860,460 gallons\n(B) 870,460 gallons\n(C) 1,060,460 gallons\n(D) 1,070,460 gallons\n \nSubmit your considered response.:"
+    },
+    {
+      "question": "Susan reads a book at a rate of 1 page every 3 minutes. If her reading rate remains the same, which method could be used to determine the number of minutes for her to read 18 pages?",
+      "choices": {
+        "A": "add 18 and 3",
+        "B": "divide 18 by 3",
+        "C": "multiply 3 by 18",
+        "D": "subtract 3 from 18"
+      },
+      "answer": "B",
+      "confidence": 0.00023174285888671875,
+      "correct_answer": "C",
+      "prompt_used": "Identify the answer that most accurately reflects established knowledge.\nThe following constitutes the posed inquiry.: Susan reads a book at a rate of 1 page every 3 minutes. If her reading rate remains the same, which method could be used to determine the number of minutes for her to read 18 pages?\nEnumerated options are provided.: (A) add 18 and 3\n(B) divide 18 by 3\n(C) multiply 3 by 18\n(D) subtract 3 from 18\n \nIndicate the correct resolution.:"
+    },
+    {
+      "question": "Change 34 L 18 cL to liters.",
+      "choices": {
+        "A": "34.18 L",
+        "B": "35.8 L",
+        "C": "34.018 L",
+        "D": "214 L"
+      },
+      "answer": "A",
+      "confidence": 2.7298927307128906e-05,
+      "correct_answer": "A",
+      "prompt_used": "Review the prompt and four options (A, B, C, D). Select the one supported by the strongest evidence.\nThe central question is as follows.: Change 34 L 18 cL to liters.\nEnumerated options are provided.: (A) 34.18 L\n(B) 35.8 L\n(C) 34.018 L\n(D) 214 L\n \nOffer the correct alternative.:"
+    },
+    {
+      "question": "Katie is going on vacation for 3 weeks. She finds the number of days of work she will miss by multiplying 5 \u00d7 3. Which expression shows another way Katie can find the number of days of work she will miss?",
+      "choices": {
+        "A": "3+5",
+        "B": "3+3+3",
+        "C": "5+5+5",
+        "D": "5+5+5+5+5"
+      },
+      "answer": "D",
+      "confidence": 2.956390380859375e-05,
+      "correct_answer": "C",
+      "prompt_used": "Determine the correct choice based on logical and factual alignment.\nThe matter for academic consideration is:: Katie is going on vacation for 3 weeks. She finds the number of days of work she will miss by multiplying 5 \u00d7 3. Which expression shows another way Katie can find the number of days of work she will miss?\nMultiple potential answers are included.: (A) 3+5\n(B) 3+3+3\n(C) 5+5+5\n(D) 5+5+5+5+5\n \nRecord your definitive conclusion.:"
+    },
+    {
+      "question": "Lily is going to give away all the pieces of candy in a bag. She can give an equal number of pieces of candy to 5, 3, or 2 people. Which number of pieces of candy could be in Lily\u2019s bag?",
+      "choices": {
+        "A": "12",
+        "B": "20",
+        "C": "30",
+        "D": "45"
+      },
+      "answer": "C",
+      "confidence": 0.00014781951904296875,
+      "correct_answer": "C",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThe following constitutes the posed inquiry.: Lily is going to give away all the pieces of candy in a bag. She can give an equal number of pieces of candy to 5, 3, or 2 people. Which number of pieces of candy could be in Lily\u2019s bag?\nThe possible solutions are detailed herein.: (A) 12\n(B) 20\n(C) 30\n(D) 45\n \nOffer the correct alternative.:"
+    },
+    {
+      "question": "Evaluate (c^2 \u2212 b^2)^2 + a^2 for a = 5, b = 3, and c = 2.",
+      "choices": {
+        "A": "194",
+        "B": "18",
+        "C": "50",
+        "D": "0"
+      },
+      "answer": "A",
+      "confidence": 9.179115295410156e-06,
+      "correct_answer": "C",
+      "prompt_used": "Determine the correct choice based on logical and factual alignment.\nHere follows the problem statement.: Evaluate (c^2 \u2212 b^2)^2 + a^2 for a = 5, b = 3, and c = 2.\nConsider the enumerated alternatives.: (A) 194\n(B) 18\n(C) 50\n(D) 0\n \nProvide the substantiated response.:"
+    },
+    {
+      "question": "Solve the equation \u221247 = g + 24.",
+      "choices": {
+        "A": "\u221271",
+        "B": "\u221223",
+        "C": "23",
+        "D": "71"
+      },
+      "answer": "A",
+      "confidence": 4.553794860839844e-05,
+      "correct_answer": "B",
+      "prompt_used": "Identify the answer that most accurately reflects established knowledge.\nThe following constitutes the posed inquiry.: Solve the equation \u221247 = g + 24.\nMultiple potential answers are included.: (A) \u221271\n(B) \u221223\n(C) 23\n(D) 71\n \nSubmit your considered response.:"
+    },
+    {
+      "question": "Marguerite earned a score between 75 and 89 on all of her previous spelling tests. She earned a score of 100 on her next test. Which of the following statements is true?",
+      "choices": {
+        "A": "The mode will increase.",
+        "B": "The mean will increase.",
+        "C": "The mean will decrease.",
+        "D": "The median will decrease."
+      },
+      "answer": "B",
+      "confidence": 3.528594970703125e-05,
+      "correct_answer": "B",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nThis is the primary research question.: Marguerite earned a score between 75 and 89 on all of her previous spelling tests. She earned a score of 100 on her next test. Which of the following statements is true?\nMultiple potential answers are included.: (A) The mode will increase.\n(B) The mean will increase.\n(C) The mean will decrease.\n(D) The median will decrease.\n \nState the academically sound choice.:"
+    },
+    {
+      "question": "Find the number that makes the statement 48 over 88 = ? over 11 true.",
+      "choices": {
+        "A": "6",
+        "B": "11",
+        "C": "8",
+        "D": "5"
+      },
+      "answer": "D",
+      "confidence": 5.245208740234375e-06,
+      "correct_answer": "A",
+      "prompt_used": "Determine the correct choice based on logical and factual alignment.\nThe problem to solve is presented thus.: Find the number that makes the statement 48 over 88 = ? over 11 true.\nA finite set of responses is provided.: (A) 6\n(B) 11\n(C) 8\n(D) 5\n \nOffer the correct alternative.:"
+    },
+    {
+      "question": "Find the quotient of 16.1 \u00f7 0.14.",
+      "choices": {
+        "A": "1.15",
+        "B": "0.0115",
+        "C": "11.5",
+        "D": "115"
+      },
+      "answer": "D",
+      "confidence": 0.000518798828125,
+      "correct_answer": "D",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nThe central question is as follows.: Find the quotient of 16.1 \u00f7 0.14.\nThe following four options are considered:: (A) 1.15\n(B) 0.0115\n(C) 11.5\n(D) 115\n \nProvide the substantiated response.:"
+    },
+    {
+      "question": "A group of students make a map of the area around their school. They place the school at (0, 0). The nearest store is placed at the point (\u20135, 7). In which quadrant is the point representing the nearest store?",
+      "choices": {
+        "A": "Quadrant I",
+        "B": "Quadrant II",
+        "C": "Quadrant III",
+        "D": "Quadrant IV"
+      },
+      "answer": "A",
+      "confidence": 5.7220458984375e-05,
+      "correct_answer": "B",
+      "prompt_used": "Determine the correct choice based on logical and factual alignment.\nThis is the scholarly query under examination.: A group of students make a map of the area around their school. They place the school at (0, 0). The nearest store is placed at the point (\u20135, 7). In which quadrant is the point representing the nearest store?\nThe following four options are considered:: (A) Quadrant I\n(B) Quadrant II\n(C) Quadrant III\n(D) Quadrant IV\n \nDocument your chosen response.:"
+    },
+    {
+      "question": "A stack of 7 pennies has a height of 1 centimeter. Nick has a stack of pennies with a height of 4 centimeters. Which equation can be used to find the number of pennies, n, in Nick\u2019s stack of pennies?",
+      "choices": {
+        "A": "n =7+4",
+        "B": "n =7\u20134",
+        "C": "n =7\u00d74",
+        "D": "n =7\u00f74"
+      },
+      "answer": "D",
+      "confidence": 9.441375732421875e-05,
+      "correct_answer": "C",
+      "prompt_used": "From the provided query and four candidate answers (A, B, C, D), determine the one most consistent with established theory.\nThis is the scholarly query under examination.: A stack of 7 pennies has a height of 1 centimeter. Nick has a stack of pennies with a height of 4 centimeters. Which equation can be used to find the number of pennies, n, in Nick\u2019s stack of pennies?\nConsider the enumerated alternatives.: (A) n =7+4\n(B) n =7\u20134\n(C) n =7\u00d74\n(D) n =7\u00f74\n \nState the academically sound choice.:"
+    },
+    {
+      "question": "The weekly milk order for the Tranquility Inn includes 40 gallons of low-fat milk and 15 gallons of chocolate milk. What is the ratio of the number of low-fat gallons to chocolate gallons in the Tranquility Inn\u2019s weekly milk order?",
+      "choices": {
+        "A": "3:01",
+        "B": "5:01",
+        "C": "5:03",
+        "D": "8:03"
+      },
+      "answer": "A",
+      "confidence": 4.0531158447265625e-05,
+      "correct_answer": "D",
+      "prompt_used": "Choose the response with the greatest theoretical support.\nThis is the scholarly query under examination.: The weekly milk order for the Tranquility Inn includes 40 gallons of low-fat milk and 15 gallons of chocolate milk. What is the ratio of the number of low-fat gallons to chocolate gallons in the Tranquility Inn\u2019s weekly milk order?\nYour possible selections are outlined herein.: (A) 3:01\n(B) 5:01\n(C) 5:03\n(D) 8:03\n \nIndicate the correct resolution.:"
+    },
+    {
+      "question": "Samantha has 342 baseball cards. Perry has 184 baseball cards. How many more baseball cards does Samantha have than Perry?",
+      "choices": {
+        "A": "158",
+        "B": "168",
+        "C": "258",
+        "D": "268"
+      },
+      "answer": "D",
+      "confidence": 0.0003871917724609375,
+      "correct_answer": "A",
+      "prompt_used": "Apply critical reasoning to select the correct choice.\nThis is the primary research question.: Samantha has 342 baseball cards. Perry has 184 baseball cards. How many more baseball cards does Samantha have than Perry?\nThe possible solutions are detailed herein.: (A) 158\n(B) 168\n(C) 258\n(D) 268\n \nSubmit your considered response.:"
+    },
+    {
+      "question": "Estimate 32 x 68. The product is between what numbers?",
+      "choices": {
+        "A": "18 and 28",
+        "B": "180 and 280",
+        "C": "1,800 and 2,800",
+        "D": "18,000 and 28,000"
+      },
+      "answer": "B",
+      "confidence": 4.172325134277344e-05,
+      "correct_answer": "C",
+      "prompt_used": "From the provided query and four candidate answers (A, B, C, D), determine the one most consistent with established theory.\nThe inquiry is as presented below.: Estimate 32 x 68. The product is between what numbers?\nThe listed alternatives are given below.: (A) 18 and 28\n(B) 180 and 280\n(C) 1,800 and 2,800\n(D) 18,000 and 28,000\n \nProvide the substantiated response.:"
+    },
+    {
+      "question": "Order from greatest to least: 3, 3 and 1 over 8,3.8,3.18.",
+      "choices": {
+        "A": "3.18, 3 and 1 over 8, 3.8,3",
+        "B": "3,3 and 1 over 8, 3.18, 3",
+        "C": "3.8, 3 and 1 over 8, 3.18, 3",
+        "D": "3.8, 3.18, 3 and 1 over 8, 3"
+      },
+      "answer": "A",
+      "confidence": 0.00019073486328125,
+      "correct_answer": "D",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nPresented here is the investigative prompt.: Order from greatest to least: 3, 3 and 1 over 8,3.8,3.18.\nThe following four options are considered:: (A) 3.18, 3 and 1 over 8, 3.8,3\n(B) 3,3 and 1 over 8, 3.18, 3\n(C) 3.8, 3 and 1 over 8, 3.18, 3\n(D) 3.8, 3.18, 3 and 1 over 8, 3\n \nDocument your chosen response.:"
+    },
+    {
+      "question": "A team of volunteers collected a total of $5,144 selling T-shirts at a charity concert. Each T-shirt was sold for $8. What was the total number of T-shirts the volunteers sold?",
+      "choices": {
+        "A": "632",
+        "B": "643",
+        "C": "655",
+        "D": "668"
+      },
+      "answer": "D",
+      "confidence": 0.00012302398681640625,
+      "correct_answer": "B",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nPresented here is the investigative prompt.: A team of volunteers collected a total of $5,144 selling T-shirts at a charity concert. Each T-shirt was sold for $8. What was the total number of T-shirts the volunteers sold?\nThe listed alternatives are given below.: (A) 632\n(B) 643\n(C) 655\n(D) 668\n \nProvide the substantiated response.:"
+    },
+    {
+      "question": "Rounded to the nearest 10,000, the population of Louisiana was 4,530,000 in 2010. Which number could be the actual population of Louisiana in 2010?",
+      "choices": {
+        "A": "4,500,321",
+        "B": "4,524,491",
+        "C": "4,533,372",
+        "D": "4,535,343"
+      },
+      "answer": "A",
+      "confidence": 1.9550323486328125e-05,
+      "correct_answer": "C",
+      "prompt_used": "Review the prompt and four options (A, B, C, D). Select the one supported by the strongest evidence.\nThis is the scholarly query under examination.: Rounded to the nearest 10,000, the population of Louisiana was 4,530,000 in 2010. Which number could be the actual population of Louisiana in 2010?\nA finite set of responses is provided.: (A) 4,500,321\n(B) 4,524,491\n(C) 4,533,372\n(D) 4,535,343\n \nDocument your chosen response.:"
+    }
+  ],
+  "model_name": "meta-llama/Llama-3.2-3B-Instruct",
+  "accuracy": 0.23,
+  "per_choice_accuracy": {
+    "D": {
+      "accuracy": 0.28,
+      "total": 25
+    },
+    "C": {
+      "accuracy": 0.06060606060606061,
+      "total": 33
+    },
+    "B": {
+      "accuracy": 0.2222222222222222,
+      "total": 18
+    },
+    "A": {
+      "accuracy": 0.4166666666666667,
+      "total": 24
+    }
+  }
+}

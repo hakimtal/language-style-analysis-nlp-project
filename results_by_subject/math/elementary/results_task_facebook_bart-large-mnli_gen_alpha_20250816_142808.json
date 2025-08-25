@@ -1,0 +1,1449 @@
+{
+  "total_questions": 100,
+  "correct": 19,
+  "wrong": 81,
+  "per_choice_stats": {
+    "D": {
+      "correct": 7,
+      "total": 25
+    },
+    "C": {
+      "correct": 3,
+      "total": 33
+    },
+    "B": {
+      "correct": 0,
+      "total": 18
+    },
+    "A": {
+      "correct": 9,
+      "total": 24
+    }
+  },
+  "confidence_when_correct": [
+    0.14609394967556,
+    0.10049082338809967,
+    0.022486114874482155,
+    0.22101429104804993,
+    0.2728886306285858,
+    0.04053499549627304,
+    0.0309668630361557,
+    0.016844874247908592,
+    0.10110799223184586,
+    0.0675172433257103,
+    0.09998203814029694,
+    0.6530023813247681,
+    0.04658329114317894,
+    0.29064878821372986,
+    0.4930844008922577,
+    0.2376735955476761,
+    0.025627927854657173,
+    0.1068168431520462,
+    0.09888844192028046
+  ],
+  "confidence_when_wrong": [
+    0.19797660410404205,
+    0.36589545011520386,
+    0.03689463064074516,
+    0.4439322054386139,
+    0.02246723882853985,
+    0.053382907062768936,
+    0.19770601391792297,
+    0.06879755109548569,
+    0.010346231050789356,
+    0.044142886996269226,
+    0.12366711348295212,
+    0.4674784243106842,
+    0.3543752431869507,
+    0.0880880281329155,
+    0.014345026575028896,
+    0.6428685188293457,
+    0.14596611261367798,
+    0.04663289710879326,
+    0.044057540595531464,
+    0.0047614010982215405,
+    0.056420985609292984,
+    0.10522368550300598,
+    0.021110771223902702,
+    0.01489938423037529,
+    0.047078054398298264,
+    0.09091030806303024,
+    0.04570421576499939,
+    0.0402364656329155,
+    0.015961529687047005,
+    0.007695895154029131,
+    0.03358011692762375,
+    0.27288615703582764,
+    0.007028651889413595,
+    0.08273371309041977,
+    0.4785155951976776,
+    0.0031403000466525555,
+    0.0313858836889267,
+    0.03972696512937546,
+    0.036139726638793945,
+    0.08308356255292892,
+    0.05623912066221237,
+    0.11476476490497589,
+    0.02995068021118641,
+    0.05777387320995331,
+    0.22430425882339478,
+    0.04726827144622803,
+    0.234503373503685,
+    0.03470168635249138,
+    0.22875826060771942,
+    0.24082514643669128,
+    0.017146266996860504,
+    0.5632889866828918,
+    0.03952528536319733,
+    0.19024838507175446,
+    0.03995412215590477,
+    0.08064411580562592,
+    0.31536412239074707,
+    0.4205465316772461,
+    0.3250090181827545,
+    0.4863300621509552,
+    0.035429053008556366,
+    0.17799215018749237,
+    0.003411100944504142,
+    0.00809427909553051,
+    0.019119728356599808,
+    0.15888427197933197,
+    0.1568717658519745,
+    0.19155925512313843,
+    0.019083309918642044,
+    0.25212007761001587,
+    0.04062072932720184,
+    0.014278734102845192,
+    0.5256112217903137,
+    0.2899188697338104,
+    0.1664201021194458,
+    0.18567319214344025,
+    0.0027594738639891148,
+    0.0224774032831192,
+    0.14311152696609497,
+    0.15758906304836273,
+    0.050374098122119904
+  ],
+  "all_results": [
+    {
+      "question": "The American flag is usually made with its width and length in the ratio of 10 to 19. Which dimensions are in the correct ratio for the flag?",
+      "choices": {
+        "A": "30 ft by 53 ft",
+        "B": "27 ft by 53 ft",
+        "C": "27 in. by 57 in.",
+        "D": "30 in. by 57 in."
+      },
+      "answer": "B",
+      "confidence": 0.19797660410404205,
+      "correct_answer": "D",
+      "prompt_used": "Only one of (A, B, C, D) is bussin\u2019 \u2014 find it.\nCheck this out, fam \u2014 here\u2019s the question.: The American flag is usually made with its width and length in the ratio of 10 to 19. Which dimensions are in the correct ratio for the flag?\nThe squad of answers awaits.: (A) 30 ft by 53 ft\n(B) 27 ft by 53 ft\n(C) 27 in. by 57 in.\n(D) 30 in. by 57 in.\n \nDrop your answer.:"
+    },
+    {
+      "question": "Sheila has been given 5 minutes to solve 20 arithmetic problems. What is the minimum rate Sheila can work in order to finish in time?",
+      "choices": {
+        "A": "1 problem per minute",
+        "B": "2 problems per minute",
+        "C": "4 problems per minute",
+        "D": "5 problems per minute"
+      },
+      "answer": "D",
+      "confidence": 0.36589545011520386,
+      "correct_answer": "C",
+      "prompt_used": "Read the question and pick the GOAT answer from (A, B, C, D).\nThis one\u2019s for you, fam.: Sheila has been given 5 minutes to solve 20 arithmetic problems. What is the minimum rate Sheila can work in order to finish in time?\nLineup\u2019s right here.: (A) 1 problem per minute\n(B) 2 problems per minute\n(C) 4 problems per minute\n(D) 5 problems per minute\n \nTell me what\u2019s lit.:"
+    },
+    {
+      "question": "Solve 3 over 4 * x = 24.",
+      "choices": {
+        "A": "18",
+        "B": "32",
+        "C": "72",
+        "D": "96"
+      },
+      "answer": "D",
+      "confidence": 0.03689463064074516,
+      "correct_answer": "B",
+      "prompt_used": "Make your pick and own it.\nQuestion incoming!: Solve 3 over 4 * x = 24.\nLineup\u2019s right here.: (A) 18\n(B) 32\n(C) 72\n(D) 96\n \nTell me what\u2019s lit.:"
+    },
+    {
+      "question": "Solve the equation x + 71 = \u221222.",
+      "choices": {
+        "A": "\u221293",
+        "B": "\u221249",
+        "C": "49",
+        "D": "93"
+      },
+      "answer": "D",
+      "confidence": 0.4439322054386139,
+      "correct_answer": "A",
+      "prompt_used": "Read the question and pick the GOAT answer from (A, B, C, D).\nHere\u2019s the Q, bestie.: Solve the equation x + 71 = \u221222.\nYour menu is here.: (A) \u221293\n(B) \u221249\n(C) 49\n(D) 93\n \nGive me the right one.:"
+    },
+    {
+      "question": "What is 836 rounded to the nearest 10?",
+      "choices": {
+        "A": "800",
+        "B": "830",
+        "C": "840",
+        "D": "870"
+      },
+      "answer": "A",
+      "confidence": 0.02246723882853985,
+      "correct_answer": "C",
+      "prompt_used": "Find the answer that\u2019s 100% facts.\nQuestion incoming!: What is 836 rounded to the nearest 10?\nPick from these options.: (A) 800\n(B) 830\n(C) 840\n(D) 870\n \nFlex your smarts.:"
+    },
+    {
+      "question": "Write 11 \u2022 11 \u2022 11 \u2022 11 \u2022 11 \u2022 11 \u2022 11 \u2022 11 using exponents.",
+      "choices": {
+        "A": "11 \u2022 8",
+        "B": "88^3",
+        "C": "8^11",
+        "D": "11^8"
+      },
+      "answer": "A",
+      "confidence": 0.053382907062768936,
+      "correct_answer": "D",
+      "prompt_used": "Only one of (A, B, C, D) is bussin\u2019 \u2014 find it.\nHere\u2019s the Q, bestie.: Write 11 \u2022 11 \u2022 11 \u2022 11 \u2022 11 \u2022 11 \u2022 11 \u2022 11 using exponents.\nHere are your choices, fr.: (A) 11 \u2022 8\n(B) 88^3\n(C) 8^11\n(D) 11^8\n \nSend it, bestie.:"
+    },
+    {
+      "question": "A bulletin board can be covered completely by 30 square pieces of paper without any gaps or overlaps. If each piece of paper has side lengths of 1 foot, what is the total area of the bulletin board?",
+      "choices": {
+        "A": "1 foot",
+        "B": "30 feet",
+        "C": "1 square foot",
+        "D": "30 square feet"
+      },
+      "answer": "B",
+      "confidence": 0.19770601391792297,
+      "correct_answer": "D",
+      "prompt_used": "Four options (A, B, C, D) are on the table. Pick the most valid one.\nHere\u2019s the Q, bestie.: A bulletin board can be covered completely by 30 square pieces of paper without any gaps or overlaps. If each piece of paper has side lengths of 1 foot, what is the total area of the bulletin board?\nThese are the contenders.: (A) 1 foot\n(B) 30 feet\n(C) 1 square foot\n(D) 30 square feet\n \nPick your fave answer.:"
+    },
+    {
+      "question": "There were 6 rows of chairs set up for a meeting. Each row had 8 chairs. What was the total number of chairs set up for the meeting?",
+      "choices": {
+        "A": "14",
+        "B": "36",
+        "C": "48",
+        "D": "64"
+      },
+      "answer": "D",
+      "confidence": 0.06879755109548569,
+      "correct_answer": "C",
+      "prompt_used": "Pick the option that\u2019s giving main character energy.\nHere\u2019s the Q, bestie.: There were 6 rows of chairs set up for a meeting. Each row had 8 chairs. What was the total number of chairs set up for the meeting?\nYour menu is here.: (A) 14\n(B) 36\n(C) 48\n(D) 64\n \nTell me what\u2019s lit.:"
+    },
+    {
+      "question": "Peter is in a group of 25 people. All 25 people went fishing in boats. There were 5 people in each boat. How can Peter find the number of boats the group used?",
+      "choices": {
+        "A": "Add 5 to 25",
+        "B": "Divide 25 by 5",
+        "C": "Multiply 25 by 5",
+        "D": "Subtract 5 from 25"
+      },
+      "answer": "D",
+      "confidence": 0.010346231050789356,
+      "correct_answer": "B",
+      "prompt_used": "Four options (A, B, C, D) are on the table. Pick the most valid one.\nWhat\u2019s up? Here\u2019s the Q.: Peter is in a group of 25 people. All 25 people went fishing in boats. There were 5 people in each boat. How can Peter find the number of boats the group used?\nPick from these options.: (A) Add 5 to 25\n(B) Divide 25 by 5\n(C) Multiply 25 by 5\n(D) Subtract 5 from 25\n \nTell me what\u2019s lit.:"
+    },
+    {
+      "question": "Estimate 711 + 497. The sum is between which numbers?",
+      "choices": {
+        "A": "50 and 400",
+        "B": "450 and 700",
+        "C": "750 and 1,000",
+        "D": "1,050 and 1,300"
+      },
+      "answer": "C",
+      "confidence": 0.044142886996269226,
+      "correct_answer": "D",
+      "prompt_used": "Snag the best answer and flex your brain.\nYo, here\u2019s the Q.: Estimate 711 + 497. The sum is between which numbers?\nThese are the contenders.: (A) 50 and 400\n(B) 450 and 700\n(C) 750 and 1,000\n(D) 1,050 and 1,300\n \nHit me with your pick.:"
+    },
+    {
+      "question": "Write 8 and 2 over 4 as an improper fraction in simplest form.",
+      "choices": {
+        "A": "17 over 2",
+        "B": "34 over 4",
+        "C": "17 over 4",
+        "D": "19 over 2"
+      },
+      "answer": "A",
+      "confidence": 0.14609394967556,
+      "correct_answer": "A",
+      "prompt_used": "Snag the best answer and flex your brain.\nCheck this out, fam \u2014 here\u2019s the question.: Write 8 and 2 over 4 as an improper fraction in simplest form.\nThe squad of answers awaits.: (A) 17 over 2\n(B) 34 over 4\n(C) 17 over 4\n(D) 19 over 2\n \nDrop your answer.:"
+    },
+    {
+      "question": "Identify a solution for the equation 5x \u2212 5 = \u221210 from the given numbers.",
+      "choices": {
+        "A": "\u22121",
+        "B": "\u22126",
+        "C": "\u22124",
+        "D": "\u22123"
+      },
+      "answer": "D",
+      "confidence": 0.12366711348295212,
+      "correct_answer": "A",
+      "prompt_used": "Read the question and pick the GOAT answer from (A, B, C, D).\nReady for this Q?: Identify a solution for the equation 5x \u2212 5 = \u221210 from the given numbers.\nThese are the contenders.: (A) \u22121\n(B) \u22126\n(C) \u22124\n(D) \u22123\n \nSend it, bestie.:"
+    },
+    {
+      "question": "Marcus spent $3.25 to wash his car. If one quarter operates the car wash for 60 seconds, how long did it take him to wash his car?",
+      "choices": {
+        "A": "10 minutes",
+        "B": "13 minutes",
+        "C": "16 minutes",
+        "D": "32.5 minutes"
+      },
+      "answer": "D",
+      "confidence": 0.4674784243106842,
+      "correct_answer": "B",
+      "prompt_used": "Make your pick and own it.\nLook alive, here\u2019s the question.: Marcus spent $3.25 to wash his car. If one quarter operates the car wash for 60 seconds, how long did it take him to wash his car?\nLineup\u2019s right here.: (A) 10 minutes\n(B) 13 minutes\n(C) 16 minutes\n(D) 32.5 minutes\n \nMake it official \u2014 what\u2019s your answer?:"
+    },
+    {
+      "question": "John\u2019s friend told him that he could earn $49 for handing out flyers at a local concert. John wants to calculate the hourly rate, If he works a total of 3.5 hours, the equation 3.5x = 49 can be used to determine his hourly rate. What would John\u2019s hourly rate be, in dollars?",
+      "choices": {
+        "A": "$1.40",
+        "B": "$14.00",
+        "C": "$45.50",
+        "D": "$171.50"
+      },
+      "answer": "D",
+      "confidence": 0.3543752431869507,
+      "correct_answer": "B",
+      "prompt_used": "Make your pick and own it.\nThis one\u2019s for you, fam.: John\u2019s friend told him that he could earn $49 for handing out flyers at a local concert. John wants to calculate the hourly rate, If he works a total of 3.5 hours, the equation 3.5x = 49 can be used to determine his hourly rate. What would John\u2019s hourly rate be, in dollars?\nThese are the contenders.: (A) $1.40\n(B) $14.00\n(C) $45.50\n(D) $171.50\n \nHit me with your pick.:"
+    },
+    {
+      "question": "Ms. Ling has been living in her home for exactly 4 years. She knows that there are 12 months in each year. She found the total number of months, m, she has been living in her home by using the number sentence below. 4 \u00d7 12 = m Which number sentence shows another way to find the total number of months, m, Ms. Ling has been living in her home?",
+      "choices": {
+        "A": "12 \u00f7 m = 4",
+        "B": "m \u00d7 4 = 12",
+        "C": "12 \u2013 m = 4",
+        "D": "m \u00f7 4 = 12"
+      },
+      "answer": "B",
+      "confidence": 0.0880880281329155,
+      "correct_answer": "D",
+      "prompt_used": "Make your pick and own it.\nWhat\u2019s up? Here\u2019s the Q.: Ms. Ling has been living in her home for exactly 4 years. She knows that there are 12 months in each year. She found the total number of months, m, she has been living in her home by using the number sentence below. 4 \u00d7 12 = m Which number sentence shows another way to find the total number of months, m, Ms. Ling has been living in her home?\nPeep the options.: (A) 12 \u00f7 m = 4\n(B) m \u00d7 4 = 12\n(C) 12 \u2013 m = 4\n(D) m \u00f7 4 = 12\n \nSend it, bestie.:"
+    },
+    {
+      "question": "A store has 3 boxes of shirts. Each box has 4 packages with 7 shirts in each package. The expression 3 \u00d7 (4 \u00d7 7) can be used to find the total number of shirts. Which expression can also be used to find the total number of shirts?",
+      "choices": {
+        "A": "12 \u00d7 3",
+        "B": "12 \u00d7 7",
+        "C": "28 \u00d7 4",
+        "D": "28 \u00d7 7"
+      },
+      "answer": "D",
+      "confidence": 0.014345026575028896,
+      "correct_answer": "B",
+      "prompt_used": "No cap \u2014 choose the correct one.\nLook alive, here\u2019s the question.: A store has 3 boxes of shirts. Each box has 4 packages with 7 shirts in each package. The expression 3 \u00d7 (4 \u00d7 7) can be used to find the total number of shirts. Which expression can also be used to find the total number of shirts?\nThese are the contenders.: (A) 12 \u00d7 3\n(B) 12 \u00d7 7\n(C) 28 \u00d7 4\n(D) 28 \u00d7 7\n \nFlex your smarts.:"
+    },
+    {
+      "question": "What is the value of the expression 2,816 x 7?",
+      "choices": {
+        "A": "14,572",
+        "B": "14,672",
+        "C": "19,612",
+        "D": "19,712"
+      },
+      "answer": "A",
+      "confidence": 0.6428685188293457,
+      "correct_answer": "D",
+      "prompt_used": "Four options (A, B, C, D) are on the table. Pick the most valid one.\nHey squad, Q time.: What is the value of the expression 2,816 x 7?\nThe squad of answers awaits.: (A) 14,572\n(B) 14,672\n(C) 19,612\n(D) 19,712\n \nTell me what\u2019s lit.:"
+    },
+    {
+      "question": "Find the opposite of the number \u22127.",
+      "choices": {
+        "A": "7",
+        "B": "\u22127",
+        "C": "0.7",
+        "D": "\u22127.7"
+      },
+      "answer": "A",
+      "confidence": 0.10049082338809967,
+      "correct_answer": "A",
+      "prompt_used": "Snag the best answer and flex your brain.\nThis one\u2019s for you, fam.: Find the opposite of the number \u22127.\nThese are the contenders.: (A) 7\n(B) \u22127\n(C) 0.7\n(D) \u22127.7\n \nShoot me your A.:"
+    },
+    {
+      "question": "Use the expression below to answer the question. 3 \u00d7 [(2 \u00d7 6 \u2013 5) + (8 \u00f7 4)] \u2013 1 What is the value of the expression?",
+      "choices": {
+        "A": "9",
+        "B": "11",
+        "C": "26",
+        "D": "32"
+      },
+      "answer": "D",
+      "confidence": 0.14596611261367798,
+      "correct_answer": "C",
+      "prompt_used": "Pick the option that\u2019s giving main character energy.\nYo, here\u2019s the Q.: Use the expression below to answer the question. 3 \u00d7 [(2 \u00d7 6 \u2013 5) + (8 \u00f7 4)] \u2013 1 What is the value of the expression?\nPick from these options.: (A) 9\n(B) 11\n(C) 26\n(D) 32\n \nSend it, bestie.:"
+    },
+    {
+      "question": "A store manager orders shirts from their warehouse. The shirts are packed into boxes and sentto the store, as described below. 81 shirts are ordered. Each shipping box holds 9 shirts. How many shipping boxes are needed for all of the shirts ordered?",
+      "choices": {
+        "A": "8",
+        "B": "9",
+        "C": "72",
+        "D": "90"
+      },
+      "answer": "D",
+      "confidence": 0.04663289710879326,
+      "correct_answer": "B",
+      "prompt_used": "Four options (A, B, C, D) are on the table. Pick the most valid one.\nLook alive, here\u2019s the question.: A store manager orders shirts from their warehouse. The shirts are packed into boxes and sentto the store, as described below. 81 shirts are ordered. Each shipping box holds 9 shirts. How many shipping boxes are needed for all of the shirts ordered?\nLineup\u2019s right here.: (A) 8\n(B) 9\n(C) 72\n(D) 90\n \nDrop your answer.:"
+    },
+    {
+      "question": "Write 4 and 4 over 5 as an improper fraction.",
+      "choices": {
+        "A": "28 over 5",
+        "B": "4 over 5",
+        "C": "24 over 5",
+        "D": "20 over 5"
+      },
+      "answer": "D",
+      "confidence": 0.044057540595531464,
+      "correct_answer": "C",
+      "prompt_used": "No cap \u2014 choose the correct one.\nBig brain time \u2014 here\u2019s the Q.: Write 4 and 4 over 5 as an improper fraction.\nYour menu is here.: (A) 28 over 5\n(B) 4 over 5\n(C) 24 over 5\n(D) 20 over 5\n \nGive me the right one.:"
+    },
+    {
+      "question": "Molly got a haircut for $25 and she left a 15% tip. What was Molly\u2019s final cost?",
+      "choices": {
+        "A": "$25.15",
+        "B": "$26.50",
+        "C": "$27.50",
+        "D": "$28.75"
+      },
+      "answer": "D",
+      "confidence": 0.022486114874482155,
+      "correct_answer": "D",
+      "prompt_used": "Pick the option that\u2019s giving main character energy.\nThis one\u2019s for you, fam.: Molly got a haircut for $25 and she left a 15% tip. What was Molly\u2019s final cost?\nYour picks are here.: (A) $25.15\n(B) $26.50\n(C) $27.50\n(D) $28.75\n \nHit me with your pick.:"
+    },
+    {
+      "question": "There are 7 desks arranged in a row in Mr. Thompson\u2019s classroom. Hector sits 2 seats to the right of Kim. Tonya sits 3 seats to the right of Hector. How many seats to the left of Tonya does Kim sit?",
+      "choices": {
+        "A": "2",
+        "B": "3",
+        "C": "5",
+        "D": "12"
+      },
+      "answer": "D",
+      "confidence": 0.0047614010982215405,
+      "correct_answer": "C",
+      "prompt_used": "Find the answer that\u2019s 100% facts.\nReady for this Q?: There are 7 desks arranged in a row in Mr. Thompson\u2019s classroom. Hector sits 2 seats to the right of Kim. Tonya sits 3 seats to the right of Hector. How many seats to the left of Tonya does Kim sit?\nYour menu is here.: (A) 2\n(B) 3\n(C) 5\n(D) 12\n \nTell me what\u2019s lit.:"
+    },
+    {
+      "question": "A scientist studied the migration patterns of two types of whales. The humpback whales traveled 2,240 miles in 28 days. The gray whales traveled 2,368 miles in 32 days. If the humpback whales had traveled at the same rate for 32 days, how many more miles would they have traveled than the gray whales?",
+      "choices": {
+        "A": "128",
+        "B": "192",
+        "C": "280",
+        "D": "408"
+      },
+      "answer": "D",
+      "confidence": 0.056420985609292984,
+      "correct_answer": "B",
+      "prompt_used": "Find the answer that\u2019s 100% facts.\nWhat\u2019s up? Here\u2019s the Q.: A scientist studied the migration patterns of two types of whales. The humpback whales traveled 2,240 miles in 28 days. The gray whales traveled 2,368 miles in 32 days. If the humpback whales had traveled at the same rate for 32 days, how many more miles would they have traveled than the gray whales?\nYour picks are here.: (A) 128\n(B) 192\n(C) 280\n(D) 408\n \nFlex your smarts.:"
+    },
+    {
+      "question": "Use the Associative Property of Multiplication to simplify 8 \u2022 (\u22127) \u2022 (\u22121).",
+      "choices": {
+        "A": "\u221263",
+        "B": "56",
+        "C": "48",
+        "D": "\u221256"
+      },
+      "answer": "D",
+      "confidence": 0.10522368550300598,
+      "correct_answer": "A",
+      "prompt_used": "Lock in the choice that hits different.\nLook alive, here\u2019s the question.: Use the Associative Property of Multiplication to simplify 8 \u2022 (\u22127) \u2022 (\u22121).\nYour menu is here.: (A) \u221263\n(B) 56\n(C) 48\n(D) \u221256\n \nGive me the right one.:"
+    },
+    {
+      "question": "A student has 3 puzzles. Each puzzle has 1,250 pieces. What is the total number of pieces in the puzzles?",
+      "choices": {
+        "A": "3,650",
+        "B": "3,750",
+        "C": "4,650",
+        "D": "4,750"
+      },
+      "answer": "A",
+      "confidence": 0.021110771223902702,
+      "correct_answer": "B",
+      "prompt_used": "Four options (A, B, C, D) are on the table. Pick the most valid one.\nReady for this Q?: A student has 3 puzzles. Each puzzle has 1,250 pieces. What is the total number of pieces in the puzzles?\nPick from these options.: (A) 3,650\n(B) 3,750\n(C) 4,650\n(D) 4,750\n \nLock in your choice.:"
+    },
+    {
+      "question": "What is the value of the expression 28 x 42?",
+      "choices": {
+        "A": "420",
+        "B": "816",
+        "C": "1,166",
+        "D": "1,176"
+      },
+      "answer": "A",
+      "confidence": 0.01489938423037529,
+      "correct_answer": "D",
+      "prompt_used": "Pick the option that\u2019s giving main character energy.\nReady for this Q?: What is the value of the expression 28 x 42?\nPick from these options.: (A) 420\n(B) 816\n(C) 1,166\n(D) 1,176\n \nDrop your answer.:"
+    },
+    {
+      "question": "Find the LCM of 24 and 36.",
+      "choices": {
+        "A": "96",
+        "B": "144",
+        "C": "72",
+        "D": "120"
+      },
+      "answer": "D",
+      "confidence": 0.047078054398298264,
+      "correct_answer": "C",
+      "prompt_used": "Lock in the choice that hits different.\nHey squad, Q time.: Find the LCM of 24 and 36.\nCheck these out.: (A) 96\n(B) 144\n(C) 72\n(D) 120\n \nDrop your answer.:"
+    },
+    {
+      "question": "Rich measures the width of one cardboard strip as 5 over 6 ft. A second cardboard strip is 2 over 3 ft wide. Estimate the combined width of the cardboard strips.",
+      "choices": {
+        "A": "2 ft",
+        "B": "1 and 1 over 2 ft",
+        "C": "1 ft",
+        "D": "3 ft"
+      },
+      "answer": "A",
+      "confidence": 0.09091030806303024,
+      "correct_answer": "B",
+      "prompt_used": "Snag the best answer and flex your brain.\nQuestion incoming!: Rich measures the width of one cardboard strip as 5 over 6 ft. A second cardboard strip is 2 over 3 ft wide. Estimate the combined width of the cardboard strips.\nScroll through these picks.: (A) 2 ft\n(B) 1 and 1 over 2 ft\n(C) 1 ft\n(D) 3 ft\n \nShoot me your A.:"
+    },
+    {
+      "question": "Pat bounces a basketball 25 times in 30 seconds. At that rate, approximately how many times will Pat bounce the ball in 150 seconds?",
+      "choices": {
+        "A": "120",
+        "B": "125",
+        "C": "144",
+        "D": "145"
+      },
+      "answer": "A",
+      "confidence": 0.04570421576499939,
+      "correct_answer": "B",
+      "prompt_used": "Read the question and pick the GOAT answer from (A, B, C, D).\nThis one\u2019s for you, fam.: Pat bounces a basketball 25 times in 30 seconds. At that rate, approximately how many times will Pat bounce the ball in 150 seconds?\nHere are your choices, fr.: (A) 120\n(B) 125\n(C) 144\n(D) 145\n \nDrop your answer.:"
+    },
+    {
+      "question": "Which measurement would best be rounded to the nearest thousand?",
+      "choices": {
+        "A": "The length of a football field in yards",
+        "B": "The height of a professional football player in inches",
+        "C": "The number of people at a professional football game",
+        "D": "The weight of a professional football player in pounds"
+      },
+      "answer": "A",
+      "confidence": 0.0402364656329155,
+      "correct_answer": "C",
+      "prompt_used": "Four options (A, B, C, D) are on the table. Pick the most valid one.\nCheck this out, fam \u2014 here\u2019s the question.: Which measurement would best be rounded to the nearest thousand?\nLineup\u2019s right here.: (A) The length of a football field in yards\n(B) The height of a professional football player in inches\n(C) The number of people at a professional football game\n(D) The weight of a professional football player in pounds\n \nPick your fave answer.:"
+    },
+    {
+      "question": "Find the value of the expression \u221225 \u2212 (\u221211).",
+      "choices": {
+        "A": "\u221236",
+        "B": "\u221214",
+        "C": "14",
+        "D": "36"
+      },
+      "answer": "D",
+      "confidence": 0.015961529687047005,
+      "correct_answer": "C",
+      "prompt_used": "Snag the best answer and flex your brain.\nHey squad, Q time.: Find the value of the expression \u221225 \u2212 (\u221211).\nPeep the options.: (A) \u221236\n(B) \u221214\n(C) 14\n(D) 36\n \nGive me the right one.:"
+    },
+    {
+      "question": "Which algebraic expression represents four times the quantity 22 less than x?",
+      "choices": {
+        "A": "4(x \u2013 22)",
+        "B": "(4 \u2022 22) \u2013 x",
+        "C": "4(22 \u2013 x)",
+        "D": "(x \u2022 4) \u2013 22"
+      },
+      "answer": "D",
+      "confidence": 0.007695895154029131,
+      "correct_answer": "A",
+      "prompt_used": "Four options (A, B, C, D) are on the table. Pick the most valid one.\nQuestion incoming!: Which algebraic expression represents four times the quantity 22 less than x?\nYour menu is here.: (A) 4(x \u2013 22)\n(B) (4 \u2022 22) \u2013 x\n(C) 4(22 \u2013 x)\n(D) (x \u2022 4) \u2013 22\n \nPick your fave answer.:"
+    },
+    {
+      "question": "Find the number that makes the statement 12 over 18 = ? over 9 true.",
+      "choices": {
+        "A": "4",
+        "B": "6",
+        "C": "8",
+        "D": "12"
+      },
+      "answer": "D",
+      "confidence": 0.03358011692762375,
+      "correct_answer": "A",
+      "prompt_used": "Only one of (A, B, C, D) is bussin\u2019 \u2014 find it.\nLook alive, here\u2019s the question.: Find the number that makes the statement 12 over 18 = ? over 9 true.\nPick from these options.: (A) 4\n(B) 6\n(C) 8\n(D) 12\n \nPick your fave answer.:"
+    },
+    {
+      "question": "Which list of numbers is ordered from least to greatest?",
+      "choices": {
+        "A": "167,213, 161,455, 17,400, 11,633",
+        "B": "10,354, 10,600, 104,321, 106,213",
+        "C": "160,233, 171,141, 11,645, 16,703",
+        "D": "12,209, 12,902, 125,466, 125,464"
+      },
+      "answer": "A",
+      "confidence": 0.27288615703582764,
+      "correct_answer": "B",
+      "prompt_used": "Snag the best answer and flex your brain.\nHey squad, Q time.: Which list of numbers is ordered from least to greatest?\nCheck these out.: (A) 167,213, 161,455, 17,400, 11,633\n(B) 10,354, 10,600, 104,321, 106,213\n(C) 160,233, 171,141, 11,645, 16,703\n(D) 12,209, 12,902, 125,466, 125,464\n \nMake it official \u2014 what\u2019s your answer?:"
+    },
+    {
+      "question": "What is 0.3 \u00d7 427?",
+      "choices": {
+        "A": "0.1281",
+        "B": "1.281",
+        "C": "12.81",
+        "D": "128.1"
+      },
+      "answer": "D",
+      "confidence": 0.22101429104804993,
+      "correct_answer": "D",
+      "prompt_used": "Read the question and pick the GOAT answer from (A, B, C, D).\nBig brain time \u2014 here\u2019s the Q.: What is 0.3 \u00d7 427?\nPick from these options.: (A) 0.1281\n(B) 1.281\n(C) 12.81\n(D) 128.1\n \nMake it official \u2014 what\u2019s your answer?:"
+    },
+    {
+      "question": "What does the p equal in 3 + p = 15?",
+      "choices": {
+        "A": "3",
+        "B": "5",
+        "C": "12",
+        "D": "18"
+      },
+      "answer": "A",
+      "confidence": 0.007028651889413595,
+      "correct_answer": "C",
+      "prompt_used": "You\u2019ll get a question with four choices (A, B, C, D). Choose the most accurate one.\nThis one\u2019s for you, fam.: What does the p equal in 3 + p = 15?\nThese are the contenders.: (A) 3\n(B) 5\n(C) 12\n(D) 18\n \nSend it, bestie.:"
+    },
+    {
+      "question": "Find the product of \u22128 \u2022 (\u22124).",
+      "choices": {
+        "A": "\u22124",
+        "B": "4",
+        "C": "32",
+        "D": "\u221232"
+      },
+      "answer": "A",
+      "confidence": 0.08273371309041977,
+      "correct_answer": "C",
+      "prompt_used": "Snag the best answer and flex your brain.\nWhat\u2019s up? Here\u2019s the Q.: Find the product of \u22128 \u2022 (\u22124).\nCheck these out.: (A) \u22124\n(B) 4\n(C) 32\n(D) \u221232\n \nDrop your answer.:"
+    },
+    {
+      "question": "Identify a solution for the equation x + 2.7 = 8.4 from the given numbers.",
+      "choices": {
+        "A": "11.1",
+        "B": "5.7",
+        "C": "3.7",
+        "D": "22.68"
+      },
+      "answer": "A",
+      "confidence": 0.4785155951976776,
+      "correct_answer": "B",
+      "prompt_used": "Lock in the choice that hits different.\nQuestion incoming!: Identify a solution for the equation x + 2.7 = 8.4 from the given numbers.\nThe squad of answers awaits.: (A) 11.1\n(B) 5.7\n(C) 3.7\n(D) 22.68\n \nShoot me your A.:"
+    },
+    {
+      "question": "Find the value of 6 \u2022 24 \u00f7 (8 \u2212 5).",
+      "choices": {
+        "A": "48",
+        "B": "13",
+        "C": "\u221213",
+        "D": "54"
+      },
+      "answer": "D",
+      "confidence": 0.0031403000466525555,
+      "correct_answer": "A",
+      "prompt_used": "You\u2019ll get a question with four choices (A, B, C, D). Choose the most accurate one.\nThis one\u2019s for you, fam.: Find the value of 6 \u2022 24 \u00f7 (8 \u2212 5).\nHere are your choices, fr.: (A) 48\n(B) 13\n(C) \u221213\n(D) 54\n \nHit me with your pick.:"
+    },
+    {
+      "question": "Write 27 over 36 in simplest form.",
+      "choices": {
+        "A": "3 over 4",
+        "B": "2 over 3",
+        "C": "3 over 5",
+        "D": "1 over 5"
+      },
+      "answer": "A",
+      "confidence": 0.2728886306285858,
+      "correct_answer": "A",
+      "prompt_used": "Find the answer that\u2019s 100% facts.\nBig brain time \u2014 here\u2019s the Q.: Write 27 over 36 in simplest form.\nYour menu is here.: (A) 3 over 4\n(B) 2 over 3\n(C) 3 over 5\n(D) 1 over 5\n \nHit me with your pick.:"
+    },
+    {
+      "question": "In which set do all of the values make the inequality 2x \u2014 1 < 10 true?",
+      "choices": {
+        "A": "{10, 15, 20}",
+        "B": "{5, 7, 9}",
+        "C": "{4, 6, 8}",
+        "D": "{2, 3, 4}"
+      },
+      "answer": "C",
+      "confidence": 0.0313858836889267,
+      "correct_answer": "D",
+      "prompt_used": "Four options (A, B, C, D) are on the table. Pick the most valid one.\nThis one\u2019s for you, fam.: In which set do all of the values make the inequality 2x \u2014 1 < 10 true?\nCheck these out.: (A) {10, 15, 20}\n(B) {5, 7, 9}\n(C) {4, 6, 8}\n(D) {2, 3, 4}\n \nSend it, bestie.:"
+    },
+    {
+      "question": "Lucy is making gift baskets. She puts 3 apples in each gift basket. Which number sentence shows how to find the total number of gift baskets, b, Lucy can make with 24 apples?",
+      "choices": {
+        "A": "24 + 3 = b",
+        "B": "3 + b = 24",
+        "C": "24 \u00f7 b = 3",
+        "D": "3 \u00d7 24 = b"
+      },
+      "answer": "B",
+      "confidence": 0.03972696512937546,
+      "correct_answer": "C",
+      "prompt_used": "Pick the option that\u2019s giving main character energy.\nWhat\u2019s up? Here\u2019s the Q.: Lucy is making gift baskets. She puts 3 apples in each gift basket. Which number sentence shows how to find the total number of gift baskets, b, Lucy can make with 24 apples?\nPeep the options.: (A) 24 + 3 = b\n(B) 3 + b = 24\n(C) 24 \u00f7 b = 3\n(D) 3 \u00d7 24 = b\n \nTell me what\u2019s lit.:"
+    },
+    {
+      "question": "Compute 22 / 2 + 9.",
+      "choices": {
+        "A": "10",
+        "B": "11",
+        "C": "20",
+        "D": "2"
+      },
+      "answer": "D",
+      "confidence": 0.036139726638793945,
+      "correct_answer": "C",
+      "prompt_used": "No cap \u2014 choose the correct one.\nBig brain time \u2014 here\u2019s the Q.: Compute 22 / 2 + 9.\nYour picks are here.: (A) 10\n(B) 11\n(C) 20\n(D) 2\n \nMake it official \u2014 what\u2019s your answer?:"
+    },
+    {
+      "question": "John has 4 cookies. Sara has 2 more cookies than John. Darius has 3 times as many cookies as Sara. How many cookies does Darius have?",
+      "choices": {
+        "A": "9",
+        "B": "14",
+        "C": "18",
+        "D": "24"
+      },
+      "answer": "D",
+      "confidence": 0.08308356255292892,
+      "correct_answer": "C",
+      "prompt_used": "Make your pick and own it.\nQuestion incoming!: John has 4 cookies. Sara has 2 more cookies than John. Darius has 3 times as many cookies as Sara. How many cookies does Darius have?\nLineup\u2019s right here.: (A) 9\n(B) 14\n(C) 18\n(D) 24\n \nLock in your choice.:"
+    },
+    {
+      "question": "Which two numbers both round to 1,500 when rounded to the nearest hundred?",
+      "choices": {
+        "A": "1,399 and 1,599",
+        "B": "1,449 and 1,549",
+        "C": "1,457 and 1,547",
+        "D": "1,489 and 1,589"
+      },
+      "answer": "C",
+      "confidence": 0.04053499549627304,
+      "correct_answer": "C",
+      "prompt_used": "Lock in the choice that hits different.\nHere\u2019s the Q, bestie.: Which two numbers both round to 1,500 when rounded to the nearest hundred?\nPick from these options.: (A) 1,399 and 1,599\n(B) 1,449 and 1,549\n(C) 1,457 and 1,547\n(D) 1,489 and 1,589\n \nPick your fave answer.:"
+    },
+    {
+      "question": "Marshall wants to finish typing his English paper before class starts. If he still has 550 words left to type and class starts in 25 minutes, at least how fast must Marshall type to finish his paper on time?",
+      "choices": {
+        "A": "20 words per minute",
+        "B": "21 words per minute",
+        "C": "22 words per minute",
+        "D": "25 words per minute"
+      },
+      "answer": "A",
+      "confidence": 0.05623912066221237,
+      "correct_answer": "C",
+      "prompt_used": "Snag the best answer and flex your brain.\nWhat\u2019s up? Here\u2019s the Q.: Marshall wants to finish typing his English paper before class starts. If he still has 550 words left to type and class starts in 25 minutes, at least how fast must Marshall type to finish his paper on time?\nPick from these options.: (A) 20 words per minute\n(B) 21 words per minute\n(C) 22 words per minute\n(D) 25 words per minute\n \nShoot me your A.:"
+    },
+    {
+      "question": "When n = 11, what is the value of 10 \u2013 (n + 6)?",
+      "choices": {
+        "A": "\u20137",
+        "B": "5",
+        "C": "7",
+        "D": "27"
+      },
+      "answer": "A",
+      "confidence": 0.0309668630361557,
+      "correct_answer": "A",
+      "prompt_used": "Only one of (A, B, C, D) is bussin\u2019 \u2014 find it.\nHere\u2019s the Q, bestie.: When n = 11, what is the value of 10 \u2013 (n + 6)?\nLineup\u2019s right here.: (A) \u20137\n(B) 5\n(C) 7\n(D) 27\n \nHit me with your pick.:"
+    },
+    {
+      "question": "The population of a certain city is 836,527. What is the population of this city rounded to the nearest ten thousand?",
+      "choices": {
+        "A": "800,000",
+        "B": "830,000",
+        "C": "836,000",
+        "D": "840,000"
+      },
+      "answer": "C",
+      "confidence": 0.11476476490497589,
+      "correct_answer": "D",
+      "prompt_used": "Four options (A, B, C, D) are on the table. Pick the most valid one.\nQuestion incoming!: The population of a certain city is 836,527. What is the population of this city rounded to the nearest ten thousand?\nLineup\u2019s right here.: (A) 800,000\n(B) 830,000\n(C) 836,000\n(D) 840,000\n \nMake it official \u2014 what\u2019s your answer?:"
+    },
+    {
+      "question": "The Mills Library has 1,007,199 books. The Springvale Library has 907,082 books. Which of the following is the best estimate of how many more books the Mills Library has than the Springvale Library?",
+      "choices": {
+        "A": "100,000 books",
+        "B": "80,000 books",
+        "C": "10,000 books",
+        "D": "8,000 books"
+      },
+      "answer": "D",
+      "confidence": 0.02995068021118641,
+      "correct_answer": "A",
+      "prompt_used": "Lock in the choice that hits different.\nHere\u2019s the Q, bestie.: The Mills Library has 1,007,199 books. The Springvale Library has 907,082 books. Which of the following is the best estimate of how many more books the Mills Library has than the Springvale Library?\nPick from these options.: (A) 100,000 books\n(B) 80,000 books\n(C) 10,000 books\n(D) 8,000 books\n \nShoot me your A.:"
+    },
+    {
+      "question": "Which pair of ratios can form a proportion?",
+      "choices": {
+        "A": "2 over 5 and 8 over 10",
+        "B": "2 over 5 and 10 over 15",
+        "C": "2 over 5 and 4 over 25",
+        "D": "2 over 5 and 6 over 15"
+      },
+      "answer": "D",
+      "confidence": 0.016844874247908592,
+      "correct_answer": "D",
+      "prompt_used": "Lock in the choice that hits different.\nWhat\u2019s up? Here\u2019s the Q.: Which pair of ratios can form a proportion?\nHere are your choices, fr.: (A) 2 over 5 and 8 over 10\n(B) 2 over 5 and 10 over 15\n(C) 2 over 5 and 4 over 25\n(D) 2 over 5 and 6 over 15\n \nFlex your smarts.:"
+    },
+    {
+      "question": "Find 3 over 4 \u2212 1 over 8.",
+      "choices": {
+        "A": "21 over 32",
+        "B": "1",
+        "C": "5 over 8",
+        "D": "11 over 16"
+      },
+      "answer": "A",
+      "confidence": 0.05777387320995331,
+      "correct_answer": "C",
+      "prompt_used": "You\u2019ll get a question with four choices (A, B, C, D). Choose the most accurate one.\nReady for this Q?: Find 3 over 4 \u2212 1 over 8.\nHere are your choices, fr.: (A) 21 over 32\n(B) 1\n(C) 5 over 8\n(D) 11 over 16\n \nLock in your choice.:"
+    },
+    {
+      "question": "Manuel bought a used car for six thousand forty-nine dollars. What is the cost of the used car Manuel bought written as a numeral?",
+      "choices": {
+        "A": "$649",
+        "B": "$6,049",
+        "C": "$6,409",
+        "D": "$6,490"
+      },
+      "answer": "A",
+      "confidence": 0.22430425882339478,
+      "correct_answer": "B",
+      "prompt_used": "Make your pick and own it.\nReady for this Q?: Manuel bought a used car for six thousand forty-nine dollars. What is the cost of the used car Manuel bought written as a numeral?\nLineup\u2019s right here.: (A) $649\n(B) $6,049\n(C) $6,409\n(D) $6,490\n \nPick your fave answer.:"
+    },
+    {
+      "question": "Chris sells roses for $16.99 a bunch. At the end of the day he has collected $339.80. How many bunches of roses did he sell?",
+      "choices": {
+        "A": "22",
+        "B": "18",
+        "C": "20",
+        "D": "16"
+      },
+      "answer": "A",
+      "confidence": 0.04726827144622803,
+      "correct_answer": "C",
+      "prompt_used": "Four options (A, B, C, D) are on the table. Pick the most valid one.\nCheck this out, fam \u2014 here\u2019s the question.: Chris sells roses for $16.99 a bunch. At the end of the day he has collected $339.80. How many bunches of roses did he sell?\nYour menu is here.: (A) 22\n(B) 18\n(C) 20\n(D) 16\n \nShoot me your A.:"
+    },
+    {
+      "question": "Keiko spent the day bird watching and counted 34 more birds in the morning than in the afternoon. If she counted a total of 76 birds, how many birds did she count in the afternoon?",
+      "choices": {
+        "A": "21 birds",
+        "B": "40 birds",
+        "C": "42 birds",
+        "D": "84 birds"
+      },
+      "answer": "D",
+      "confidence": 0.234503373503685,
+      "correct_answer": "A",
+      "prompt_used": "No cap \u2014 choose the correct one.\nReady for this Q?: Keiko spent the day bird watching and counted 34 more birds in the morning than in the afternoon. If she counted a total of 76 birds, how many birds did she count in the afternoon?\nLineup\u2019s right here.: (A) 21 birds\n(B) 40 birds\n(C) 42 birds\n(D) 84 birds\n \nLock in your choice.:"
+    },
+    {
+      "question": "Mark has a stamp collection. He has 22 stamps from Japan, 34 from Canada, and 17 from Mexico. How many stamps does he have in all?",
+      "choices": {
+        "A": "53",
+        "B": "63",
+        "C": "73",
+        "D": "83"
+      },
+      "answer": "D",
+      "confidence": 0.03470168635249138,
+      "correct_answer": "C",
+      "prompt_used": "Only one of (A, B, C, D) is bussin\u2019 \u2014 find it.\nThis one\u2019s for you, fam.: Mark has a stamp collection. He has 22 stamps from Japan, 34 from Canada, and 17 from Mexico. How many stamps does he have in all?\nPeep the options.: (A) 53\n(B) 63\n(C) 73\n(D) 83\n \nFlex your smarts.:"
+    },
+    {
+      "question": "Estimate 153 + 44. The sum is between which numbers?",
+      "choices": {
+        "A": "100 and 299",
+        "B": "300 and 499",
+        "C": "500 and 699",
+        "D": "700 and 899"
+      },
+      "answer": "A",
+      "confidence": 0.10110799223184586,
+      "correct_answer": "A",
+      "prompt_used": "Only one of (A, B, C, D) is bussin\u2019 \u2014 find it.\nCheck this out, fam \u2014 here\u2019s the question.: Estimate 153 + 44. The sum is between which numbers?\nCheck these out.: (A) 100 and 299\n(B) 300 and 499\n(C) 500 and 699\n(D) 700 and 899\n \nDrop your answer.:"
+    },
+    {
+      "question": "Solve the equation 18 + p = 29.",
+      "choices": {
+        "A": "\u221247",
+        "B": "\u221211",
+        "C": "11",
+        "D": "47"
+      },
+      "answer": "A",
+      "confidence": 0.22875826060771942,
+      "correct_answer": "C",
+      "prompt_used": "Find the answer that\u2019s 100% facts.\nHey squad, Q time.: Solve the equation 18 + p = 29.\nCheck these out.: (A) \u221247\n(B) \u221211\n(C) 11\n(D) 47\n \nShoot me your A.:"
+    },
+    {
+      "question": "Which ratio can form a proportion with 3 over 8?",
+      "choices": {
+        "A": "18 over 40",
+        "B": "18 over 56",
+        "C": "24 over 64",
+        "D": "15 over 48"
+      },
+      "answer": "C",
+      "confidence": 0.0675172433257103,
+      "correct_answer": "C",
+      "prompt_used": "No cap \u2014 choose the correct one.\nReady for this Q?: Which ratio can form a proportion with 3 over 8?\nHere are your choices, fr.: (A) 18 over 40\n(B) 18 over 56\n(C) 24 over 64\n(D) 15 over 48\n \nTell me what\u2019s lit.:"
+    },
+    {
+      "question": "The state of Georgia has 159 counties and covers 58056 square miles. What is the average number of square miles per county? Round your answer to the nearest whole number.",
+      "choices": {
+        "A": "274 square miles per county",
+        "B": "159 square miles per county",
+        "C": "318 square miles per county",
+        "D": "365 square miles per county"
+      },
+      "answer": "A",
+      "confidence": 0.24082514643669128,
+      "correct_answer": "D",
+      "prompt_used": "Make your pick and own it.\nWhat\u2019s up? Here\u2019s the Q.: The state of Georgia has 159 counties and covers 58056 square miles. What is the average number of square miles per county? Round your answer to the nearest whole number.\nYour menu is here.: (A) 274 square miles per county\n(B) 159 square miles per county\n(C) 318 square miles per county\n(D) 365 square miles per county\n \nLock in your choice.:"
+    },
+    {
+      "question": "Which expression is equivalent to 5(4x + 3) \u2014 2x?",
+      "choices": {
+        "A": "18x+15",
+        "B": "18x+3",
+        "C": "7x+8",
+        "D": "2x+8"
+      },
+      "answer": "D",
+      "confidence": 0.017146266996860504,
+      "correct_answer": "A",
+      "prompt_used": "Only one of (A, B, C, D) is bussin\u2019 \u2014 find it.\nThis one\u2019s for you, fam.: Which expression is equivalent to 5(4x + 3) \u2014 2x?\nThese are the contenders.: (A) 18x+15\n(B) 18x+3\n(C) 7x+8\n(D) 2x+8\n \nPick your fave answer.:"
+    },
+    {
+      "question": "Which statement is false?",
+      "choices": {
+        "A": "3 < 5",
+        "B": "5 > 3",
+        "C": "\u22125 > \u22123",
+        "D": "\u22123 > \u22125"
+      },
+      "answer": "A",
+      "confidence": 0.5632889866828918,
+      "correct_answer": "C",
+      "prompt_used": "Read the question and pick the GOAT answer from (A, B, C, D).\nHey squad, Q time.: Which statement is false?\nThe squad of answers awaits.: (A) 3 < 5\n(B) 5 > 3\n(C) \u22125 > \u22123\n(D) \u22123 > \u22125\n \nMake it official \u2014 what\u2019s your answer?:"
+    },
+    {
+      "question": "Which fraction shows the ratio of 3 dogs to 5 dogs?",
+      "choices": {
+        "A": "5 over 3",
+        "B": "3 over 8",
+        "C": "2 over 5",
+        "D": "3 over 5"
+      },
+      "answer": "A",
+      "confidence": 0.03952528536319733,
+      "correct_answer": "D",
+      "prompt_used": "Lock in the choice that hits different.\nThis one\u2019s for you, fam.: Which fraction shows the ratio of 3 dogs to 5 dogs?\nLineup\u2019s right here.: (A) 5 over 3\n(B) 3 over 8\n(C) 2 over 5\n(D) 3 over 5\n \nShoot me your A.:"
+    },
+    {
+      "question": "Kate has a coin collection. She keeps 7 of the coins in a box, which is only 5% of her entire collection. What is the total number of coins in Kate\u2019s coin collection?",
+      "choices": {
+        "A": "12",
+        "B": "14",
+        "C": "120",
+        "D": "140"
+      },
+      "answer": "D",
+      "confidence": 0.09998203814029694,
+      "correct_answer": "D",
+      "prompt_used": "Read the question and pick the GOAT answer from (A, B, C, D).\nReady for this Q?: Kate has a coin collection. She keeps 7 of the coins in a box, which is only 5% of her entire collection. What is the total number of coins in Kate\u2019s coin collection?\nCheck these out.: (A) 12\n(B) 14\n(C) 120\n(D) 140\n \nLock in your choice.:"
+    },
+    {
+      "question": "Use rounding to estimate the sum of 27.94 + 15.35 to the nearest tenth.",
+      "choices": {
+        "A": "43.2",
+        "B": "43.3",
+        "C": "43.4",
+        "D": "43.29"
+      },
+      "answer": "A",
+      "confidence": 0.19024838507175446,
+      "correct_answer": "B",
+      "prompt_used": "Make your pick and own it.\nReady for this Q?: Use rounding to estimate the sum of 27.94 + 15.35 to the nearest tenth.\nThese are the contenders.: (A) 43.2\n(B) 43.3\n(C) 43.4\n(D) 43.29\n \nGive me the right one.:"
+    },
+    {
+      "question": "Solve 13 over 4 = x over 7.",
+      "choices": {
+        "A": "22.75",
+        "B": "23.25",
+        "C": "24.25",
+        "D": "none of these"
+      },
+      "answer": "A",
+      "confidence": 0.6530023813247681,
+      "correct_answer": "A",
+      "prompt_used": "Find the answer that\u2019s 100% facts.\nHere\u2019s the Q, bestie.: Solve 13 over 4 = x over 7.\nLineup\u2019s right here.: (A) 22.75\n(B) 23.25\n(C) 24.25\n(D) none of these\n \nHit me with your pick.:"
+    },
+    {
+      "question": "The volume, V, of any cube with a side length, s, can be determined using the formula V = s^3. What is the volume, in cubic centimeters, of a cube with a side length of 2.3 centimeters?",
+      "choices": {
+        "A": "5.29",
+        "B": "6.9",
+        "C": "8.027",
+        "D": "12.167"
+      },
+      "answer": "A",
+      "confidence": 0.03995412215590477,
+      "correct_answer": "D",
+      "prompt_used": "Four options (A, B, C, D) are on the table. Pick the most valid one.\nWhat\u2019s up? Here\u2019s the Q.: The volume, V, of any cube with a side length, s, can be determined using the formula V = s^3. What is the volume, in cubic centimeters, of a cube with a side length of 2.3 centimeters?\nThese are the contenders.: (A) 5.29\n(B) 6.9\n(C) 8.027\n(D) 12.167\n \nHit me with your pick.:"
+    },
+    {
+      "question": "A teacher has three packages of stickers. One package contains 56 stickers, another package contains 48 stickers, and the third package contains 58 stickers. If the teacher divides all the stickers equally among 27 students, how many stickers will each student receive?",
+      "choices": {
+        "A": "6 stickers",
+        "B": "9 stickers",
+        "C": "54 stickers",
+        "D": "81 stickers"
+      },
+      "answer": "B",
+      "confidence": 0.08064411580562592,
+      "correct_answer": "A",
+      "prompt_used": "Make your pick and own it.\nThis one\u2019s for you, fam.: A teacher has three packages of stickers. One package contains 56 stickers, another package contains 48 stickers, and the third package contains 58 stickers. If the teacher divides all the stickers equally among 27 students, how many stickers will each student receive?\nThese are the contenders.: (A) 6 stickers\n(B) 9 stickers\n(C) 54 stickers\n(D) 81 stickers\n \nSend it, bestie.:"
+    },
+    {
+      "question": "A salad dressing is made by combining 2 parts vinegar with 5 parts oil. How many ounces of oil should be mixed with 9 ounces of vinegar?",
+      "choices": {
+        "A": "2",
+        "B": "3.6",
+        "C": "22.5",
+        "D": "63"
+      },
+      "answer": "B",
+      "confidence": 0.31536412239074707,
+      "correct_answer": "C",
+      "prompt_used": "No cap \u2014 choose the correct one.\nBig brain time \u2014 here\u2019s the Q.: A salad dressing is made by combining 2 parts vinegar with 5 parts oil. How many ounces of oil should be mixed with 9 ounces of vinegar?\nLineup\u2019s right here.: (A) 2\n(B) 3.6\n(C) 22.5\n(D) 63\n \nGive me the right one.:"
+    },
+    {
+      "question": "Jerry read a 200-page book in 10 hours. At that rate, how long will it take him to read a 320-page book?",
+      "choices": {
+        "A": "16 hours",
+        "B": "18 hours",
+        "C": "24 hours",
+        "D": "32 hours"
+      },
+      "answer": "D",
+      "confidence": 0.4205465316772461,
+      "correct_answer": "A",
+      "prompt_used": "Read the question and pick the GOAT answer from (A, B, C, D).\nReady for this Q?: Jerry read a 200-page book in 10 hours. At that rate, how long will it take him to read a 320-page book?\nLineup\u2019s right here.: (A) 16 hours\n(B) 18 hours\n(C) 24 hours\n(D) 32 hours\n \nTell me what\u2019s lit.:"
+    },
+    {
+      "question": "A dime has a radius of about 0.85 cm. Which measurement is closest to the circumference of a dime?",
+      "choices": {
+        "A": "1.33 cm",
+        "B": "1.70 cm",
+        "C": "2.67 cm",
+        "D": "5.34 cm"
+      },
+      "answer": "D",
+      "confidence": 0.04658329114317894,
+      "correct_answer": "D",
+      "prompt_used": "Only one of (A, B, C, D) is bussin\u2019 \u2014 find it.\nCheck this out, fam \u2014 here\u2019s the question.: A dime has a radius of about 0.85 cm. Which measurement is closest to the circumference of a dime?\nThese are the contenders.: (A) 1.33 cm\n(B) 1.70 cm\n(C) 2.67 cm\n(D) 5.34 cm\n \nDrop your answer.:"
+    },
+    {
+      "question": "Coach Wu has a total of 30 soccerballs. 9 soccer balls are white. The remaining soccer balls are one of three different colors (blue, pink, or green). There is an equal numberof blue, pink, and green balls How many green soccer balls does Coach Wu have?",
+      "choices": {
+        "A": "7",
+        "B": "10",
+        "C": "21",
+        "D": "39"
+      },
+      "answer": "D",
+      "confidence": 0.3250090181827545,
+      "correct_answer": "A",
+      "prompt_used": "Only one of (A, B, C, D) is bussin\u2019 \u2014 find it.\nQuestion incoming!: Coach Wu has a total of 30 soccerballs. 9 soccer balls are white. The remaining soccer balls are one of three different colors (blue, pink, or green). There is an equal numberof blue, pink, and green balls How many green soccer balls does Coach Wu have?\nPick from these options.: (A) 7\n(B) 10\n(C) 21\n(D) 39\n \nTell me what\u2019s lit.:"
+    },
+    {
+      "question": "Members of the Hiking Club hiked for 2.4 hours covering 2.5 miles each hour. How far did the members hike",
+      "choices": {
+        "A": "4.9 miles",
+        "B": "5.8 miles",
+        "C": "6.0 miles",
+        "D": "6.3 miles"
+      },
+      "answer": "A",
+      "confidence": 0.4863300621509552,
+      "correct_answer": "C",
+      "prompt_used": "Snag the best answer and flex your brain.\nQuestion incoming!: Members of the Hiking Club hiked for 2.4 hours covering 2.5 miles each hour. How far did the members hike\nPick from these options.: (A) 4.9 miles\n(B) 5.8 miles\n(C) 6.0 miles\n(D) 6.3 miles\n \nFlex your smarts.:"
+    },
+    {
+      "question": "Simplify (2 + 5)^2 \u2212 42.",
+      "choices": {
+        "A": "7",
+        "B": "16",
+        "C": "30",
+        "D": "33"
+      },
+      "answer": "D",
+      "confidence": 0.035429053008556366,
+      "correct_answer": "A",
+      "prompt_used": "Snag the best answer and flex your brain.\nThis one\u2019s for you, fam.: Simplify (2 + 5)^2 \u2212 42.\nThese are the contenders.: (A) 7\n(B) 16\n(C) 30\n(D) 33\n \nDrop your answer.:"
+    },
+    {
+      "question": "Write the unit rate for driving 308 km in 4 h. Round to the nearest hundredth if necessary.",
+      "choices": {
+        "A": "82 km/h",
+        "B": "74 km/h",
+        "C": "72 km/h",
+        "D": "77 km/h"
+      },
+      "answer": "A",
+      "confidence": 0.17799215018749237,
+      "correct_answer": "D",
+      "prompt_used": "Snag the best answer and flex your brain.\nYo, here\u2019s the Q.: Write the unit rate for driving 308 km in 4 h. Round to the nearest hundredth if necessary.\nThe squad of answers awaits.: (A) 82 km/h\n(B) 74 km/h\n(C) 72 km/h\n(D) 77 km/h\n \nHit me with your pick.:"
+    },
+    {
+      "question": "There are 190 guests at a wedding. What is the least number of circular tables needed to seat all the guests if each table seats exactly 8 people?",
+      "choices": {
+        "A": "22",
+        "B": "23",
+        "C": "24",
+        "D": "25"
+      },
+      "answer": "A",
+      "confidence": 0.003411100944504142,
+      "correct_answer": "C",
+      "prompt_used": "Pick the option that\u2019s giving main character energy.\nThis one\u2019s for you, fam.: There are 190 guests at a wedding. What is the least number of circular tables needed to seat all the guests if each table seats exactly 8 people?\nScroll through these picks.: (A) 22\n(B) 23\n(C) 24\n(D) 25\n \nHit me with your pick.:"
+    },
+    {
+      "question": "Yesterday, Micah ate an even number of strawberries. He also ate an odd number of apples. Which group could represent the strawberries, S, and apples, A, Micah ate yesterday?",
+      "choices": {
+        "A": "SSSSS; AAA",
+        "B": "SSSSS; AAAA",
+        "C": "SSSSSSSS; AAAA",
+        "D": "SSSSSSSS; A"
+      },
+      "answer": "A",
+      "confidence": 0.00809427909553051,
+      "correct_answer": "D",
+      "prompt_used": "You\u2019ll get a question with four choices (A, B, C, D). Choose the most accurate one.\nHere\u2019s the Q, bestie.: Yesterday, Micah ate an even number of strawberries. He also ate an odd number of apples. Which group could represent the strawberries, S, and apples, A, Micah ate yesterday?\nPick from these options.: (A) SSSSS; AAA\n(B) SSSSS; AAAA\n(C) SSSSSSSS; AAAA\n(D) SSSSSSSS; A\n \nTell me what\u2019s lit.:"
+    },
+    {
+      "question": "Ron\u2019s garden has 42 plants. Each row has 7 plants. Which expression can be used to find the number of rows in Ron\u2019s garden?",
+      "choices": {
+        "A": "42 \u00f7 7",
+        "B": "42 \u2013 7",
+        "C": "42 + 7",
+        "D": "42 \u00d7 7"
+      },
+      "answer": "D",
+      "confidence": 0.019119728356599808,
+      "correct_answer": "A",
+      "prompt_used": "You\u2019ll get a question with four choices (A, B, C, D). Choose the most accurate one.\nHey squad, Q time.: Ron\u2019s garden has 42 plants. Each row has 7 plants. Which expression can be used to find the number of rows in Ron\u2019s garden?\nPeep the options.: (A) 42 \u00f7 7\n(B) 42 \u2013 7\n(C) 42 + 7\n(D) 42 \u00d7 7\n \nGive me the right one.:"
+    },
+    {
+      "question": "A shelf has four books on it. The weight, in pounds, of each of the four books on the shelf is 2.5, 3.2, 2.7, 2.3 Which inequality represents the weight, w, of any book chosen from the shelf?",
+      "choices": {
+        "A": "w > 2.3",
+        "B": "w < 2.4",
+        "C": "w > 3.2",
+        "D": "w < 3.3"
+      },
+      "answer": "A",
+      "confidence": 0.15888427197933197,
+      "correct_answer": "D",
+      "prompt_used": "Read the question and pick the GOAT answer from (A, B, C, D).\nCheck this out, fam \u2014 here\u2019s the question.: A shelf has four books on it. The weight, in pounds, of each of the four books on the shelf is 2.5, 3.2, 2.7, 2.3 Which inequality represents the weight, w, of any book chosen from the shelf?\nCheck these out.: (A) w > 2.3\n(B) w < 2.4\n(C) w > 3.2\n(D) w < 3.3\n \nSend it, bestie.:"
+    },
+    {
+      "question": "Mrs. Kinney bought batteries in packs of 4 for the students\u2019 science experiments. Which of these could be the total number of batteries that she bought?",
+      "choices": {
+        "A": "22",
+        "B": "26",
+        "C": "28",
+        "D": "30"
+      },
+      "answer": "D",
+      "confidence": 0.1568717658519745,
+      "correct_answer": "C",
+      "prompt_used": "Four options (A, B, C, D) are on the table. Pick the most valid one.\nHey squad, Q time.: Mrs. Kinney bought batteries in packs of 4 for the students\u2019 science experiments. Which of these could be the total number of batteries that she bought?\nPeep the options.: (A) 22\n(B) 26\n(C) 28\n(D) 30\n \nPick your fave answer.:"
+    },
+    {
+      "question": "At the beginning of a class period, half of the students in a class go to the library. Later in the period, half of the remaining students go to the computer lab. If there are 8 students remaining in the class, how many students were originally in the class?",
+      "choices": {
+        "A": "12 students",
+        "B": "16 students",
+        "C": "24 students",
+        "D": "32 students"
+      },
+      "answer": "D",
+      "confidence": 0.29064878821372986,
+      "correct_answer": "D",
+      "prompt_used": "Lock in the choice that hits different.\nYo, here\u2019s the Q.: At the beginning of a class period, half of the students in a class go to the library. Later in the period, half of the remaining students go to the computer lab. If there are 8 students remaining in the class, how many students were originally in the class?\nThe squad of answers awaits.: (A) 12 students\n(B) 16 students\n(C) 24 students\n(D) 32 students\n \nMake it official \u2014 what\u2019s your answer?:"
+    },
+    {
+      "question": "\u22124 +  ( \u22123 )=",
+      "choices": {
+        "A": "\u22127",
+        "B": "\u22121",
+        "C": "1",
+        "D": "7"
+      },
+      "answer": "A",
+      "confidence": 0.4930844008922577,
+      "correct_answer": "A",
+      "prompt_used": "Read the question and pick the GOAT answer from (A, B, C, D).\nThis one\u2019s for you, fam.: \u22124 +  ( \u22123 )=\nPick from these options.: (A) \u22127\n(B) \u22121\n(C) 1\n(D) 7\n \nGive me the right one.:"
+    },
+    {
+      "question": "There are 2,817 homes in the town of West Valley. Each home uses an average of 380 gallons of water each day. Use the expression below to find the total number of gallons of water the homes in West Valley use on average each day. 2,817 \u00d7 380 What is the total number of gallons of water the homes in West Valley use on average each day?",
+      "choices": {
+        "A": "860,460 gallons",
+        "B": "870,460 gallons",
+        "C": "1,060,460 gallons",
+        "D": "1,070,460 gallons"
+      },
+      "answer": "A",
+      "confidence": 0.19155925512313843,
+      "correct_answer": "D",
+      "prompt_used": "Read the question and pick the GOAT answer from (A, B, C, D).\nHere\u2019s the Q, bestie.: There are 2,817 homes in the town of West Valley. Each home uses an average of 380 gallons of water each day. Use the expression below to find the total number of gallons of water the homes in West Valley use on average each day. 2,817 \u00d7 380 What is the total number of gallons of water the homes in West Valley use on average each day?\nThe squad of answers awaits.: (A) 860,460 gallons\n(B) 870,460 gallons\n(C) 1,060,460 gallons\n(D) 1,070,460 gallons\n \nGive me the right one.:"
+    },
+    {
+      "question": "Susan reads a book at a rate of 1 page every 3 minutes. If her reading rate remains the same, which method could be used to determine the number of minutes for her to read 18 pages?",
+      "choices": {
+        "A": "add 18 and 3",
+        "B": "divide 18 by 3",
+        "C": "multiply 3 by 18",
+        "D": "subtract 3 from 18"
+      },
+      "answer": "A",
+      "confidence": 0.019083309918642044,
+      "correct_answer": "C",
+      "prompt_used": "Read the question and pick the GOAT answer from (A, B, C, D).\nHey squad, Q time.: Susan reads a book at a rate of 1 page every 3 minutes. If her reading rate remains the same, which method could be used to determine the number of minutes for her to read 18 pages?\nHere are your choices, fr.: (A) add 18 and 3\n(B) divide 18 by 3\n(C) multiply 3 by 18\n(D) subtract 3 from 18\n \nLock in your choice.:"
+    },
+    {
+      "question": "Change 34 L 18 cL to liters.",
+      "choices": {
+        "A": "34.18 L",
+        "B": "35.8 L",
+        "C": "34.018 L",
+        "D": "214 L"
+      },
+      "answer": "D",
+      "confidence": 0.25212007761001587,
+      "correct_answer": "A",
+      "prompt_used": "Four options (A, B, C, D) are on the table. Pick the most valid one.\nHere\u2019s the Q, bestie.: Change 34 L 18 cL to liters.\nYour picks are here.: (A) 34.18 L\n(B) 35.8 L\n(C) 34.018 L\n(D) 214 L\n \nPick your fave answer.:"
+    },
+    {
+      "question": "Katie is going on vacation for 3 weeks. She finds the number of days of work she will miss by multiplying 5 \u00d7 3. Which expression shows another way Katie can find the number of days of work she will miss?",
+      "choices": {
+        "A": "3+5",
+        "B": "3+3+3",
+        "C": "5+5+5",
+        "D": "5+5+5+5+5"
+      },
+      "answer": "A",
+      "confidence": 0.04062072932720184,
+      "correct_answer": "C",
+      "prompt_used": "No cap \u2014 choose the correct one.\nCheck this out, fam \u2014 here\u2019s the question.: Katie is going on vacation for 3 weeks. She finds the number of days of work she will miss by multiplying 5 \u00d7 3. Which expression shows another way Katie can find the number of days of work she will miss?\nScroll through these picks.: (A) 3+5\n(B) 3+3+3\n(C) 5+5+5\n(D) 5+5+5+5+5\n \nLock in your choice.:"
+    },
+    {
+      "question": "Lily is going to give away all the pieces of candy in a bag. She can give an equal number of pieces of candy to 5, 3, or 2 people. Which number of pieces of candy could be in Lily\u2019s bag?",
+      "choices": {
+        "A": "12",
+        "B": "20",
+        "C": "30",
+        "D": "45"
+      },
+      "answer": "D",
+      "confidence": 0.014278734102845192,
+      "correct_answer": "C",
+      "prompt_used": "Lock in the choice that hits different.\nWhat\u2019s up? Here\u2019s the Q.: Lily is going to give away all the pieces of candy in a bag. She can give an equal number of pieces of candy to 5, 3, or 2 people. Which number of pieces of candy could be in Lily\u2019s bag?\nPeep the options.: (A) 12\n(B) 20\n(C) 30\n(D) 45\n \nLock in your choice.:"
+    },
+    {
+      "question": "Evaluate (c^2 \u2212 b^2)^2 + a^2 for a = 5, b = 3, and c = 2.",
+      "choices": {
+        "A": "194",
+        "B": "18",
+        "C": "50",
+        "D": "0"
+      },
+      "answer": "A",
+      "confidence": 0.5256112217903137,
+      "correct_answer": "C",
+      "prompt_used": "Snag the best answer and flex your brain.\nQuestion incoming!: Evaluate (c^2 \u2212 b^2)^2 + a^2 for a = 5, b = 3, and c = 2.\nYour picks are here.: (A) 194\n(B) 18\n(C) 50\n(D) 0\n \nLock in your choice.:"
+    },
+    {
+      "question": "Solve the equation \u221247 = g + 24.",
+      "choices": {
+        "A": "\u221271",
+        "B": "\u221223",
+        "C": "23",
+        "D": "71"
+      },
+      "answer": "D",
+      "confidence": 0.2899188697338104,
+      "correct_answer": "B",
+      "prompt_used": "Make your pick and own it.\nHere\u2019s the Q, bestie.: Solve the equation \u221247 = g + 24.\nCheck these out.: (A) \u221271\n(B) \u221223\n(C) 23\n(D) 71\n \nPick your fave answer.:"
+    },
+    {
+      "question": "Marguerite earned a score between 75 and 89 on all of her previous spelling tests. She earned a score of 100 on her next test. Which of the following statements is true?",
+      "choices": {
+        "A": "The mode will increase.",
+        "B": "The mean will increase.",
+        "C": "The mean will decrease.",
+        "D": "The median will decrease."
+      },
+      "answer": "D",
+      "confidence": 0.1664201021194458,
+      "correct_answer": "B",
+      "prompt_used": "Only one of (A, B, C, D) is bussin\u2019 \u2014 find it.\nLook alive, here\u2019s the question.: Marguerite earned a score between 75 and 89 on all of her previous spelling tests. She earned a score of 100 on her next test. Which of the following statements is true?\nPeep the options.: (A) The mode will increase.\n(B) The mean will increase.\n(C) The mean will decrease.\n(D) The median will decrease.\n \nSend it, bestie.:"
+    },
+    {
+      "question": "Find the number that makes the statement 48 over 88 = ? over 11 true.",
+      "choices": {
+        "A": "6",
+        "B": "11",
+        "C": "8",
+        "D": "5"
+      },
+      "answer": "A",
+      "confidence": 0.2376735955476761,
+      "correct_answer": "A",
+      "prompt_used": "Find the answer that\u2019s 100% facts.\nYo, here\u2019s the Q.: Find the number that makes the statement 48 over 88 = ? over 11 true.\nYour menu is here.: (A) 6\n(B) 11\n(C) 8\n(D) 5\n \nFlex your smarts.:"
+    },
+    {
+      "question": "Find the quotient of 16.1 \u00f7 0.14.",
+      "choices": {
+        "A": "1.15",
+        "B": "0.0115",
+        "C": "11.5",
+        "D": "115"
+      },
+      "answer": "A",
+      "confidence": 0.18567319214344025,
+      "correct_answer": "D",
+      "prompt_used": "Find the answer that\u2019s 100% facts.\nBig brain time \u2014 here\u2019s the Q.: Find the quotient of 16.1 \u00f7 0.14.\nThese are the contenders.: (A) 1.15\n(B) 0.0115\n(C) 11.5\n(D) 115\n \nSend it, bestie.:"
+    },
+    {
+      "question": "A group of students make a map of the area around their school. They place the school at (0, 0). The nearest store is placed at the point (\u20135, 7). In which quadrant is the point representing the nearest store?",
+      "choices": {
+        "A": "Quadrant I",
+        "B": "Quadrant II",
+        "C": "Quadrant III",
+        "D": "Quadrant IV"
+      },
+      "answer": "A",
+      "confidence": 0.0027594738639891148,
+      "correct_answer": "B",
+      "prompt_used": "You\u2019ll get a question with four choices (A, B, C, D). Choose the most accurate one.\nLook alive, here\u2019s the question.: A group of students make a map of the area around their school. They place the school at (0, 0). The nearest store is placed at the point (\u20135, 7). In which quadrant is the point representing the nearest store?\nYour picks are here.: (A) Quadrant I\n(B) Quadrant II\n(C) Quadrant III\n(D) Quadrant IV\n \nSend it, bestie.:"
+    },
+    {
+      "question": "A stack of 7 pennies has a height of 1 centimeter. Nick has a stack of pennies with a height of 4 centimeters. Which equation can be used to find the number of pennies, n, in Nick\u2019s stack of pennies?",
+      "choices": {
+        "A": "n =7+4",
+        "B": "n =7\u20134",
+        "C": "n =7\u00d74",
+        "D": "n =7\u00f74"
+      },
+      "answer": "B",
+      "confidence": 0.0224774032831192,
+      "correct_answer": "C",
+      "prompt_used": "Find the answer that\u2019s 100% facts.\nHey squad, Q time.: A stack of 7 pennies has a height of 1 centimeter. Nick has a stack of pennies with a height of 4 centimeters. Which equation can be used to find the number of pennies, n, in Nick\u2019s stack of pennies?\nYour menu is here.: (A) n =7+4\n(B) n =7\u20134\n(C) n =7\u00d74\n(D) n =7\u00f74\n \nPick your fave answer.:"
+    },
+    {
+      "question": "The weekly milk order for the Tranquility Inn includes 40 gallons of low-fat milk and 15 gallons of chocolate milk. What is the ratio of the number of low-fat gallons to chocolate gallons in the Tranquility Inn\u2019s weekly milk order?",
+      "choices": {
+        "A": "3:01",
+        "B": "5:01",
+        "C": "5:03",
+        "D": "8:03"
+      },
+      "answer": "D",
+      "confidence": 0.025627927854657173,
+      "correct_answer": "D",
+      "prompt_used": "Lock in the choice that hits different.\nThis one\u2019s for you, fam.: The weekly milk order for the Tranquility Inn includes 40 gallons of low-fat milk and 15 gallons of chocolate milk. What is the ratio of the number of low-fat gallons to chocolate gallons in the Tranquility Inn\u2019s weekly milk order?\nYour menu is here.: (A) 3:01\n(B) 5:01\n(C) 5:03\n(D) 8:03\n \nGive me the right one.:"
+    },
+    {
+      "question": "Samantha has 342 baseball cards. Perry has 184 baseball cards. How many more baseball cards does Samantha have than Perry?",
+      "choices": {
+        "A": "158",
+        "B": "168",
+        "C": "258",
+        "D": "268"
+      },
+      "answer": "A",
+      "confidence": 0.1068168431520462,
+      "correct_answer": "A",
+      "prompt_used": "You\u2019ll get a question with four choices (A, B, C, D). Choose the most accurate one.\nBig brain time \u2014 here\u2019s the Q.: Samantha has 342 baseball cards. Perry has 184 baseball cards. How many more baseball cards does Samantha have than Perry?\nLineup\u2019s right here.: (A) 158\n(B) 168\n(C) 258\n(D) 268\n \nMake it official \u2014 what\u2019s your answer?:"
+    },
+    {
+      "question": "Estimate 32 x 68. The product is between what numbers?",
+      "choices": {
+        "A": "18 and 28",
+        "B": "180 and 280",
+        "C": "1,800 and 2,800",
+        "D": "18,000 and 28,000"
+      },
+      "answer": "C",
+      "confidence": 0.09888844192028046,
+      "correct_answer": "C",
+      "prompt_used": "Make your pick and own it.\nYo, here\u2019s the Q.: Estimate 32 x 68. The product is between what numbers?\nThe squad of answers awaits.: (A) 18 and 28\n(B) 180 and 280\n(C) 1,800 and 2,800\n(D) 18,000 and 28,000\n \nGive me the right one.:"
+    },
+    {
+      "question": "Order from greatest to least: 3, 3 and 1 over 8,3.8,3.18.",
+      "choices": {
+        "A": "3.18, 3 and 1 over 8, 3.8,3",
+        "B": "3,3 and 1 over 8, 3.18, 3",
+        "C": "3.8, 3 and 1 over 8, 3.18, 3",
+        "D": "3.8, 3.18, 3 and 1 over 8, 3"
+      },
+      "answer": "B",
+      "confidence": 0.14311152696609497,
+      "correct_answer": "D",
+      "prompt_used": "Make your pick and own it.\nThis one\u2019s for you, fam.: Order from greatest to least: 3, 3 and 1 over 8,3.8,3.18.\nPick from these options.: (A) 3.18, 3 and 1 over 8, 3.8,3\n(B) 3,3 and 1 over 8, 3.18, 3\n(C) 3.8, 3 and 1 over 8, 3.18, 3\n(D) 3.8, 3.18, 3 and 1 over 8, 3\n \nGive me the right one.:"
+    },
+    {
+      "question": "A team of volunteers collected a total of $5,144 selling T-shirts at a charity concert. Each T-shirt was sold for $8. What was the total number of T-shirts the volunteers sold?",
+      "choices": {
+        "A": "632",
+        "B": "643",
+        "C": "655",
+        "D": "668"
+      },
+      "answer": "D",
+      "confidence": 0.15758906304836273,
+      "correct_answer": "B",
+      "prompt_used": "Only one of (A, B, C, D) is bussin\u2019 \u2014 find it.\nHey squad, Q time.: A team of volunteers collected a total of $5,144 selling T-shirts at a charity concert. Each T-shirt was sold for $8. What was the total number of T-shirts the volunteers sold?\nYour menu is here.: (A) 632\n(B) 643\n(C) 655\n(D) 668\n \nFlex your smarts.:"
+    },
+    {
+      "question": "Rounded to the nearest 10,000, the population of Louisiana was 4,530,000 in 2010. Which number could be the actual population of Louisiana in 2010?",
+      "choices": {
+        "A": "4,500,321",
+        "B": "4,524,491",
+        "C": "4,533,372",
+        "D": "4,535,343"
+      },
+      "answer": "A",
+      "confidence": 0.050374098122119904,
+      "correct_answer": "C",
+      "prompt_used": "Only one of (A, B, C, D) is bussin\u2019 \u2014 find it.\nLook alive, here\u2019s the question.: Rounded to the nearest 10,000, the population of Louisiana was 4,530,000 in 2010. Which number could be the actual population of Louisiana in 2010?\nPeep the options.: (A) 4,500,321\n(B) 4,524,491\n(C) 4,533,372\n(D) 4,535,343\n \nFlex your smarts.:"
+    }
+  ],
+  "model_name": "facebook/bart-large-mnli",
+  "accuracy": 0.19,
+  "per_choice_accuracy": {
+    "D": {
+      "accuracy": 0.28,
+      "total": 25
+    },
+    "C": {
+      "accuracy": 0.09090909090909091,
+      "total": 33
+    },
+    "B": {
+      "accuracy": 0.0,
+      "total": 18
+    },
+    "A": {
+      "accuracy": 0.375,
+      "total": 24
+    }
+  }
+}

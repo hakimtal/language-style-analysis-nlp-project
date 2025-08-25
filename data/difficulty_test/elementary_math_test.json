@@ -1,0 +1,1102 @@
+[
+    {
+        "question": "The American flag is usually made with its width and length in the ratio of 10 to 19. Which dimensions are in the correct ratio for the flag?",
+        "answers": {
+            "A": "30 ft by 53 ft",
+            "B": "27 ft by 53 ft",
+            "C": "27 in. by 57 in.",
+            "D": "30 in. by 57 in."
+        },
+        "correct_answer": "D",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Sheila has been given 5 minutes to solve 20 arithmetic problems. What is the minimum rate Sheila can work in order to finish in time?",
+        "answers": {
+            "A": "1 problem per minute",
+            "B": "2 problems per minute",
+            "C": "4 problems per minute",
+            "D": "5 problems per minute"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Solve 3 over 4 * x = 24.",
+        "answers": {
+            "A": "18",
+            "B": "32",
+            "C": "72",
+            "D": "96"
+        },
+        "correct_answer": "B",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Solve the equation x + 71 = −22.",
+        "answers": {
+            "A": "−93",
+            "B": "−49",
+            "C": "49",
+            "D": "93"
+        },
+        "correct_answer": "A",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "What is 836 rounded to the nearest 10?",
+        "answers": {
+            "A": "800",
+            "B": "830",
+            "C": "840",
+            "D": "870"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Write 11 • 11 • 11 • 11 • 11 • 11 • 11 • 11 using exponents.",
+        "answers": {
+            "A": "11 • 8",
+            "B": "88^3",
+            "C": "8^11",
+            "D": "11^8"
+        },
+        "correct_answer": "D",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "A bulletin board can be covered completely by 30 square pieces of paper without any gaps or overlaps. If each piece of paper has side lengths of 1 foot, what is the total area of the bulletin board?",
+        "answers": {
+            "A": "1 foot",
+            "B": "30 feet",
+            "C": "1 square foot",
+            "D": "30 square feet"
+        },
+        "correct_answer": "D",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "There were 6 rows of chairs set up for a meeting. Each row had 8 chairs. What was the total number of chairs set up for the meeting?",
+        "answers": {
+            "A": "14",
+            "B": "36",
+            "C": "48",
+            "D": "64"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Peter is in a group of 25 people. All 25 people went fishing in boats. There were 5 people in each boat. How can Peter find the number of boats the group used?",
+        "answers": {
+            "A": "Add 5 to 25",
+            "B": "Divide 25 by 5",
+            "C": "Multiply 25 by 5",
+            "D": "Subtract 5 from 25"
+        },
+        "correct_answer": "B",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Estimate 711 + 497. The sum is between which numbers?",
+        "answers": {
+            "A": "50 and 400",
+            "B": "450 and 700",
+            "C": "750 and 1,000",
+            "D": "1,050 and 1,300"
+        },
+        "correct_answer": "D",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Write 8 and 2 over 4 as an improper fraction in simplest form.",
+        "answers": {
+            "A": "17 over 2",
+            "B": "34 over 4",
+            "C": "17 over 4",
+            "D": "19 over 2"
+        },
+        "correct_answer": "A",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Identify a solution for the equation 5x − 5 = −10 from the given numbers.",
+        "answers": {
+            "A": "−1",
+            "B": "−6",
+            "C": "−4",
+            "D": "−3"
+        },
+        "correct_answer": "A",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Marcus spent $3.25 to wash his car. If one quarter operates the car wash for 60 seconds, how long did it take him to wash his car?",
+        "answers": {
+            "A": "10 minutes",
+            "B": "13 minutes",
+            "C": "16 minutes",
+            "D": "32.5 minutes"
+        },
+        "correct_answer": "B",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "John’s friend told him that he could earn $49 for handing out flyers at a local concert. John wants to calculate the hourly rate, If he works a total of 3.5 hours, the equation 3.5x = 49 can be used to determine his hourly rate. What would John’s hourly rate be, in dollars?",
+        "answers": {
+            "A": "$1.40",
+            "B": "$14.00",
+            "C": "$45.50",
+            "D": "$171.50"
+        },
+        "correct_answer": "B",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Ms. Ling has been living in her home for exactly 4 years. She knows that there are 12 months in each year. She found the total number of months, m, she has been living in her home by using the number sentence below. 4 × 12 = m Which number sentence shows another way to find the total number of months, m, Ms. Ling has been living in her home?",
+        "answers": {
+            "A": "12 ÷ m = 4",
+            "B": "m × 4 = 12",
+            "C": "12 – m = 4",
+            "D": "m ÷ 4 = 12"
+        },
+        "correct_answer": "D",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "A store has 3 boxes of shirts. Each box has 4 packages with 7 shirts in each package. The expression 3 × (4 × 7) can be used to find the total number of shirts. Which expression can also be used to find the total number of shirts?",
+        "answers": {
+            "A": "12 × 3",
+            "B": "12 × 7",
+            "C": "28 × 4",
+            "D": "28 × 7"
+        },
+        "correct_answer": "B",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "What is the value of the expression 2,816 x 7?",
+        "answers": {
+            "A": "14,572",
+            "B": "14,672",
+            "C": "19,612",
+            "D": "19,712"
+        },
+        "correct_answer": "D",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Find the opposite of the number −7.",
+        "answers": {
+            "A": "7",
+            "B": "−7",
+            "C": "0.7",
+            "D": "−7.7"
+        },
+        "correct_answer": "A",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Use the expression below to answer the question. 3 × [(2 × 6 – 5) + (8 ÷ 4)] – 1 What is the value of the expression?",
+        "answers": {
+            "A": "9",
+            "B": "11",
+            "C": "26",
+            "D": "32"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "A store manager orders shirts from their warehouse. The shirts are packed into boxes and sentto the store, as described below. 81 shirts are ordered. Each shipping box holds 9 shirts. How many shipping boxes are needed for all of the shirts ordered?",
+        "answers": {
+            "A": "8",
+            "B": "9",
+            "C": "72",
+            "D": "90"
+        },
+        "correct_answer": "B",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Write 4 and 4 over 5 as an improper fraction.",
+        "answers": {
+            "A": "28 over 5",
+            "B": "4 over 5",
+            "C": "24 over 5",
+            "D": "20 over 5"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Molly got a haircut for $25 and she left a 15% tip. What was Molly’s final cost?",
+        "answers": {
+            "A": "$25.15",
+            "B": "$26.50",
+            "C": "$27.50",
+            "D": "$28.75"
+        },
+        "correct_answer": "D",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "There are 7 desks arranged in a row in Mr. Thompson’s classroom. Hector sits 2 seats to the right of Kim. Tonya sits 3 seats to the right of Hector. How many seats to the left of Tonya does Kim sit?",
+        "answers": {
+            "A": "2",
+            "B": "3",
+            "C": "5",
+            "D": "12"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "A scientist studied the migration patterns of two types of whales. The humpback whales traveled 2,240 miles in 28 days. The gray whales traveled 2,368 miles in 32 days. If the humpback whales had traveled at the same rate for 32 days, how many more miles would they have traveled than the gray whales?",
+        "answers": {
+            "A": "128",
+            "B": "192",
+            "C": "280",
+            "D": "408"
+        },
+        "correct_answer": "B",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Use the Associative Property of Multiplication to simplify 8 • (−7) • (−1).",
+        "answers": {
+            "A": "−63",
+            "B": "56",
+            "C": "48",
+            "D": "−56"
+        },
+        "correct_answer": "A",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "A student has 3 puzzles. Each puzzle has 1,250 pieces. What is the total number of pieces in the puzzles?",
+        "answers": {
+            "A": "3,650",
+            "B": "3,750",
+            "C": "4,650",
+            "D": "4,750"
+        },
+        "correct_answer": "B",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "What is the value of the expression 28 x 42?",
+        "answers": {
+            "A": "420",
+            "B": "816",
+            "C": "1,166",
+            "D": "1,176"
+        },
+        "correct_answer": "D",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Find the LCM of 24 and 36.",
+        "answers": {
+            "A": "96",
+            "B": "144",
+            "C": "72",
+            "D": "120"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Rich measures the width of one cardboard strip as 5 over 6 ft. A second cardboard strip is 2 over 3 ft wide. Estimate the combined width of the cardboard strips.",
+        "answers": {
+            "A": "2 ft",
+            "B": "1 and 1 over 2 ft",
+            "C": "1 ft",
+            "D": "3 ft"
+        },
+        "correct_answer": "B",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Pat bounces a basketball 25 times in 30 seconds. At that rate, approximately how many times will Pat bounce the ball in 150 seconds?",
+        "answers": {
+            "A": "120",
+            "B": "125",
+            "C": "144",
+            "D": "145"
+        },
+        "correct_answer": "B",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Which measurement would best be rounded to the nearest thousand?",
+        "answers": {
+            "A": "The length of a football field in yards",
+            "B": "The height of a professional football player in inches",
+            "C": "The number of people at a professional football game",
+            "D": "The weight of a professional football player in pounds"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Find the value of the expression −25 − (−11).",
+        "answers": {
+            "A": "−36",
+            "B": "−14",
+            "C": "14",
+            "D": "36"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Which algebraic expression represents four times the quantity 22 less than x?",
+        "answers": {
+            "A": "4(x – 22)",
+            "B": "(4 • 22) – x",
+            "C": "4(22 – x)",
+            "D": "(x • 4) – 22"
+        },
+        "correct_answer": "A",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Find the number that makes the statement 12 over 18 = ? over 9 true.",
+        "answers": {
+            "A": "4",
+            "B": "6",
+            "C": "8",
+            "D": "12"
+        },
+        "correct_answer": "A",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Which list of numbers is ordered from least to greatest?",
+        "answers": {
+            "A": "167,213, 161,455, 17,400, 11,633",
+            "B": "10,354, 10,600, 104,321, 106,213",
+            "C": "160,233, 171,141, 11,645, 16,703",
+            "D": "12,209, 12,902, 125,466, 125,464"
+        },
+        "correct_answer": "B",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "What is 0.3 × 427?",
+        "answers": {
+            "A": "0.1281",
+            "B": "1.281",
+            "C": "12.81",
+            "D": "128.1"
+        },
+        "correct_answer": "D",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "What does the p equal in 3 + p = 15?",
+        "answers": {
+            "A": "3",
+            "B": "5",
+            "C": "12",
+            "D": "18"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Find the product of −8 • (−4).",
+        "answers": {
+            "A": "−4",
+            "B": "4",
+            "C": "32",
+            "D": "−32"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Identify a solution for the equation x + 2.7 = 8.4 from the given numbers.",
+        "answers": {
+            "A": "11.1",
+            "B": "5.7",
+            "C": "3.7",
+            "D": "22.68"
+        },
+        "correct_answer": "B",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Find the value of 6 • 24 ÷ (8 − 5).",
+        "answers": {
+            "A": "48",
+            "B": "13",
+            "C": "−13",
+            "D": "54"
+        },
+        "correct_answer": "A",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Write 27 over 36 in simplest form.",
+        "answers": {
+            "A": "3 over 4",
+            "B": "2 over 3",
+            "C": "3 over 5",
+            "D": "1 over 5"
+        },
+        "correct_answer": "A",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "In which set do all of the values make the inequality 2x — 1 < 10 true?",
+        "answers": {
+            "A": "{10, 15, 20}",
+            "B": "{5, 7, 9}",
+            "C": "{4, 6, 8}",
+            "D": "{2, 3, 4}"
+        },
+        "correct_answer": "D",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Lucy is making gift baskets. She puts 3 apples in each gift basket. Which number sentence shows how to find the total number of gift baskets, b, Lucy can make with 24 apples?",
+        "answers": {
+            "A": "24 + 3 = b",
+            "B": "3 + b = 24",
+            "C": "24 ÷ b = 3",
+            "D": "3 × 24 = b"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Compute 22 / 2 + 9.",
+        "answers": {
+            "A": "10",
+            "B": "11",
+            "C": "20",
+            "D": "2"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "John has 4 cookies. Sara has 2 more cookies than John. Darius has 3 times as many cookies as Sara. How many cookies does Darius have?",
+        "answers": {
+            "A": "9",
+            "B": "14",
+            "C": "18",
+            "D": "24"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Which two numbers both round to 1,500 when rounded to the nearest hundred?",
+        "answers": {
+            "A": "1,399 and 1,599",
+            "B": "1,449 and 1,549",
+            "C": "1,457 and 1,547",
+            "D": "1,489 and 1,589"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Marshall wants to finish typing his English paper before class starts. If he still has 550 words left to type and class starts in 25 minutes, at least how fast must Marshall type to finish his paper on time?",
+        "answers": {
+            "A": "20 words per minute",
+            "B": "21 words per minute",
+            "C": "22 words per minute",
+            "D": "25 words per minute"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "When n = 11, what is the value of 10 – (n + 6)?",
+        "answers": {
+            "A": "–7",
+            "B": "5",
+            "C": "7",
+            "D": "27"
+        },
+        "correct_answer": "A",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "The population of a certain city is 836,527. What is the population of this city rounded to the nearest ten thousand?",
+        "answers": {
+            "A": "800,000",
+            "B": "830,000",
+            "C": "836,000",
+            "D": "840,000"
+        },
+        "correct_answer": "D",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "The Mills Library has 1,007,199 books. The Springvale Library has 907,082 books. Which of the following is the best estimate of how many more books the Mills Library has than the Springvale Library?",
+        "answers": {
+            "A": "100,000 books",
+            "B": "80,000 books",
+            "C": "10,000 books",
+            "D": "8,000 books"
+        },
+        "correct_answer": "A",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Which pair of ratios can form a proportion?",
+        "answers": {
+            "A": "2 over 5 and 8 over 10",
+            "B": "2 over 5 and 10 over 15",
+            "C": "2 over 5 and 4 over 25",
+            "D": "2 over 5 and 6 over 15"
+        },
+        "correct_answer": "D",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Find 3 over 4 − 1 over 8.",
+        "answers": {
+            "A": "21 over 32",
+            "B": "1",
+            "C": "5 over 8",
+            "D": "11 over 16"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Manuel bought a used car for six thousand forty-nine dollars. What is the cost of the used car Manuel bought written as a numeral?",
+        "answers": {
+            "A": "$649",
+            "B": "$6,049",
+            "C": "$6,409",
+            "D": "$6,490"
+        },
+        "correct_answer": "B",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Chris sells roses for $16.99 a bunch. At the end of the day he has collected $339.80. How many bunches of roses did he sell?",
+        "answers": {
+            "A": "22",
+            "B": "18",
+            "C": "20",
+            "D": "16"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Keiko spent the day bird watching and counted 34 more birds in the morning than in the afternoon. If she counted a total of 76 birds, how many birds did she count in the afternoon?",
+        "answers": {
+            "A": "21 birds",
+            "B": "40 birds",
+            "C": "42 birds",
+            "D": "84 birds"
+        },
+        "correct_answer": "A",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Mark has a stamp collection. He has 22 stamps from Japan, 34 from Canada, and 17 from Mexico. How many stamps does he have in all?",
+        "answers": {
+            "A": "53",
+            "B": "63",
+            "C": "73",
+            "D": "83"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Estimate 153 + 44. The sum is between which numbers?",
+        "answers": {
+            "A": "100 and 299",
+            "B": "300 and 499",
+            "C": "500 and 699",
+            "D": "700 and 899"
+        },
+        "correct_answer": "A",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Solve the equation 18 + p = 29.",
+        "answers": {
+            "A": "−47",
+            "B": "−11",
+            "C": "11",
+            "D": "47"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Which ratio can form a proportion with 3 over 8?",
+        "answers": {
+            "A": "18 over 40",
+            "B": "18 over 56",
+            "C": "24 over 64",
+            "D": "15 over 48"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "The state of Georgia has 159 counties and covers 58056 square miles. What is the average number of square miles per county? Round your answer to the nearest whole number.",
+        "answers": {
+            "A": "274 square miles per county",
+            "B": "159 square miles per county",
+            "C": "318 square miles per county",
+            "D": "365 square miles per county"
+        },
+        "correct_answer": "D",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Which expression is equivalent to 5(4x + 3) — 2x?",
+        "answers": {
+            "A": "18x+15",
+            "B": "18x+3",
+            "C": "7x+8",
+            "D": "2x+8"
+        },
+        "correct_answer": "A",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Which statement is false?",
+        "answers": {
+            "A": "3 < 5",
+            "B": "5 > 3",
+            "C": "−5 > −3",
+            "D": "−3 > −5"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Which fraction shows the ratio of 3 dogs to 5 dogs?",
+        "answers": {
+            "A": "5 over 3",
+            "B": "3 over 8",
+            "C": "2 over 5",
+            "D": "3 over 5"
+        },
+        "correct_answer": "D",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Kate has a coin collection. She keeps 7 of the coins in a box, which is only 5% of her entire collection. What is the total number of coins in Kate’s coin collection?",
+        "answers": {
+            "A": "12",
+            "B": "14",
+            "C": "120",
+            "D": "140"
+        },
+        "correct_answer": "D",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Use rounding to estimate the sum of 27.94 + 15.35 to the nearest tenth.",
+        "answers": {
+            "A": "43.2",
+            "B": "43.3",
+            "C": "43.4",
+            "D": "43.29"
+        },
+        "correct_answer": "B",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Solve 13 over 4 = x over 7.",
+        "answers": {
+            "A": "22.75",
+            "B": "23.25",
+            "C": "24.25",
+            "D": "none of these"
+        },
+        "correct_answer": "A",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "The volume, V, of any cube with a side length, s, can be determined using the formula V = s^3. What is the volume, in cubic centimeters, of a cube with a side length of 2.3 centimeters?",
+        "answers": {
+            "A": "5.29",
+            "B": "6.9",
+            "C": "8.027",
+            "D": "12.167"
+        },
+        "correct_answer": "D",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "A teacher has three packages of stickers. One package contains 56 stickers, another package contains 48 stickers, and the third package contains 58 stickers. If the teacher divides all the stickers equally among 27 students, how many stickers will each student receive?",
+        "answers": {
+            "A": "6 stickers",
+            "B": "9 stickers",
+            "C": "54 stickers",
+            "D": "81 stickers"
+        },
+        "correct_answer": "A",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "A salad dressing is made by combining 2 parts vinegar with 5 parts oil. How many ounces of oil should be mixed with 9 ounces of vinegar?",
+        "answers": {
+            "A": "2",
+            "B": "3.6",
+            "C": "22.5",
+            "D": "63"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Jerry read a 200-page book in 10 hours. At that rate, how long will it take him to read a 320-page book?",
+        "answers": {
+            "A": "16 hours",
+            "B": "18 hours",
+            "C": "24 hours",
+            "D": "32 hours"
+        },
+        "correct_answer": "A",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "A dime has a radius of about 0.85 cm. Which measurement is closest to the circumference of a dime?",
+        "answers": {
+            "A": "1.33 cm",
+            "B": "1.70 cm",
+            "C": "2.67 cm",
+            "D": "5.34 cm"
+        },
+        "correct_answer": "D",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Coach Wu has a total of 30 soccerballs. 9 soccer balls are white. The remaining soccer balls are one of three different colors (blue, pink, or green). There is an equal numberof blue, pink, and green balls How many green soccer balls does Coach Wu have?",
+        "answers": {
+            "A": "7",
+            "B": "10",
+            "C": "21",
+            "D": "39"
+        },
+        "correct_answer": "A",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Members of the Hiking Club hiked for 2.4 hours covering 2.5 miles each hour. How far did the members hike",
+        "answers": {
+            "A": "4.9 miles",
+            "B": "5.8 miles",
+            "C": "6.0 miles",
+            "D": "6.3 miles"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Simplify (2 + 5)^2 − 42.",
+        "answers": {
+            "A": "7",
+            "B": "16",
+            "C": "30",
+            "D": "33"
+        },
+        "correct_answer": "A",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Write the unit rate for driving 308 km in 4 h. Round to the nearest hundredth if necessary.",
+        "answers": {
+            "A": "82 km/h",
+            "B": "74 km/h",
+            "C": "72 km/h",
+            "D": "77 km/h"
+        },
+        "correct_answer": "D",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "There are 190 guests at a wedding. What is the least number of circular tables needed to seat all the guests if each table seats exactly 8 people?",
+        "answers": {
+            "A": "22",
+            "B": "23",
+            "C": "24",
+            "D": "25"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Yesterday, Micah ate an even number of strawberries. He also ate an odd number of apples. Which group could represent the strawberries, S, and apples, A, Micah ate yesterday?",
+        "answers": {
+            "A": "SSSSS; AAA",
+            "B": "SSSSS; AAAA",
+            "C": "SSSSSSSS; AAAA",
+            "D": "SSSSSSSS; A"
+        },
+        "correct_answer": "D",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Ron’s garden has 42 plants. Each row has 7 plants. Which expression can be used to find the number of rows in Ron’s garden?",
+        "answers": {
+            "A": "42 ÷ 7",
+            "B": "42 – 7",
+            "C": "42 + 7",
+            "D": "42 × 7"
+        },
+        "correct_answer": "A",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "A shelf has four books on it. The weight, in pounds, of each of the four books on the shelf is 2.5, 3.2, 2.7, 2.3 Which inequality represents the weight, w, of any book chosen from the shelf?",
+        "answers": {
+            "A": "w > 2.3",
+            "B": "w < 2.4",
+            "C": "w > 3.2",
+            "D": "w < 3.3"
+        },
+        "correct_answer": "D",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Mrs. Kinney bought batteries in packs of 4 for the students’ science experiments. Which of these could be the total number of batteries that she bought?",
+        "answers": {
+            "A": "22",
+            "B": "26",
+            "C": "28",
+            "D": "30"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "At the beginning of a class period, half of the students in a class go to the library. Later in the period, half of the remaining students go to the computer lab. If there are 8 students remaining in the class, how many students were originally in the class?",
+        "answers": {
+            "A": "12 students",
+            "B": "16 students",
+            "C": "24 students",
+            "D": "32 students"
+        },
+        "correct_answer": "D",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "−4 +  ( −3 )=",
+        "answers": {
+            "A": "−7",
+            "B": "−1",
+            "C": "1",
+            "D": "7"
+        },
+        "correct_answer": "A",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "There are 2,817 homes in the town of West Valley. Each home uses an average of 380 gallons of water each day. Use the expression below to find the total number of gallons of water the homes in West Valley use on average each day. 2,817 × 380 What is the total number of gallons of water the homes in West Valley use on average each day?",
+        "answers": {
+            "A": "860,460 gallons",
+            "B": "870,460 gallons",
+            "C": "1,060,460 gallons",
+            "D": "1,070,460 gallons"
+        },
+        "correct_answer": "D",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Susan reads a book at a rate of 1 page every 3 minutes. If her reading rate remains the same, which method could be used to determine the number of minutes for her to read 18 pages?",
+        "answers": {
+            "A": "add 18 and 3",
+            "B": "divide 18 by 3",
+            "C": "multiply 3 by 18",
+            "D": "subtract 3 from 18"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Change 34 L 18 cL to liters.",
+        "answers": {
+            "A": "34.18 L",
+            "B": "35.8 L",
+            "C": "34.018 L",
+            "D": "214 L"
+        },
+        "correct_answer": "A",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Katie is going on vacation for 3 weeks. She finds the number of days of work she will miss by multiplying 5 × 3. Which expression shows another way Katie can find the number of days of work she will miss?",
+        "answers": {
+            "A": "3+5",
+            "B": "3+3+3",
+            "C": "5+5+5",
+            "D": "5+5+5+5+5"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Lily is going to give away all the pieces of candy in a bag. She can give an equal number of pieces of candy to 5, 3, or 2 people. Which number of pieces of candy could be in Lily’s bag?",
+        "answers": {
+            "A": "12",
+            "B": "20",
+            "C": "30",
+            "D": "45"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Evaluate (c^2 − b^2)^2 + a^2 for a = 5, b = 3, and c = 2.",
+        "answers": {
+            "A": "194",
+            "B": "18",
+            "C": "50",
+            "D": "0"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Solve the equation −47 = g + 24.",
+        "answers": {
+            "A": "−71",
+            "B": "−23",
+            "C": "23",
+            "D": "71"
+        },
+        "correct_answer": "B",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Marguerite earned a score between 75 and 89 on all of her previous spelling tests. She earned a score of 100 on her next test. Which of the following statements is true?",
+        "answers": {
+            "A": "The mode will increase.",
+            "B": "The mean will increase.",
+            "C": "The mean will decrease.",
+            "D": "The median will decrease."
+        },
+        "correct_answer": "B",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Find the number that makes the statement 48 over 88 = ? over 11 true.",
+        "answers": {
+            "A": "6",
+            "B": "11",
+            "C": "8",
+            "D": "5"
+        },
+        "correct_answer": "A",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Find the quotient of 16.1 ÷ 0.14.",
+        "answers": {
+            "A": "1.15",
+            "B": "0.0115",
+            "C": "11.5",
+            "D": "115"
+        },
+        "correct_answer": "D",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "A group of students make a map of the area around their school. They place the school at (0, 0). The nearest store is placed at the point (–5, 7). In which quadrant is the point representing the nearest store?",
+        "answers": {
+            "A": "Quadrant I",
+            "B": "Quadrant II",
+            "C": "Quadrant III",
+            "D": "Quadrant IV"
+        },
+        "correct_answer": "B",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "A stack of 7 pennies has a height of 1 centimeter. Nick has a stack of pennies with a height of 4 centimeters. Which equation can be used to find the number of pennies, n, in Nick’s stack of pennies?",
+        "answers": {
+            "A": "n =7+4",
+            "B": "n =7–4",
+            "C": "n =7×4",
+            "D": "n =7÷4"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "The weekly milk order for the Tranquility Inn includes 40 gallons of low-fat milk and 15 gallons of chocolate milk. What is the ratio of the number of low-fat gallons to chocolate gallons in the Tranquility Inn’s weekly milk order?",
+        "answers": {
+            "A": "3:01",
+            "B": "5:01",
+            "C": "5:03",
+            "D": "8:03"
+        },
+        "correct_answer": "D",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Samantha has 342 baseball cards. Perry has 184 baseball cards. How many more baseball cards does Samantha have than Perry?",
+        "answers": {
+            "A": "158",
+            "B": "168",
+            "C": "258",
+            "D": "268"
+        },
+        "correct_answer": "A",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Estimate 32 x 68. The product is between what numbers?",
+        "answers": {
+            "A": "18 and 28",
+            "B": "180 and 280",
+            "C": "1,800 and 2,800",
+            "D": "18,000 and 28,000"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Order from greatest to least: 3, 3 and 1 over 8,3.8,3.18.",
+        "answers": {
+            "A": "3.18, 3 and 1 over 8, 3.8,3",
+            "B": "3,3 and 1 over 8, 3.18, 3",
+            "C": "3.8, 3 and 1 over 8, 3.18, 3",
+            "D": "3.8, 3.18, 3 and 1 over 8, 3"
+        },
+        "correct_answer": "D",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "A team of volunteers collected a total of $5,144 selling T-shirts at a charity concert. Each T-shirt was sold for $8. What was the total number of T-shirts the volunteers sold?",
+        "answers": {
+            "A": "632",
+            "B": "643",
+            "C": "655",
+            "D": "668"
+        },
+        "correct_answer": "B",
+        "subject": "elementary_mathematics_test"
+    },
+    {
+        "question": "Rounded to the nearest 10,000, the population of Louisiana was 4,530,000 in 2010. Which number could be the actual population of Louisiana in 2010?",
+        "answers": {
+            "A": "4,500,321",
+            "B": "4,524,491",
+            "C": "4,533,372",
+            "D": "4,535,343"
+        },
+        "correct_answer": "C",
+        "subject": "elementary_mathematics_test"
+    }
+]

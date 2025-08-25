@@ -1,0 +1,2249 @@
+{
+  "total_questions": 100,
+  "correct": 33,
+  "wrong": 67,
+  "per_choice_stats": {
+    "B": {
+      "correct": 1,
+      "total": 20
+    },
+    "D": {
+      "correct": 24,
+      "total": 38
+    },
+    "C": {
+      "correct": 2,
+      "total": 21
+    },
+    "A": {
+      "correct": 6,
+      "total": 21
+    }
+  },
+  "confidence_when_correct": [
+    0.8716616630554199,
+    0.07670067995786667,
+    0.7591996788978577,
+    0.9918481111526489,
+    0.11688964813947678,
+    0.2964414060115814,
+    0.9469685554504395,
+    0.9778268933296204,
+    0.4426530599594116,
+    0.946410059928894,
+    0.06798086315393448,
+    0.5659005641937256,
+    0.04903635010123253,
+    0.9910854697227478,
+    0.06417645514011383,
+    0.8946300745010376,
+    0.717830240726471,
+    0.9819205403327942,
+    0.08742189407348633,
+    0.612089991569519,
+    0.0027106241323053837,
+    0.13149435818195343,
+    0.361171692609787,
+    0.508005678653717,
+    0.9886589646339417,
+    0.08509413152933121,
+    0.041948556900024414,
+    0.9423786401748657,
+    0.012616155669093132,
+    0.996553897857666,
+    0.9790546894073486,
+    0.13730107247829437,
+    0.12274967133998871
+  ],
+  "confidence_when_wrong": [
+    0.6945053935050964,
+    0.048298873007297516,
+    0.965909481048584,
+    0.7375444769859314,
+    0.6365664005279541,
+    0.8480241894721985,
+    0.15018436312675476,
+    0.5842030048370361,
+    0.9861804842948914,
+    0.7905499935150146,
+    0.2899363040924072,
+    0.6226078867912292,
+    0.1759798675775528,
+    0.07057264447212219,
+    0.8198574781417847,
+    0.9940209984779358,
+    0.9818887114524841,
+    0.6600831151008606,
+    0.9717398285865784,
+    0.9114384651184082,
+    0.3231332302093506,
+    0.98631751537323,
+    0.9849153757095337,
+    0.010697217658162117,
+    0.9663463234901428,
+    0.8546984195709229,
+    0.010246729478240013,
+    0.8723545074462891,
+    0.6003153324127197,
+    0.862741231918335,
+    0.6463508009910583,
+    0.034239791333675385,
+    0.3794811964035034,
+    0.4890437722206116,
+    0.946438193321228,
+    0.7647855281829834,
+    0.03438246622681618,
+    0.9402721524238586,
+    0.827452540397644,
+    0.9985363483428955,
+    0.9930070638656616,
+    0.749464750289917,
+    0.869655191898346,
+    0.17598700523376465,
+    0.9888688325881958,
+    0.6209378838539124,
+    0.9935969114303589,
+    0.13855452835559845,
+    0.13920234143733978,
+    0.4955575466156006,
+    0.9891430735588074,
+    0.9644463658332825,
+    0.8755828142166138,
+    0.9708101153373718,
+    0.9696378707885742,
+    0.020330877974629402,
+    0.9734212160110474,
+    0.9607167840003967,
+    0.9875226616859436,
+    0.020698949694633484,
+    0.9956522583961487,
+    0.8701165318489075,
+    0.9588627815246582,
+    0.9960017800331116,
+    0.9904899597167969,
+    0.14188256859779358,
+    0.9632150530815125
+  ],
+  "all_results": [
+    {
+      "question": "Which of the following would most likely describe the fate of a vesicle formed as a result of phagocytosis?",
+      "choices": {
+        "A": "The vesicle merges with a mitochondrion.",
+        "B": "The vesicle merges with a lysosome.",
+        "C": "The vesicle is shuttled to the nucleus, and its contents become part of the nucleolus.",
+        "D": "The vesicle releases its contents to the cytoplasm to be digested."
+      },
+      "answer": "A",
+      "answer_text": "The vesicle merges with a mitochondrion.",
+      "confidence": 0.6945053935050964,
+      "all_entailment_probs": {
+        "A": 0.6945053935050964,
+        "B": 0.03116586059331894,
+        "C": 0.01924721710383892,
+        "D": 0.6075873970985413
+      },
+      "correct_answer": "B",
+      "prompt_used": "Pick the most magical and correct one from (A, B, C, D) to finish the story!\nHere\u2019s a tricky one for you!: Which of the following would most likely describe the fate of a vesicle formed as a result of phagocytosis?\nYour choices are right here: (A) The vesicle merges with a mitochondrion.\n(B) The vesicle merges with a lysosome.\n(C) The vesicle is shuttled to the nucleus, and its contents become part of the nucleolus.\n(D) The vesicle releases its contents to the cytoplasm to be digested.\n \nGive me your guess!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which of the following contributes the MOST to genetic variability in a population?",
+      "choices": {
+        "A": "Sporulation",
+        "B": "Binary fission",
+        "C": "Vegetative propagation",
+        "D": "Mutation"
+      },
+      "answer": "A",
+      "answer_text": "Sporulation",
+      "confidence": 0.048298873007297516,
+      "all_entailment_probs": {
+        "A": 0.048298873007297516,
+        "B": 0.005817795172333717,
+        "C": 0.00684251356869936,
+        "D": 0.01603264920413494
+      },
+      "correct_answer": "D",
+      "prompt_used": "Look at the question and the four answers (A, B, C, D). Tell the right one!\nGuess what? Here\u2019s your question!: Which of the following contributes the MOST to genetic variability in a population?\nPick one of these: (A) Sporulation\n(B) Binary fission\n(C) Vegetative propagation\n(D) Mutation\n \nShout out your choice!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Within a cell, the amount of protein synthesized using a given mRNA molecule depends in part on which of the following?",
+      "choices": {
+        "A": "DNA methylation suppresses the expression of genes.",
+        "B": "Transcription factors mediate the binding of RNA polymerase and the initiation of transcription, which will determine how much protein is manufactured.",
+        "C": "The speed with which mRNA is degraded will determine how much protein is synthesized.",
+        "D": "The location and number of ribosomes in a cell will solely determine how much protein is synthesized."
+      },
+      "answer": "A",
+      "answer_text": "DNA methylation suppresses the expression of genes.",
+      "confidence": 0.965909481048584,
+      "all_entailment_probs": {
+        "A": 0.965909481048584,
+        "B": 0.20703624188899994,
+        "C": 0.41181549429893494,
+        "D": 0.1379064917564392
+      },
+      "correct_answer": "C",
+      "prompt_used": "You\u2019ll see four choices (A, B, C, D). Choose the best one!\nHeyyy, here\u2019s something to figure out!: Within a cell, the amount of protein synthesized using a given mRNA molecule depends in part on which of the following?\nHere are your four picks!: (A) DNA methylation suppresses the expression of genes.\n(B) Transcription factors mediate the binding of RNA polymerase and the initiation of transcription, which will determine how much protein is manufactured.\n(C) The speed with which mRNA is degraded will determine how much protein is synthesized.\n(D) The location and number of ribosomes in a cell will solely determine how much protein is synthesized.\n \nTell me what you think!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "When oxygen becomes unavailable, this process regenerates NAD+, allowing respiration to continue.",
+      "choices": {
+        "A": "Glycolysis",
+        "B": "Chemiosmosis",
+        "C": "Fermentation",
+        "D": "Calvin cycle"
+      },
+      "answer": "D",
+      "answer_text": "Calvin cycle",
+      "confidence": 0.7375444769859314,
+      "all_entailment_probs": {
+        "A": 0.7346399426460266,
+        "B": 0.04152902960777283,
+        "C": 0.08222904056310654,
+        "D": 0.7375444769859314
+      },
+      "correct_answer": "C",
+      "prompt_used": "Look at the question and the four answers (A, B, C, D). Choose right\nHeyyy, here\u2019s something to figure out!: When oxygen becomes unavailable, this process regenerates NAD+, allowing respiration to continue.\nHere\u2019s your list of answers: (A) Glycolysis\n(B) Chemiosmosis\n(C) Fermentation\n(D) Calvin cycle\n \nGive me your guess:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "An organism exposed to wild temperature fluctuations shows very little, if any, change in its metabolic rate. This organism is most probably a",
+      "choices": {
+        "A": "ectotherm.",
+        "B": "endotherm.",
+        "C": "thermophyle.",
+        "D": "ascospore."
+      },
+      "answer": "D",
+      "answer_text": "ascospore.",
+      "confidence": 0.6365664005279541,
+      "all_entailment_probs": {
+        "A": 0.05915197357535362,
+        "B": 0.002568262629210949,
+        "C": 0.007974652573466301,
+        "D": 0.6365664005279541
+      },
+      "correct_answer": "B",
+      "prompt_used": "I give you a question and four choices (A, B, C, D). Choose the one you think is the winner!\nOkay, quiz time!: An organism exposed to wild temperature fluctuations shows very little, if any, change in its metabolic rate. This organism is most probably a\nYour options: (A) ectotherm.\n(B) endotherm.\n(C) thermophyle.\n(D) ascospore.\n \nTell me your answer!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "In plants, the tendency of climbing vines to twine their tendrils around a trellis is called",
+      "choices": {
+        "A": "thigmotropism",
+        "B": "hydrotropism",
+        "C": "phototropism",
+        "D": "geotropism"
+      },
+      "answer": "A",
+      "answer_text": "thigmotropism",
+      "confidence": 0.8716616630554199,
+      "all_entailment_probs": {
+        "A": 0.8716616630554199,
+        "B": 0.006240851245820522,
+        "C": 0.010021030902862549,
+        "D": 0.09704127907752991
+      },
+      "correct_answer": "A",
+      "prompt_used": "You\u2019ve got four answers (A, B, C, D). Pick the best one!\nHeyyy, here\u2019s something to figure out!: In plants, the tendency of climbing vines to twine their tendrils around a trellis is called\nYour choices are right here: (A) thigmotropism\n(B) hydrotropism\n(C) phototropism\n(D) geotropism\n \nShout out your choice!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Two genes (B and E) determine coat color in Labrador retrievers. Alleles B and b code for how much melanin is present. The dominant allele B codes for black fur, the recessive allele b codes for brown hair. A second gene consisting of two alleles, E and e, codes for the deposition of pigment in the hair. In this case, the alleles for pigment deposition (E or e) are said to be epistatic to the gene that codes for black or brown pigment. If the dominant allele (E) is not present, regardless of the genotype at the black/brown locus, the animal's fur will be yellow.",
+      "choices": {
+        "A": "BBEe will be brown.",
+        "B": "BbEe will be brown.",
+        "C": "Bbee will be brown.",
+        "D": "BBee will be yellow."
+      },
+      "answer": "A",
+      "answer_text": "BBEe will be brown.",
+      "confidence": 0.8480241894721985,
+      "all_entailment_probs": {
+        "A": 0.8480241894721985,
+        "B": 0.7194578647613525,
+        "C": 0.005002392455935478,
+        "D": 0.06506523489952087
+      },
+      "correct_answer": "D",
+      "prompt_used": "You\u2019ll see four choices (A, B, C, D). Choose the best one!\nHere\u2019s a tricky one for you!: Two genes (B and E) determine coat color in Labrador retrievers. Alleles B and b code for how much melanin is present. The dominant allele B codes for black fur, the recessive allele b codes for brown hair. A second gene consisting of two alleles, E and e, codes for the deposition of pigment in the hair. In this case, the alleles for pigment deposition (E or e) are said to be epistatic to the gene that codes for black or brown pigment. If the dominant allele (E) is not present, regardless of the genotype at the black/brown locus, the animal's fur will be yellow.\nYou can pick one of these: (A) BBEe will be brown.\n(B) BbEe will be brown.\n(C) Bbee will be brown.\n(D) BBee will be yellow.\n \nGive me your guess!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "In the inherited disorder called Pompe disease, glycogen breakdown in the cytosol occurs normally and blood glucose levels are normal, yet glycogen accumulates in lysosomes. This suggests a malfunction with",
+      "choices": {
+        "A": "enzymes in the lysosomes",
+        "B": "enzymes in the mitochondria",
+        "C": "membrane transport during exocytosis",
+        "D": "membrane transport during endocytosis"
+      },
+      "answer": "C",
+      "answer_text": "membrane transport during exocytosis",
+      "confidence": 0.15018436312675476,
+      "all_entailment_probs": {
+        "A": 0.04253843426704407,
+        "B": 0.0031551329884678125,
+        "C": 0.15018436312675476,
+        "D": 0.12506014108657837
+      },
+      "correct_answer": "A",
+      "prompt_used": "Point to the answer you think is correct.\nHere\u2019s a tricky one for you!: In the inherited disorder called Pompe disease, glycogen breakdown in the cytosol occurs normally and blood glucose levels are normal, yet glycogen accumulates in lysosomes. This suggests a malfunction with\nHere are your four picks!: (A) enzymes in the lysosomes\n(B) enzymes in the mitochondria\n(C) membrane transport during exocytosis\n(D) membrane transport during endocytosis\n \nTell me your answer!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which of the following is most likely to increase the rate of diffusion of an uncharged solute across the plasma membrane of a cell?",
+      "choices": {
+        "A": "Decreasing the number of different solutes in the solution that bathes the cells",
+        "B": "Increasing the concentration gradient of the solute across the membrane",
+        "C": "Increasing the ratio of phospholipids to proteins in the membrane",
+        "D": "Decreasing the membrane potential across the membrane"
+      },
+      "answer": "A",
+      "answer_text": "Decreasing the number of different solutes in the solution that bathes the cells",
+      "confidence": 0.5842030048370361,
+      "all_entailment_probs": {
+        "A": 0.5842030048370361,
+        "B": 0.19311970472335815,
+        "C": 0.14261554181575775,
+        "D": 0.43163633346557617
+      },
+      "correct_answer": "B",
+      "prompt_used": "Look at the question and the four answers (A, B, C, D). Tell the right one!\nGuess what? Here\u2019s your question!: Which of the following is most likely to increase the rate of diffusion of an uncharged solute across the plasma membrane of a cell?\nYour choices are right here: (A) Decreasing the number of different solutes in the solution that bathes the cells\n(B) Increasing the concentration gradient of the solute across the membrane\n(C) Increasing the ratio of phospholipids to proteins in the membrane\n(D) Decreasing the membrane potential across the membrane\n \nWhat\u2019s your pick?:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Within a few weeks of treatment with the drug 3TC, a patient's HIV population consists entirely of 3TC-resistant viruses. How can this result best be explained?",
+      "choices": {
+        "A": "HIV can change its surface proteins and resist vaccines.",
+        "B": "The patient must have become reinfected with 3TC-resistant viruses.",
+        "C": "HIV began making drug-resistant versions of reverse transcriptase in response to the drug.",
+        "D": "A few drug-resistant viruses were present at the start of treatment, and natural selection increased their frequency."
+      },
+      "answer": "D",
+      "answer_text": "A few drug-resistant viruses were present at the start of treatment, and natural selection increased their frequency.",
+      "confidence": 0.07670067995786667,
+      "all_entailment_probs": {
+        "A": 0.0030332468450069427,
+        "B": 0.002632091986015439,
+        "C": 0.0038387044332921505,
+        "D": 0.07670067995786667
+      },
+      "correct_answer": "D",
+      "prompt_used": "I give you a question and four choices (A, B, C, D). Choose the one you think is the winner!\nOkay, quiz time!: Within a few weeks of treatment with the drug 3TC, a patient's HIV population consists entirely of 3TC-resistant viruses. How can this result best be explained?\nYour options: (A) HIV can change its surface proteins and resist vaccines.\n(B) The patient must have become reinfected with 3TC-resistant viruses.\n(C) HIV began making drug-resistant versions of reverse transcriptase in response to the drug.\n(D) A few drug-resistant viruses were present at the start of treatment, and natural selection increased their frequency.\n \nTell me your answer!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "In general, animal cells differ from plant cells in that animal cells have",
+      "choices": {
+        "A": "a cell wall made of cellulose",
+        "B": "lysosomes",
+        "C": "large vacuoles that store water",
+        "D": "centrioles within centrosomes"
+      },
+      "answer": "A",
+      "answer_text": "a cell wall made of cellulose",
+      "confidence": 0.9861804842948914,
+      "all_entailment_probs": {
+        "A": 0.9861804842948914,
+        "B": 0.32257187366485596,
+        "C": 0.9068573117256165,
+        "D": 0.9744351506233215
+      },
+      "correct_answer": "D",
+      "prompt_used": "I give you a question and four choices (A, B, C, D). Choose the one you think is the winner!\nI have a question for you: In general, animal cells differ from plant cells in that animal cells have\nHere are four magical answers: (A) a cell wall made of cellulose\n(B) lysosomes\n(C) large vacuoles that store water\n(D) centrioles within centrosomes\n \nAnd what would you say?:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Two trees of the same species growing close together will use the same resources, such as light, water, and nutrients. If any of these resources becomes limiting, then each tree will receive less of it than if the trees were growing farther apart. This scenario is an example of which of the following?",
+      "choices": {
+        "A": "Parasitism",
+        "B": "Commensalism",
+        "C": "Natural selection",
+        "D": "Intraspecific competition"
+      },
+      "answer": "D",
+      "answer_text": "Intraspecific competition",
+      "confidence": 0.7591996788978577,
+      "all_entailment_probs": {
+        "A": 0.24203254282474518,
+        "B": 0.01172089483588934,
+        "C": 0.012985172681510448,
+        "D": 0.7591996788978577
+      },
+      "correct_answer": "D",
+      "prompt_used": "Look at the question and the four answers (A, B, C, D). Tell the right one!\nI have a question for you: Two trees of the same species growing close together will use the same resources, such as light, water, and nutrients. If any of these resources becomes limiting, then each tree will receive less of it than if the trees were growing farther apart. This scenario is an example of which of the following?\nPick one of these: (A) Parasitism\n(B) Commensalism\n(C) Natural selection\n(D) Intraspecific competition\n \nTell me the right answer!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Unlike large populations, small populations are vulnerable to various processes that draw populations down an extinction vortex toward smaller and smaller populations until no individuals survive. Which of the following statements correctly identifies the factors that endanger a population?",
+      "choices": {
+        "A": "Inbreeding and loss of genetic variation threaten a population.",
+        "B": "Migration of new individuals into the population threatens a population.",
+        "C": "Mutation reduces the health of a population.",
+        "D": "Breeding with individuals from a different population may cause the extinction of the first population due to a decrease in diversity."
+      },
+      "answer": "A",
+      "answer_text": "Inbreeding and loss of genetic variation threaten a population.",
+      "confidence": 0.9918481111526489,
+      "all_entailment_probs": {
+        "A": 0.9918481111526489,
+        "B": 0.9840461611747742,
+        "C": 0.9898611307144165,
+        "D": 0.9856761693954468
+      },
+      "correct_answer": "A",
+      "prompt_used": "You\u2019ve got four answers (A, B, C, D). Pick the best one!\nI have a question for you: Unlike large populations, small populations are vulnerable to various processes that draw populations down an extinction vortex toward smaller and smaller populations until no individuals survive. Which of the following statements correctly identifies the factors that endanger a population?\nHere\u2019s your list of answers: (A) Inbreeding and loss of genetic variation threaten a population.\n(B) Migration of new individuals into the population threatens a population.\n(C) Mutation reduces the health of a population.\n(D) Breeding with individuals from a different population may cause the extinction of the first population due to a decrease in diversity.\n \nAnd what would you say?:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Convergent evolution is best exemplified by which of the following?",
+      "choices": {
+        "A": "The pectoral fins of fish and the front legs of cats",
+        "B": "The presence of a notochord in all chordate embryos",
+        "C": "The wings of an insect and the wings of a bird",
+        "D": "The leaves of an oak tree and the spines of a cactus"
+      },
+      "answer": "A",
+      "answer_text": "The pectoral fins of fish and the front legs of cats",
+      "confidence": 0.7905499935150146,
+      "all_entailment_probs": {
+        "A": 0.7905499935150146,
+        "B": 0.11052132397890091,
+        "C": 0.18732760846614838,
+        "D": 0.09396051615476608
+      },
+      "correct_answer": "C",
+      "prompt_used": "Look at the question and the four answers (A, B, C, D). Choose right\nHere\u2019s a tricky one for you!: Convergent evolution is best exemplified by which of the following?\nYour choices are right here: (A) The pectoral fins of fish and the front legs of cats\n(B) The presence of a notochord in all chordate embryos\n(C) The wings of an insect and the wings of a bird\n(D) The leaves of an oak tree and the spines of a cactus\n \nTell me the right answer!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "It has been observed that organisms on islands are different from, but closely related to, similar forms found on the nearest continent. This is taken as evidence that",
+      "choices": {
+        "A": "0",
+        "B": "common environments are inhabited by the same organisms.",
+        "C": "the islands were originally part of the continent.",
+        "D": "the island forms and mainland forms are converging."
+      },
+      "answer": "D",
+      "answer_text": "the island forms and mainland forms are converging.",
+      "confidence": 0.2899363040924072,
+      "all_entailment_probs": {
+        "A": 0.08964469283819199,
+        "B": 0.046243246644735336,
+        "C": 0.012002014555037022,
+        "D": 0.2899363040924072
+      },
+      "correct_answer": "A",
+      "prompt_used": "I give you a question and four choices (A, B, C, D). Choose the one you think is the winner!\nHere\u2019s the question!: It has been observed that organisms on islands are different from, but closely related to, similar forms found on the nearest continent. This is taken as evidence that\nPick from these fun choices: (A) 0\n(B) common environments are inhabited by the same organisms.\n(C) the islands were originally part of the continent.\n(D) the island forms and mainland forms are converging.\n \nWhich one do you think it is?:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Each of the following has a better chance of influencing gene frequencies in small populations than in large populations, but which one most consistently requires a small population as a precondition for its occurrence?",
+      "choices": {
+        "A": "Mutation",
+        "B": "Non-random mating",
+        "C": "Genetic drift",
+        "D": "Natural selection"
+      },
+      "answer": "A",
+      "answer_text": "Mutation",
+      "confidence": 0.6226078867912292,
+      "all_entailment_probs": {
+        "A": 0.6226078867912292,
+        "B": 0.31559231877326965,
+        "C": 0.028345540165901184,
+        "D": 0.19001512229442596
+      },
+      "correct_answer": "C",
+      "prompt_used": "Point to the answer you think is correct.\nLet\u2019s play \u2014 here\u2019s a question!: Each of the following has a better chance of influencing gene frequencies in small populations than in large populations, but which one most consistently requires a small population as a precondition for its occurrence?\nHere\u2019s your list of answers: (A) Mutation\n(B) Non-random mating\n(C) Genetic drift\n(D) Natural selection\n \nGive me your guess!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "There are 40 individuals in population 1, all of which have genotype A1A1, and there are 25 individuals in population 2, all of genotype A2A2. Assume that these populations are located far from one another and that their environmental conditions are very similar. Based on the information given here, the observed genetic variation is mostly likely an example of",
+      "choices": {
+        "A": "genetic drift.",
+        "B": "gene flow.",
+        "C": "disruptive selection.",
+        "D": "discrete variation."
+      },
+      "answer": "D",
+      "answer_text": "discrete variation.",
+      "confidence": 0.1759798675775528,
+      "all_entailment_probs": {
+        "A": 0.0027900459244847298,
+        "B": 0.0009132112027145922,
+        "C": 0.0025557612534612417,
+        "D": 0.1759798675775528
+      },
+      "correct_answer": "A",
+      "prompt_used": "Look at the question and the four answers (A, B, C, D). Choose right\nHeyyy, here\u2019s something to figure out!: There are 40 individuals in population 1, all of which have genotype A1A1, and there are 25 individuals in population 2, all of genotype A2A2. Assume that these populations are located far from one another and that their environmental conditions are very similar. Based on the information given here, the observed genetic variation is mostly likely an example of\nHere\u2019s your answers: (A) genetic drift.\n(B) gene flow.\n(C) disruptive selection.\n(D) discrete variation.\n \nTell me your answer!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "The fluidity of the plasma membrane can vary in response to temperature changes. For bacteria and yeast cells, which of the following would be a viable strategy to maintain homeostasis of the plasma membrane in a temperature-varying environment?",
+      "choices": {
+        "A": "Increase the concentration of solutes in the cytosol.",
+        "B": "Change the ratio of phospholipids with double covalent bonds in their tails to those without double covalent bonds in their tails.",
+        "C": "Replace phospholipids with glucose molecules.",
+        "D": "Exchange phospholipids from one side of the plasma membrane to the other."
+      },
+      "answer": "A",
+      "answer_text": "Increase the concentration of solutes in the cytosol.",
+      "confidence": 0.07057264447212219,
+      "all_entailment_probs": {
+        "A": 0.07057264447212219,
+        "B": 0.023684009909629822,
+        "C": 0.010812627151608467,
+        "D": 0.06827164441347122
+      },
+      "correct_answer": "B",
+      "prompt_used": "Point to the answer you think is correct.\nGuess what? Here\u2019s your question!: The fluidity of the plasma membrane can vary in response to temperature changes. For bacteria and yeast cells, which of the following would be a viable strategy to maintain homeostasis of the plasma membrane in a temperature-varying environment?\nYour choices are right here: (A) Increase the concentration of solutes in the cytosol.\n(B) Change the ratio of phospholipids with double covalent bonds in their tails to those without double covalent bonds in their tails.\n(C) Replace phospholipids with glucose molecules.\n(D) Exchange phospholipids from one side of the plasma membrane to the other.\n \nTell me whats true!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which of the following statements best summarizes evolution as it is viewed today?",
+      "choices": {
+        "A": "It is goal-directed.",
+        "B": "It represents the result of selection for acquired characteristics.",
+        "C": "It is synonymous with the process of gene flow.",
+        "D": "It is the differential survival and reproduction of the most-fit phenotypes."
+      },
+      "answer": "D",
+      "answer_text": "It is the differential survival and reproduction of the most-fit phenotypes.",
+      "confidence": 0.11688964813947678,
+      "all_entailment_probs": {
+        "A": 0.023087752982974052,
+        "B": 0.013289508409798145,
+        "C": 0.024629436433315277,
+        "D": 0.11688964813947678
+      },
+      "correct_answer": "D",
+      "prompt_used": "Find the right answer from the four choices.\nHere\u2019s your brain teaser!: Which of the following statements best summarizes evolution as it is viewed today?\nPick one of these: (A) It is goal-directed.\n(B) It represents the result of selection for acquired characteristics.\n(C) It is synonymous with the process of gene flow.\n(D) It is the differential survival and reproduction of the most-fit phenotypes.\n \nWhat\u2019s your pick?:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "More than a dozen species of Darwin's finches with various specialized adaptations inhabit the Gal\u00e1pagos Islands. Each species possesses a specialized adaptation for obtaining food. Why is it that similar adaptations do not exist among the finches of the South American mainland, the presumed origin of the Gal\u00e1pagos finch ancestor?",
+      "choices": {
+        "A": "The various foods available on the mainland are different than those on the Gal\u00e1pagos Islands.",
+        "B": "South American predators limited evolution of the mainland finch.",
+        "C": "Reproductive isolation is not possible on the mainland.",
+        "D": "The available niches that the Darwin's finches exploited on the Gal\u00e1pagos Islands were already occupied by other species of birds on the mainland."
+      },
+      "answer": "D",
+      "answer_text": "The available niches that the Darwin's finches exploited on the Gal\u00e1pagos Islands were already occupied by other species of birds on the mainland.",
+      "confidence": 0.2964414060115814,
+      "all_entailment_probs": {
+        "A": 0.1098644956946373,
+        "B": 0.012636891566216946,
+        "C": 0.14156721532344818,
+        "D": 0.2964414060115814
+      },
+      "correct_answer": "D",
+      "prompt_used": "Choose the answer that makes the most sense.\nGuess what? Here\u2019s your question!: More than a dozen species of Darwin's finches with various specialized adaptations inhabit the Gal\u00e1pagos Islands. Each species possesses a specialized adaptation for obtaining food. Why is it that similar adaptations do not exist among the finches of the South American mainland, the presumed origin of the Gal\u00e1pagos finch ancestor?\nYour options: (A) The various foods available on the mainland are different than those on the Gal\u00e1pagos Islands.\n(B) South American predators limited evolution of the mainland finch.\n(C) Reproductive isolation is not possible on the mainland.\n(D) The available niches that the Darwin's finches exploited on the Gal\u00e1pagos Islands were already occupied by other species of birds on the mainland.\n \nTell me your answer!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Structures as different as human arms, bat wings, and dolphin flippers contain many of the same bones, these bones having developed from very similar embryonic tissues. How do biologists interpret these similarities?",
+      "choices": {
+        "A": "By identifying the bones as being homologous",
+        "B": "By the principle of convergent evolution",
+        "C": "By proposing that humans, bats, and dolphins share a common ancestor",
+        "D": "A and C only"
+      },
+      "answer": "A",
+      "answer_text": "By identifying the bones as being homologous",
+      "confidence": 0.8198574781417847,
+      "all_entailment_probs": {
+        "A": 0.8198574781417847,
+        "B": 0.42220717668533325,
+        "C": 0.37205395102500916,
+        "D": 0.0011927335290238261
+      },
+      "correct_answer": "D",
+      "prompt_used": "You\u2019ve got four answers (A, B, C, D). Pick the best one!\nLet\u2019s play \u2014 here\u2019s a question!: Structures as different as human arms, bat wings, and dolphin flippers contain many of the same bones, these bones having developed from very similar embryonic tissues. How do biologists interpret these similarities?\nPick from these fun choices: (A) By identifying the bones as being homologous\n(B) By the principle of convergent evolution\n(C) By proposing that humans, bats, and dolphins share a common ancestor\n(D) A and C only\n \nTell me whats true!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which of the following statements about the immune system is NOT correct?",
+      "choices": {
+        "A": "Innate immunity, also known as the adaptive immune response, relies on circulating phagocytes engulfing foreign substances.",
+        "B": "Adaptive immunity is a slower response than innate immunity.",
+        "C": "Innate immunity activates a humoral response.",
+        "D": "Dendritic cells are antigen presenting cells."
+      },
+      "answer": "D",
+      "answer_text": "Dendritic cells are antigen presenting cells.",
+      "confidence": 0.9940209984779358,
+      "all_entailment_probs": {
+        "A": 0.8490251302719116,
+        "B": 0.9815962910652161,
+        "C": 0.9675076007843018,
+        "D": 0.9940209984779358
+      },
+      "correct_answer": "A",
+      "prompt_used": "You\u2019ll see four choices (A, B, C, D). Choose the best one!\nI have a question for you: Which of the following statements about the immune system is NOT correct?\nHere are four magical answers: (A) Innate immunity, also known as the adaptive immune response, relies on circulating phagocytes engulfing foreign substances.\n(B) Adaptive immunity is a slower response than innate immunity.\n(C) Innate immunity activates a humoral response.\n(D) Dendritic cells are antigen presenting cells.\n \nTell me your answer!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which of the following is an incorrect statement about gel electrophoresis?",
+      "choices": {
+        "A": "DNA migrates from positive charge to negative charge.",
+        "B": "Smaller DNA travels faster.",
+        "C": "The DNA migrates only when the current is running.",
+        "D": "The longer the current is running, the farther the DNA will travel."
+      },
+      "answer": "B",
+      "answer_text": "Smaller DNA travels faster.",
+      "confidence": 0.9818887114524841,
+      "all_entailment_probs": {
+        "A": 0.9755440950393677,
+        "B": 0.9818887114524841,
+        "C": 0.5456892251968384,
+        "D": 0.9724612236022949
+      },
+      "correct_answer": "A",
+      "prompt_used": "Find the right answer from the four choices.\nTime for a fun question!: Which of the following is an incorrect statement about gel electrophoresis?\nHere\u2019s your list of answers: (A) DNA migrates from positive charge to negative charge.\n(B) Smaller DNA travels faster.\n(C) The DNA migrates only when the current is running.\n(D) The longer the current is running, the farther the DNA will travel.\n \nTell me the right answer!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "This biome has cold winters and is known for its pine forests.",
+      "choices": {
+        "A": "Desert",
+        "B": "Tundra",
+        "C": "Taiga",
+        "D": "Deciduous forests"
+      },
+      "answer": "D",
+      "answer_text": "Deciduous forests",
+      "confidence": 0.9469685554504395,
+      "all_entailment_probs": {
+        "A": 0.8772127032279968,
+        "B": 0.034317225217819214,
+        "C": 0.1583791822195053,
+        "D": 0.9469685554504395
+      },
+      "correct_answer": "D",
+      "prompt_used": "I give you a question and four choices (A, B, C, D). Choose the one you think is the winner!\nOkay, quiz time!: This biome has cold winters and is known for its pine forests.\nYou can pick one of these: (A) Desert\n(B) Tundra\n(C) Taiga\n(D) Deciduous forests\n \nTell me the right answer!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "The development of an egg without fertilization is known as",
+      "choices": {
+        "A": "meiosis",
+        "B": "parthenogenesis",
+        "C": "embryogenesis",
+        "D": "vegetative propagation"
+      },
+      "answer": "D",
+      "answer_text": "vegetative propagation",
+      "confidence": 0.6600831151008606,
+      "all_entailment_probs": {
+        "A": 0.4649921953678131,
+        "B": 0.028380384668707848,
+        "C": 0.028208617120981216,
+        "D": 0.6600831151008606
+      },
+      "correct_answer": "B",
+      "prompt_used": "Read the question, look at the four answers (A, B, C, D), and choose the winner!\nHeyyy, here\u2019s something to figure out!: The development of an egg without fertilization is known as\nPick from these fun choices: (A) meiosis\n(B) parthenogenesis\n(C) embryogenesis\n(D) vegetative propagation\n \nAnd what would you say?:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "An eager AP Biology student interested in studying osmosis and the movement of water in solutions took a dialysis bag containing a 0.5 M solution and placed it into a beaker containing a 0.6 M solution. Which of the following is true about water potential?",
+      "choices": {
+        "A": "An eager AP Biology student interested in studying osmosis and the movement of water in solutions took a dialysis bag containing a 0.5 M solution and placed it into a beaker containing a 0.6 M solution. It drives the movement of water from a region of lower water potential to a region of higher water potential.",
+        "B": "Solute potential is the only factor that determines the water potential.",
+        "C": "Pressure potential combines with solute potential to determine the water potential.",
+        "D": "Water potential always drives water from an area of lower pressure potential to an area of higher pressure potential."
+      },
+      "answer": "C",
+      "answer_text": "Pressure potential combines with solute potential to determine the water potential.",
+      "confidence": 0.9778268933296204,
+      "all_entailment_probs": {
+        "A": 0.9728005528450012,
+        "B": 0.0054345568642020226,
+        "C": 0.9778268933296204,
+        "D": 0.20716962218284607
+      },
+      "correct_answer": "C",
+      "prompt_used": "Read the question, look at the four answers (A, B, C, D), and choose the winner!\nTime for a fun question!: An eager AP Biology student interested in studying osmosis and the movement of water in solutions took a dialysis bag containing a 0.5 M solution and placed it into a beaker containing a 0.6 M solution. Which of the following is true about water potential?\nHere are your four picks!: (A) An eager AP Biology student interested in studying osmosis and the movement of water in solutions took a dialysis bag containing a 0.5 M solution and placed it into a beaker containing a 0.6 M solution. It drives the movement of water from a region of lower water potential to a region of higher water potential.\n(B) Solute potential is the only factor that determines the water potential.\n(C) Pressure potential combines with solute potential to determine the water potential.\n(D) Water potential always drives water from an area of lower pressure potential to an area of higher pressure potential.\n \nTell me whats true!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Once a plasmid has incorporated specific genes, such as the gene coding for the antibiotic ampicillin, into its genome, the plasmid may be cloned by",
+      "choices": {
+        "A": "inserting it into a virus to generate multiple copies",
+        "B": "treating it with a restriction enzyme in order to cut the molecule into small pieces",
+        "C": "inserting it into a suitable bacterium in order to produce multiple copies",
+        "D": "running it on a gel electrophoresis in order to determine the size of the gene of interest"
+      },
+      "answer": "A",
+      "answer_text": "inserting it into a virus to generate multiple copies",
+      "confidence": 0.9717398285865784,
+      "all_entailment_probs": {
+        "A": 0.9717398285865784,
+        "B": 0.9492976069450378,
+        "C": 0.9347899556159973,
+        "D": 0.9715879559516907
+      },
+      "correct_answer": "C",
+      "prompt_used": "Look at the question and the four answers (A, B, C, D). Tell the right one!\nI have a question for you: Once a plasmid has incorporated specific genes, such as the gene coding for the antibiotic ampicillin, into its genome, the plasmid may be cloned by\nYour choices are right here: (A) inserting it into a virus to generate multiple copies\n(B) treating it with a restriction enzyme in order to cut the molecule into small pieces\n(C) inserting it into a suitable bacterium in order to produce multiple copies\n(D) running it on a gel electrophoresis in order to determine the size of the gene of interest\n \nTell me whats true!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which statement about variation is true?",
+      "choices": {
+        "A": "All phenotypic variation is the result of genotypic variation.",
+        "B": "All genetic variation produces phenotypic variation.",
+        "C": "All nucleotide variability results in neutral variation.",
+        "D": "All new alleles are the result of nucleotide variability."
+      },
+      "answer": "D",
+      "answer_text": "All new alleles are the result of nucleotide variability.",
+      "confidence": 0.4426530599594116,
+      "all_entailment_probs": {
+        "A": 0.019512245431542397,
+        "B": 0.010229269973933697,
+        "C": 0.0539354644715786,
+        "D": 0.4426530599594116
+      },
+      "correct_answer": "D",
+      "prompt_used": "Read the question, look at the four answers (A, B, C, D), and choose the winner!\nHeyyy, here\u2019s something to figure out!: Which statement about variation is true?\nPick one of these: (A) All phenotypic variation is the result of genotypic variation.\n(B) All genetic variation produces phenotypic variation.\n(C) All nucleotide variability results in neutral variation.\n(D) All new alleles are the result of nucleotide variability.\n \nTell me the right answer!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which of the following must exist in a population before natural selection can act upon that population?",
+      "choices": {
+        "A": "Genetic variation among individuals",
+        "B": "Variation among individuals caused by environmental factors",
+        "C": "Sexual reproduction",
+        "D": "B and C only"
+      },
+      "answer": "D",
+      "answer_text": "B and C only",
+      "confidence": 0.9114384651184082,
+      "all_entailment_probs": {
+        "A": 0.11264930665493011,
+        "B": 0.06970316171646118,
+        "C": 0.01572146639227867,
+        "D": 0.9114384651184082
+      },
+      "correct_answer": "A",
+      "prompt_used": "Point to the answer you think is correct.\nHere\u2019s a tricky one for you!: Which of the following must exist in a population before natural selection can act upon that population?\nPick from these fun choices: (A) Genetic variation among individuals\n(B) Variation among individuals caused by environmental factors\n(C) Sexual reproduction\n(D) B and C only\n \nGive me your guess!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which of the following represents an idea that Darwin learned from the writings of Thomas Malthus?",
+      "choices": {
+        "A": "All species are fixed in the form in which they are created.",
+        "B": "Populations tend to increase at a faster rate than their food supply normally allows.",
+        "C": "Earth changed over the years through a series of catastrophic upheavals.",
+        "D": "The environment is responsible for natural selection."
+      },
+      "answer": "D",
+      "answer_text": "The environment is responsible for natural selection.",
+      "confidence": 0.3231332302093506,
+      "all_entailment_probs": {
+        "A": 0.14759457111358643,
+        "B": 0.06790776550769806,
+        "C": 0.13214190304279327,
+        "D": 0.3231332302093506
+      },
+      "correct_answer": "B",
+      "prompt_used": "Look at the question and the four answers (A, B, C, D). Choose right\nHere\u2019s a tricky one for you!: Which of the following represents an idea that Darwin learned from the writings of Thomas Malthus?\nYour options: (A) All species are fixed in the form in which they are created.\n(B) Populations tend to increase at a faster rate than their food supply normally allows.\n(C) Earth changed over the years through a series of catastrophic upheavals.\n(D) The environment is responsible for natural selection.\n \nTell me whats true!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "A plant grows in the opposite direction of the gravitational force. This is an example of",
+      "choices": {
+        "A": "positive thignotropism",
+        "B": "negative phototropism",
+        "C": "positive phototropism",
+        "D": "negative gravitropism"
+      },
+      "answer": "D",
+      "answer_text": "negative gravitropism",
+      "confidence": 0.946410059928894,
+      "all_entailment_probs": {
+        "A": 0.7602182030677795,
+        "B": 0.01803860254585743,
+        "C": 0.07690221071243286,
+        "D": 0.946410059928894
+      },
+      "correct_answer": "D",
+      "prompt_used": "You\u2019ll see four choices (A, B, C, D). Choose the best one!\nOkay, quiz time!: A plant grows in the opposite direction of the gravitational force. This is an example of\nYour choices are right here: (A) positive thignotropism\n(B) negative phototropism\n(C) positive phototropism\n(D) negative gravitropism\n \nTell me whats true!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which statement about the beak size of finches on the island of Daphne Major during prolonged drought is true?",
+      "choices": {
+        "A": "Each bird evolved a deeper, stronger beak as the drought persisted.",
+        "B": "Each bird developed a deeper, stronger beak as the drought persisted.",
+        "C": "Each bird's survival was strongly influenced by the depth and strength of its beak as the drought persisted.",
+        "D": "Each bird that survived the drought produced only offspring with deeper, stronger beaks than seen in the previous generation."
+      },
+      "answer": "A",
+      "answer_text": "Each bird evolved a deeper, stronger beak as the drought persisted.",
+      "confidence": 0.98631751537323,
+      "all_entailment_probs": {
+        "A": 0.98631751537323,
+        "B": 0.9654013514518738,
+        "C": 0.45840710401535034,
+        "D": 0.8816654682159424
+      },
+      "correct_answer": "C",
+      "prompt_used": "Find the right answer from the four choices.\nOkay, quiz time!: Which statement about the beak size of finches on the island of Daphne Major during prolonged drought is true?\nHere\u2019s your answers: (A) Each bird evolved a deeper, stronger beak as the drought persisted.\n(B) Each bird developed a deeper, stronger beak as the drought persisted.\n(C) Each bird's survival was strongly influenced by the depth and strength of its beak as the drought persisted.\n(D) Each bird that survived the drought produced only offspring with deeper, stronger beaks than seen in the previous generation.\n \nAnd what would you say?:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which of the following best explains why lignin is important to the evolutionary success of land plants?",
+      "choices": {
+        "A": "Lignin provides structural support, allowing plants to grow tall.",
+        "B": "Lignin stimulates spore formation, leading to gametogenesis.",
+        "C": "Lignin supplies the developing embryo with essential nutrients, enabling its growth.",
+        "D": "Lignin supplements the absorption of light by chlorophyll, increasing photosynthetic output."
+      },
+      "answer": "D",
+      "answer_text": "Lignin supplements the absorption of light by chlorophyll, increasing photosynthetic output.",
+      "confidence": 0.9849153757095337,
+      "all_entailment_probs": {
+        "A": 0.97215735912323,
+        "B": 0.8607571125030518,
+        "C": 0.8846834301948547,
+        "D": 0.9849153757095337
+      },
+      "correct_answer": "A",
+      "prompt_used": "Read the question, look at the four answers (A, B, C, D), and choose the winner!\nOkay, quiz time!: Which of the following best explains why lignin is important to the evolutionary success of land plants?\nHere\u2019s your answers: (A) Lignin provides structural support, allowing plants to grow tall.\n(B) Lignin stimulates spore formation, leading to gametogenesis.\n(C) Lignin supplies the developing embryo with essential nutrients, enabling its growth.\n(D) Lignin supplements the absorption of light by chlorophyll, increasing photosynthetic output.\n \nWhat\u2019s your pick?:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Charles Darwin was the first person to propose",
+      "choices": {
+        "A": "that evolution occurs.",
+        "B": "a mechanism for how evolution occurs.",
+        "C": "that the Earth is older than a few thousand years.",
+        "D": "a mechanism for evolution that was supported by evidence."
+      },
+      "answer": "D",
+      "answer_text": "a mechanism for evolution that was supported by evidence.",
+      "confidence": 0.06798086315393448,
+      "all_entailment_probs": {
+        "A": 0.06559542566537857,
+        "B": 0.03352925926446915,
+        "C": 0.0013600060483440757,
+        "D": 0.06798086315393448
+      },
+      "correct_answer": "D",
+      "prompt_used": "I give you a question and four choices (A, B, C, D). Choose the one you think is the winner!\nHere\u2019s the question!: Charles Darwin was the first person to propose\nPick from these fun choices: (A) that evolution occurs.\n(B) a mechanism for how evolution occurs.\n(C) that the Earth is older than a few thousand years.\n(D) a mechanism for evolution that was supported by evidence.\n \nTell me whats true!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "What was the prevailing notion prior to the time of Lyell and Darwin?",
+      "choices": {
+        "A": "Earth is a few thousand years old, and populations are unchanging.",
+        "B": "Earth is a few thousand years old, and populations gradually change.",
+        "C": "Earth is millions of years old, and populations rapidly change.",
+        "D": "Earth is millions of years old, and populations are unchanging."
+      },
+      "answer": "C",
+      "answer_text": "Earth is millions of years old, and populations rapidly change.",
+      "confidence": 0.010697217658162117,
+      "all_entailment_probs": {
+        "A": 0.006447849795222282,
+        "B": 0.005785742308944464,
+        "C": 0.010697217658162117,
+        "D": 0.006602771580219269
+      },
+      "correct_answer": "A",
+      "prompt_used": "Read the question, look at the four answers (A, B, C, D), and choose the winner!\nI have a question for you: What was the prevailing notion prior to the time of Lyell and Darwin?\nYour choices are right here: (A) Earth is a few thousand years old, and populations are unchanging.\n(B) Earth is a few thousand years old, and populations gradually change.\n(C) Earth is millions of years old, and populations rapidly change.\n(D) Earth is millions of years old, and populations are unchanging.\n \nGive me your guess:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "A proficient engineer can easily design skeletal structures that are more functional than those currently found in the forelimbs of such diverse mammals as horses, whales, and bats. That the actual forelimbs of these mammals do not seem to be optimally arranged is because",
+      "choices": {
+        "A": "natural selection has not had sufficient time to create the optimal design in each case, but will do so given enough time.",
+        "B": "natural selection operates in ways that are beyond the capability of the human mind to comprehend.",
+        "C": "in many cases, phenotype is not merely determined by genotype, but by the environment as well.",
+        "D": "natural selection is generally limited to modifying structures that were present in previous generations and in previous species."
+      },
+      "answer": "D",
+      "answer_text": "natural selection is generally limited to modifying structures that were present in previous generations and in previous species.",
+      "confidence": 0.5659005641937256,
+      "all_entailment_probs": {
+        "A": 0.010282482020556927,
+        "B": 0.017780857160687447,
+        "C": 0.04515063017606735,
+        "D": 0.5659005641937256
+      },
+      "correct_answer": "D",
+      "prompt_used": "Pick the most magical and correct one from (A, B, C, D) to finish the story!\nHere\u2019s your brain teaser!: A proficient engineer can easily design skeletal structures that are more functional than those currently found in the forelimbs of such diverse mammals as horses, whales, and bats. That the actual forelimbs of these mammals do not seem to be optimally arranged is because\nYou can pick one of these: (A) natural selection has not had sufficient time to create the optimal design in each case, but will do so given enough time.\n(B) natural selection operates in ways that are beyond the capability of the human mind to comprehend.\n(C) in many cases, phenotype is not merely determined by genotype, but by the environment as well.\n(D) natural selection is generally limited to modifying structures that were present in previous generations and in previous species.\n \nTell me what you think!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "A certain species of land snail exists as either a cream color or a solid brown color. Intermediate individuals are relatively rare. Which of the following terms best describes this?",
+      "choices": {
+        "A": "artificial selection",
+        "B": "directional selection",
+        "C": "stabilizing selection",
+        "D": "disruptive selection"
+      },
+      "answer": "A",
+      "answer_text": "artificial selection",
+      "confidence": 0.9663463234901428,
+      "all_entailment_probs": {
+        "A": 0.9663463234901428,
+        "B": 0.28208765387535095,
+        "C": 0.5033848881721497,
+        "D": 0.8260075449943542
+      },
+      "correct_answer": "D",
+      "prompt_used": "Point to the answer you think is correct.\nOkay, quiz time!: A certain species of land snail exists as either a cream color or a solid brown color. Intermediate individuals are relatively rare. Which of the following terms best describes this?\nHere\u2019s your answers: (A) artificial selection\n(B) directional selection\n(C) stabilizing selection\n(D) disruptive selection\n \nTell me whats true!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Cattle breeders have improved the quality of meat over the years by which process?",
+      "choices": {
+        "A": "artificial selection",
+        "B": "directional selection",
+        "C": "stabilizing selection",
+        "D": "A and B"
+      },
+      "answer": "D",
+      "answer_text": "A and B",
+      "confidence": 0.04903635010123253,
+      "all_entailment_probs": {
+        "A": 0.02066553384065628,
+        "B": 0.006067781243473291,
+        "C": 0.02402391843497753,
+        "D": 0.04903635010123253
+      },
+      "correct_answer": "D",
+      "prompt_used": "Find the right answer from the four choices.\nHere\u2019s your brain teaser!: Cattle breeders have improved the quality of meat over the years by which process?\nYour options: (A) artificial selection\n(B) directional selection\n(C) stabilizing selection\n(D) A and B\n \nShout out your choice!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "What is the best explanation for the fact that tuna, sharks, and dolphins all have a similar streamlined appearance?",
+      "choices": {
+        "A": "They all share a recent common ancestor.",
+        "B": "They all sustained the same set of mutations.",
+        "C": "They acquire a streamlined body type to survive in their particular environment.",
+        "D": "The streamlined body has a selective advantage in that environment."
+      },
+      "answer": "D",
+      "answer_text": "The streamlined body has a selective advantage in that environment.",
+      "confidence": 0.9910854697227478,
+      "all_entailment_probs": {
+        "A": 0.9840031266212463,
+        "B": 0.3061980903148651,
+        "C": 0.9471287131309509,
+        "D": 0.9910854697227478
+      },
+      "correct_answer": "D",
+      "prompt_used": "Read the question, look at the four answers (A, B, C, D), and choose the winner!\nTime for a fun question!: What is the best explanation for the fact that tuna, sharks, and dolphins all have a similar streamlined appearance?\nHere\u2019s your answers: (A) They all share a recent common ancestor.\n(B) They all sustained the same set of mutations.\n(C) They acquire a streamlined body type to survive in their particular environment.\n(D) The streamlined body has a selective advantage in that environment.\n \nTell me what you think!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "If a forest of fir, birch, and white spruce trees was devastated by fire, which of the following would most likely happen?",
+      "choices": {
+        "A": "Only animal life would continue to inhabit the region.",
+        "B": "Secondary succession would begin to occur.",
+        "C": "Only tough grasses would appear.",
+        "D": "The number of species would stabilize as the ecosystem matures."
+      },
+      "answer": "D",
+      "answer_text": "The number of species would stabilize as the ecosystem matures.",
+      "confidence": 0.8546984195709229,
+      "all_entailment_probs": {
+        "A": 0.09268208593130112,
+        "B": 0.16722165048122406,
+        "C": 0.14143908023834229,
+        "D": 0.8546984195709229
+      },
+      "correct_answer": "B",
+      "prompt_used": "Point to the answer you think is correct.\nReady? Here\u2019s the puzzle!: If a forest of fir, birch, and white spruce trees was devastated by fire, which of the following would most likely happen?\nYour options: (A) Only animal life would continue to inhabit the region.\n(B) Secondary succession would begin to occur.\n(C) Only tough grasses would appear.\n(D) The number of species would stabilize as the ecosystem matures.\n \nTell me the right answer!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "If a couple has had three sons and the woman is pregnant with their fourth child, what is the probability that child 4 will also be male?",
+      "choices": {
+        "A": "1/2",
+        "B": "1/4",
+        "C": "1/8",
+        "D": "1/16"
+      },
+      "answer": "D",
+      "answer_text": "1/16",
+      "confidence": 0.010246729478240013,
+      "all_entailment_probs": {
+        "A": 0.008009623736143112,
+        "B": 0.0008950670599006116,
+        "C": 0.0016455212607979774,
+        "D": 0.010246729478240013
+      },
+      "correct_answer": "A",
+      "prompt_used": "Pick the most magical and correct one from (A, B, C, D) to finish the story!\nHeyyy, here\u2019s something to figure out!: If a couple has had three sons and the woman is pregnant with their fourth child, what is the probability that child 4 will also be male?\nYour choices are right here: (A) 1/2\n(B) 1/4\n(C) 1/8\n(D) 1/16\n \nShout out your choice!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Chemiosmosis occurs in I.Mitochondria II. Nuclei III. Chloroplasts",
+      "choices": {
+        "A": "I only",
+        "B": "II only",
+        "C": "III only",
+        "D": "I and III"
+      },
+      "answer": "D",
+      "answer_text": "I and III",
+      "confidence": 0.06417645514011383,
+      "all_entailment_probs": {
+        "A": 0.030562447383999825,
+        "B": 0.009254256263375282,
+        "C": 0.020837169140577316,
+        "D": 0.06417645514011383
+      },
+      "correct_answer": "D",
+      "prompt_used": "Point to the answer you think is correct.\nI have a question for you: Chemiosmosis occurs in I.Mitochondria II. Nuclei III. Chloroplasts\nHere are four magical answers: (A) I only\n(B) II only\n(C) III only\n(D) I and III\n \nGive me your guess:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which of the following best explains why drinking breast milk is beneficial to a human infant?",
+      "choices": {
+        "A": "Breast milk contains vitamins that repair mutations originating in the sperm or egg.",
+        "B": "Breast milk contains maternal antibodies that protect against gastrointestinal pathogens.",
+        "C": "Breast milk contains maternal vaccines that destroy common childhood pathogens.",
+        "D": "Breast milk contains red blood cells with adult hemoglobin that are beneficial to the infant's developing brain."
+      },
+      "answer": "B",
+      "answer_text": "Breast milk contains maternal antibodies that protect against gastrointestinal pathogens.",
+      "confidence": 0.8946300745010376,
+      "all_entailment_probs": {
+        "A": 0.8911936283111572,
+        "B": 0.8946300745010376,
+        "C": 0.7824082970619202,
+        "D": 0.7153586149215698
+      },
+      "correct_answer": "B",
+      "prompt_used": "You\u2019ve got four answers (A, B, C, D). Pick the best one!\nGuess what? Here\u2019s your question!: Which of the following best explains why drinking breast milk is beneficial to a human infant?\nHere\u2019s your answers: (A) Breast milk contains vitamins that repair mutations originating in the sperm or egg.\n(B) Breast milk contains maternal antibodies that protect against gastrointestinal pathogens.\n(C) Breast milk contains maternal vaccines that destroy common childhood pathogens.\n(D) Breast milk contains red blood cells with adult hemoglobin that are beneficial to the infant's developing brain.\n \nTell me whats true!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Invertebrate immune systems possess which of the following?",
+      "choices": {
+        "A": "Cytotoxic T-lymphocytes",
+        "B": "Phagocytes",
+        "C": "B-cells",
+        "D": "Helper T-cells"
+      },
+      "answer": "A",
+      "answer_text": "Cytotoxic T-lymphocytes",
+      "confidence": 0.8723545074462891,
+      "all_entailment_probs": {
+        "A": 0.8723545074462891,
+        "B": 0.02135317027568817,
+        "C": 0.016496535390615463,
+        "D": 0.7075991630554199
+      },
+      "correct_answer": "B",
+      "prompt_used": "Look at the question and the four answers (A, B, C, D). Choose right\nLet\u2019s play \u2014 here\u2019s a question!: Invertebrate immune systems possess which of the following?\nHere are four magical answers: (A) Cytotoxic T-lymphocytes\n(B) Phagocytes\n(C) B-cells\n(D) Helper T-cells\n \nTell me your answer!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Most animal cells, regardless of species, are relatively small and about the same size. Relative to larger cells, why is this?",
+      "choices": {
+        "A": "Smaller cells avoid excessive osmosis and subsequent lysis.",
+        "B": "Smaller cells have a smaller surface-to-volume ratio.",
+        "C": "Smaller cells have a larger surface-to-volume ratio.",
+        "D": "Smaller cells fit together more tightly."
+      },
+      "answer": "D",
+      "answer_text": "Smaller cells fit together more tightly.",
+      "confidence": 0.6003153324127197,
+      "all_entailment_probs": {
+        "A": 0.5580736994743347,
+        "B": 0.2041243016719818,
+        "C": 0.029280373826622963,
+        "D": 0.6003153324127197
+      },
+      "correct_answer": "C",
+      "prompt_used": "You\u2019ve got four answers (A, B, C, D). Pick the best one!\nReady? Here\u2019s the puzzle!: Most animal cells, regardless of species, are relatively small and about the same size. Relative to larger cells, why is this?\nHere\u2019s your list of answers: (A) Smaller cells avoid excessive osmosis and subsequent lysis.\n(B) Smaller cells have a smaller surface-to-volume ratio.\n(C) Smaller cells have a larger surface-to-volume ratio.\n(D) Smaller cells fit together more tightly.\n \nGive me your guess:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "The energy given up by electrons as they move through the electron transport chain is used to",
+      "choices": {
+        "A": "break down glucose",
+        "B": "make glucose",
+        "C": "produce ATP",
+        "D": "make NADH"
+      },
+      "answer": "D",
+      "answer_text": "make NADH",
+      "confidence": 0.862741231918335,
+      "all_entailment_probs": {
+        "A": 0.19528792798519135,
+        "B": 0.012926875613629818,
+        "C": 0.054875023663043976,
+        "D": 0.862741231918335
+      },
+      "correct_answer": "C",
+      "prompt_used": "Look at the question and the four answers (A, B, C, D). Tell the right one!\nGuess what? Here\u2019s your question!: The energy given up by electrons as they move through the electron transport chain is used to\nHere\u2019s your answers: (A) break down glucose\n(B) make glucose\n(C) produce ATP\n(D) make NADH\n \nGive me your guess!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which of the following is known to be involved in the photoperiodic flowering response of angiosperms?",
+      "choices": {
+        "A": "Auxin",
+        "B": "Cytochrome",
+        "C": "Phytochrome",
+        "D": "Gibberellins"
+      },
+      "answer": "D",
+      "answer_text": "Gibberellins",
+      "confidence": 0.6463508009910583,
+      "all_entailment_probs": {
+        "A": 0.4217146635055542,
+        "B": 0.021317539736628532,
+        "C": 0.02032599039375782,
+        "D": 0.6463508009910583
+      },
+      "correct_answer": "C",
+      "prompt_used": "You\u2019ve got four answers (A, B, C, D). Pick the best one!\nReady? Here\u2019s the puzzle!: Which of the following is known to be involved in the photoperiodic flowering response of angiosperms?\nYour options: (A) Auxin\n(B) Cytochrome\n(C) Phytochrome\n(D) Gibberellins\n \nWhich one do you think it is?:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which of the following theories is based on the notion that mitochondria and chloroplasts evolved from prokaryotic cells?",
+      "choices": {
+        "A": "Fluid mosaic model",
+        "B": "Endosymbiotic model",
+        "C": "Taxonomic model",
+        "D": "Respiration feedback model"
+      },
+      "answer": "A",
+      "answer_text": "Fluid mosaic model",
+      "confidence": 0.034239791333675385,
+      "all_entailment_probs": {
+        "A": 0.034239791333675385,
+        "B": 0.008287237025797367,
+        "C": 0.011865511536598206,
+        "D": 0.01703375019133091
+      },
+      "correct_answer": "B",
+      "prompt_used": "Pick the most magical and correct one from (A, B, C, D) to finish the story!\nHere\u2019s the question!: Which of the following theories is based on the notion that mitochondria and chloroplasts evolved from prokaryotic cells?\nHere\u2019s your list of answers: (A) Fluid mosaic model\n(B) Endosymbiotic model\n(C) Taxonomic model\n(D) Respiration feedback model\n \nGive me your guess!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "During the period when life is believed to have begun, the atmosphere on primitive Earth contained abundant amounts of all the following gases EXCEPT",
+      "choices": {
+        "A": "oxygen",
+        "B": "hydrogen",
+        "C": "ammonia",
+        "D": "methane"
+      },
+      "answer": "D",
+      "answer_text": "methane",
+      "confidence": 0.3794811964035034,
+      "all_entailment_probs": {
+        "A": 0.3147002160549164,
+        "B": 0.01428760215640068,
+        "C": 0.009781279601156712,
+        "D": 0.3794811964035034
+      },
+      "correct_answer": "A",
+      "prompt_used": "I give you a question and four choices (A, B, C, D). Choose the one you think is the winner!\nLet\u2019s play \u2014 here\u2019s a question!: During the period when life is believed to have begun, the atmosphere on primitive Earth contained abundant amounts of all the following gases EXCEPT\nYour options: (A) oxygen\n(B) hydrogen\n(C) ammonia\n(D) methane\n \nShout out your choice!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "All of the following are examples of events that can prevent interspecific breeding EXCEPT",
+      "choices": {
+        "A": "the potential mates experience geographic isolation",
+        "B": "the potential mates experience behavioral isolation",
+        "C": "the potential mates have different courtship rituals",
+        "D": "the potential mates have similar breeding seasons"
+      },
+      "answer": "A",
+      "answer_text": "the potential mates experience geographic isolation",
+      "confidence": 0.4890437722206116,
+      "all_entailment_probs": {
+        "A": 0.4890437722206116,
+        "B": 0.013960720039904118,
+        "C": 0.023691462352871895,
+        "D": 0.22901925444602966
+      },
+      "correct_answer": "D",
+      "prompt_used": "I give you a question and four choices (A, B, C, D). Choose the one you think is the winner!\nOkay, quiz time!: All of the following are examples of events that can prevent interspecific breeding EXCEPT\nYour options: (A) the potential mates experience geographic isolation\n(B) the potential mates experience behavioral isolation\n(C) the potential mates have different courtship rituals\n(D) the potential mates have similar breeding seasons\n \nTell me what you think!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which of the following statements most accurately explains what EcoR1 is?",
+      "choices": {
+        "A": "It is a bacterium that lives in the human large intestine.",
+        "B": "It is the best-studied bacteriophage, a virus that attacks E. coli.",
+        "C": "It is a restriction enzyme extracted from E. coli.",
+        "D": "It is a type of DNA used extensively in research."
+      },
+      "answer": "C",
+      "answer_text": "It is a restriction enzyme extracted from E. coli.",
+      "confidence": 0.717830240726471,
+      "all_entailment_probs": {
+        "A": 0.5306586623191833,
+        "B": 0.4424331784248352,
+        "C": 0.717830240726471,
+        "D": 0.4496278166770935
+      },
+      "correct_answer": "C",
+      "prompt_used": "You\u2019ll see four choices (A, B, C, D). Choose the best one!\nHere\u2019s your brain teaser!: Which of the following statements most accurately explains what EcoR1 is?\nHere are four magical answers: (A) It is a bacterium that lives in the human large intestine.\n(B) It is the best-studied bacteriophage, a virus that attacks E. coli.\n(C) It is a restriction enzyme extracted from E. coli.\n(D) It is a type of DNA used extensively in research.\n \nWhat\u2019s your pick?:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "The end product of the alcohol fermentation pathway is the alcohol ethanol. A considerable amount of energy still remains in ethanol, yet ethanol is a waste product for the yeast cells that produce it. What, then, is the purpose of fermentation?",
+      "choices": {
+        "A": "Fermentation provides CO2 for photosynthesis.",
+        "B": "Fermentation provides CO2 for cellular respiration.",
+        "C": "Yeast cells excrete ethanol in order to provide a defense against invading bacteria.",
+        "D": "Fermentation replenishes the NAD+ necessary for glycolysis to continue."
+      },
+      "answer": "D",
+      "answer_text": "Fermentation replenishes the NAD+ necessary for glycolysis to continue.",
+      "confidence": 0.9819205403327942,
+      "all_entailment_probs": {
+        "A": 0.02821042388677597,
+        "B": 0.06926732510328293,
+        "C": 0.8216798901557922,
+        "D": 0.9819205403327942
+      },
+      "correct_answer": "D",
+      "prompt_used": "You\u2019ve got four answers (A, B, C, D). Pick the best one!\nTime for a fun question!: The end product of the alcohol fermentation pathway is the alcohol ethanol. A considerable amount of energy still remains in ethanol, yet ethanol is a waste product for the yeast cells that produce it. What, then, is the purpose of fermentation?\nHere\u2019s your answers: (A) Fermentation provides CO2 for photosynthesis.\n(B) Fermentation provides CO2 for cellular respiration.\n(C) Yeast cells excrete ethanol in order to provide a defense against invading bacteria.\n(D) Fermentation replenishes the NAD+ necessary for glycolysis to continue.\n \nGive me your guess:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Sexual dimorphism is most often a result of",
+      "choices": {
+        "A": "pansexual selection.",
+        "B": "stabilizing selection.",
+        "C": "intrasexual selection.",
+        "D": "intersexual selection."
+      },
+      "answer": "D",
+      "answer_text": "intersexual selection.",
+      "confidence": 0.08742189407348633,
+      "all_entailment_probs": {
+        "A": 0.04076521098613739,
+        "B": 0.03861994296312332,
+        "C": 0.009562013670802116,
+        "D": 0.08742189407348633
+      },
+      "correct_answer": "D",
+      "prompt_used": "Look at the question and the four answers (A, B, C, D). Tell the right one!\nI have a question for you: Sexual dimorphism is most often a result of\nHere are four magical answers: (A) pansexual selection.\n(B) stabilizing selection.\n(C) intrasexual selection.\n(D) intersexual selection.\n \nGive me your guess:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which describes brightly colored peacocks mating more frequently than drab peacocks?",
+      "choices": {
+        "A": "artificial selection",
+        "B": "directional selection",
+        "C": "stabilizing selection",
+        "D": "sexual selection"
+      },
+      "answer": "D",
+      "answer_text": "sexual selection",
+      "confidence": 0.612089991569519,
+      "all_entailment_probs": {
+        "A": 0.4912111461162567,
+        "B": 0.0169969592243433,
+        "C": 0.03476238250732422,
+        "D": 0.612089991569519
+      },
+      "correct_answer": "D",
+      "prompt_used": "You\u2019ll see four choices (A, B, C, D). Choose the best one!\nHere\u2019s your brain teaser!: Which describes brightly colored peacocks mating more frequently than drab peacocks?\nHere are four magical answers: (A) artificial selection\n(B) directional selection\n(C) stabilizing selection\n(D) sexual selection\n \nGive me your guess!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which of the following statements most detracts from the claim that the human appendix is a completely vestigial organ?",
+      "choices": {
+        "A": "The appendix can be surgically removed with no immediate ill effects.",
+        "B": "The appendix might have been larger in fossil hominids.",
+        "C": "The appendix has a substantial amount of defensive lymphatic tissue.",
+        "D": "Individuals with a larger-than-average appendix leave fewer offspring than those with a below-average-sized appendix."
+      },
+      "answer": "D",
+      "answer_text": "Individuals with a larger-than-average appendix leave fewer offspring than those with a below-average-sized appendix.",
+      "confidence": 0.946438193321228,
+      "all_entailment_probs": {
+        "A": 0.17229758203029633,
+        "B": 0.028234900906682014,
+        "C": 0.08498635143041611,
+        "D": 0.946438193321228
+      },
+      "correct_answer": "C",
+      "prompt_used": "I give you a question and four choices (A, B, C, D). Choose the one you think is the winner!\nGuess what? Here\u2019s your question!: Which of the following statements most detracts from the claim that the human appendix is a completely vestigial organ?\nYour options: (A) The appendix can be surgically removed with no immediate ill effects.\n(B) The appendix might have been larger in fossil hominids.\n(C) The appendix has a substantial amount of defensive lymphatic tissue.\n(D) Individuals with a larger-than-average appendix leave fewer offspring than those with a below-average-sized appendix.\n \nWhich one do you think it is?:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "This process couples the production of ATP with the movement of electrons down the electron transport chain by harnessing the driving force created by a proton gradient.",
+      "choices": {
+        "A": "Glycolysis",
+        "B": "Chemiosmosis",
+        "C": "Fermentation",
+        "D": "Calvin cycle"
+      },
+      "answer": "D",
+      "answer_text": "Calvin cycle",
+      "confidence": 0.7647855281829834,
+      "all_entailment_probs": {
+        "A": 0.27520138025283813,
+        "B": 0.02087707258760929,
+        "C": 0.016861235722899437,
+        "D": 0.7647855281829834
+      },
+      "correct_answer": "B",
+      "prompt_used": "Look at the question and the four answers (A, B, C, D). Tell the right one!\nLet\u2019s play \u2014 here\u2019s a question!: This process couples the production of ATP with the movement of electrons down the electron transport chain by harnessing the driving force created by a proton gradient.\nHere are your four picks!: (A) Glycolysis\n(B) Chemiosmosis\n(C) Fermentation\n(D) Calvin cycle\n \nWhich one do you think it is?:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "A new plant was discovered and determined to have an unusually low number of stomata on the undersides of its leaves. For what environment would this plant most likely be best adapted?",
+      "choices": {
+        "A": "Cold and rainy",
+        "B": "Humid and sunny",
+        "C": "Hot and humid",
+        "D": "Hot and dry"
+      },
+      "answer": "D",
+      "answer_text": "Hot and dry",
+      "confidence": 0.0027106241323053837,
+      "all_entailment_probs": {
+        "A": 0.001040542614646256,
+        "B": 0.0009442553273402154,
+        "C": 0.001144711277447641,
+        "D": 0.0027106241323053837
+      },
+      "correct_answer": "D",
+      "prompt_used": "Point to the answer you think is correct.\nTime for a fun question!: A new plant was discovered and determined to have an unusually low number of stomata on the undersides of its leaves. For what environment would this plant most likely be best adapted?\nPick from these fun choices: (A) Cold and rainy\n(B) Humid and sunny\n(C) Hot and humid\n(D) Hot and dry\n \nGive me your guess:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Monkeys of South and Central America have prehensile tails, meaning that their tails can be used to grasp objects. The tails of African and Asian monkeys are not prehensile. Which discipline is most likely to provide an evolutionary explanation for how this difference in tails came about?",
+      "choices": {
+        "A": "Aerodynamics",
+        "B": "Biogeography",
+        "C": "Physiology",
+        "D": "Biochemistry"
+      },
+      "answer": "D",
+      "answer_text": "Biochemistry",
+      "confidence": 0.03438246622681618,
+      "all_entailment_probs": {
+        "A": 0.01900673843920231,
+        "B": 0.0019058299949392676,
+        "C": 0.002017269842326641,
+        "D": 0.03438246622681618
+      },
+      "correct_answer": "B",
+      "prompt_used": "You\u2019ve got four answers (A, B, C, D). Pick the best one!\nGuess what? Here\u2019s your question!: Monkeys of South and Central America have prehensile tails, meaning that their tails can be used to grasp objects. The tails of African and Asian monkeys are not prehensile. Which discipline is most likely to provide an evolutionary explanation for how this difference in tails came about?\nYour choices are right here: (A) Aerodynamics\n(B) Biogeography\n(C) Physiology\n(D) Biochemistry\n \nShout out your choice!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "All of the following support the endosymbiotic theory that ancestors of mitochondria and chloroplasts were once independent, free-living prokaryotes EXCEPT:",
+      "choices": {
+        "A": "Mitochondria and chloroplasts divide independently of the eukaryotic host cell by a process similar to binary fission.",
+        "B": "Mitochondria and chloroplasts have ribosomes that more closely resemble those of bacteria than of eukaryotic cells.",
+        "C": "Mitochondria and chloroplasts function independently from the eukaryotic host cell.",
+        "D": "Mitochondria, chloroplasts, and bacteria have a single, circular chromosome without histones or proteins."
+      },
+      "answer": "A",
+      "answer_text": "Mitochondria and chloroplasts divide independently of the eukaryotic host cell by a process similar to binary fission.",
+      "confidence": 0.9402721524238586,
+      "all_entailment_probs": {
+        "A": 0.9402721524238586,
+        "B": 0.9387383460998535,
+        "C": 0.8643358945846558,
+        "D": 0.8577322959899902
+      },
+      "correct_answer": "C",
+      "prompt_used": "Look at the question and the four answers (A, B, C, D). Tell the right one!\nHere\u2019s your brain teaser!: All of the following support the endosymbiotic theory that ancestors of mitochondria and chloroplasts were once independent, free-living prokaryotes EXCEPT:\nOne of these is the winner!: (A) Mitochondria and chloroplasts divide independently of the eukaryotic host cell by a process similar to binary fission.\n(B) Mitochondria and chloroplasts have ribosomes that more closely resemble those of bacteria than of eukaryotic cells.\n(C) Mitochondria and chloroplasts function independently from the eukaryotic host cell.\n(D) Mitochondria, chloroplasts, and bacteria have a single, circular chromosome without histones or proteins.\n \nTell me what you think!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "This process has as its products NADP+, ADP, and sugar.",
+      "choices": {
+        "A": "Glycolysis",
+        "B": "Chemiosmosis",
+        "C": "Fermentation",
+        "D": "Calvin cycle"
+      },
+      "answer": "D",
+      "answer_text": "Calvin cycle",
+      "confidence": 0.13149435818195343,
+      "all_entailment_probs": {
+        "A": 0.067798912525177,
+        "B": 0.007465664763003588,
+        "C": 0.018760893493890762,
+        "D": 0.13149435818195343
+      },
+      "correct_answer": "D",
+      "prompt_used": "Read the question, look at the four answers (A, B, C, D), and choose the winner!\nHere\u2019s the question!: This process has as its products NADP+, ADP, and sugar.\nYour choices are right here: (A) Glycolysis\n(B) Chemiosmosis\n(C) Fermentation\n(D) Calvin cycle\n \nAnd what would you say?:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "A large island is devastated by a volcanic eruption. Most of the horses die except for the heaviest males and heaviest females of the group. They survive, reproduce, and perpetuate the population. Since weight is highly heritable and the distribution of weights approximates a binomial distribution, the offspring of the next generation would be expected to have",
+      "choices": {
+        "A": "a higher mean weight compared with their parents",
+        "B": "a lower mean weight compared with their parents",
+        "C": "the same mean weight as members of the original population",
+        "D": "a higher mean weight compared with members of the original population"
+      },
+      "answer": "D",
+      "answer_text": "a higher mean weight compared with members of the original population",
+      "confidence": 0.361171692609787,
+      "all_entailment_probs": {
+        "A": 0.32174262404441833,
+        "B": 0.017940178513526917,
+        "C": 0.27589139342308044,
+        "D": 0.361171692609787
+      },
+      "correct_answer": "D",
+      "prompt_used": "Choose the answer that makes the most sense.\nHere\u2019s the question!: A large island is devastated by a volcanic eruption. Most of the horses die except for the heaviest males and heaviest females of the group. They survive, reproduce, and perpetuate the population. Since weight is highly heritable and the distribution of weights approximates a binomial distribution, the offspring of the next generation would be expected to have\nYour choices are right here: (A) a higher mean weight compared with their parents\n(B) a lower mean weight compared with their parents\n(C) the same mean weight as members of the original population\n(D) a higher mean weight compared with members of the original population\n \nTell me the right answer!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Apoptosis, which is programmed cell death, is a necessary process in living organisms. Which of the following is NOT correct about apoptosis?",
+      "choices": {
+        "A": "It occurs randomly.",
+        "B": "A particular cell dies when it is no longer needed by the organism.",
+        "C": "A cell carries out apoptosis when too many mutations have accumulated.",
+        "D": "Plant cells carry out apoptosis as a defense measure in cells that have been infected by parasites."
+      },
+      "answer": "D",
+      "answer_text": "Plant cells carry out apoptosis as a defense measure in cells that have been infected by parasites.",
+      "confidence": 0.827452540397644,
+      "all_entailment_probs": {
+        "A": 0.02179829590022564,
+        "B": 0.1427469104528427,
+        "C": 0.15140177309513092,
+        "D": 0.827452540397644
+      },
+      "correct_answer": "A",
+      "prompt_used": "I give you a question and four choices (A, B, C, D). Choose the one you think is the winner!\nHere\u2019s a tricky one for you!: Apoptosis, which is programmed cell death, is a necessary process in living organisms. Which of the following is NOT correct about apoptosis?\nPick from these fun choices: (A) It occurs randomly.\n(B) A particular cell dies when it is no longer needed by the organism.\n(C) A cell carries out apoptosis when too many mutations have accumulated.\n(D) Plant cells carry out apoptosis as a defense measure in cells that have been infected by parasites.\n \nTell me your answer!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which of the following is a property that is shared by Zika fever\u201a West Nile fever\u201a and malaria?",
+      "choices": {
+        "A": "The diseases are caused by viruses.",
+        "B": "The diseases occur only in individuals who visit or live in tropical countries.",
+        "C": "The pathogens that cause the diseases have developed resistance to antibiotics.",
+        "D": "The pathogens that cause the diseases are primarily transmitted by the bite of an infected mosquito."
+      },
+      "answer": "A",
+      "answer_text": "The diseases are caused by viruses.",
+      "confidence": 0.9985363483428955,
+      "all_entailment_probs": {
+        "A": 0.9985363483428955,
+        "B": 0.925273597240448,
+        "C": 0.9833725094795227,
+        "D": 0.99445641040802
+      },
+      "correct_answer": "D",
+      "prompt_used": "Pick the most magical and correct one from (A, B, C, D) to finish the story!\nTime for a fun question!: Which of the following is a property that is shared by Zika fever\u201a West Nile fever\u201a and malaria?\nHere\u2019s your answers: (A) The diseases are caused by viruses.\n(B) The diseases occur only in individuals who visit or live in tropical countries.\n(C) The pathogens that cause the diseases have developed resistance to antibiotics.\n(D) The pathogens that cause the diseases are primarily transmitted by the bite of an infected mosquito.\n \nShout out your choice!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "During a study session about evolution, one of your fellow students remarks, \"The giraffe stretched its neck while reaching for higher leaves; its offspring inherited longer necks as a result.\" Which statement is most likely to be helpful in correcting this student's misconception?",
+      "choices": {
+        "A": "Characteristics acquired during an organism's life are generally not passed on through genes.",
+        "B": "Spontaneous mutations can result in the appearance of new traits.",
+        "C": "Only favorable adaptations have survival value.",
+        "D": "Disuse of an organ may lead to its eventual disappearance."
+      },
+      "answer": "D",
+      "answer_text": "Disuse of an organ may lead to its eventual disappearance.",
+      "confidence": 0.9930070638656616,
+      "all_entailment_probs": {
+        "A": 0.9802114963531494,
+        "B": 0.9768369793891907,
+        "C": 0.9661868214607239,
+        "D": 0.9930070638656616
+      },
+      "correct_answer": "A",
+      "prompt_used": "Read the question, look at the four answers (A, B, C, D), and choose the winner!\nHere\u2019s a tricky one for you!: During a study session about evolution, one of your fellow students remarks, \"The giraffe stretched its neck while reaching for higher leaves; its offspring inherited longer necks as a result.\" Which statement is most likely to be helpful in correcting this student's misconception?\nHere\u2019s your answers: (A) Characteristics acquired during an organism's life are generally not passed on through genes.\n(B) Spontaneous mutations can result in the appearance of new traits.\n(C) Only favorable adaptations have survival value.\n(D) Disuse of an organ may lead to its eventual disappearance.\n \nTell me whats true!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "In the process of generating ATP, hydrogen ions (H+, or protons) are transported across the inner mitochondrial membrane and the thylakoid membrane by a proton pump (an ATPase). You would expect to find similar proton pumps in the plasma membranes of",
+      "choices": {
+        "A": "bacteria",
+        "B": "mammalian muscle cells",
+        "C": "mammalian nerve cells",
+        "D": "plants and fungi"
+      },
+      "answer": "A",
+      "answer_text": "bacteria",
+      "confidence": 0.508005678653717,
+      "all_entailment_probs": {
+        "A": 0.508005678653717,
+        "B": 0.01190115138888359,
+        "C": 0.01847718469798565,
+        "D": 0.004900629632174969
+      },
+      "correct_answer": "A",
+      "prompt_used": "You\u2019ll see four choices (A, B, C, D). Choose the best one!\nTime for a fun question!: In the process of generating ATP, hydrogen ions (H+, or protons) are transported across the inner mitochondrial membrane and the thylakoid membrane by a proton pump (an ATPase). You would expect to find similar proton pumps in the plasma membranes of\nHere are four magical answers: (A) bacteria\n(B) mammalian muscle cells\n(C) mammalian nerve cells\n(D) plants and fungi\n \nShout out your choice!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "In vertebrate embryos, which of the following developmental processes most directly results in the formation of the three primary germ layers?",
+      "choices": {
+        "A": "Neurulation",
+        "B": "Blastula formation",
+        "C": "Cleavage",
+        "D": "Gastrulation"
+      },
+      "answer": "A",
+      "answer_text": "Neurulation",
+      "confidence": 0.749464750289917,
+      "all_entailment_probs": {
+        "A": 0.749464750289917,
+        "B": 0.039845529943704605,
+        "C": 0.02314365841448307,
+        "D": 0.20105835795402527
+      },
+      "correct_answer": "D",
+      "prompt_used": "Read the question, look at the four answers (A, B, C, D), and choose the winner!\nHere\u2019s a tricky one for you!: In vertebrate embryos, which of the following developmental processes most directly results in the formation of the three primary germ layers?\nHere are four magical answers: (A) Neurulation\n(B) Blastula formation\n(C) Cleavage\n(D) Gastrulation\n \nTell me your answer!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Females with Turner's syndrome have a high incidence of hemophilia, a recessive, X-linked trait. Based on this information, it can be inferred that females with this condition",
+      "choices": {
+        "A": "have an extra X chromosome",
+        "B": "have an extra Y chromosome",
+        "C": "lack an X chromosome",
+        "D": "have red blood cells that clump"
+      },
+      "answer": "D",
+      "answer_text": "have red blood cells that clump",
+      "confidence": 0.869655191898346,
+      "all_entailment_probs": {
+        "A": 0.657607913017273,
+        "B": 0.005976166110485792,
+        "C": 0.019432656466960907,
+        "D": 0.869655191898346
+      },
+      "correct_answer": "C",
+      "prompt_used": "You\u2019ll see four choices (A, B, C, D). Choose the best one!\nReady? Here\u2019s the puzzle!: Females with Turner's syndrome have a high incidence of hemophilia, a recessive, X-linked trait. Based on this information, it can be inferred that females with this condition\nYour choices are right here: (A) have an extra X chromosome\n(B) have an extra Y chromosome\n(C) lack an X chromosome\n(D) have red blood cells that clump\n \nTell me the right answer!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Chemical substances released by organisms that elicit a physiological or behavioral response in other members of the same species are known as",
+      "choices": {
+        "A": "auxins",
+        "B": "hormones",
+        "C": "pheromones",
+        "D": "enzymes"
+      },
+      "answer": "D",
+      "answer_text": "enzymes",
+      "confidence": 0.17598700523376465,
+      "all_entailment_probs": {
+        "A": 0.09285897761583328,
+        "B": 0.01411884929984808,
+        "C": 0.02330901473760605,
+        "D": 0.17598700523376465
+      },
+      "correct_answer": "C",
+      "prompt_used": "You\u2019ll see four choices (A, B, C, D). Choose the best one!\nTime for a fun question!: Chemical substances released by organisms that elicit a physiological or behavioral response in other members of the same species are known as\nOne of these is the winner!: (A) auxins\n(B) hormones\n(C) pheromones\n(D) enzymes\n \nWhat\u2019s your pick?:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which statement about natural selection is most correct?",
+      "choices": {
+        "A": "Adaptations beneficial in one habitat should generally be beneficial in all other habitats as well.",
+        "B": "Different species that occupy the same habitat will adapt to that habitat by undergoing the same genetic changes.",
+        "C": "Adaptations beneficial at one time should generally be beneficial during all other times as well.",
+        "D": "Well-adapted individuals leave more offspring, and thus contribute more to the next generation's gene pool, than do poorly adapted individuals."
+      },
+      "answer": "D",
+      "answer_text": "Well-adapted individuals leave more offspring, and thus contribute more to the next generation's gene pool, than do poorly adapted individuals.",
+      "confidence": 0.9886589646339417,
+      "all_entailment_probs": {
+        "A": 0.9070321321487427,
+        "B": 0.17236220836639404,
+        "C": 0.5679186582565308,
+        "D": 0.9886589646339417
+      },
+      "correct_answer": "D",
+      "prompt_used": "Look at the question and the four answers (A, B, C, D). Choose right\nGuess what? Here\u2019s your question!: Which statement about natural selection is most correct?\nYour options: (A) Adaptations beneficial in one habitat should generally be beneficial in all other habitats as well.\n(B) Different species that occupy the same habitat will adapt to that habitat by undergoing the same genetic changes.\n(C) Adaptations beneficial at one time should generally be beneficial during all other times as well.\n(D) Well-adapted individuals leave more offspring, and thus contribute more to the next generation's gene pool, than do poorly adapted individuals.\n \nTell me your answer!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which of the following statements about meiosis is correct?",
+      "choices": {
+        "A": "The daughter cells are genetically identical to the parent cells.",
+        "B": "Homologues pair during prophase II.",
+        "C": "DNA replication occurs before meiosis I and meiosis II.",
+        "D": "The number of chromosomes is reduced."
+      },
+      "answer": "C",
+      "answer_text": "DNA replication occurs before meiosis I and meiosis II.",
+      "confidence": 0.9888688325881958,
+      "all_entailment_probs": {
+        "A": 0.9788261651992798,
+        "B": 0.9768572449684143,
+        "C": 0.9888688325881958,
+        "D": 0.9573613405227661
+      },
+      "correct_answer": "D",
+      "prompt_used": "Pick the most magical and correct one from (A, B, C, D) to finish the story!\nLet\u2019s play \u2014 here\u2019s a question!: Which of the following statements about meiosis is correct?\nHere\u2019s your answers: (A) The daughter cells are genetically identical to the parent cells.\n(B) Homologues pair during prophase II.\n(C) DNA replication occurs before meiosis I and meiosis II.\n(D) The number of chromosomes is reduced.\n \nGive me your guess!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which of the following is a biotic factor that could affect the growth rate of a population?",
+      "choices": {
+        "A": "Volcanic eruption",
+        "B": "Glacier melting",
+        "C": "Destruction of the ozone layer",
+        "D": "Sudden reduction in the animal food resource"
+      },
+      "answer": "A",
+      "answer_text": "Volcanic eruption",
+      "confidence": 0.6209378838539124,
+      "all_entailment_probs": {
+        "A": 0.6209378838539124,
+        "B": 0.03393980488181114,
+        "C": 0.03647375851869583,
+        "D": 0.4152621626853943
+      },
+      "correct_answer": "C",
+      "prompt_used": "Point to the answer you think is correct.\nOkay, quiz time!: Which of the following is a biotic factor that could affect the growth rate of a population?\nPick from these fun choices: (A) Volcanic eruption\n(B) Glacier melting\n(C) Destruction of the ozone layer\n(D) Sudden reduction in the animal food resource\n \nWhat\u2019s your pick?:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Oligomycin is an antibiotic that blocks proton channels in the cristae of mitochondria by binding to ATP synthase. Which of the following would be the first expected response after the application of oligomycin to cells?",
+      "choices": {
+        "A": "Water production would increase.",
+        "B": "H+ would increase inside the intermembrane space (the compartment between inner and outer membranes).",
+        "C": "H+ would increase in the matrix (inside mitochondrial inner membrane).",
+        "D": "H+ would increase outside mitochondria."
+      },
+      "answer": "A",
+      "answer_text": "Water production would increase.",
+      "confidence": 0.9935969114303589,
+      "all_entailment_probs": {
+        "A": 0.9935969114303589,
+        "B": 0.9697890281677246,
+        "C": 0.9867711663246155,
+        "D": 0.9819296002388
+      },
+      "correct_answer": "B",
+      "prompt_used": "Find the right answer from the four choices.\nLet\u2019s play \u2014 here\u2019s a question!: Oligomycin is an antibiotic that blocks proton channels in the cristae of mitochondria by binding to ATP synthase. Which of the following would be the first expected response after the application of oligomycin to cells?\nHere\u2019s your answers: (A) Water production would increase.\n(B) H+ would increase inside the intermembrane space (the compartment between inner and outer membranes).\n(C) H+ would increase in the matrix (inside mitochondrial inner membrane).\n(D) H+ would increase outside mitochondria.\n \nWhich one do you think it is?:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "To ensure that hatchling sea turtles orient to the sea rather than inland, which of the following is the most environmentally sound practice around sea turtle nest sites?",
+      "choices": {
+        "A": "Digging troughs in the sand from the nests to the sea",
+        "B": "Minimizing artificial lighting in the area",
+        "C": "Scattering preferred turtle foods between the nests and the sea",
+        "D": "Building low fences on the sand dunes"
+      },
+      "answer": "A",
+      "answer_text": "Digging troughs in the sand from the nests to the sea",
+      "confidence": 0.13855452835559845,
+      "all_entailment_probs": {
+        "A": 0.13855452835559845,
+        "B": 0.010228323750197887,
+        "C": 0.04072219505906105,
+        "D": 0.056026212871074677
+      },
+      "correct_answer": "B",
+      "prompt_used": "Pick the most magical and correct one from (A, B, C, D) to finish the story!\nGuess what? Here\u2019s your question!: To ensure that hatchling sea turtles orient to the sea rather than inland, which of the following is the most environmentally sound practice around sea turtle nest sites?\nYour options: (A) Digging troughs in the sand from the nests to the sea\n(B) Minimizing artificial lighting in the area\n(C) Scattering preferred turtle foods between the nests and the sea\n(D) Building low fences on the sand dunes\n \nTell me whats true!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which of the following statements best describes what a Barr body is and its significance?",
+      "choices": {
+        "A": "It is an inactivated Y chromosome and results in a man being sterile.",
+        "B": "It is an inactivated Y chromosome, and the person who has it appears female.",
+        "C": "It is an inactivated X chromosome and results in females with half their cells having one X inactivated and the other half of their cells having the other X inactivated.",
+        "D": "It is an inactivated X chromosome and results in females who are sterile."
+      },
+      "answer": "A",
+      "answer_text": "It is an inactivated Y chromosome and results in a man being sterile.",
+      "confidence": 0.13920234143733978,
+      "all_entailment_probs": {
+        "A": 0.13920234143733978,
+        "B": 0.02674252912402153,
+        "C": 0.135421484708786,
+        "D": 0.08964367210865021
+      },
+      "correct_answer": "C",
+      "prompt_used": "Pick the most magical and correct one from (A, B, C, D) to finish the story!\nLet\u2019s play \u2014 here\u2019s a question!: Which of the following statements best describes what a Barr body is and its significance?\nYour options: (A) It is an inactivated Y chromosome and results in a man being sterile.\n(B) It is an inactivated Y chromosome, and the person who has it appears female.\n(C) It is an inactivated X chromosome and results in females with half their cells having one X inactivated and the other half of their cells having the other X inactivated.\n(D) It is an inactivated X chromosome and results in females who are sterile.\n \nTell me what you think!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "A baby duck runs for cover when a large object is tossed over its head. After this object is repeatedly passed overhead, the duck learns there is no danger and stops running for cover when the same object appears again. This is an example of",
+      "choices": {
+        "A": "imprinting.",
+        "B": "fixed-action pattern.",
+        "C": "agonistic behavior.",
+        "D": "habituation."
+      },
+      "answer": "D",
+      "answer_text": "habituation.",
+      "confidence": 0.08509413152933121,
+      "all_entailment_probs": {
+        "A": 0.0034445798955857754,
+        "B": 0.00424496503546834,
+        "C": 0.0033142906613647938,
+        "D": 0.08509413152933121
+      },
+      "correct_answer": "D",
+      "prompt_used": "You\u2019ll see four choices (A, B, C, D). Choose the best one!\nTime for a fun question!: A baby duck runs for cover when a large object is tossed over its head. After this object is repeatedly passed overhead, the duck learns there is no danger and stops running for cover when the same object appears again. This is an example of\nPick from these fun choices: (A) imprinting.\n(B) fixed-action pattern.\n(C) agonistic behavior.\n(D) habituation.\n \nGive me your guess:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "The higher the proportion of loci that are \"fixed\" in a population, the lower is that population's",
+      "choices": {
+        "A": "nucleotide variability.",
+        "B": "genetic polyploidy.",
+        "C": "average heterozygosity.",
+        "D": "A and C only"
+      },
+      "answer": "A",
+      "answer_text": "nucleotide variability.",
+      "confidence": 0.4955575466156006,
+      "all_entailment_probs": {
+        "A": 0.4955575466156006,
+        "B": 0.0058479770086705685,
+        "C": 0.16080297529697418,
+        "D": 0.004991735797375441
+      },
+      "correct_answer": "D",
+      "prompt_used": "Look at the question and the four answers (A, B, C, D). Tell the right one!\nHere\u2019s a tricky one for you!: The higher the proportion of loci that are \"fixed\" in a population, the lower is that population's\nOne of these is the winner!: (A) nucleotide variability.\n(B) genetic polyploidy.\n(C) average heterozygosity.\n(D) A and C only\n \nGive me your guess!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "When a retrovirus inserted its DNA into the middle of a bacterial gene, it altered the normal reading frame by one base pair. This type of mutation is called",
+      "choices": {
+        "A": "duplication",
+        "B": "translocation",
+        "C": "inversion",
+        "D": "frameshift mutation"
+      },
+      "answer": "D",
+      "answer_text": "frameshift mutation",
+      "confidence": 0.041948556900024414,
+      "all_entailment_probs": {
+        "A": 0.004343871958553791,
+        "B": 0.002239974681288004,
+        "C": 0.004143626894801855,
+        "D": 0.041948556900024414
+      },
+      "correct_answer": "D",
+      "prompt_used": "Find the right answer from the four choices.\nHere\u2019s the question!: When a retrovirus inserted its DNA into the middle of a bacterial gene, it altered the normal reading frame by one base pair. This type of mutation is called\nPick one of these: (A) duplication\n(B) translocation\n(C) inversion\n(D) frameshift mutation\n \nShout out your choice!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "The primary site of glucose reabsorption is the",
+      "choices": {
+        "A": "glomerulus",
+        "B": "proximal convoluted tubule",
+        "C": "loop of Henle",
+        "D": "collecting duct"
+      },
+      "answer": "A",
+      "answer_text": "glomerulus",
+      "confidence": 0.9891430735588074,
+      "all_entailment_probs": {
+        "A": 0.9891430735588074,
+        "B": 0.47697582840919495,
+        "C": 0.94248366355896,
+        "D": 0.9887963533401489
+      },
+      "correct_answer": "B",
+      "prompt_used": "Pick the most magical and correct one from (A, B, C, D) to finish the story!\nReady? Here\u2019s the puzzle!: The primary site of glucose reabsorption is the\nHere\u2019s your answers: (A) glomerulus\n(B) proximal convoluted tubule\n(C) loop of Henle\n(D) collecting duct\n \nAnd what would you say?:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which of the following statements is not correct about lipids?",
+      "choices": {
+        "A": "Lipids consist of fatty acids and glycerol.",
+        "B": "Steroids are examples of lipids.",
+        "C": "The molecules of a saturated fatty acid are packed so close together that they form a solid at room temperature.",
+        "D": "The head of a phospholipid is hydrophobic, and the tails are hydrophilic."
+      },
+      "answer": "B",
+      "answer_text": "Steroids are examples of lipids.",
+      "confidence": 0.9644463658332825,
+      "all_entailment_probs": {
+        "A": 0.9319153428077698,
+        "B": 0.9644463658332825,
+        "C": 0.12345331907272339,
+        "D": 0.8849671483039856
+      },
+      "correct_answer": "D",
+      "prompt_used": "Find the right answer from the four choices.\nReady? Here\u2019s the puzzle!: Which of the following statements is not correct about lipids?\nHere are four magical answers: (A) Lipids consist of fatty acids and glycerol.\n(B) Steroids are examples of lipids.\n(C) The molecules of a saturated fatty acid are packed so close together that they form a solid at room temperature.\n(D) The head of a phospholipid is hydrophobic, and the tails are hydrophilic.\n \nGive me your guess:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "The Krebs cycle in humans occurs in the",
+      "choices": {
+        "A": "mitochondrial matrix",
+        "B": "inner mitochondrial membrane",
+        "C": "outer mitochondrial membrane",
+        "D": "intermembrane space"
+      },
+      "answer": "A",
+      "answer_text": "mitochondrial matrix",
+      "confidence": 0.9423786401748657,
+      "all_entailment_probs": {
+        "A": 0.9423786401748657,
+        "B": 0.02943778783082962,
+        "C": 0.008092416450381279,
+        "D": 0.0847548246383667
+      },
+      "correct_answer": "A",
+      "prompt_used": "Look at the question and the four answers (A, B, C, D). Choose right\nI have a question for you: The Krebs cycle in humans occurs in the\nHere are four magical answers: (A) mitochondrial matrix\n(B) inner mitochondrial membrane\n(C) outer mitochondrial membrane\n(D) intermembrane space\n \nShout out your choice!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which of these evolutionary agents is most consistent at causing populations to become better suited to their environments over the course of generations?",
+      "choices": {
+        "A": "Mutation",
+        "B": "Non-random mating",
+        "C": "Gene flow",
+        "D": "Natural selection"
+      },
+      "answer": "D",
+      "answer_text": "Natural selection",
+      "confidence": 0.012616155669093132,
+      "all_entailment_probs": {
+        "A": 0.003234484465792775,
+        "B": 0.005641469266265631,
+        "C": 0.0026073360349982977,
+        "D": 0.012616155669093132
+      },
+      "correct_answer": "D",
+      "prompt_used": "You\u2019ll see four choices (A, B, C, D). Choose the best one!\nHere\u2019s a tricky one for you!: Which of these evolutionary agents is most consistent at causing populations to become better suited to their environments over the course of generations?\nYour options: (A) Mutation\n(B) Non-random mating\n(C) Gene flow\n(D) Natural selection\n \nAnd what would you say?:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "In modern terminology, diversity is understood to be a result of genetic variation. Sources of variation for evolution include all of the following except",
+      "choices": {
+        "A": "mistakes in translation of structural genes.",
+        "B": "mistakes in DNA replication.",
+        "C": "translocations and mistakes in meiosis.",
+        "D": "recombination at fertilization."
+      },
+      "answer": "D",
+      "answer_text": "recombination at fertilization.",
+      "confidence": 0.8755828142166138,
+      "all_entailment_probs": {
+        "A": 0.8711358904838562,
+        "B": 0.059134431183338165,
+        "C": 0.8328818678855896,
+        "D": 0.8755828142166138
+      },
+      "correct_answer": "A",
+      "prompt_used": "Point to the answer you think is correct.\nHere\u2019s your brain teaser!: In modern terminology, diversity is understood to be a result of genetic variation. Sources of variation for evolution include all of the following except\nHere\u2019s your answers: (A) mistakes in translation of structural genes.\n(B) mistakes in DNA replication.\n(C) translocations and mistakes in meiosis.\n(D) recombination at fertilization.\n \nWhat\u2019s your pick?:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "A researcher is experimenting with nerve transmission using neurons from a giant squid. At the beginning of the experiment, the axon is at rest and has a threshold measured at \u201370 mV at 37oC. The axon receives one stimulus that triggers one action potential in the axon. Subsequent stimuli are much stronger. Which of the following statements explains what happens when several strong stimuli are experienced by the axon?",
+      "choices": {
+        "A": "The axon becomes hyperpolarized to \u201390 mV.",
+        "B": "The axon becomes hyperpolarized to \u201350 mV.",
+        "C": "The strength of the action potential becomes greater.",
+        "D": "The frequency of the action potential increases."
+      },
+      "answer": "A",
+      "answer_text": "The axon becomes hyperpolarized to \u201390 mV.",
+      "confidence": 0.9708101153373718,
+      "all_entailment_probs": {
+        "A": 0.9708101153373718,
+        "B": 0.1409829556941986,
+        "C": 0.9620736837387085,
+        "D": 0.7316896915435791
+      },
+      "correct_answer": "D",
+      "prompt_used": "I give you a question and four choices (A, B, C, D). Choose the one you think is the winner!\nTime for a fun question!: A researcher is experimenting with nerve transmission using neurons from a giant squid. At the beginning of the experiment, the axon is at rest and has a threshold measured at \u201370 mV at 37oC. The axon receives one stimulus that triggers one action potential in the axon. Subsequent stimuli are much stronger. Which of the following statements explains what happens when several strong stimuli are experienced by the axon?\nHere\u2019s your list of answers: (A) The axon becomes hyperpolarized to \u201390 mV.\n(B) The axon becomes hyperpolarized to \u201350 mV.\n(C) The strength of the action potential becomes greater.\n(D) The frequency of the action potential increases.\n \nTell me whats true!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Hemoglobin is a molecule that binds to both O2 and CO2. There is an allosteric relationship between the concentrations of O2 and CO2. Hemoglobin's affinity for O2",
+      "choices": {
+        "A": "decreases as blood pH decreases",
+        "B": "increases as H+ concentration increases",
+        "C": "increases in exercising muscle tissue",
+        "D": "decreases as CO2 concentration decreases"
+      },
+      "answer": "A",
+      "answer_text": "decreases as blood pH decreases",
+      "confidence": 0.996553897857666,
+      "all_entailment_probs": {
+        "A": 0.996553897857666,
+        "B": 0.9104430079460144,
+        "C": 0.9456965327262878,
+        "D": 0.9941020607948303
+      },
+      "correct_answer": "A",
+      "prompt_used": "Read the question, look at the four answers (A, B, C, D), and choose the winner!\nHeyyy, here\u2019s something to figure out!: Hemoglobin is a molecule that binds to both O2 and CO2. There is an allosteric relationship between the concentrations of O2 and CO2. Hemoglobin's affinity for O2\nYour options: (A) decreases as blood pH decreases\n(B) increases as H+ concentration increases\n(C) increases in exercising muscle tissue\n(D) decreases as CO2 concentration decreases\n \nGive me your guess!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "DDT was once considered a \"silver bullet\" that would permanently eradicate insect pests. Today, instead, DDT is largely useless against many insects. Which of these would have been required for this pest eradication effort to be successful in the long run?",
+      "choices": {
+        "A": "Larger doses of DDT should have been applied.",
+        "B": "All habitats should have received applications of DDT at about the same time.",
+        "C": "The frequency of DDT application should have been higher.",
+        "D": "None of the individual insects should have possessed genomes that made them resistant to DDT."
+      },
+      "answer": "A",
+      "answer_text": "Larger doses of DDT should have been applied.",
+      "confidence": 0.9696378707885742,
+      "all_entailment_probs": {
+        "A": 0.9696378707885742,
+        "B": 0.05501043424010277,
+        "C": 0.17767857015132904,
+        "D": 0.7793560028076172
+      },
+      "correct_answer": "D",
+      "prompt_used": "You\u2019ll see four choices (A, B, C, D). Choose the best one!\nOkay, quiz time!: DDT was once considered a \"silver bullet\" that would permanently eradicate insect pests. Today, instead, DDT is largely useless against many insects. Which of these would have been required for this pest eradication effort to be successful in the long run?\nYour options: (A) Larger doses of DDT should have been applied.\n(B) All habitats should have received applications of DDT at about the same time.\n(C) The frequency of DDT application should have been higher.\n(D) None of the individual insects should have possessed genomes that made them resistant to DDT.\n \nTell me your answer!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "All viruses contain at least these two principal components:",
+      "choices": {
+        "A": "DNA and proteins",
+        "B": "nucleic acid and a capsid",
+        "C": "DNA and cell membrane",
+        "D": "RNA and cell wall"
+      },
+      "answer": "A",
+      "answer_text": "DNA and proteins",
+      "confidence": 0.020330877974629402,
+      "all_entailment_probs": {
+        "A": 0.020330877974629402,
+        "B": 0.013311856426298618,
+        "C": 0.005856872536242008,
+        "D": 0.018640385940670967
+      },
+      "correct_answer": "B",
+      "prompt_used": "Choose the answer that makes the most sense.\nLet\u2019s play \u2014 here\u2019s a question!: All viruses contain at least these two principal components:\nYou can pick one of these: (A) DNA and proteins\n(B) nucleic acid and a capsid\n(C) DNA and cell membrane\n(D) RNA and cell wall\n \nAnd what would you say?:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Basepair sequence that signals the start site for gene transcription.",
+      "choices": {
+        "A": "Enhancer",
+        "B": "Repressor",
+        "C": "Operator",
+        "D": "Promoter"
+      },
+      "answer": "A",
+      "answer_text": "Enhancer",
+      "confidence": 0.9734212160110474,
+      "all_entailment_probs": {
+        "A": 0.9734212160110474,
+        "B": 0.05266059190034866,
+        "C": 0.09478507190942764,
+        "D": 0.9728271961212158
+      },
+      "correct_answer": "D",
+      "prompt_used": "Look at the question and the four answers (A, B, C, D). Tell the right one!\nI have a question for you: Basepair sequence that signals the start site for gene transcription.\nHere\u2019s your list of answers: (A) Enhancer\n(B) Repressor\n(C) Operator\n(D) Promoter\n \nTell me whats true!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Microtubules are protein filaments assembled from tubulin protein subunits. The chemical colchicine prevents the assembly of microtubules by binding to tubulin protein subunits. Which of the following cellular processes would be most impaired by the application of colchicine?",
+      "choices": {
+        "A": "the alignment and separation of chromosomes during mitosis",
+        "B": "the coordination of ribosomes and mRNA during protein synthesis",
+        "C": "the movement of substances across the plasma membrane",
+        "D": "the accumulation of protons inside the thylakoids of chloroplasts during chemiosmosis"
+      },
+      "answer": "D",
+      "answer_text": "the accumulation of protons inside the thylakoids of chloroplasts during chemiosmosis",
+      "confidence": 0.9607167840003967,
+      "all_entailment_probs": {
+        "A": 0.8186308741569519,
+        "B": 0.6134066581726074,
+        "C": 0.6901780366897583,
+        "D": 0.9607167840003967
+      },
+      "correct_answer": "A",
+      "prompt_used": "Pick the most magical and correct one from (A, B, C, D) to finish the story!\nHere\u2019s the question!: Microtubules are protein filaments assembled from tubulin protein subunits. The chemical colchicine prevents the assembly of microtubules by binding to tubulin protein subunits. Which of the following cellular processes would be most impaired by the application of colchicine?\nHere\u2019s your list of answers: (A) the alignment and separation of chromosomes during mitosis\n(B) the coordination of ribosomes and mRNA during protein synthesis\n(C) the movement of substances across the plasma membrane\n(D) the accumulation of protons inside the thylakoids of chloroplasts during chemiosmosis\n \nTell me whats true!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "High levels of estrogen from maturing follicles inhibit the release of gonadotropin releasing hormone (GnRH). Which of the following endocrine glands produces GnRH?",
+      "choices": {
+        "A": "Anterior pituitary",
+        "B": "Posterior pituitary",
+        "C": "Hypothalamus",
+        "D": "Pineal gland"
+      },
+      "answer": "A",
+      "answer_text": "Anterior pituitary",
+      "confidence": 0.9875226616859436,
+      "all_entailment_probs": {
+        "A": 0.9875226616859436,
+        "B": 0.09228455275297165,
+        "C": 0.942689061164856,
+        "D": 0.984408438205719
+      },
+      "correct_answer": "C",
+      "prompt_used": "Look at the question and the four answers (A, B, C, D). Tell the right one!\nI have a question for you: High levels of estrogen from maturing follicles inhibit the release of gonadotropin releasing hormone (GnRH). Which of the following endocrine glands produces GnRH?\nYou can pick one of these: (A) Anterior pituitary\n(B) Posterior pituitary\n(C) Hypothalamus\n(D) Pineal gland\n \nAnd what would you say?:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Imagine an organism whose 2n = 96. Meiosis would leave this organism\u2019s cells with how many chromosomes?",
+      "choices": {
+        "A": "192",
+        "B": "96",
+        "C": "48",
+        "D": "24"
+      },
+      "answer": "B",
+      "answer_text": "96",
+      "confidence": 0.020698949694633484,
+      "all_entailment_probs": {
+        "A": 0.007376739289611578,
+        "B": 0.020698949694633484,
+        "C": 0.00557166151702404,
+        "D": 0.011356959119439125
+      },
+      "correct_answer": "C",
+      "prompt_used": "Choose the answer that makes the most sense.\nHeyyy, here\u2019s something to figure out!: Imagine an organism whose 2n = 96. Meiosis would leave this organism\u2019s cells with how many chromosomes?\nYou can pick one of these: (A) 192\n(B) 96\n(C) 48\n(D) 24\n \nGive me your guess:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which of the following statements is correct?",
+      "choices": {
+        "A": "Water flows from hypertonic to hypotonic.",
+        "B": "Germinating seeds use less oxygen than do nongerminating seeds.",
+        "C": "The rate of transpiration decreases with an increase in air movement.",
+        "D": "Smaller DNA fragments migrate more rapidly than do larger DNA fragments on gel electrophoresis."
+      },
+      "answer": "D",
+      "answer_text": "Smaller DNA fragments migrate more rapidly than do larger DNA fragments on gel electrophoresis.",
+      "confidence": 0.9790546894073486,
+      "all_entailment_probs": {
+        "A": 0.8562813997268677,
+        "B": 0.5172225832939148,
+        "C": 0.20240236818790436,
+        "D": 0.9790546894073486
+      },
+      "correct_answer": "D",
+      "prompt_used": "Point to the answer you think is correct.\nHere\u2019s a tricky one for you!: Which of the following statements is correct?\nYour options: (A) Water flows from hypertonic to hypotonic.\n(B) Germinating seeds use less oxygen than do nongerminating seeds.\n(C) The rate of transpiration decreases with an increase in air movement.\n(D) Smaller DNA fragments migrate more rapidly than do larger DNA fragments on gel electrophoresis.\n \nWhich one do you think it is?:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "When imbalances occur in the sex ratio of sexual species that have two sexes (i.e., other than a 50:50 ratio), the members of the minority sex often receive a greater proportion of care and resources from parents than do the offspring of the majority sex. This is most clearly an example of",
+      "choices": {
+        "A": "sexual selection.",
+        "B": "disruptive selection.",
+        "C": "balancing selection.",
+        "D": "frequency-dependent selection."
+      },
+      "answer": "D",
+      "answer_text": "frequency-dependent selection.",
+      "confidence": 0.13730107247829437,
+      "all_entailment_probs": {
+        "A": 0.0062170857563614845,
+        "B": 0.004031457472592592,
+        "C": 0.0025621503591537476,
+        "D": 0.13730107247829437
+      },
+      "correct_answer": "D",
+      "prompt_used": "You\u2019ve got four answers (A, B, C, D). Pick the best one!\nHere\u2019s a tricky one for you!: When imbalances occur in the sex ratio of sexual species that have two sexes (i.e., other than a 50:50 ratio), the members of the minority sex often receive a greater proportion of care and resources from parents than do the offspring of the majority sex. This is most clearly an example of\nHere\u2019s your list of answers: (A) sexual selection.\n(B) disruptive selection.\n(C) balancing selection.\n(D) frequency-dependent selection.\n \nGive me your guess:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which of the following is not an observation or inference on which natural selection is based?",
+      "choices": {
+        "A": "There is heritable variation among individuals.",
+        "B": "Poorly adapted individuals never produce offspring.",
+        "C": "Species produce more offspring than the environment can support.",
+        "D": "Individuals whose characteristics are best suited to the environment generally leave more offspring than those whose characteristics are less suited."
+      },
+      "answer": "D",
+      "answer_text": "Individuals whose characteristics are best suited to the environment generally leave more offspring than those whose characteristics are less suited.",
+      "confidence": 0.9956522583961487,
+      "all_entailment_probs": {
+        "A": 0.9934141039848328,
+        "B": 0.976214587688446,
+        "C": 0.9852288365364075,
+        "D": 0.9956522583961487
+      },
+      "correct_answer": "B",
+      "prompt_used": "You\u2019ve got four answers (A, B, C, D). Pick the best one!\nHere\u2019s your brain teaser!: Which of the following is not an observation or inference on which natural selection is based?\nHere\u2019s your list of answers: (A) There is heritable variation among individuals.\n(B) Poorly adapted individuals never produce offspring.\n(C) Species produce more offspring than the environment can support.\n(D) Individuals whose characteristics are best suited to the environment generally leave more offspring than those whose characteristics are less suited.\n \nTell me the right answer!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which of the following statements about trypsin is NOT true?",
+      "choices": {
+        "A": "It is an organic compound made of proteins.",
+        "B": "It is a catalyst that alters the rate of a reaction.",
+        "C": "It is operative over a wide pH range.",
+        "D": "The rate of catalysis is affected by the concentration of substrate."
+      },
+      "answer": "D",
+      "answer_text": "The rate of catalysis is affected by the concentration of substrate.",
+      "confidence": 0.8701165318489075,
+      "all_entailment_probs": {
+        "A": 0.09580870717763901,
+        "B": 0.10125119984149933,
+        "C": 0.27905696630477905,
+        "D": 0.8701165318489075
+      },
+      "correct_answer": "C",
+      "prompt_used": "You\u2019ve got four answers (A, B, C, D). Pick the best one!\nOkay, quiz time!: Which of the following statements about trypsin is NOT true?\nOne of these is the winner!: (A) It is an organic compound made of proteins.\n(B) It is a catalyst that alters the rate of a reaction.\n(C) It is operative over a wide pH range.\n(D) The rate of catalysis is affected by the concentration of substrate.\n \nTell me whats true!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "All of the following are examples of connective tissue EXCEPT",
+      "choices": {
+        "A": "ligaments",
+        "B": "muscle",
+        "C": "blood",
+        "D": "cartilage"
+      },
+      "answer": "D",
+      "answer_text": "cartilage",
+      "confidence": 0.9588627815246582,
+      "all_entailment_probs": {
+        "A": 0.44352075457572937,
+        "B": 0.013453129678964615,
+        "C": 0.0158405639231205,
+        "D": 0.9588627815246582
+      },
+      "correct_answer": "B",
+      "prompt_used": "You\u2019ve got four answers (A, B, C, D). Pick the best one!\nI have a question for you: All of the following are examples of connective tissue EXCEPT\nHere\u2019s your list of answers: (A) ligaments\n(B) muscle\n(C) blood\n(D) cartilage\n \nWhich one do you think it is?:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which of the following statements about lipids is correct?",
+      "choices": {
+        "A": "Unsaturated fatty acids are linked to heart disease.",
+        "B": "Lipids make up most cell surface receptors.",
+        "C": "Phospholipids are water soluble.",
+        "D": "Steroids are lipids that consist of glycerol and fatty acids."
+      },
+      "answer": "D",
+      "answer_text": "Steroids are lipids that consist of glycerol and fatty acids.",
+      "confidence": 0.9960017800331116,
+      "all_entailment_probs": {
+        "A": 0.9923903346061707,
+        "B": 0.9299920201301575,
+        "C": 0.991390585899353,
+        "D": 0.9960017800331116
+      },
+      "correct_answer": "C",
+      "prompt_used": "Pick the most magical and correct one from (A, B, C, D) to finish the story!\nHeyyy, here\u2019s something to figure out!: Which of the following statements about lipids is correct?\nOne of these is the winner!: (A) Unsaturated fatty acids are linked to heart disease.\n(B) Lipids make up most cell surface receptors.\n(C) Phospholipids are water soluble.\n(D) Steroids are lipids that consist of glycerol and fatty acids.\n \nGive me your guess!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "A scientist carries out a cross between two guinea pigs, both of which have black coats. Black hair coat is dominant over white hair coat. Three quarters of the offspring have black coats, and one quarter have white coats. The genotypes of the parents were most likely",
+      "choices": {
+        "A": "bb \u00d7 bb",
+        "B": "Bb \u00d7 Bb",
+        "C": "Bb \u00d7 bb",
+        "D": "BB \u00d7 Bb"
+      },
+      "answer": "A",
+      "answer_text": "bb \u00d7 bb",
+      "confidence": 0.9904899597167969,
+      "all_entailment_probs": {
+        "A": 0.9904899597167969,
+        "B": 0.7748430371284485,
+        "C": 0.9311672449111938,
+        "D": 0.8012813329696655
+      },
+      "correct_answer": "B",
+      "prompt_used": "You\u2019ve got four answers (A, B, C, D). Pick the best one!\nHeyyy, here\u2019s something to figure out!: A scientist carries out a cross between two guinea pigs, both of which have black coats. Black hair coat is dominant over white hair coat. Three quarters of the offspring have black coats, and one quarter have white coats. The genotypes of the parents were most likely\nOne of these is the winner!: (A) bb \u00d7 bb\n(B) Bb \u00d7 Bb\n(C) Bb \u00d7 bb\n(D) BB \u00d7 Bb\n \nTell me the right answer!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "The Darwinian fitness of an individual is measured most directly by",
+      "choices": {
+        "A": "the number of its offspring that survive to reproduce.",
+        "B": "the number of \"good genes\" it possesses.",
+        "C": "the number of mates it attracts.",
+        "D": "its physical strength."
+      },
+      "answer": "A",
+      "answer_text": "the number of its offspring that survive to reproduce.",
+      "confidence": 0.12274967133998871,
+      "all_entailment_probs": {
+        "A": 0.12274967133998871,
+        "B": 0.04087502136826515,
+        "C": 0.010477323085069656,
+        "D": 0.03572622686624527
+      },
+      "correct_answer": "A",
+      "prompt_used": "Find the right answer from the four choices.\nHere\u2019s the question!: The Darwinian fitness of an individual is measured most directly by\nHere are your four picks!: (A) the number of its offspring that survive to reproduce.\n(B) the number of \"good genes\" it possesses.\n(C) the number of mates it attracts.\n(D) its physical strength.\n \nAnd what would you say?:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Fossil evidence indicates that horses have gradually increased in size over geologic time. Which of the following terms best describes this?",
+      "choices": {
+        "A": "artificial selection",
+        "B": "directional selection",
+        "C": "stabilizing selection",
+        "D": "disruptive selection"
+      },
+      "answer": "D",
+      "answer_text": "disruptive selection",
+      "confidence": 0.14188256859779358,
+      "all_entailment_probs": {
+        "A": 0.13000932335853577,
+        "B": 0.011008352972567081,
+        "C": 0.024850808084011078,
+        "D": 0.14188256859779358
+      },
+      "correct_answer": "B",
+      "prompt_used": "Point to the answer you think is correct.\nHere\u2019s your brain teaser!: Fossil evidence indicates that horses have gradually increased in size over geologic time. Which of the following terms best describes this?\nPick one of these: (A) artificial selection\n(B) directional selection\n(C) stabilizing selection\n(D) disruptive selection\n \nTell me what you think!:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Viruses are considered an exception to the cell theory because they",
+      "choices": {
+        "A": "are not independent organisms",
+        "B": "have only a few genes",
+        "C": "move about via their tails",
+        "D": "have evolved from ancestral protists"
+      },
+      "answer": "D",
+      "answer_text": "have evolved from ancestral protists",
+      "confidence": 0.9632150530815125,
+      "all_entailment_probs": {
+        "A": 0.8910947442054749,
+        "B": 0.7243971824645996,
+        "C": 0.9318876266479492,
+        "D": 0.9632150530815125
+      },
+      "correct_answer": "A",
+      "prompt_used": "Pick the most magical and correct one from (A, B, C, D) to finish the story!\nI have a question for you: Viruses are considered an exception to the cell theory because they\nHere are four magical answers: (A) are not independent organisms\n(B) have only a few genes\n(C) move about via their tails\n(D) have evolved from ancestral protists\n \nAnd what would you say?:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    }
+  ],
+  "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli",
+  "accuracy": 0.33,
+  "per_choice_accuracy": {
+    "B": {
+      "accuracy": 0.05,
+      "total": 20
+    },
+    "D": {
+      "accuracy": 0.631578947368421,
+      "total": 38
+    },
+    "C": {
+      "accuracy": 0.09523809523809523,
+      "total": 21
+    },
+    "A": {
+      "accuracy": 0.2857142857142857,
+      "total": 21
+    }
+  }
+}

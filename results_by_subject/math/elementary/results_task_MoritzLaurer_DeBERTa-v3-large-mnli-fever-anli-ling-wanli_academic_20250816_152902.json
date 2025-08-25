@@ -1,0 +1,2249 @@
+{
+  "total_questions": 100,
+  "correct": 20,
+  "wrong": 80,
+  "per_choice_stats": {
+    "D": {
+      "correct": 12,
+      "total": 25
+    },
+    "C": {
+      "correct": 0,
+      "total": 33
+    },
+    "B": {
+      "correct": 1,
+      "total": 18
+    },
+    "A": {
+      "correct": 7,
+      "total": 24
+    }
+  },
+  "confidence_when_correct": [
+    0.9475491642951965,
+    0.6567192673683167,
+    0.9807763695716858,
+    0.9805906414985657,
+    0.714515745639801,
+    0.1016121655702591,
+    0.6817759275436401,
+    0.4295958876609802,
+    0.6778784394264221,
+    0.02226009964942932,
+    0.9318126440048218,
+    0.014362219721078873,
+    0.20487478375434875,
+    0.14117714762687683,
+    0.46690595149993896,
+    0.046075962483882904,
+    0.05122671276330948,
+    0.3452278673648834,
+    0.406524658203125,
+    0.5298432111740112
+  ],
+  "confidence_when_wrong": [
+    0.0034554714802652597,
+    0.20699703693389893,
+    0.012587085366249084,
+    0.25804799795150757,
+    0.5806325674057007,
+    0.018951335921883583,
+    0.5836873650550842,
+    0.9468377828598022,
+    0.029895586892962456,
+    0.832991898059845,
+    0.9164289832115173,
+    0.8246546983718872,
+    0.3525097072124481,
+    0.8637657761573792,
+    0.8741553425788879,
+    0.9631631970405579,
+    0.15138399600982666,
+    0.9789029359817505,
+    0.452287882566452,
+    0.9337100386619568,
+    0.01268825400620699,
+    0.03127560019493103,
+    0.01600002869963646,
+    0.0054926504381000996,
+    0.3076677918434143,
+    0.45250752568244934,
+    0.15343129634857178,
+    0.5912085771560669,
+    0.8268221020698547,
+    0.19241075217723846,
+    0.9251658916473389,
+    0.7242242693901062,
+    0.9721252918243408,
+    0.14500077068805695,
+    0.22776997089385986,
+    0.930975079536438,
+    0.4467461407184601,
+    0.988699734210968,
+    0.059245765209198,
+    0.9853211045265198,
+    0.9298021197319031,
+    0.9825284481048584,
+    0.992717981338501,
+    0.2112676203250885,
+    0.01694505289196968,
+    0.09562920033931732,
+    0.029313085600733757,
+    0.7860999703407288,
+    0.006571929436177015,
+    0.9775975346565247,
+    0.9513146877288818,
+    0.2905496656894684,
+    0.532027006149292,
+    0.6781404614448547,
+    0.0742647647857666,
+    0.9088301658630371,
+    0.75529944896698,
+    0.06613028794527054,
+    0.6742159128189087,
+    0.9630309343338013,
+    0.9762401580810547,
+    0.9819854497909546,
+    0.3025152087211609,
+    0.9450494050979614,
+    0.9094241857528687,
+    0.8288642764091492,
+    0.25876715779304504,
+    0.4552174210548401,
+    0.7480005621910095,
+    0.1407257318496704,
+    0.2374589890241623,
+    0.08725497126579285,
+    0.8472314476966858,
+    0.0033841158729046583,
+    0.07315468788146973,
+    0.7255144715309143,
+    0.599958062171936,
+    0.40146011114120483,
+    0.9188293814659119,
+    0.01843457855284214
+  ],
+  "all_results": [
+    {
+      "question": "The American flag is usually made with its width and length in the ratio of 10 to 19. Which dimensions are in the correct ratio for the flag?",
+      "choices": {
+        "A": "30 ft by 53 ft",
+        "B": "27 ft by 53 ft",
+        "C": "27 in. by 57 in.",
+        "D": "30 in. by 57 in."
+      },
+      "answer": "B",
+      "answer_text": "27 ft by 53 ft",
+      "confidence": 0.0034554714802652597,
+      "all_entailment_probs": {
+        "A": 0.0028158286586403847,
+        "B": 0.0034554714802652597,
+        "C": 0.001304912962950766,
+        "D": 0.0030677374452352524
+      },
+      "correct_answer": "D",
+      "prompt_used": "From the provided query and four candidate answers (A, B, C, D), determine the one most consistent with established theory.\nThe matter for academic consideration is:: The American flag is usually made with its width and length in the ratio of 10 to 19. Which dimensions are in the correct ratio for the flag?\nMultiple potential answers are included.: (A) 30 ft by 53 ft\n(B) 27 ft by 53 ft\n(C) 27 in. by 57 in.\n(D) 30 in. by 57 in.\n \nDocument your chosen response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Sheila has been given 5 minutes to solve 20 arithmetic problems. What is the minimum rate Sheila can work in order to finish in time?",
+      "choices": {
+        "A": "1 problem per minute",
+        "B": "2 problems per minute",
+        "C": "4 problems per minute",
+        "D": "5 problems per minute"
+      },
+      "answer": "A",
+      "answer_text": "1 problem per minute",
+      "confidence": 0.20699703693389893,
+      "all_entailment_probs": {
+        "A": 0.20699703693389893,
+        "B": 0.03621535748243332,
+        "C": 0.044547274708747864,
+        "D": 0.010564456693828106
+      },
+      "correct_answer": "C",
+      "prompt_used": "Identify the answer that most accurately reflects established knowledge.\nThis is the primary research question.: Sheila has been given 5 minutes to solve 20 arithmetic problems. What is the minimum rate Sheila can work in order to finish in time?\nReference the provided answer set.: (A) 1 problem per minute\n(B) 2 problems per minute\n(C) 4 problems per minute\n(D) 5 problems per minute\n \nArticulate the most accurate conclusion.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Solve 3 over 4 * x = 24.",
+      "choices": {
+        "A": "18",
+        "B": "32",
+        "C": "72",
+        "D": "96"
+      },
+      "answer": "D",
+      "answer_text": "96",
+      "confidence": 0.012587085366249084,
+      "all_entailment_probs": {
+        "A": 0.004913238808512688,
+        "B": 0.002424015663564205,
+        "C": 0.00278904614970088,
+        "D": 0.012587085366249084
+      },
+      "correct_answer": "B",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThe problem to solve is presented thus.: Solve 3 over 4 * x = 24.\nConsider the enumerated alternatives.: (A) 18\n(B) 32\n(C) 72\n(D) 96\n \nSubmit your formal answer.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Solve the equation x + 71 = \u221222.",
+      "choices": {
+        "A": "\u221293",
+        "B": "\u221249",
+        "C": "49",
+        "D": "93"
+      },
+      "answer": "D",
+      "answer_text": "93",
+      "confidence": 0.25804799795150757,
+      "all_entailment_probs": {
+        "A": 0.10292277485132217,
+        "B": 0.07680321484804153,
+        "C": 0.06440078467130661,
+        "D": 0.25804799795150757
+      },
+      "correct_answer": "A",
+      "prompt_used": "Apply critical reasoning to select the correct choice.\nThe matter for academic consideration is:: Solve the equation x + 71 = \u221222.\nRefer to the enumerated alternatives.: (A) \u221293\n(B) \u221249\n(C) 49\n(D) 93\n \nOffer the correct alternative.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "What is 836 rounded to the nearest 10?",
+      "choices": {
+        "A": "800",
+        "B": "830",
+        "C": "840",
+        "D": "870"
+      },
+      "answer": "D",
+      "answer_text": "870",
+      "confidence": 0.5806325674057007,
+      "all_entailment_probs": {
+        "A": 0.004022657405585051,
+        "B": 0.05567659065127373,
+        "C": 0.3369709849357605,
+        "D": 0.5806325674057007
+      },
+      "correct_answer": "C",
+      "prompt_used": "Review the prompt and four options (A, B, C, D). Select the one supported by the strongest evidence.\nThe central question is as follows.: What is 836 rounded to the nearest 10?\nEnumerated options are provided.: (A) 800\n(B) 830\n(C) 840\n(D) 870\n \nOffer the correct alternative.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Write 11 \u2022 11 \u2022 11 \u2022 11 \u2022 11 \u2022 11 \u2022 11 \u2022 11 using exponents.",
+      "choices": {
+        "A": "11 \u2022 8",
+        "B": "88^3",
+        "C": "8^11",
+        "D": "11^8"
+      },
+      "answer": "A",
+      "answer_text": "11 \u2022 8",
+      "confidence": 0.018951335921883583,
+      "all_entailment_probs": {
+        "A": 0.018951335921883583,
+        "B": 0.014015763998031616,
+        "C": 0.006761167198419571,
+        "D": 0.014429249800741673
+      },
+      "correct_answer": "D",
+      "prompt_used": "Examine all provided responses and select the one most consistent with empirical data.\nThe following constitutes the posed inquiry.: Write 11 \u2022 11 \u2022 11 \u2022 11 \u2022 11 \u2022 11 \u2022 11 \u2022 11 using exponents.\nConsider the enumerated alternatives.: (A) 11 \u2022 8\n(B) 88^3\n(C) 8^11\n(D) 11^8\n \nRecord your definitive conclusion.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "A bulletin board can be covered completely by 30 square pieces of paper without any gaps or overlaps. If each piece of paper has side lengths of 1 foot, what is the total area of the bulletin board?",
+      "choices": {
+        "A": "1 foot",
+        "B": "30 feet",
+        "C": "1 square foot",
+        "D": "30 square feet"
+      },
+      "answer": "D",
+      "answer_text": "30 square feet",
+      "confidence": 0.9475491642951965,
+      "all_entailment_probs": {
+        "A": 0.8319969773292542,
+        "B": 0.572243332862854,
+        "C": 0.36264675855636597,
+        "D": 0.9475491642951965
+      },
+      "correct_answer": "D",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nThe problem to solve is presented thus.: A bulletin board can be covered completely by 30 square pieces of paper without any gaps or overlaps. If each piece of paper has side lengths of 1 foot, what is the total area of the bulletin board?\nThe possible solutions are detailed herein.: (A) 1 foot\n(B) 30 feet\n(C) 1 square foot\n(D) 30 square feet\n \nProvide the substantiated response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "There were 6 rows of chairs set up for a meeting. Each row had 8 chairs. What was the total number of chairs set up for the meeting?",
+      "choices": {
+        "A": "14",
+        "B": "36",
+        "C": "48",
+        "D": "64"
+      },
+      "answer": "D",
+      "answer_text": "64",
+      "confidence": 0.5836873650550842,
+      "all_entailment_probs": {
+        "A": 0.0026096028741449118,
+        "B": 0.012481114827096462,
+        "C": 0.03400016948580742,
+        "D": 0.5836873650550842
+      },
+      "correct_answer": "C",
+      "prompt_used": "Analyze the question and evaluate four possible answers (A, B, C, D). Select the one with the highest empirical validity.\nThis is the primary research question.: There were 6 rows of chairs set up for a meeting. Each row had 8 chairs. What was the total number of chairs set up for the meeting?\nEnumerated options are provided.: (A) 14\n(B) 36\n(C) 48\n(D) 64\n \nIndicate the correct resolution.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Peter is in a group of 25 people. All 25 people went fishing in boats. There were 5 people in each boat. How can Peter find the number of boats the group used?",
+      "choices": {
+        "A": "Add 5 to 25",
+        "B": "Divide 25 by 5",
+        "C": "Multiply 25 by 5",
+        "D": "Subtract 5 from 25"
+      },
+      "answer": "D",
+      "answer_text": "Subtract 5 from 25",
+      "confidence": 0.9468377828598022,
+      "all_entailment_probs": {
+        "A": 0.7331588268280029,
+        "B": 0.7545350790023804,
+        "C": 0.8711696267127991,
+        "D": 0.9468377828598022
+      },
+      "correct_answer": "B",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThis constitutes the inquiry.: Peter is in a group of 25 people. All 25 people went fishing in boats. There were 5 people in each boat. How can Peter find the number of boats the group used?\nThe listed alternatives are given below.: (A) Add 5 to 25\n(B) Divide 25 by 5\n(C) Multiply 25 by 5\n(D) Subtract 5 from 25\n \nOffer the correct alternative.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Estimate 711 + 497. The sum is between which numbers?",
+      "choices": {
+        "A": "50 and 400",
+        "B": "450 and 700",
+        "C": "750 and 1,000",
+        "D": "1,050 and 1,300"
+      },
+      "answer": "A",
+      "answer_text": "50 and 400",
+      "confidence": 0.029895586892962456,
+      "all_entailment_probs": {
+        "A": 0.029895586892962456,
+        "B": 0.012009280733764172,
+        "C": 0.015829699113965034,
+        "D": 0.019305620342493057
+      },
+      "correct_answer": "D",
+      "prompt_used": "Identify the answer that most accurately reflects established knowledge.\nThe inquiry is as presented below.: Estimate 711 + 497. The sum is between which numbers?\nEnumerated options are provided.: (A) 50 and 400\n(B) 450 and 700\n(C) 750 and 1,000\n(D) 1,050 and 1,300\n \nState the academically sound choice.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Write 8 and 2 over 4 as an improper fraction in simplest form.",
+      "choices": {
+        "A": "17 over 2",
+        "B": "34 over 4",
+        "C": "17 over 4",
+        "D": "19 over 2"
+      },
+      "answer": "A",
+      "answer_text": "17 over 2",
+      "confidence": 0.6567192673683167,
+      "all_entailment_probs": {
+        "A": 0.6567192673683167,
+        "B": 0.0139629440382123,
+        "C": 0.01878870651125908,
+        "D": 0.02501947246491909
+      },
+      "correct_answer": "A",
+      "prompt_used": "Identify the answer that most accurately reflects established knowledge.\nThe following constitutes the posed inquiry.: Write 8 and 2 over 4 as an improper fraction in simplest form.\nYour possible selections are outlined herein.: (A) 17 over 2\n(B) 34 over 4\n(C) 17 over 4\n(D) 19 over 2\n \nArticulate the most accurate conclusion.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Identify a solution for the equation 5x \u2212 5 = \u221210 from the given numbers.",
+      "choices": {
+        "A": "\u22121",
+        "B": "\u22126",
+        "C": "\u22124",
+        "D": "\u22123"
+      },
+      "answer": "D",
+      "answer_text": "\u22123",
+      "confidence": 0.832991898059845,
+      "all_entailment_probs": {
+        "A": 0.7063446640968323,
+        "B": 0.08284026384353638,
+        "C": 0.03945208340883255,
+        "D": 0.832991898059845
+      },
+      "correct_answer": "A",
+      "prompt_used": "Examine all provided responses and select the one most consistent with empirical data.\nPresented here is the investigative prompt.: Identify a solution for the equation 5x \u2212 5 = \u221210 from the given numbers.\nThe listed alternatives are given below.: (A) \u22121\n(B) \u22126\n(C) \u22124\n(D) \u22123\n \nState the academically sound choice.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Marcus spent $3.25 to wash his car. If one quarter operates the car wash for 60 seconds, how long did it take him to wash his car?",
+      "choices": {
+        "A": "10 minutes",
+        "B": "13 minutes",
+        "C": "16 minutes",
+        "D": "32.5 minutes"
+      },
+      "answer": "A",
+      "answer_text": "10 minutes",
+      "confidence": 0.9164289832115173,
+      "all_entailment_probs": {
+        "A": 0.9164289832115173,
+        "B": 0.03174383193254471,
+        "C": 0.06233302503824234,
+        "D": 0.08064737915992737
+      },
+      "correct_answer": "B",
+      "prompt_used": "Analyze the question and evaluate four possible answers (A, B, C, D). Select the one with the highest empirical validity.\nThe problem to solve is presented thus.: Marcus spent $3.25 to wash his car. If one quarter operates the car wash for 60 seconds, how long did it take him to wash his car?\nReference the provided answer set.: (A) 10 minutes\n(B) 13 minutes\n(C) 16 minutes\n(D) 32.5 minutes\n \nState the academically sound choice.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "John\u2019s friend told him that he could earn $49 for handing out flyers at a local concert. John wants to calculate the hourly rate, If he works a total of 3.5 hours, the equation 3.5x = 49 can be used to determine his hourly rate. What would John\u2019s hourly rate be, in dollars?",
+      "choices": {
+        "A": "$1.40",
+        "B": "$14.00",
+        "C": "$45.50",
+        "D": "$171.50"
+      },
+      "answer": "D",
+      "answer_text": "$171.50",
+      "confidence": 0.8246546983718872,
+      "all_entailment_probs": {
+        "A": 0.07543759047985077,
+        "B": 0.003482315456494689,
+        "C": 0.037032779306173325,
+        "D": 0.8246546983718872
+      },
+      "correct_answer": "B",
+      "prompt_used": "Analyze the question and evaluate four possible answers (A, B, C, D). Select the one with the highest empirical validity.\nThe inquiry is as presented below.: John\u2019s friend told him that he could earn $49 for handing out flyers at a local concert. John wants to calculate the hourly rate, If he works a total of 3.5 hours, the equation 3.5x = 49 can be used to determine his hourly rate. What would John\u2019s hourly rate be, in dollars?\nMultiple potential answers are included.: (A) $1.40\n(B) $14.00\n(C) $45.50\n(D) $171.50\n \nOffer the correct alternative.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Ms. Ling has been living in her home for exactly 4 years. She knows that there are 12 months in each year. She found the total number of months, m, she has been living in her home by using the number sentence below. 4 \u00d7 12 = m Which number sentence shows another way to find the total number of months, m, Ms. Ling has been living in her home?",
+      "choices": {
+        "A": "12 \u00f7 m = 4",
+        "B": "m \u00d7 4 = 12",
+        "C": "12 \u2013 m = 4",
+        "D": "m \u00f7 4 = 12"
+      },
+      "answer": "D",
+      "answer_text": "m \u00f7 4 = 12",
+      "confidence": 0.9807763695716858,
+      "all_entailment_probs": {
+        "A": 0.9733721613883972,
+        "B": 0.7451176643371582,
+        "C": 0.8199135065078735,
+        "D": 0.9807763695716858
+      },
+      "correct_answer": "D",
+      "prompt_used": "Review the prompt and four options (A, B, C, D). Select the one supported by the strongest evidence.\nThe matter for academic consideration is:: Ms. Ling has been living in her home for exactly 4 years. She knows that there are 12 months in each year. She found the total number of months, m, she has been living in her home by using the number sentence below. 4 \u00d7 12 = m Which number sentence shows another way to find the total number of months, m, Ms. Ling has been living in her home?\nA finite set of responses is provided.: (A) 12 \u00f7 m = 4\n(B) m \u00d7 4 = 12\n(C) 12 \u2013 m = 4\n(D) m \u00f7 4 = 12\n \nOffer the correct alternative.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "A store has 3 boxes of shirts. Each box has 4 packages with 7 shirts in each package. The expression 3 \u00d7 (4 \u00d7 7) can be used to find the total number of shirts. Which expression can also be used to find the total number of shirts?",
+      "choices": {
+        "A": "12 \u00d7 3",
+        "B": "12 \u00d7 7",
+        "C": "28 \u00d7 4",
+        "D": "28 \u00d7 7"
+      },
+      "answer": "A",
+      "answer_text": "12 \u00d7 3",
+      "confidence": 0.3525097072124481,
+      "all_entailment_probs": {
+        "A": 0.3525097072124481,
+        "B": 0.02630363032221794,
+        "C": 0.03057515248656273,
+        "D": 0.015080682002007961
+      },
+      "correct_answer": "B",
+      "prompt_used": "Determine the correct choice based on logical and factual alignment.\nThe inquiry is as presented below.: A store has 3 boxes of shirts. Each box has 4 packages with 7 shirts in each package. The expression 3 \u00d7 (4 \u00d7 7) can be used to find the total number of shirts. Which expression can also be used to find the total number of shirts?\nReference the provided answer set.: (A) 12 \u00d7 3\n(B) 12 \u00d7 7\n(C) 28 \u00d7 4\n(D) 28 \u00d7 7\n \nPresent your evidence-based selection.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "What is the value of the expression 2,816 x 7?",
+      "choices": {
+        "A": "14,572",
+        "B": "14,672",
+        "C": "19,612",
+        "D": "19,712"
+      },
+      "answer": "D",
+      "answer_text": "19,712",
+      "confidence": 0.9805906414985657,
+      "all_entailment_probs": {
+        "A": 0.9641465544700623,
+        "B": 0.7774890661239624,
+        "C": 0.9701572060585022,
+        "D": 0.9805906414985657
+      },
+      "correct_answer": "D",
+      "prompt_used": "Review the prompt and four options (A, B, C, D). Select the one supported by the strongest evidence.\nThe inquiry is as presented below.: What is the value of the expression 2,816 x 7?\nMultiple potential answers are included.: (A) 14,572\n(B) 14,672\n(C) 19,612\n(D) 19,712\n \nProvide the substantiated response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Find the opposite of the number \u22127.",
+      "choices": {
+        "A": "7",
+        "B": "\u22127",
+        "C": "0.7",
+        "D": "\u22127.7"
+      },
+      "answer": "D",
+      "answer_text": "\u22127.7",
+      "confidence": 0.8637657761573792,
+      "all_entailment_probs": {
+        "A": 0.0037133607547730207,
+        "B": 0.012355462647974491,
+        "C": 0.07447154819965363,
+        "D": 0.8637657761573792
+      },
+      "correct_answer": "A",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nThis is the primary research question.: Find the opposite of the number \u22127.\nYour possible selections are outlined herein.: (A) 7\n(B) \u22127\n(C) 0.7\n(D) \u22127.7\n \nOffer the correct alternative.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Use the expression below to answer the question. 3 \u00d7 [(2 \u00d7 6 \u2013 5) + (8 \u00f7 4)] \u2013 1 What is the value of the expression?",
+      "choices": {
+        "A": "9",
+        "B": "11",
+        "C": "26",
+        "D": "32"
+      },
+      "answer": "D",
+      "answer_text": "32",
+      "confidence": 0.8741553425788879,
+      "all_entailment_probs": {
+        "A": 0.0657896101474762,
+        "B": 0.007483281195163727,
+        "C": 0.043677978217601776,
+        "D": 0.8741553425788879
+      },
+      "correct_answer": "C",
+      "prompt_used": "Review the prompt and four options (A, B, C, D). Select the one supported by the strongest evidence.\nHere follows the problem statement.: Use the expression below to answer the question. 3 \u00d7 [(2 \u00d7 6 \u2013 5) + (8 \u00f7 4)] \u2013 1 What is the value of the expression?\nYour possible selections are outlined herein.: (A) 9\n(B) 11\n(C) 26\n(D) 32\n \nSubmit your formal answer.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "A store manager orders shirts from their warehouse. The shirts are packed into boxes and sentto the store, as described below. 81 shirts are ordered. Each shipping box holds 9 shirts. How many shipping boxes are needed for all of the shirts ordered?",
+      "choices": {
+        "A": "8",
+        "B": "9",
+        "C": "72",
+        "D": "90"
+      },
+      "answer": "B",
+      "answer_text": "9",
+      "confidence": 0.714515745639801,
+      "all_entailment_probs": {
+        "A": 0.35463470220565796,
+        "B": 0.714515745639801,
+        "C": 0.3118370771408081,
+        "D": 0.33737045526504517
+      },
+      "correct_answer": "B",
+      "prompt_used": "From the provided query and four candidate answers (A, B, C, D), determine the one most consistent with established theory.\nThe problem to solve is presented thus.: A store manager orders shirts from their warehouse. The shirts are packed into boxes and sentto the store, as described below. 81 shirts are ordered. Each shipping box holds 9 shirts. How many shipping boxes are needed for all of the shirts ordered?\nEnumerated options are provided.: (A) 8\n(B) 9\n(C) 72\n(D) 90\n \nArticulate the most accurate conclusion.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Write 4 and 4 over 5 as an improper fraction.",
+      "choices": {
+        "A": "28 over 5",
+        "B": "4 over 5",
+        "C": "24 over 5",
+        "D": "20 over 5"
+      },
+      "answer": "D",
+      "answer_text": "20 over 5",
+      "confidence": 0.9631631970405579,
+      "all_entailment_probs": {
+        "A": 0.06009333208203316,
+        "B": 0.5138535499572754,
+        "C": 0.8747838139533997,
+        "D": 0.9631631970405579
+      },
+      "correct_answer": "C",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nHere follows the problem statement.: Write 4 and 4 over 5 as an improper fraction.\nThe listed alternatives are given below.: (A) 28 over 5\n(B) 4 over 5\n(C) 24 over 5\n(D) 20 over 5\n \nState the academically sound choice.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Molly got a haircut for $25 and she left a 15% tip. What was Molly\u2019s final cost?",
+      "choices": {
+        "A": "$25.15",
+        "B": "$26.50",
+        "C": "$27.50",
+        "D": "$28.75"
+      },
+      "answer": "A",
+      "answer_text": "$25.15",
+      "confidence": 0.15138399600982666,
+      "all_entailment_probs": {
+        "A": 0.15138399600982666,
+        "B": 0.016994930803775787,
+        "C": 0.05458686873316765,
+        "D": 0.05069680139422417
+      },
+      "correct_answer": "D",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nThe matter for academic consideration is:: Molly got a haircut for $25 and she left a 15% tip. What was Molly\u2019s final cost?\nConsider the enumerated alternatives.: (A) $25.15\n(B) $26.50\n(C) $27.50\n(D) $28.75\n \nPresent your evidence-based selection.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "There are 7 desks arranged in a row in Mr. Thompson\u2019s classroom. Hector sits 2 seats to the right of Kim. Tonya sits 3 seats to the right of Hector. How many seats to the left of Tonya does Kim sit?",
+      "choices": {
+        "A": "2",
+        "B": "3",
+        "C": "5",
+        "D": "12"
+      },
+      "answer": "D",
+      "answer_text": "12",
+      "confidence": 0.9789029359817505,
+      "all_entailment_probs": {
+        "A": 0.021152889356017113,
+        "B": 0.2407030165195465,
+        "C": 0.4766070544719696,
+        "D": 0.9789029359817505
+      },
+      "correct_answer": "C",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nThe problem to solve is presented thus.: There are 7 desks arranged in a row in Mr. Thompson\u2019s classroom. Hector sits 2 seats to the right of Kim. Tonya sits 3 seats to the right of Hector. How many seats to the left of Tonya does Kim sit?\nReference the provided answer set.: (A) 2\n(B) 3\n(C) 5\n(D) 12\n \nIndicate the correct resolution.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "A scientist studied the migration patterns of two types of whales. The humpback whales traveled 2,240 miles in 28 days. The gray whales traveled 2,368 miles in 32 days. If the humpback whales had traveled at the same rate for 32 days, how many more miles would they have traveled than the gray whales?",
+      "choices": {
+        "A": "128",
+        "B": "192",
+        "C": "280",
+        "D": "408"
+      },
+      "answer": "D",
+      "answer_text": "408",
+      "confidence": 0.452287882566452,
+      "all_entailment_probs": {
+        "A": 0.009314632043242455,
+        "B": 0.0030165654607117176,
+        "C": 0.004515187814831734,
+        "D": 0.452287882566452
+      },
+      "correct_answer": "B",
+      "prompt_used": "Choose the response with the greatest theoretical support.\nPresented here is the investigative prompt.: A scientist studied the migration patterns of two types of whales. The humpback whales traveled 2,240 miles in 28 days. The gray whales traveled 2,368 miles in 32 days. If the humpback whales had traveled at the same rate for 32 days, how many more miles would they have traveled than the gray whales?\nA finite set of responses is provided.: (A) 128\n(B) 192\n(C) 280\n(D) 408\n \nRecord your definitive conclusion.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Use the Associative Property of Multiplication to simplify 8 \u2022 (\u22127) \u2022 (\u22121).",
+      "choices": {
+        "A": "\u221263",
+        "B": "56",
+        "C": "48",
+        "D": "\u221256"
+      },
+      "answer": "D",
+      "answer_text": "\u221256",
+      "confidence": 0.9337100386619568,
+      "all_entailment_probs": {
+        "A": 0.08030147105455399,
+        "B": 0.09638785570859909,
+        "C": 0.3804338574409485,
+        "D": 0.9337100386619568
+      },
+      "correct_answer": "A",
+      "prompt_used": "From the provided query and four candidate answers (A, B, C, D), determine the one most consistent with established theory.\nThe central question is as follows.: Use the Associative Property of Multiplication to simplify 8 \u2022 (\u22127) \u2022 (\u22121).\nRefer to the enumerated alternatives.: (A) \u221263\n(B) 56\n(C) 48\n(D) \u221256\n \nOffer the correct alternative.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "A student has 3 puzzles. Each puzzle has 1,250 pieces. What is the total number of pieces in the puzzles?",
+      "choices": {
+        "A": "3,650",
+        "B": "3,750",
+        "C": "4,650",
+        "D": "4,750"
+      },
+      "answer": "D",
+      "answer_text": "4,750",
+      "confidence": 0.01268825400620699,
+      "all_entailment_probs": {
+        "A": 0.009735075756907463,
+        "B": 0.0014023149851709604,
+        "C": 0.0041435095481574535,
+        "D": 0.01268825400620699
+      },
+      "correct_answer": "B",
+      "prompt_used": "Choose the response with the greatest theoretical support.\nThe inquiry is as presented below.: A student has 3 puzzles. Each puzzle has 1,250 pieces. What is the total number of pieces in the puzzles?\nRefer to the enumerated alternatives.: (A) 3,650\n(B) 3,750\n(C) 4,650\n(D) 4,750\n \nDocument your chosen response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "What is the value of the expression 28 x 42?",
+      "choices": {
+        "A": "420",
+        "B": "816",
+        "C": "1,166",
+        "D": "1,176"
+      },
+      "answer": "D",
+      "answer_text": "1,176",
+      "confidence": 0.1016121655702591,
+      "all_entailment_probs": {
+        "A": 0.08977007865905762,
+        "B": 0.012470417656004429,
+        "C": 0.024543533101677895,
+        "D": 0.1016121655702591
+      },
+      "correct_answer": "D",
+      "prompt_used": "Analyze the question and evaluate four possible answers (A, B, C, D). Select the one with the highest empirical validity.\nThe inquiry is as presented below.: What is the value of the expression 28 x 42?\nYour possible selections are outlined herein.: (A) 420\n(B) 816\n(C) 1,166\n(D) 1,176\n \nSubmit your considered response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Find the LCM of 24 and 36.",
+      "choices": {
+        "A": "96",
+        "B": "144",
+        "C": "72",
+        "D": "120"
+      },
+      "answer": "D",
+      "answer_text": "120",
+      "confidence": 0.03127560019493103,
+      "all_entailment_probs": {
+        "A": 0.011153923347592354,
+        "B": 0.004179724026471376,
+        "C": 0.0045669847168028355,
+        "D": 0.03127560019493103
+      },
+      "correct_answer": "C",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThe following constitutes the posed inquiry.: Find the LCM of 24 and 36.\nA finite set of responses is provided.: (A) 96\n(B) 144\n(C) 72\n(D) 120\n \nSubmit your formal answer.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Rich measures the width of one cardboard strip as 5 over 6 ft. A second cardboard strip is 2 over 3 ft wide. Estimate the combined width of the cardboard strips.",
+      "choices": {
+        "A": "2 ft",
+        "B": "1 and 1 over 2 ft",
+        "C": "1 ft",
+        "D": "3 ft"
+      },
+      "answer": "D",
+      "answer_text": "3 ft",
+      "confidence": 0.01600002869963646,
+      "all_entailment_probs": {
+        "A": 0.014260690659284592,
+        "B": 0.01059543527662754,
+        "C": 0.0025384649634361267,
+        "D": 0.01600002869963646
+      },
+      "correct_answer": "B",
+      "prompt_used": "Choose the response with the greatest theoretical support.\nPresented here is the investigative prompt.: Rich measures the width of one cardboard strip as 5 over 6 ft. A second cardboard strip is 2 over 3 ft wide. Estimate the combined width of the cardboard strips.\nYour possible selections are outlined herein.: (A) 2 ft\n(B) 1 and 1 over 2 ft\n(C) 1 ft\n(D) 3 ft\n \nPresent your evidence-based selection.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Pat bounces a basketball 25 times in 30 seconds. At that rate, approximately how many times will Pat bounce the ball in 150 seconds?",
+      "choices": {
+        "A": "120",
+        "B": "125",
+        "C": "144",
+        "D": "145"
+      },
+      "answer": "D",
+      "answer_text": "145",
+      "confidence": 0.0054926504381000996,
+      "all_entailment_probs": {
+        "A": 0.004099950194358826,
+        "B": 0.0016870737308636308,
+        "C": 0.0033661392517387867,
+        "D": 0.0054926504381000996
+      },
+      "correct_answer": "B",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThe matter for academic consideration is:: Pat bounces a basketball 25 times in 30 seconds. At that rate, approximately how many times will Pat bounce the ball in 150 seconds?\nThe following four options are considered:: (A) 120\n(B) 125\n(C) 144\n(D) 145\n \nSubmit your formal answer.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which measurement would best be rounded to the nearest thousand?",
+      "choices": {
+        "A": "The length of a football field in yards",
+        "B": "The height of a professional football player in inches",
+        "C": "The number of people at a professional football game",
+        "D": "The weight of a professional football player in pounds"
+      },
+      "answer": "A",
+      "answer_text": "The length of a football field in yards",
+      "confidence": 0.3076677918434143,
+      "all_entailment_probs": {
+        "A": 0.3076677918434143,
+        "B": 0.04622785747051239,
+        "C": 0.11150886118412018,
+        "D": 0.2676503658294678
+      },
+      "correct_answer": "C",
+      "prompt_used": "Examine all provided responses and select the one most consistent with empirical data.\nPresented here is the investigative prompt.: Which measurement would best be rounded to the nearest thousand?\nRefer to the enumerated alternatives.: (A) The length of a football field in yards\n(B) The height of a professional football player in inches\n(C) The number of people at a professional football game\n(D) The weight of a professional football player in pounds\n \nState the academically sound choice.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Find the value of the expression \u221225 \u2212 (\u221211).",
+      "choices": {
+        "A": "\u221236",
+        "B": "\u221214",
+        "C": "14",
+        "D": "36"
+      },
+      "answer": "D",
+      "answer_text": "36",
+      "confidence": 0.45250752568244934,
+      "all_entailment_probs": {
+        "A": 0.009202372282743454,
+        "B": 0.004733453504741192,
+        "C": 0.02215980552136898,
+        "D": 0.45250752568244934
+      },
+      "correct_answer": "C",
+      "prompt_used": "From the provided query and four candidate answers (A, B, C, D), determine the one most consistent with established theory.\nPresented here is the investigative prompt.: Find the value of the expression \u221225 \u2212 (\u221211).\nMultiple potential answers are included.: (A) \u221236\n(B) \u221214\n(C) 14\n(D) 36\n \nSubmit your considered response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which algebraic expression represents four times the quantity 22 less than x?",
+      "choices": {
+        "A": "4(x \u2013 22)",
+        "B": "(4 \u2022 22) \u2013 x",
+        "C": "4(22 \u2013 x)",
+        "D": "(x \u2022 4) \u2013 22"
+      },
+      "answer": "A",
+      "answer_text": "4(x \u2013 22)",
+      "confidence": 0.6817759275436401,
+      "all_entailment_probs": {
+        "A": 0.6817759275436401,
+        "B": 0.11593377590179443,
+        "C": 0.25192883610725403,
+        "D": 0.0665082186460495
+      },
+      "correct_answer": "A",
+      "prompt_used": "Choose the response with the greatest theoretical support.\nThis is the scholarly query under examination.: Which algebraic expression represents four times the quantity 22 less than x?\nThe possible solutions are detailed herein.: (A) 4(x \u2013 22)\n(B) (4 \u2022 22) \u2013 x\n(C) 4(22 \u2013 x)\n(D) (x \u2022 4) \u2013 22\n \nIndicate the correct resolution.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Find the number that makes the statement 12 over 18 = ? over 9 true.",
+      "choices": {
+        "A": "4",
+        "B": "6",
+        "C": "8",
+        "D": "12"
+      },
+      "answer": "D",
+      "answer_text": "12",
+      "confidence": 0.15343129634857178,
+      "all_entailment_probs": {
+        "A": 0.006233853753656149,
+        "B": 0.00253410660661757,
+        "C": 0.003916583489626646,
+        "D": 0.15343129634857178
+      },
+      "correct_answer": "A",
+      "prompt_used": "Choose the response with the greatest theoretical support.\nThe following constitutes the posed inquiry.: Find the number that makes the statement 12 over 18 = ? over 9 true.\nThe listed alternatives are given below.: (A) 4\n(B) 6\n(C) 8\n(D) 12\n \nIndicate the correct resolution.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which list of numbers is ordered from least to greatest?",
+      "choices": {
+        "A": "167,213, 161,455, 17,400, 11,633",
+        "B": "10,354, 10,600, 104,321, 106,213",
+        "C": "160,233, 171,141, 11,645, 16,703",
+        "D": "12,209, 12,902, 125,466, 125,464"
+      },
+      "answer": "C",
+      "answer_text": "160,233, 171,141, 11,645, 16,703",
+      "confidence": 0.5912085771560669,
+      "all_entailment_probs": {
+        "A": 0.02153967320919037,
+        "B": 0.09911690652370453,
+        "C": 0.5912085771560669,
+        "D": 0.509710431098938
+      },
+      "correct_answer": "B",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nPresented here is the investigative prompt.: Which list of numbers is ordered from least to greatest?\nThe listed alternatives are given below.: (A) 167,213, 161,455, 17,400, 11,633\n(B) 10,354, 10,600, 104,321, 106,213\n(C) 160,233, 171,141, 11,645, 16,703\n(D) 12,209, 12,902, 125,466, 125,464\n \nProvide the substantiated response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "What is 0.3 \u00d7 427?",
+      "choices": {
+        "A": "0.1281",
+        "B": "1.281",
+        "C": "12.81",
+        "D": "128.1"
+      },
+      "answer": "D",
+      "answer_text": "128.1",
+      "confidence": 0.4295958876609802,
+      "all_entailment_probs": {
+        "A": 0.04996303841471672,
+        "B": 0.024830713868141174,
+        "C": 0.07605130225419998,
+        "D": 0.4295958876609802
+      },
+      "correct_answer": "D",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThe following constitutes the posed inquiry.: What is 0.3 \u00d7 427?\nEnumerated options are provided.: (A) 0.1281\n(B) 1.281\n(C) 12.81\n(D) 128.1\n \nDocument your chosen response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "What does the p equal in 3 + p = 15?",
+      "choices": {
+        "A": "3",
+        "B": "5",
+        "C": "12",
+        "D": "18"
+      },
+      "answer": "D",
+      "answer_text": "18",
+      "confidence": 0.8268221020698547,
+      "all_entailment_probs": {
+        "A": 0.2495720237493515,
+        "B": 0.11244067549705505,
+        "C": 0.159347802400589,
+        "D": 0.8268221020698547
+      },
+      "correct_answer": "C",
+      "prompt_used": "Choose the response with the greatest theoretical support.\nThe inquiry is as presented below.: What does the p equal in 3 + p = 15?\nMultiple potential answers are included.: (A) 3\n(B) 5\n(C) 12\n(D) 18\n \nProvide the substantiated response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Find the product of \u22128 \u2022 (\u22124).",
+      "choices": {
+        "A": "\u22124",
+        "B": "4",
+        "C": "32",
+        "D": "\u221232"
+      },
+      "answer": "D",
+      "answer_text": "\u221232",
+      "confidence": 0.19241075217723846,
+      "all_entailment_probs": {
+        "A": 0.003617455717176199,
+        "B": 0.002036346821114421,
+        "C": 0.013621830381453037,
+        "D": 0.19241075217723846
+      },
+      "correct_answer": "C",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nThe matter for academic consideration is:: Find the product of \u22128 \u2022 (\u22124).\nThe listed alternatives are given below.: (A) \u22124\n(B) 4\n(C) 32\n(D) \u221232\n \nSubmit your considered response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Identify a solution for the equation x + 2.7 = 8.4 from the given numbers.",
+      "choices": {
+        "A": "11.1",
+        "B": "5.7",
+        "C": "3.7",
+        "D": "22.68"
+      },
+      "answer": "D",
+      "answer_text": "22.68",
+      "confidence": 0.9251658916473389,
+      "all_entailment_probs": {
+        "A": 0.813645601272583,
+        "B": 0.1775662899017334,
+        "C": 0.40687936544418335,
+        "D": 0.9251658916473389
+      },
+      "correct_answer": "B",
+      "prompt_used": "Choose the response with the greatest theoretical support.\nThe central question is as follows.: Identify a solution for the equation x + 2.7 = 8.4 from the given numbers.\nA finite set of responses is provided.: (A) 11.1\n(B) 5.7\n(C) 3.7\n(D) 22.68\n \nProvide the substantiated response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Find the value of 6 \u2022 24 \u00f7 (8 \u2212 5).",
+      "choices": {
+        "A": "48",
+        "B": "13",
+        "C": "\u221213",
+        "D": "54"
+      },
+      "answer": "D",
+      "answer_text": "54",
+      "confidence": 0.7242242693901062,
+      "all_entailment_probs": {
+        "A": 0.029898427426815033,
+        "B": 0.01377047412097454,
+        "C": 0.17542102932929993,
+        "D": 0.7242242693901062
+      },
+      "correct_answer": "A",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThe following constitutes the posed inquiry.: Find the value of 6 \u2022 24 \u00f7 (8 \u2212 5).\nThe listed alternatives are given below.: (A) 48\n(B) 13\n(C) \u221213\n(D) 54\n \nArticulate the most accurate conclusion.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Write 27 over 36 in simplest form.",
+      "choices": {
+        "A": "3 over 4",
+        "B": "2 over 3",
+        "C": "3 over 5",
+        "D": "1 over 5"
+      },
+      "answer": "A",
+      "answer_text": "3 over 4",
+      "confidence": 0.6778784394264221,
+      "all_entailment_probs": {
+        "A": 0.6778784394264221,
+        "B": 0.10524056106805801,
+        "C": 0.23961500823497772,
+        "D": 0.08485235273838043
+      },
+      "correct_answer": "A",
+      "prompt_used": "Identify the answer that most accurately reflects established knowledge.\nThis is the primary research question.: Write 27 over 36 in simplest form.\nRefer to the enumerated alternatives.: (A) 3 over 4\n(B) 2 over 3\n(C) 3 over 5\n(D) 1 over 5\n \nOffer the correct alternative.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "In which set do all of the values make the inequality 2x \u2014 1 < 10 true?",
+      "choices": {
+        "A": "{10, 15, 20}",
+        "B": "{5, 7, 9}",
+        "C": "{4, 6, 8}",
+        "D": "{2, 3, 4}"
+      },
+      "answer": "D",
+      "answer_text": "{2, 3, 4}",
+      "confidence": 0.02226009964942932,
+      "all_entailment_probs": {
+        "A": 0.006486543919891119,
+        "B": 0.011233565397560596,
+        "C": 0.020837465301156044,
+        "D": 0.02226009964942932
+      },
+      "correct_answer": "D",
+      "prompt_used": "Examine all provided responses and select the one most consistent with empirical data.\nThe problem to solve is presented thus.: In which set do all of the values make the inequality 2x \u2014 1 < 10 true?\nMultiple potential answers are included.: (A) {10, 15, 20}\n(B) {5, 7, 9}\n(C) {4, 6, 8}\n(D) {2, 3, 4}\n \nArticulate the most accurate conclusion.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Lucy is making gift baskets. She puts 3 apples in each gift basket. Which number sentence shows how to find the total number of gift baskets, b, Lucy can make with 24 apples?",
+      "choices": {
+        "A": "24 + 3 = b",
+        "B": "3 + b = 24",
+        "C": "24 \u00f7 b = 3",
+        "D": "3 \u00d7 24 = b"
+      },
+      "answer": "A",
+      "answer_text": "24 + 3 = b",
+      "confidence": 0.9721252918243408,
+      "all_entailment_probs": {
+        "A": 0.9721252918243408,
+        "B": 0.8546113967895508,
+        "C": 0.8949759602546692,
+        "D": 0.7294428944587708
+      },
+      "correct_answer": "C",
+      "prompt_used": "Analyze the question and evaluate four possible answers (A, B, C, D). Select the one with the highest empirical validity.\nThis is the primary research question.: Lucy is making gift baskets. She puts 3 apples in each gift basket. Which number sentence shows how to find the total number of gift baskets, b, Lucy can make with 24 apples?\nReference the provided answer set.: (A) 24 + 3 = b\n(B) 3 + b = 24\n(C) 24 \u00f7 b = 3\n(D) 3 \u00d7 24 = b\n \nProvide the substantiated response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Compute 22 / 2 + 9.",
+      "choices": {
+        "A": "10",
+        "B": "11",
+        "C": "20",
+        "D": "2"
+      },
+      "answer": "D",
+      "answer_text": "2",
+      "confidence": 0.14500077068805695,
+      "all_entailment_probs": {
+        "A": 0.04731113836169243,
+        "B": 0.015087704174220562,
+        "C": 0.04006049782037735,
+        "D": 0.14500077068805695
+      },
+      "correct_answer": "C",
+      "prompt_used": "Examine all provided responses and select the one most consistent with empirical data.\nThe inquiry is as presented below.: Compute 22 / 2 + 9.\nMultiple potential answers are included.: (A) 10\n(B) 11\n(C) 20\n(D) 2\n \nArticulate the most accurate conclusion.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "John has 4 cookies. Sara has 2 more cookies than John. Darius has 3 times as many cookies as Sara. How many cookies does Darius have?",
+      "choices": {
+        "A": "9",
+        "B": "14",
+        "C": "18",
+        "D": "24"
+      },
+      "answer": "D",
+      "answer_text": "24",
+      "confidence": 0.22776997089385986,
+      "all_entailment_probs": {
+        "A": 0.01305397693067789,
+        "B": 0.009862092323601246,
+        "C": 0.015027978457510471,
+        "D": 0.22776997089385986
+      },
+      "correct_answer": "C",
+      "prompt_used": "Identify the answer that most accurately reflects established knowledge.\nThe central question is as follows.: John has 4 cookies. Sara has 2 more cookies than John. Darius has 3 times as many cookies as Sara. How many cookies does Darius have?\nThe possible solutions are detailed herein.: (A) 9\n(B) 14\n(C) 18\n(D) 24\n \nSubmit your formal answer.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which two numbers both round to 1,500 when rounded to the nearest hundred?",
+      "choices": {
+        "A": "1,399 and 1,599",
+        "B": "1,449 and 1,549",
+        "C": "1,457 and 1,547",
+        "D": "1,489 and 1,589"
+      },
+      "answer": "D",
+      "answer_text": "1,489 and 1,589",
+      "confidence": 0.930975079536438,
+      "all_entailment_probs": {
+        "A": 0.9097727537155151,
+        "B": 0.1472337692975998,
+        "C": 0.8086041808128357,
+        "D": 0.930975079536438
+      },
+      "correct_answer": "C",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nThis is the primary research question.: Which two numbers both round to 1,500 when rounded to the nearest hundred?\nThe possible solutions are detailed herein.: (A) 1,399 and 1,599\n(B) 1,449 and 1,549\n(C) 1,457 and 1,547\n(D) 1,489 and 1,589\n \nIndicate the correct resolution.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Marshall wants to finish typing his English paper before class starts. If he still has 550 words left to type and class starts in 25 minutes, at least how fast must Marshall type to finish his paper on time?",
+      "choices": {
+        "A": "20 words per minute",
+        "B": "21 words per minute",
+        "C": "22 words per minute",
+        "D": "25 words per minute"
+      },
+      "answer": "D",
+      "answer_text": "25 words per minute",
+      "confidence": 0.4467461407184601,
+      "all_entailment_probs": {
+        "A": 0.07251480221748352,
+        "B": 0.021530093625187874,
+        "C": 0.24008885025978088,
+        "D": 0.4467461407184601
+      },
+      "correct_answer": "C",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThis constitutes the inquiry.: Marshall wants to finish typing his English paper before class starts. If he still has 550 words left to type and class starts in 25 minutes, at least how fast must Marshall type to finish his paper on time?\nA finite set of responses is provided.: (A) 20 words per minute\n(B) 21 words per minute\n(C) 22 words per minute\n(D) 25 words per minute\n \nProvide the substantiated response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "When n = 11, what is the value of 10 \u2013 (n + 6)?",
+      "choices": {
+        "A": "\u20137",
+        "B": "5",
+        "C": "7",
+        "D": "27"
+      },
+      "answer": "D",
+      "answer_text": "27",
+      "confidence": 0.988699734210968,
+      "all_entailment_probs": {
+        "A": 0.6870324611663818,
+        "B": 0.1374572068452835,
+        "C": 0.8100495934486389,
+        "D": 0.988699734210968
+      },
+      "correct_answer": "A",
+      "prompt_used": "Review the prompt and four options (A, B, C, D). Select the one supported by the strongest evidence.\nThe inquiry is as presented below.: When n = 11, what is the value of 10 \u2013 (n + 6)?\nMultiple potential answers are included.: (A) \u20137\n(B) 5\n(C) 7\n(D) 27\n \nProvide the substantiated response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "The population of a certain city is 836,527. What is the population of this city rounded to the nearest ten thousand?",
+      "choices": {
+        "A": "800,000",
+        "B": "830,000",
+        "C": "836,000",
+        "D": "840,000"
+      },
+      "answer": "D",
+      "answer_text": "840,000",
+      "confidence": 0.9318126440048218,
+      "all_entailment_probs": {
+        "A": 0.0014035841450095177,
+        "B": 0.008489939384162426,
+        "C": 0.009135905653238297,
+        "D": 0.9318126440048218
+      },
+      "correct_answer": "D",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThis is the primary research question.: The population of a certain city is 836,527. What is the population of this city rounded to the nearest ten thousand?\nA finite set of responses is provided.: (A) 800,000\n(B) 830,000\n(C) 836,000\n(D) 840,000\n \nIndicate the correct resolution.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "The Mills Library has 1,007,199 books. The Springvale Library has 907,082 books. Which of the following is the best estimate of how many more books the Mills Library has than the Springvale Library?",
+      "choices": {
+        "A": "100,000 books",
+        "B": "80,000 books",
+        "C": "10,000 books",
+        "D": "8,000 books"
+      },
+      "answer": "D",
+      "answer_text": "8,000 books",
+      "confidence": 0.059245765209198,
+      "all_entailment_probs": {
+        "A": 0.014904334209859371,
+        "B": 0.018017560243606567,
+        "C": 0.028554003685712814,
+        "D": 0.059245765209198
+      },
+      "correct_answer": "A",
+      "prompt_used": "Analyze the question and evaluate four possible answers (A, B, C, D). Select the one with the highest empirical validity.\nThe inquiry is as presented below.: The Mills Library has 1,007,199 books. The Springvale Library has 907,082 books. Which of the following is the best estimate of how many more books the Mills Library has than the Springvale Library?\nA finite set of responses is provided.: (A) 100,000 books\n(B) 80,000 books\n(C) 10,000 books\n(D) 8,000 books\n \nArticulate the most accurate conclusion.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which pair of ratios can form a proportion?",
+      "choices": {
+        "A": "2 over 5 and 8 over 10",
+        "B": "2 over 5 and 10 over 15",
+        "C": "2 over 5 and 4 over 25",
+        "D": "2 over 5 and 6 over 15"
+      },
+      "answer": "A",
+      "answer_text": "2 over 5 and 8 over 10",
+      "confidence": 0.9853211045265198,
+      "all_entailment_probs": {
+        "A": 0.9853211045265198,
+        "B": 0.12716980278491974,
+        "C": 0.9578980207443237,
+        "D": 0.968814492225647
+      },
+      "correct_answer": "D",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nThe central question is as follows.: Which pair of ratios can form a proportion?\nReference the provided answer set.: (A) 2 over 5 and 8 over 10\n(B) 2 over 5 and 10 over 15\n(C) 2 over 5 and 4 over 25\n(D) 2 over 5 and 6 over 15\n \nProvide the substantiated response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Find 3 over 4 \u2212 1 over 8.",
+      "choices": {
+        "A": "21 over 32",
+        "B": "1",
+        "C": "5 over 8",
+        "D": "11 over 16"
+      },
+      "answer": "A",
+      "answer_text": "21 over 32",
+      "confidence": 0.9298021197319031,
+      "all_entailment_probs": {
+        "A": 0.9298021197319031,
+        "B": 0.05432358384132385,
+        "C": 0.6448243260383606,
+        "D": 0.917467474937439
+      },
+      "correct_answer": "C",
+      "prompt_used": "Apply critical reasoning to select the correct choice.\nThis is the scholarly query under examination.: Find 3 over 4 \u2212 1 over 8.\nReference the provided answer set.: (A) 21 over 32\n(B) 1\n(C) 5 over 8\n(D) 11 over 16\n \nState the academically sound choice.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Manuel bought a used car for six thousand forty-nine dollars. What is the cost of the used car Manuel bought written as a numeral?",
+      "choices": {
+        "A": "$649",
+        "B": "$6,049",
+        "C": "$6,409",
+        "D": "$6,490"
+      },
+      "answer": "A",
+      "answer_text": "$649",
+      "confidence": 0.9825284481048584,
+      "all_entailment_probs": {
+        "A": 0.9825284481048584,
+        "B": 0.01697392761707306,
+        "C": 0.46599888801574707,
+        "D": 0.9811243414878845
+      },
+      "correct_answer": "B",
+      "prompt_used": "Review the prompt and four options (A, B, C, D). Select the one supported by the strongest evidence.\nPresented here is the investigative prompt.: Manuel bought a used car for six thousand forty-nine dollars. What is the cost of the used car Manuel bought written as a numeral?\nConsider the enumerated alternatives.: (A) $649\n(B) $6,049\n(C) $6,409\n(D) $6,490\n \nOffer the correct alternative.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Chris sells roses for $16.99 a bunch. At the end of the day he has collected $339.80. How many bunches of roses did he sell?",
+      "choices": {
+        "A": "22",
+        "B": "18",
+        "C": "20",
+        "D": "16"
+      },
+      "answer": "D",
+      "answer_text": "16",
+      "confidence": 0.992717981338501,
+      "all_entailment_probs": {
+        "A": 0.5474088191986084,
+        "B": 0.1385776847600937,
+        "C": 0.6223783493041992,
+        "D": 0.992717981338501
+      },
+      "correct_answer": "C",
+      "prompt_used": "Review the prompt and four options (A, B, C, D). Select the one supported by the strongest evidence.\nHere follows the problem statement.: Chris sells roses for $16.99 a bunch. At the end of the day he has collected $339.80. How many bunches of roses did he sell?\nEnumerated options are provided.: (A) 22\n(B) 18\n(C) 20\n(D) 16\n \nProvide the substantiated response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Keiko spent the day bird watching and counted 34 more birds in the morning than in the afternoon. If she counted a total of 76 birds, how many birds did she count in the afternoon?",
+      "choices": {
+        "A": "21 birds",
+        "B": "40 birds",
+        "C": "42 birds",
+        "D": "84 birds"
+      },
+      "answer": "A",
+      "answer_text": "21 birds",
+      "confidence": 0.014362219721078873,
+      "all_entailment_probs": {
+        "A": 0.014362219721078873,
+        "B": 0.00590556301176548,
+        "C": 0.0074159568175673485,
+        "D": 0.003573669819161296
+      },
+      "correct_answer": "A",
+      "prompt_used": "Identify the answer that most accurately reflects established knowledge.\nThe matter for academic consideration is:: Keiko spent the day bird watching and counted 34 more birds in the morning than in the afternoon. If she counted a total of 76 birds, how many birds did she count in the afternoon?\nConsider the enumerated alternatives.: (A) 21 birds\n(B) 40 birds\n(C) 42 birds\n(D) 84 birds\n \nPresent your evidence-based selection.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Mark has a stamp collection. He has 22 stamps from Japan, 34 from Canada, and 17 from Mexico. How many stamps does he have in all?",
+      "choices": {
+        "A": "53",
+        "B": "63",
+        "C": "73",
+        "D": "83"
+      },
+      "answer": "D",
+      "answer_text": "83",
+      "confidence": 0.2112676203250885,
+      "all_entailment_probs": {
+        "A": 0.023252438753843307,
+        "B": 0.04154754430055618,
+        "C": 0.07353843003511429,
+        "D": 0.2112676203250885
+      },
+      "correct_answer": "C",
+      "prompt_used": "Apply critical reasoning to select the correct choice.\nThis is the scholarly query under examination.: Mark has a stamp collection. He has 22 stamps from Japan, 34 from Canada, and 17 from Mexico. How many stamps does he have in all?\nRefer to the enumerated alternatives.: (A) 53\n(B) 63\n(C) 73\n(D) 83\n \nArticulate the most accurate conclusion.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Estimate 153 + 44. The sum is between which numbers?",
+      "choices": {
+        "A": "100 and 299",
+        "B": "300 and 499",
+        "C": "500 and 699",
+        "D": "700 and 899"
+      },
+      "answer": "C",
+      "answer_text": "500 and 699",
+      "confidence": 0.01694505289196968,
+      "all_entailment_probs": {
+        "A": 0.0167575441300869,
+        "B": 0.013157426379621029,
+        "C": 0.01694505289196968,
+        "D": 0.012703749351203442
+      },
+      "correct_answer": "A",
+      "prompt_used": "Determine the correct choice based on logical and factual alignment.\nHere follows the problem statement.: Estimate 153 + 44. The sum is between which numbers?\nThe following four options are considered:: (A) 100 and 299\n(B) 300 and 499\n(C) 500 and 699\n(D) 700 and 899\n \nArticulate the most accurate conclusion.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Solve the equation 18 + p = 29.",
+      "choices": {
+        "A": "\u221247",
+        "B": "\u221211",
+        "C": "11",
+        "D": "47"
+      },
+      "answer": "D",
+      "answer_text": "47",
+      "confidence": 0.09562920033931732,
+      "all_entailment_probs": {
+        "A": 0.017646703869104385,
+        "B": 0.002351733623072505,
+        "C": 0.006441252771764994,
+        "D": 0.09562920033931732
+      },
+      "correct_answer": "C",
+      "prompt_used": "Analyze the question and evaluate four possible answers (A, B, C, D). Select the one with the highest empirical validity.\nThe following constitutes the posed inquiry.: Solve the equation 18 + p = 29.\nThe following four options are considered:: (A) \u221247\n(B) \u221211\n(C) 11\n(D) 47\n \nDocument your chosen response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which ratio can form a proportion with 3 over 8?",
+      "choices": {
+        "A": "18 over 40",
+        "B": "18 over 56",
+        "C": "24 over 64",
+        "D": "15 over 48"
+      },
+      "answer": "A",
+      "answer_text": "18 over 40",
+      "confidence": 0.029313085600733757,
+      "all_entailment_probs": {
+        "A": 0.029313085600733757,
+        "B": 0.009262696839869022,
+        "C": 0.005831941030919552,
+        "D": 0.027234844863414764
+      },
+      "correct_answer": "C",
+      "prompt_used": "From the provided query and four candidate answers (A, B, C, D), determine the one most consistent with established theory.\nPresented here is the investigative prompt.: Which ratio can form a proportion with 3 over 8?\nThe following four options are considered:: (A) 18 over 40\n(B) 18 over 56\n(C) 24 over 64\n(D) 15 over 48\n \nDocument your chosen response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "The state of Georgia has 159 counties and covers 58056 square miles. What is the average number of square miles per county? Round your answer to the nearest whole number.",
+      "choices": {
+        "A": "274 square miles per county",
+        "B": "159 square miles per county",
+        "C": "318 square miles per county",
+        "D": "365 square miles per county"
+      },
+      "answer": "D",
+      "answer_text": "365 square miles per county",
+      "confidence": 0.20487478375434875,
+      "all_entailment_probs": {
+        "A": 0.02986731007695198,
+        "B": 0.0024033181834965944,
+        "C": 0.12493622303009033,
+        "D": 0.20487478375434875
+      },
+      "correct_answer": "D",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThe inquiry is as presented below.: The state of Georgia has 159 counties and covers 58056 square miles. What is the average number of square miles per county? Round your answer to the nearest whole number.\nA finite set of responses is provided.: (A) 274 square miles per county\n(B) 159 square miles per county\n(C) 318 square miles per county\n(D) 365 square miles per county\n \nOffer the correct alternative.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which expression is equivalent to 5(4x + 3) \u2014 2x?",
+      "choices": {
+        "A": "18x+15",
+        "B": "18x+3",
+        "C": "7x+8",
+        "D": "2x+8"
+      },
+      "answer": "D",
+      "answer_text": "2x+8",
+      "confidence": 0.7860999703407288,
+      "all_entailment_probs": {
+        "A": 0.1145891398191452,
+        "B": 0.34146565198898315,
+        "C": 0.11798488348722458,
+        "D": 0.7860999703407288
+      },
+      "correct_answer": "A",
+      "prompt_used": "From the provided query and four candidate answers (A, B, C, D), determine the one most consistent with established theory.\nThe inquiry is as presented below.: Which expression is equivalent to 5(4x + 3) \u2014 2x?\nA finite set of responses is provided.: (A) 18x+15\n(B) 18x+3\n(C) 7x+8\n(D) 2x+8\n \nProvide the substantiated response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which statement is false?",
+      "choices": {
+        "A": "3 < 5",
+        "B": "5 > 3",
+        "C": "\u22125 > \u22123",
+        "D": "\u22123 > \u22125"
+      },
+      "answer": "A",
+      "answer_text": "3 < 5",
+      "confidence": 0.006571929436177015,
+      "all_entailment_probs": {
+        "A": 0.006571929436177015,
+        "B": 0.00323413941077888,
+        "C": 0.005730413366109133,
+        "D": 0.005112905520945787
+      },
+      "correct_answer": "C",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThe problem to solve is presented thus.: Which statement is false?\nThe listed alternatives are given below.: (A) 3 < 5\n(B) 5 > 3\n(C) \u22125 > \u22123\n(D) \u22123 > \u22125\n \nSubmit your formal answer.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Which fraction shows the ratio of 3 dogs to 5 dogs?",
+      "choices": {
+        "A": "5 over 3",
+        "B": "3 over 8",
+        "C": "2 over 5",
+        "D": "3 over 5"
+      },
+      "answer": "A",
+      "answer_text": "5 over 3",
+      "confidence": 0.9775975346565247,
+      "all_entailment_probs": {
+        "A": 0.9775975346565247,
+        "B": 0.1700820028781891,
+        "C": 0.2272905707359314,
+        "D": 0.8980372548103333
+      },
+      "correct_answer": "D",
+      "prompt_used": "Analyze the question and evaluate four possible answers (A, B, C, D). Select the one with the highest empirical validity.\nThis constitutes the inquiry.: Which fraction shows the ratio of 3 dogs to 5 dogs?\nReference the provided answer set.: (A) 5 over 3\n(B) 3 over 8\n(C) 2 over 5\n(D) 3 over 5\n \nArticulate the most accurate conclusion.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Kate has a coin collection. She keeps 7 of the coins in a box, which is only 5% of her entire collection. What is the total number of coins in Kate\u2019s coin collection?",
+      "choices": {
+        "A": "12",
+        "B": "14",
+        "C": "120",
+        "D": "140"
+      },
+      "answer": "D",
+      "answer_text": "140",
+      "confidence": 0.14117714762687683,
+      "all_entailment_probs": {
+        "A": 0.024631699547171593,
+        "B": 0.019267333671450615,
+        "C": 0.037091102451086044,
+        "D": 0.14117714762687683
+      },
+      "correct_answer": "D",
+      "prompt_used": "Apply critical reasoning to select the correct choice.\nThis is the scholarly query under examination.: Kate has a coin collection. She keeps 7 of the coins in a box, which is only 5% of her entire collection. What is the total number of coins in Kate\u2019s coin collection?\nA finite set of responses is provided.: (A) 12\n(B) 14\n(C) 120\n(D) 140\n \nDocument your chosen response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Use rounding to estimate the sum of 27.94 + 15.35 to the nearest tenth.",
+      "choices": {
+        "A": "43.2",
+        "B": "43.3",
+        "C": "43.4",
+        "D": "43.29"
+      },
+      "answer": "A",
+      "answer_text": "43.2",
+      "confidence": 0.9513146877288818,
+      "all_entailment_probs": {
+        "A": 0.9513146877288818,
+        "B": 0.27145394682884216,
+        "C": 0.5951400399208069,
+        "D": 0.8104122281074524
+      },
+      "correct_answer": "B",
+      "prompt_used": "Analyze the question and evaluate four possible answers (A, B, C, D). Select the one with the highest empirical validity.\nThe matter for academic consideration is:: Use rounding to estimate the sum of 27.94 + 15.35 to the nearest tenth.\nReference the provided answer set.: (A) 43.2\n(B) 43.3\n(C) 43.4\n(D) 43.29\n \nOffer the correct alternative.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Solve 13 over 4 = x over 7.",
+      "choices": {
+        "A": "22.75",
+        "B": "23.25",
+        "C": "24.25",
+        "D": "none of these"
+      },
+      "answer": "A",
+      "answer_text": "22.75",
+      "confidence": 0.46690595149993896,
+      "all_entailment_probs": {
+        "A": 0.46690595149993896,
+        "B": 0.12484661489725113,
+        "C": 0.12568062543869019,
+        "D": 0.015045598149299622
+      },
+      "correct_answer": "A",
+      "prompt_used": "Determine the correct choice based on logical and factual alignment.\nThe problem to solve is presented thus.: Solve 13 over 4 = x over 7.\nReference the provided answer set.: (A) 22.75\n(B) 23.25\n(C) 24.25\n(D) none of these\n \nOffer the correct alternative.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "The volume, V, of any cube with a side length, s, can be determined using the formula V = s^3. What is the volume, in cubic centimeters, of a cube with a side length of 2.3 centimeters?",
+      "choices": {
+        "A": "5.29",
+        "B": "6.9",
+        "C": "8.027",
+        "D": "12.167"
+      },
+      "answer": "D",
+      "answer_text": "12.167",
+      "confidence": 0.046075962483882904,
+      "all_entailment_probs": {
+        "A": 0.016342300921678543,
+        "B": 0.003859185380861163,
+        "C": 0.01541080605238676,
+        "D": 0.046075962483882904
+      },
+      "correct_answer": "D",
+      "prompt_used": "Determine the correct choice based on logical and factual alignment.\nThis is the scholarly query under examination.: The volume, V, of any cube with a side length, s, can be determined using the formula V = s^3. What is the volume, in cubic centimeters, of a cube with a side length of 2.3 centimeters?\nConsider the enumerated alternatives.: (A) 5.29\n(B) 6.9\n(C) 8.027\n(D) 12.167\n \nDocument your chosen response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "A teacher has three packages of stickers. One package contains 56 stickers, another package contains 48 stickers, and the third package contains 58 stickers. If the teacher divides all the stickers equally among 27 students, how many stickers will each student receive?",
+      "choices": {
+        "A": "6 stickers",
+        "B": "9 stickers",
+        "C": "54 stickers",
+        "D": "81 stickers"
+      },
+      "answer": "C",
+      "answer_text": "54 stickers",
+      "confidence": 0.2905496656894684,
+      "all_entailment_probs": {
+        "A": 0.12987959384918213,
+        "B": 0.017824629321694374,
+        "C": 0.2905496656894684,
+        "D": 0.05049954727292061
+      },
+      "correct_answer": "A",
+      "prompt_used": "Apply critical reasoning to select the correct choice.\nThis is the scholarly query under examination.: A teacher has three packages of stickers. One package contains 56 stickers, another package contains 48 stickers, and the third package contains 58 stickers. If the teacher divides all the stickers equally among 27 students, how many stickers will each student receive?\nThe possible solutions are detailed herein.: (A) 6 stickers\n(B) 9 stickers\n(C) 54 stickers\n(D) 81 stickers\n \nPresent your evidence-based selection.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "A salad dressing is made by combining 2 parts vinegar with 5 parts oil. How many ounces of oil should be mixed with 9 ounces of vinegar?",
+      "choices": {
+        "A": "2",
+        "B": "3.6",
+        "C": "22.5",
+        "D": "63"
+      },
+      "answer": "A",
+      "answer_text": "2",
+      "confidence": 0.532027006149292,
+      "all_entailment_probs": {
+        "A": 0.532027006149292,
+        "B": 0.06708313524723053,
+        "C": 0.23326657712459564,
+        "D": 0.009679104201495647
+      },
+      "correct_answer": "C",
+      "prompt_used": "Determine the correct choice based on logical and factual alignment.\nThe following constitutes the posed inquiry.: A salad dressing is made by combining 2 parts vinegar with 5 parts oil. How many ounces of oil should be mixed with 9 ounces of vinegar?\nEnumerated options are provided.: (A) 2\n(B) 3.6\n(C) 22.5\n(D) 63\n \nArticulate the most accurate conclusion.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Jerry read a 200-page book in 10 hours. At that rate, how long will it take him to read a 320-page book?",
+      "choices": {
+        "A": "16 hours",
+        "B": "18 hours",
+        "C": "24 hours",
+        "D": "32 hours"
+      },
+      "answer": "A",
+      "answer_text": "16 hours",
+      "confidence": 0.05122671276330948,
+      "all_entailment_probs": {
+        "A": 0.05122671276330948,
+        "B": 0.0030618831515312195,
+        "C": 0.004725031089037657,
+        "D": 0.03854319825768471
+      },
+      "correct_answer": "A",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThis is the primary research question.: Jerry read a 200-page book in 10 hours. At that rate, how long will it take him to read a 320-page book?\nThe possible solutions are detailed herein.: (A) 16 hours\n(B) 18 hours\n(C) 24 hours\n(D) 32 hours\n \nDocument your chosen response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "A dime has a radius of about 0.85 cm. Which measurement is closest to the circumference of a dime?",
+      "choices": {
+        "A": "1.33 cm",
+        "B": "1.70 cm",
+        "C": "2.67 cm",
+        "D": "5.34 cm"
+      },
+      "answer": "C",
+      "answer_text": "2.67 cm",
+      "confidence": 0.6781404614448547,
+      "all_entailment_probs": {
+        "A": 0.5709654092788696,
+        "B": 0.017409617081284523,
+        "C": 0.6781404614448547,
+        "D": 0.567411482334137
+      },
+      "correct_answer": "D",
+      "prompt_used": "Review the prompt and four options (A, B, C, D). Select the one supported by the strongest evidence.\nThe following constitutes the posed inquiry.: A dime has a radius of about 0.85 cm. Which measurement is closest to the circumference of a dime?\nThe listed alternatives are given below.: (A) 1.33 cm\n(B) 1.70 cm\n(C) 2.67 cm\n(D) 5.34 cm\n \nArticulate the most accurate conclusion.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Coach Wu has a total of 30 soccerballs. 9 soccer balls are white. The remaining soccer balls are one of three different colors (blue, pink, or green). There is an equal numberof blue, pink, and green balls How many green soccer balls does Coach Wu have?",
+      "choices": {
+        "A": "7",
+        "B": "10",
+        "C": "21",
+        "D": "39"
+      },
+      "answer": "C",
+      "answer_text": "21",
+      "confidence": 0.0742647647857666,
+      "all_entailment_probs": {
+        "A": 0.05645320191979408,
+        "B": 0.04882663115859032,
+        "C": 0.0742647647857666,
+        "D": 0.01778380759060383
+      },
+      "correct_answer": "A",
+      "prompt_used": "Examine all provided responses and select the one most consistent with empirical data.\nThe matter for academic consideration is:: Coach Wu has a total of 30 soccerballs. 9 soccer balls are white. The remaining soccer balls are one of three different colors (blue, pink, or green). There is an equal numberof blue, pink, and green balls How many green soccer balls does Coach Wu have?\nConsider the enumerated alternatives.: (A) 7\n(B) 10\n(C) 21\n(D) 39\n \nState the academically sound choice.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Members of the Hiking Club hiked for 2.4 hours covering 2.5 miles each hour. How far did the members hike",
+      "choices": {
+        "A": "4.9 miles",
+        "B": "5.8 miles",
+        "C": "6.0 miles",
+        "D": "6.3 miles"
+      },
+      "answer": "D",
+      "answer_text": "6.3 miles",
+      "confidence": 0.9088301658630371,
+      "all_entailment_probs": {
+        "A": 0.11781065165996552,
+        "B": 0.008631732314825058,
+        "C": 0.04017398878931999,
+        "D": 0.9088301658630371
+      },
+      "correct_answer": "C",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThe central question is as follows.: Members of the Hiking Club hiked for 2.4 hours covering 2.5 miles each hour. How far did the members hike\nReference the provided answer set.: (A) 4.9 miles\n(B) 5.8 miles\n(C) 6.0 miles\n(D) 6.3 miles\n \nIndicate the correct resolution.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Simplify (2 + 5)^2 \u2212 42.",
+      "choices": {
+        "A": "7",
+        "B": "16",
+        "C": "30",
+        "D": "33"
+      },
+      "answer": "D",
+      "answer_text": "33",
+      "confidence": 0.75529944896698,
+      "all_entailment_probs": {
+        "A": 0.014894002117216587,
+        "B": 0.017051545903086662,
+        "C": 0.029079435393214226,
+        "D": 0.75529944896698
+      },
+      "correct_answer": "A",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nPresented here is the investigative prompt.: Simplify (2 + 5)^2 \u2212 42.\nReference the provided answer set.: (A) 7\n(B) 16\n(C) 30\n(D) 33\n \nRecord your definitive conclusion.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Write the unit rate for driving 308 km in 4 h. Round to the nearest hundredth if necessary.",
+      "choices": {
+        "A": "82 km/h",
+        "B": "74 km/h",
+        "C": "72 km/h",
+        "D": "77 km/h"
+      },
+      "answer": "D",
+      "answer_text": "77 km/h",
+      "confidence": 0.3452278673648834,
+      "all_entailment_probs": {
+        "A": 0.1141439825296402,
+        "B": 0.009126688353717327,
+        "C": 0.011339745484292507,
+        "D": 0.3452278673648834
+      },
+      "correct_answer": "D",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThe problem to solve is presented thus.: Write the unit rate for driving 308 km in 4 h. Round to the nearest hundredth if necessary.\nMultiple potential answers are included.: (A) 82 km/h\n(B) 74 km/h\n(C) 72 km/h\n(D) 77 km/h\n \nArticulate the most accurate conclusion.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "There are 190 guests at a wedding. What is the least number of circular tables needed to seat all the guests if each table seats exactly 8 people?",
+      "choices": {
+        "A": "22",
+        "B": "23",
+        "C": "24",
+        "D": "25"
+      },
+      "answer": "D",
+      "answer_text": "25",
+      "confidence": 0.06613028794527054,
+      "all_entailment_probs": {
+        "A": 0.01019656378775835,
+        "B": 0.00498999422416091,
+        "C": 0.01838746666908264,
+        "D": 0.06613028794527054
+      },
+      "correct_answer": "C",
+      "prompt_used": "Review the prompt and four options (A, B, C, D). Select the one supported by the strongest evidence.\nThis constitutes the inquiry.: There are 190 guests at a wedding. What is the least number of circular tables needed to seat all the guests if each table seats exactly 8 people?\nMultiple potential answers are included.: (A) 22\n(B) 23\n(C) 24\n(D) 25\n \nRecord your definitive conclusion.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Yesterday, Micah ate an even number of strawberries. He also ate an odd number of apples. Which group could represent the strawberries, S, and apples, A, Micah ate yesterday?",
+      "choices": {
+        "A": "SSSSS; AAA",
+        "B": "SSSSS; AAAA",
+        "C": "SSSSSSSS; AAAA",
+        "D": "SSSSSSSS; A"
+      },
+      "answer": "A",
+      "answer_text": "SSSSS; AAA",
+      "confidence": 0.6742159128189087,
+      "all_entailment_probs": {
+        "A": 0.6742159128189087,
+        "B": 0.6647798418998718,
+        "C": 0.5477768778800964,
+        "D": 0.14026761054992676
+      },
+      "correct_answer": "D",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nThe matter for academic consideration is:: Yesterday, Micah ate an even number of strawberries. He also ate an odd number of apples. Which group could represent the strawberries, S, and apples, A, Micah ate yesterday?\nReference the provided answer set.: (A) SSSSS; AAA\n(B) SSSSS; AAAA\n(C) SSSSSSSS; AAAA\n(D) SSSSSSSS; A\n \nRecord your definitive conclusion.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Ron\u2019s garden has 42 plants. Each row has 7 plants. Which expression can be used to find the number of rows in Ron\u2019s garden?",
+      "choices": {
+        "A": "42 \u00f7 7",
+        "B": "42 \u2013 7",
+        "C": "42 + 7",
+        "D": "42 \u00d7 7"
+      },
+      "answer": "A",
+      "answer_text": "42 \u00f7 7",
+      "confidence": 0.406524658203125,
+      "all_entailment_probs": {
+        "A": 0.406524658203125,
+        "B": 0.037974849343299866,
+        "C": 0.045448653399944305,
+        "D": 0.28147730231285095
+      },
+      "correct_answer": "A",
+      "prompt_used": "Apply critical reasoning to select the correct choice.\nThe inquiry is as presented below.: Ron\u2019s garden has 42 plants. Each row has 7 plants. Which expression can be used to find the number of rows in Ron\u2019s garden?\nYour possible selections are outlined herein.: (A) 42 \u00f7 7\n(B) 42 \u2013 7\n(C) 42 + 7\n(D) 42 \u00d7 7\n \nState the academically sound choice.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "A shelf has four books on it. The weight, in pounds, of each of the four books on the shelf is 2.5, 3.2, 2.7, 2.3 Which inequality represents the weight, w, of any book chosen from the shelf?",
+      "choices": {
+        "A": "w > 2.3",
+        "B": "w < 2.4",
+        "C": "w > 3.2",
+        "D": "w < 3.3"
+      },
+      "answer": "A",
+      "answer_text": "w > 2.3",
+      "confidence": 0.9630309343338013,
+      "all_entailment_probs": {
+        "A": 0.9630309343338013,
+        "B": 0.6884628534317017,
+        "C": 0.9051481485366821,
+        "D": 0.9165089726448059
+      },
+      "correct_answer": "D",
+      "prompt_used": "Review the prompt and four options (A, B, C, D). Select the one supported by the strongest evidence.\nHere follows the problem statement.: A shelf has four books on it. The weight, in pounds, of each of the four books on the shelf is 2.5, 3.2, 2.7, 2.3 Which inequality represents the weight, w, of any book chosen from the shelf?\nMultiple potential answers are included.: (A) w > 2.3\n(B) w < 2.4\n(C) w > 3.2\n(D) w < 3.3\n \nState the academically sound choice.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Mrs. Kinney bought batteries in packs of 4 for the students\u2019 science experiments. Which of these could be the total number of batteries that she bought?",
+      "choices": {
+        "A": "22",
+        "B": "26",
+        "C": "28",
+        "D": "30"
+      },
+      "answer": "D",
+      "answer_text": "30",
+      "confidence": 0.9762401580810547,
+      "all_entailment_probs": {
+        "A": 0.8282788991928101,
+        "B": 0.6370052695274353,
+        "C": 0.7569388747215271,
+        "D": 0.9762401580810547
+      },
+      "correct_answer": "C",
+      "prompt_used": "Determine the correct choice based on logical and factual alignment.\nThe following constitutes the posed inquiry.: Mrs. Kinney bought batteries in packs of 4 for the students\u2019 science experiments. Which of these could be the total number of batteries that she bought?\nYour possible selections are outlined herein.: (A) 22\n(B) 26\n(C) 28\n(D) 30\n \nProvide the substantiated response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "At the beginning of a class period, half of the students in a class go to the library. Later in the period, half of the remaining students go to the computer lab. If there are 8 students remaining in the class, how many students were originally in the class?",
+      "choices": {
+        "A": "12 students",
+        "B": "16 students",
+        "C": "24 students",
+        "D": "32 students"
+      },
+      "answer": "D",
+      "answer_text": "32 students",
+      "confidence": 0.5298432111740112,
+      "all_entailment_probs": {
+        "A": 0.2511257529258728,
+        "B": 0.14262107014656067,
+        "C": 0.1526702642440796,
+        "D": 0.5298432111740112
+      },
+      "correct_answer": "D",
+      "prompt_used": "Choose the response with the greatest theoretical support.\nThe following constitutes the posed inquiry.: At the beginning of a class period, half of the students in a class go to the library. Later in the period, half of the remaining students go to the computer lab. If there are 8 students remaining in the class, how many students were originally in the class?\nReference the provided answer set.: (A) 12 students\n(B) 16 students\n(C) 24 students\n(D) 32 students\n \nOffer the correct alternative.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "\u22124 +  ( \u22123 )=",
+      "choices": {
+        "A": "\u22127",
+        "B": "\u22121",
+        "C": "1",
+        "D": "7"
+      },
+      "answer": "D",
+      "answer_text": "7",
+      "confidence": 0.9819854497909546,
+      "all_entailment_probs": {
+        "A": 0.9603798985481262,
+        "B": 0.39063066244125366,
+        "C": 0.540804386138916,
+        "D": 0.9819854497909546
+      },
+      "correct_answer": "A",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nPresented here is the investigative prompt.: \u22124 +  ( \u22123 )=\nThe possible solutions are detailed herein.: (A) \u22127\n(B) \u22121\n(C) 1\n(D) 7\n \nState the academically sound choice.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "There are 2,817 homes in the town of West Valley. Each home uses an average of 380 gallons of water each day. Use the expression below to find the total number of gallons of water the homes in West Valley use on average each day. 2,817 \u00d7 380 What is the total number of gallons of water the homes in West Valley use on average each day?",
+      "choices": {
+        "A": "860,460 gallons",
+        "B": "870,460 gallons",
+        "C": "1,060,460 gallons",
+        "D": "1,070,460 gallons"
+      },
+      "answer": "C",
+      "answer_text": "1,060,460 gallons",
+      "confidence": 0.3025152087211609,
+      "all_entailment_probs": {
+        "A": 0.15693819522857666,
+        "B": 0.025250853970646858,
+        "C": 0.3025152087211609,
+        "D": 0.2591574788093567
+      },
+      "correct_answer": "D",
+      "prompt_used": "From the provided query and four candidate answers (A, B, C, D), determine the one most consistent with established theory.\nThis constitutes the inquiry.: There are 2,817 homes in the town of West Valley. Each home uses an average of 380 gallons of water each day. Use the expression below to find the total number of gallons of water the homes in West Valley use on average each day. 2,817 \u00d7 380 What is the total number of gallons of water the homes in West Valley use on average each day?\nThe possible solutions are detailed herein.: (A) 860,460 gallons\n(B) 870,460 gallons\n(C) 1,060,460 gallons\n(D) 1,070,460 gallons\n \nIndicate the correct resolution.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Susan reads a book at a rate of 1 page every 3 minutes. If her reading rate remains the same, which method could be used to determine the number of minutes for her to read 18 pages?",
+      "choices": {
+        "A": "add 18 and 3",
+        "B": "divide 18 by 3",
+        "C": "multiply 3 by 18",
+        "D": "subtract 3 from 18"
+      },
+      "answer": "A",
+      "answer_text": "add 18 and 3",
+      "confidence": 0.9450494050979614,
+      "all_entailment_probs": {
+        "A": 0.9450494050979614,
+        "B": 0.43159565329551697,
+        "C": 0.40628018975257874,
+        "D": 0.8983815312385559
+      },
+      "correct_answer": "C",
+      "prompt_used": "Apply critical reasoning to select the correct choice.\nThis is the scholarly query under examination.: Susan reads a book at a rate of 1 page every 3 minutes. If her reading rate remains the same, which method could be used to determine the number of minutes for her to read 18 pages?\nReference the provided answer set.: (A) add 18 and 3\n(B) divide 18 by 3\n(C) multiply 3 by 18\n(D) subtract 3 from 18\n \nProvide the substantiated response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Change 34 L 18 cL to liters.",
+      "choices": {
+        "A": "34.18 L",
+        "B": "35.8 L",
+        "C": "34.018 L",
+        "D": "214 L"
+      },
+      "answer": "D",
+      "answer_text": "214 L",
+      "confidence": 0.9094241857528687,
+      "all_entailment_probs": {
+        "A": 0.35100746154785156,
+        "B": 0.016682619228959084,
+        "C": 0.1543819159269333,
+        "D": 0.9094241857528687
+      },
+      "correct_answer": "A",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThis constitutes the inquiry.: Change 34 L 18 cL to liters.\nA finite set of responses is provided.: (A) 34.18 L\n(B) 35.8 L\n(C) 34.018 L\n(D) 214 L\n \nOffer the correct alternative.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Katie is going on vacation for 3 weeks. She finds the number of days of work she will miss by multiplying 5 \u00d7 3. Which expression shows another way Katie can find the number of days of work she will miss?",
+      "choices": {
+        "A": "3+5",
+        "B": "3+3+3",
+        "C": "5+5+5",
+        "D": "5+5+5+5+5"
+      },
+      "answer": "A",
+      "answer_text": "3+5",
+      "confidence": 0.8288642764091492,
+      "all_entailment_probs": {
+        "A": 0.8288642764091492,
+        "B": 0.007495421916246414,
+        "C": 0.01275521982461214,
+        "D": 0.006706819403916597
+      },
+      "correct_answer": "C",
+      "prompt_used": "Determine the correct choice based on logical and factual alignment.\nThis is the primary research question.: Katie is going on vacation for 3 weeks. She finds the number of days of work she will miss by multiplying 5 \u00d7 3. Which expression shows another way Katie can find the number of days of work she will miss?\nReference the provided answer set.: (A) 3+5\n(B) 3+3+3\n(C) 5+5+5\n(D) 5+5+5+5+5\n \nDocument your chosen response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Lily is going to give away all the pieces of candy in a bag. She can give an equal number of pieces of candy to 5, 3, or 2 people. Which number of pieces of candy could be in Lily\u2019s bag?",
+      "choices": {
+        "A": "12",
+        "B": "20",
+        "C": "30",
+        "D": "45"
+      },
+      "answer": "A",
+      "answer_text": "12",
+      "confidence": 0.25876715779304504,
+      "all_entailment_probs": {
+        "A": 0.25876715779304504,
+        "B": 0.03739115595817566,
+        "C": 0.07569818943738937,
+        "D": 0.23428858816623688
+      },
+      "correct_answer": "C",
+      "prompt_used": "Determine the correct choice based on logical and factual alignment.\nThe central question is as follows.: Lily is going to give away all the pieces of candy in a bag. She can give an equal number of pieces of candy to 5, 3, or 2 people. Which number of pieces of candy could be in Lily\u2019s bag?\nRefer to the enumerated alternatives.: (A) 12\n(B) 20\n(C) 30\n(D) 45\n \nArticulate the most accurate conclusion.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Evaluate (c^2 \u2212 b^2)^2 + a^2 for a = 5, b = 3, and c = 2.",
+      "choices": {
+        "A": "194",
+        "B": "18",
+        "C": "50",
+        "D": "0"
+      },
+      "answer": "A",
+      "answer_text": "194",
+      "confidence": 0.4552174210548401,
+      "all_entailment_probs": {
+        "A": 0.4552174210548401,
+        "B": 0.012873632833361626,
+        "C": 0.03574677184224129,
+        "D": 0.0011287862434983253
+      },
+      "correct_answer": "C",
+      "prompt_used": "Apply critical reasoning to select the correct choice.\nHere follows the problem statement.: Evaluate (c^2 \u2212 b^2)^2 + a^2 for a = 5, b = 3, and c = 2.\nEnumerated options are provided.: (A) 194\n(B) 18\n(C) 50\n(D) 0\n \nDocument your chosen response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Solve the equation \u221247 = g + 24.",
+      "choices": {
+        "A": "\u221271",
+        "B": "\u221223",
+        "C": "23",
+        "D": "71"
+      },
+      "answer": "C",
+      "answer_text": "23",
+      "confidence": 0.7480005621910095,
+      "all_entailment_probs": {
+        "A": 0.010940637439489365,
+        "B": 0.04892564192414284,
+        "C": 0.7480005621910095,
+        "D": 0.34740304946899414
+      },
+      "correct_answer": "B",
+      "prompt_used": "Review the prompt and four options (A, B, C, D). Select the one supported by the strongest evidence.\nThe problem to solve is presented thus.: Solve the equation \u221247 = g + 24.\nThe possible solutions are detailed herein.: (A) \u221271\n(B) \u221223\n(C) 23\n(D) 71\n \nState the academically sound choice.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Marguerite earned a score between 75 and 89 on all of her previous spelling tests. She earned a score of 100 on her next test. Which of the following statements is true?",
+      "choices": {
+        "A": "The mode will increase.",
+        "B": "The mean will increase.",
+        "C": "The mean will decrease.",
+        "D": "The median will decrease."
+      },
+      "answer": "D",
+      "answer_text": "The median will decrease.",
+      "confidence": 0.1407257318496704,
+      "all_entailment_probs": {
+        "A": 0.07918479293584824,
+        "B": 0.008706603199243546,
+        "C": 0.00948205217719078,
+        "D": 0.1407257318496704
+      },
+      "correct_answer": "B",
+      "prompt_used": "Identify the answer that most accurately reflects established knowledge.\nThis is the primary research question.: Marguerite earned a score between 75 and 89 on all of her previous spelling tests. She earned a score of 100 on her next test. Which of the following statements is true?\nRefer to the enumerated alternatives.: (A) The mode will increase.\n(B) The mean will increase.\n(C) The mean will decrease.\n(D) The median will decrease.\n \nProvide the substantiated response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Find the number that makes the statement 48 over 88 = ? over 11 true.",
+      "choices": {
+        "A": "6",
+        "B": "11",
+        "C": "8",
+        "D": "5"
+      },
+      "answer": "D",
+      "answer_text": "5",
+      "confidence": 0.2374589890241623,
+      "all_entailment_probs": {
+        "A": 0.02406691387295723,
+        "B": 0.015128652565181255,
+        "C": 0.010688325390219688,
+        "D": 0.2374589890241623
+      },
+      "correct_answer": "A",
+      "prompt_used": "Choose the response with the greatest theoretical support.\nPresented here is the investigative prompt.: Find the number that makes the statement 48 over 88 = ? over 11 true.\nYour possible selections are outlined herein.: (A) 6\n(B) 11\n(C) 8\n(D) 5\n \nProvide the substantiated response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Find the quotient of 16.1 \u00f7 0.14.",
+      "choices": {
+        "A": "1.15",
+        "B": "0.0115",
+        "C": "11.5",
+        "D": "115"
+      },
+      "answer": "A",
+      "answer_text": "1.15",
+      "confidence": 0.08725497126579285,
+      "all_entailment_probs": {
+        "A": 0.08725497126579285,
+        "B": 0.08466324210166931,
+        "C": 0.037905581295490265,
+        "D": 0.06915754824876785
+      },
+      "correct_answer": "D",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThis is the scholarly query under examination.: Find the quotient of 16.1 \u00f7 0.14.\nEnumerated options are provided.: (A) 1.15\n(B) 0.0115\n(C) 11.5\n(D) 115\n \nArticulate the most accurate conclusion.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "A group of students make a map of the area around their school. They place the school at (0, 0). The nearest store is placed at the point (\u20135, 7). In which quadrant is the point representing the nearest store?",
+      "choices": {
+        "A": "Quadrant I",
+        "B": "Quadrant II",
+        "C": "Quadrant III",
+        "D": "Quadrant IV"
+      },
+      "answer": "D",
+      "answer_text": "Quadrant IV",
+      "confidence": 0.8472314476966858,
+      "all_entailment_probs": {
+        "A": 0.42265841364860535,
+        "B": 0.01918361708521843,
+        "C": 0.07347094267606735,
+        "D": 0.8472314476966858
+      },
+      "correct_answer": "B",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nThe inquiry is as presented below.: A group of students make a map of the area around their school. They place the school at (0, 0). The nearest store is placed at the point (\u20135, 7). In which quadrant is the point representing the nearest store?\nYour possible selections are outlined herein.: (A) Quadrant I\n(B) Quadrant II\n(C) Quadrant III\n(D) Quadrant IV\n \nState the academically sound choice.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "A stack of 7 pennies has a height of 1 centimeter. Nick has a stack of pennies with a height of 4 centimeters. Which equation can be used to find the number of pennies, n, in Nick\u2019s stack of pennies?",
+      "choices": {
+        "A": "n =7+4",
+        "B": "n =7\u20134",
+        "C": "n =7\u00d74",
+        "D": "n =7\u00f74"
+      },
+      "answer": "A",
+      "answer_text": "n =7+4",
+      "confidence": 0.0033841158729046583,
+      "all_entailment_probs": {
+        "A": 0.0033841158729046583,
+        "B": 0.0013648179592564702,
+        "C": 0.0013120585354045033,
+        "D": 0.003380571026355028
+      },
+      "correct_answer": "C",
+      "prompt_used": "Choose the response with the greatest theoretical support.\nThis is the primary research question.: A stack of 7 pennies has a height of 1 centimeter. Nick has a stack of pennies with a height of 4 centimeters. Which equation can be used to find the number of pennies, n, in Nick\u2019s stack of pennies?\nThe following four options are considered:: (A) n =7+4\n(B) n =7\u20134\n(C) n =7\u00d74\n(D) n =7\u00f74\n \nDocument your chosen response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "The weekly milk order for the Tranquility Inn includes 40 gallons of low-fat milk and 15 gallons of chocolate milk. What is the ratio of the number of low-fat gallons to chocolate gallons in the Tranquility Inn\u2019s weekly milk order?",
+      "choices": {
+        "A": "3:01",
+        "B": "5:01",
+        "C": "5:03",
+        "D": "8:03"
+      },
+      "answer": "A",
+      "answer_text": "3:01",
+      "confidence": 0.07315468788146973,
+      "all_entailment_probs": {
+        "A": 0.07315468788146973,
+        "B": 0.008956106379628181,
+        "C": 0.012746828608214855,
+        "D": 0.0034008100628852844
+      },
+      "correct_answer": "D",
+      "prompt_used": "You are to evaluate one question and four listed answers (A, B, C, D). Choose the answer of highest validity.\nThe matter for academic consideration is:: The weekly milk order for the Tranquility Inn includes 40 gallons of low-fat milk and 15 gallons of chocolate milk. What is the ratio of the number of low-fat gallons to chocolate gallons in the Tranquility Inn\u2019s weekly milk order?\nMultiple potential answers are included.: (A) 3:01\n(B) 5:01\n(C) 5:03\n(D) 8:03\n \nDocument your chosen response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Samantha has 342 baseball cards. Perry has 184 baseball cards. How many more baseball cards does Samantha have than Perry?",
+      "choices": {
+        "A": "158",
+        "B": "168",
+        "C": "258",
+        "D": "268"
+      },
+      "answer": "D",
+      "answer_text": "268",
+      "confidence": 0.7255144715309143,
+      "all_entailment_probs": {
+        "A": 0.003165599424391985,
+        "B": 0.00816571619361639,
+        "C": 0.04604407772421837,
+        "D": 0.7255144715309143
+      },
+      "correct_answer": "A",
+      "prompt_used": "You are presented with a question accompanied by four alternatives (A, B, C, D). Select the most accurate alternative.\nThis is the primary research question.: Samantha has 342 baseball cards. Perry has 184 baseball cards. How many more baseball cards does Samantha have than Perry?\nReference the provided answer set.: (A) 158\n(B) 168\n(C) 258\n(D) 268\n \nArticulate the most accurate conclusion.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Estimate 32 x 68. The product is between what numbers?",
+      "choices": {
+        "A": "18 and 28",
+        "B": "180 and 280",
+        "C": "1,800 and 2,800",
+        "D": "18,000 and 28,000"
+      },
+      "answer": "A",
+      "answer_text": "18 and 28",
+      "confidence": 0.599958062171936,
+      "all_entailment_probs": {
+        "A": 0.599958062171936,
+        "B": 0.06503084301948547,
+        "C": 0.17454315721988678,
+        "D": 0.03262024745345116
+      },
+      "correct_answer": "C",
+      "prompt_used": "Review the prompt and four options (A, B, C, D). Select the one supported by the strongest evidence.\nThe problem to solve is presented thus.: Estimate 32 x 68. The product is between what numbers?\nMultiple potential answers are included.: (A) 18 and 28\n(B) 180 and 280\n(C) 1,800 and 2,800\n(D) 18,000 and 28,000\n \nProvide the substantiated response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Order from greatest to least: 3, 3 and 1 over 8,3.8,3.18.",
+      "choices": {
+        "A": "3.18, 3 and 1 over 8, 3.8,3",
+        "B": "3,3 and 1 over 8, 3.18, 3",
+        "C": "3.8, 3 and 1 over 8, 3.18, 3",
+        "D": "3.8, 3.18, 3 and 1 over 8, 3"
+      },
+      "answer": "A",
+      "answer_text": "3.18, 3 and 1 over 8, 3.8,3",
+      "confidence": 0.40146011114120483,
+      "all_entailment_probs": {
+        "A": 0.40146011114120483,
+        "B": 0.3381493389606476,
+        "C": 0.026900650933384895,
+        "D": 0.09759879857301712
+      },
+      "correct_answer": "D",
+      "prompt_used": "Review the prompt and four options (A, B, C, D). Select the one supported by the strongest evidence.\nThe inquiry is as presented below.: Order from greatest to least: 3, 3 and 1 over 8,3.8,3.18.\nA finite set of responses is provided.: (A) 3.18, 3 and 1 over 8, 3.8,3\n(B) 3,3 and 1 over 8, 3.18, 3\n(C) 3.8, 3 and 1 over 8, 3.18, 3\n(D) 3.8, 3.18, 3 and 1 over 8, 3\n \nSubmit your considered response.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "A team of volunteers collected a total of $5,144 selling T-shirts at a charity concert. Each T-shirt was sold for $8. What was the total number of T-shirts the volunteers sold?",
+      "choices": {
+        "A": "632",
+        "B": "643",
+        "C": "655",
+        "D": "668"
+      },
+      "answer": "D",
+      "answer_text": "668",
+      "confidence": 0.9188293814659119,
+      "all_entailment_probs": {
+        "A": 0.6526376008987427,
+        "B": 0.27794262766838074,
+        "C": 0.16262824833393097,
+        "D": 0.9188293814659119
+      },
+      "correct_answer": "B",
+      "prompt_used": "Apply critical reasoning to select the correct choice.\nThe matter for academic consideration is:: A team of volunteers collected a total of $5,144 selling T-shirts at a charity concert. Each T-shirt was sold for $8. What was the total number of T-shirts the volunteers sold?\nMultiple potential answers are included.: (A) 632\n(B) 643\n(C) 655\n(D) 668\n \nArticulate the most accurate conclusion.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    },
+    {
+      "question": "Rounded to the nearest 10,000, the population of Louisiana was 4,530,000 in 2010. Which number could be the actual population of Louisiana in 2010?",
+      "choices": {
+        "A": "4,500,321",
+        "B": "4,524,491",
+        "C": "4,533,372",
+        "D": "4,535,343"
+      },
+      "answer": "D",
+      "answer_text": "4,535,343",
+      "confidence": 0.01843457855284214,
+      "all_entailment_probs": {
+        "A": 0.015064125880599022,
+        "B": 0.004000057000666857,
+        "C": 0.0071553923189640045,
+        "D": 0.01843457855284214
+      },
+      "correct_answer": "C",
+      "prompt_used": "Examine all provided responses and select the one most consistent with empirical data.\nThe inquiry is as presented below.: Rounded to the nearest 10,000, the population of Louisiana was 4,530,000 in 2010. Which number could be the actual population of Louisiana in 2010?\nThe following four options are considered:: (A) 4,500,321\n(B) 4,524,491\n(C) 4,533,372\n(D) 4,535,343\n \nState the academically sound choice.:",
+      "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli"
+    }
+  ],
+  "model_name": "MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli",
+  "accuracy": 0.2,
+  "per_choice_accuracy": {
+    "D": {
+      "accuracy": 0.48,
+      "total": 25
+    },
+    "C": {
+      "accuracy": 0.0,
+      "total": 33
+    },
+    "B": {
+      "accuracy": 0.05555555555555555,
+      "total": 18
+    },
+    "A": {
+      "accuracy": 0.2916666666666667,
+      "total": 24
+    }
+  }
+}

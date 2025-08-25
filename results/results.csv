@@ -1,0 +1,5 @@
+model,academic,boomer,children,gen-alpha,gen-x,gen-z,id,millennial
+MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli,25.2,25.4,26.6,21.4,24.8,24.0,25.8,26.400000000000002
+facebook/bart-large-mnli,22.6,23.599999999999998,25.2,25.6,23.799999999999997,25.2,24.0,24.0
+meta-llama/Llama-2-7b-hf,26.6,24.2,23.599999999999998,24.6,26.8,26.8,32.0,23.799999999999997
+meta-llama/Llama-3.2-3B-Instruct,49.2,41.4,34.599999999999994,36.199999999999996,34.8,39.0,75.8,32.800000000000004
